@@ -1,0 +1,28 @@
+---
+layout: post
+title: Products
+tags: upsells
+permalink: /advice/upsell-products
+author: Robert Williams
+date: 2015-05-02 02:00:00
+---
+People often get hung up on if their idea is worth buying. The only way to truly find out is to find out. 
+
+Ask people. Don't ask them if they're willing to pay, ask them TO actually pay.
+
+It's how I've created waiting lists of people looking to buy my product that doesn't exist yet.
+
+Say something like this:
+
+> Hey! The product I have in mind will be a short book on how to send emails that get clients; including scripts and a members-only mastermind study group for each chapter, plus it will include an audio course and potentially some more goodies.
+ 
+> Great to hear you're interested! So if I build this and it does everything I mentioned above, I’ll probably price it at $300+. Since it's super early (won't be ready for a few months), I can do $99. Will that work for you? 
+
+> No pressure—I just want to get an accurate count to see if there’s enough demand for me to create this course. Let me know and I’ll be sure to reserve your spot when the time comes.
+
+This will give you a much clearer idea if someone will pay for something, then just asking if they *might* be interested.
+
+**Further reading on the topic and useful related articles:**
+
+- [Emails that win you clients](http://emailsthatwin.com)
+- [Workshop - A tiny lead generation service helping freelancers like you make thousands of dollars this week](http://letsworkshop.com)

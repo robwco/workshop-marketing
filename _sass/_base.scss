@@ -1,0 +1,438 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 400;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+
+}
+
+p {
+	@include media-query($on-palm) {
+		font-size: 80%;
+	}
+}
+
+strong {
+	font-weight: 500;
+}
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+}
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+
+ol {
+    counter-reset:li; /* Initiate a counter */
+    margin-left:0; /* Remove the default left margin */
+    padding-left:0; /* Remove the default left padding */
+
+	h1, h2, h3 {
+		margin: 0 auto;
+	}
+}
+
+ol > li {
+    position:relative; /* Create a positioning context */
+    margin:0 0 10px 3em; /* Give each list item a left margin to make room for the numbers */
+    padding:4px 12px; /* Add some spacing around the content */
+    list-style:none; /* Disable the normal item numbering */
+    background: #FFF;
+}
+
+ol > li:before {
+    content:counter(li); /* Use the counter as content */
+    counter-increment:li; /* Increment the counter by 1 */
+    /* Position and style the number */
+    position:absolute;
+    top:.5em;
+    left:-4em;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    width:2em;
+		height: 2em;
+		border-radius: 100%;
+    /* Some space between the number and the content in browsers that support
+       generated content but not positioning it (Camino 2 is one example) */
+    margin-right:3em;
+		margin-left: 1em;
+    padding:2px;
+    background: $grey-color-light;
+    font-weight: 700;
+		font-size: 14px;
+    text-align:center;
+}
+
+
+/**
+ * Headings
+ */
+h1, h2, h3 {
+  font-weight: 500;
+	color: $header-color;
+	margin: 1em 0 .5em;
+}
+
+h1 {
+	font-size: 159%;
+	line-height: 1.4;
+	
+	@include media-query($on-palm) {
+		font-size: 125%;
+	}
+}
+
+h2 {
+	font-size: 129%;
+	@include media-query($on-palm) {
+		font-size: 110%;
+	}
+}
+
+h3 {
+	font-size: 115%;
+	@include media-query($on-palm) {
+		font-size: 105%;
+	}
+}
+
+
+/**
+ * Links
+ */
+a {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:visited {
+    }
+
+    &:hover {
+        color: darken($brand-color, 10%);
+    }
+		
+	&.buy-link {
+		color: #FFF;
+		font-weight: 600;
+		background-color: $brand-color;
+		display: block;
+		padding: .4em .5em;
+		border-radius: .5em;
+		font-size: 13px;
+		min-width: 5em;
+		&:hover {
+			text-decoration: none;
+			background-color: #3eb2e7;
+		}
+	}
+	&.regular {
+		background-color: $grey-color;
+	}
+
+}
+
+
+input[type="text"], input[type="password"], input[type="name"],  input[type="email"], input[type="number"], select, textarea, input[type=file]  {
+	font: 18px/1.552em $base-font-family;
+ 	-webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-border-radius: $ui-border-radius;
+  -moz-border-radius: $ui-border-radius;
+  -o-border-radius: $ui-border-radius;
+  border-radius: $ui-border-radius;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  border: 2px solid lighten($grey-color, 35%);
+  display: block;
+  font-size: 14px;
+  padding: 8px 8px;
+  width: 100%;
+	outline: none;
+	margin: 1em 0;
+
+	&:hover, &:active, &:focus {
+		border: 2px solid lighten($brand-color, 20%);
+	}
+	&:focus {
+		border: 2px solid $brand-color;
+	}
+
+}
+
+input[type=submit], a.submit {
+	font-family: $base-font-family;
+	cursor: pointer;
+	border-radius: $ui-border-radius; 
+	background-color: $brand-color;
+	padding: .8em 1em; 
+	margin: 1 0; 
+	font-weight: 700;
+	letter-spacing: .05em;
+	text-decoration: none;
+	font-size: 90%;
+	border: none;
+	-webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+	color: #FFF;
+	&:hover {
+		background-color: lighten($brand-color, 10%);
+		text-shadow: 0px 0px 1px $brand-color;
+	}
+	&.buy {
+		font-size: 150%;
+	}
+}
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: $text-color;
+    border-top: 1px solid lighten($grey-color, 50%);
+    padding: 1em 0;
+    font-size: 90%;
+		font-family: $alt-font-family;
+		margin-top: 1.5em;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+i.fa.fa-check {
+	color: $red-color;
+	font-size: 120%;
+}
+i.fa.fa-external-link {
+	font-size: 80%;
+}
+
+
+.feature-icon {
+	margin: .25em .5em 0 0;
+	border-radius: .25em;
+	max-width: 1.6em;
+}
+
+/** Table **/
+table {
+	display: table;
+  	border-collapse: separate;
+  	border-spacing: 2px;
+  	border-color: grey;
+	margin-bottom: 1.5em;
+	border-collapse: collapse;
+	width: 95%;
+	border: 1px solid $grey-color-light;
+	td, th {
+		padding: 1em 0.6em;
+		  text-align: center;
+		  -moz-hyphens: none;
+		  -webkit-hyphens: none;
+		  -o-hyphens: none;
+		  -ms-hyphens: none;
+		  hyphens: none;
+	}
+
+	&.pricing {
+		width: 100%;
+		border-box: box-sizing;
+		td {
+			font-size: 80%;
+			text-align: left;
+			@include media-query($on-palm) {
+				font-size: 65%;
+			}
+		}
+		tr + tr {
+		  border-top: 1px solid $grey-color-light;
+		}
+		td + td {
+		  border-left: 1px solid $grey-color-light;
+		}
+		td.check {
+			text-align: center;
+		}
+		td.bonus {
+			background-color: $grey-color-light;
+			padding: 1em;
+			text-align: left;
+			font-weight: 700;
+			color: lighten($grey-color, 3%);
+
+		}
+	}
+	&.border-row-only {
+		border: none;
+		th {
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			font-size: 80%;	
+		}
+		tr + tr {
+			border-top: 1px solid $grey-color-light;
+		}
+	}
+	
+	&.border-cell-only {
+		border: none;
+		th {
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			font-size: 80%;	
+		}
+		td + td {
+			border-left: 1px solid $grey-color-light;
+			padding: 0 1em;
+		}
+	}
+	
+}

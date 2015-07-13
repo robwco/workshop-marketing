@@ -1,0 +1,18 @@
+---
+layout: post
+title: Behance
+tags: market
+permalink: /advice/market-behance
+author: Robert Williams
+date: 2015-06-16 12:00:00
+---
+
+Behance has some of the world's top companies coming to it for websites and design work. Additionally, all of the bidding happens through the Behance application process.  
+
+I actually recommend you try to circumvent the behance application (or applications that happen through a specific job board). 
+
+Usually there will be enough on the job posting page for you to track down the people making the decision and contact them via email. 
+
+Whether it's a blog, twitter account, or something else try googling the heck out of the company you're interested in applying for. It's amazing how easy you can find emails like this. 
+
+Next, send a supplemental email to the lead in addition to your behance (or job board specific) application. If you're scared the person might not like that you went the extra effort to connect with them, don't be. If anything you may consider pointing out that you've gone the extra mile in this regard.

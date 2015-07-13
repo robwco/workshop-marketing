@@ -1,0 +1,10 @@
+# Site settings
+title: Workshop - The best freelance job leads emailed to you daily.
+email: support@letsworkshop.com
+description: Get over 200+ hand selected freelance web consulting leads sent to your inbox every week 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://letsworkshop.com" # the base hostname & protocol for your site
+twitter_username: letsworkshop
+github_username:  robwco
+# Build settings
+markdown: kramdown
