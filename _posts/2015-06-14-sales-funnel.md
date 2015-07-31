@@ -8,10 +8,10 @@ author: Robert Williams
 date: 2015-06-17 23:58:00
 ---
 
-### What is a sales funnel?
+### First off, what is a sales funnel?
 The process that every freelance project goes through to land you a paying client. This includes how you win and find work.
 
-#### What do most sales funnels look like?
+### What do most sales funnels look like?
 Almost every freelancer's sales funnel is identical. You find a client online or through referral and proceed with a disorganized, inconsistent courting process:
 
 1. ### Pre-inquiry 
