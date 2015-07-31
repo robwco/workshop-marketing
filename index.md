@@ -475,7 +475,6 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 
 
 
-<div class="feature rob">
 <h3 style="margin: .25em 0 .6em;">The two biggest reasons why you should join right away</h3>
 <p>1) The membership fee is at it's absolute lowest. Since starting Workshop in late 2013, there's been a bunch of copycat services pop up. These look-a-like services use automated scraping tools to find leads.</p>
 <p>I don't believe in that. Only a real, experienced, freelancer knows what a great client looks like. Not some crappy algorithm. That's why while the other services continue to come and go, Workshop's price will continue to increase. Today it provides more than 4x the value than when we started.</p>
@@ -497,9 +496,6 @@ Warm Regards,</p>
 <img src="/images/rob-sig.png" style="max-width: 7em; margin: 1em 0 0em; display: block;">
 <p>Robert Williams</p>
 <p>ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a></p>
-</div>
-
-
 
 
 <!--

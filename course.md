@@ -5,7 +5,7 @@ permalink: /course/
 ---
 
 # If you're not booked 4-6 months in advance you're at risk of a dry spell.
-If you're like me, when you see an email from a potential client you feel a small rush of joy and excitement. For a second you think you might have hit the jackpot and amazing fulfilling client work is awaiting you. 
+If you're like me, when you see an email from a potential client you feel a small rush of excitement. For a second you really believe you might have hit the client jackpot and that amazing fulfilling client work awaits you. 
 
 Unfortunately that feeling usually goes away rather quickly... and sometimes doesn't come back for weeks or months. We call those dry spells. 
 
@@ -118,22 +118,33 @@ By the time someone gets in touch with you, they’ve received days, weeks, or m
 
 In essence, you'll put them in control of when they get to buy your services and you'll only hear from them once they're not only ready to talk numbers, but they're ready to talk budgets.
 
-You'll also service your existing clients better with it. You'll even use automations that tie into paypal and stripe so you don't have to touch it.
+You'll also service your existing clients better with it. You'll even use automations that tie into paypal and stripe so you don't have to touch a single thing.
 
-Pair this strong software knowledge with pre-written email templates and a fundamental understanding of how to write great emails and how they've worked for others and you've got a system that will totally change how you find work forever. 
+Pair this strong software knowledge with pre-written email templates and a fundamental understanding about how to write great emails and you've got a system that will totally change how you find work forever. 
 
-The best part is that you already have everything you need to start the course. Here's what you get:
+The best part is that you already have everything you need to start the course. 
+
+Here's a look at just a few of the things you get you get:
 
 ## You get the Emails That Win Audio Masterclass
-<img src="/images/strat.png">
+<img src="/images/strat.png" style="width: 15em; margin-right: 1em;" align="left">
+The Emails That Win Masterclass is a comprehensive course containing audio, detailed notes, and insider information about the exact steps you need to take to make your freelancing more profitable. 
+
+Most freelancers struggle for one reason and one reason only. Because they approach freelancing without a foundation of customer psychology.
+
+This lack of understanding means they struggle to hear back from clients they approach, and clients don't approach them. The problem isn't the quality of work you do. It's that you're bad at writing emails. 
+
+I can help  you send better emails and unlock your dream business. h
 
 
 
+This lack of this psychology means the website owner needs to drive tens of thousands of prospects to his/her website to make the website profitable. And even if you do drive those herds of prospects, there’s no guarantee that they’ll buy anything at all.
 
-## Premium Only: The Emails That Win You Clients guide to doubling the amount clients in your inbox that are eager to work with you.
+And this need to have to drive a constant stream of customers, ends up with the website owner doing a lot of legwork. He/she has to be constantly advertising; constantly doing joint ventures; constantly travelling and speaking; constantly working and consequently going a little nuts if everything turns to custard.
 
-<img src="/images/book.png" style="width: 6em;">
+What do Paul Jarvis, Nick Disabato, Jarrod Drysdale, Samuel Hulick, Kurt Elster, Alex Hillman, Kai Davis and Michael Alexis all have in common?
 
+They've all built 6-figure consulting practices. They've built businesses that most freelancers only dream of.
 
 This course comes from a 12-month long series of strategy sessions with over 50+ freelancers who were struggling to hear back from clients. Every one of these freelancers began to see results as soon as they implemented the material. Leads began responding. They started winning clients.
 
@@ -155,12 +166,20 @@ That's great, but that's not the whole story. There was also another group. This
 - Don't come off spammy.
 
 
-The problem isn't the quality of work you do. It's that you're bad at writing emails. I can help. You can send better emails and unlock your dream business.
+
+
+
+
+
+## Premium Only: The Emails That Win You Clients guide to doubling the amount clients in your inbox that are eager to work with you.
+
+<img src="/images/book.png" style="width: 6em; margin-right: 1em;" align="left">
+
 
 
 ## Premium Only: The Emails That Win You Clients: Template Library that will help you write Amazing Emails in seconds
-<img src="/images/template-library.png" style="width: 7em;">
-
+<img src="/images/template-library.png" style="width: 7em; margin-right: 1em;" align="left">
+ 
 Could well-crafted messages improve your freelance business?
 
 Since jumping feet first into consulting five years ago, I've discovered that a shocking amount of my time and my business is spent just sending emails. As a percentage of time, I'd say my business (and yours) is unavoidably tied to the success of those emails.
@@ -220,7 +239,6 @@ The common thread behind all of my marketing effort is value.  This setup has al
 
 So long as I’m constantly delivering value in the form of either literal return on investment for clients or actionable advice for growing a business to prospects, I know I’ll keep succeeding. My favorite aphorism being “a rising tide lifts all boats.”
 
----------------- 
 
 Now after Kurt completely productized his freelance services and automated his buying cycle with Drip, he literally stepped back and documented exactly how he did it.
 
@@ -266,6 +284,10 @@ What you'll get:
 - E-mail Content Calendar 
 - Plus presentation notes
 - Still not convinced? Read these raving testimonials:
+
+
+<div class="spacer" style="height: 2em; display: table;"></div>
+
 
 ## “So what happens if I don’t like it?”
 
@@ -318,6 +340,10 @@ Our goal is to help you crystalize what your dream job means to you, and help yo
 
 ## I still have a question?
 No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop.com) and I’ll get back to you shortly, take care!
+
+
+
+<div class="spacer" style="height: 2em; display: table;"></div>
 
 
 
@@ -426,23 +452,27 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 > Jarrod Drysdale<br>
 > Denver, CO
 
+
+<div class="spacer" style="height: 2em; display: table;"></div>
+
+
 ## What you get:
 
-1. Emails that Win You Clients Audio Masterclass - 
+1. ### Emails that Win You Clients Audio Masterclass - 
 Over 2.5 hours of audio by top freelancers (including: Nick Disabato, Alex Hillman, Paul Jarvis, Kurt Elster, Samuel Hulick, Michael Alexis, and Jarrod Drysdale) discussing writing great emails, pricing, productized consulting, and a ton more. 7 premium mp3 audio files totalling over 2+ hours of case studies. 
 
-2. Premium Only - Emails That Win You Clients 
+2. ### Premium Only - Emails That Win You Clients 
 An advanced guide to writing crisp, compelling emails that win you more freelance work in less time. Includes a digital copy of the book in PDF, iBooks, and Kindle format.
 
-3. Premium Only - Emails That Win: Template Library 
+3. ### Premium Only - Emails That Win: Template Library 
 Discover how a well-crafted message can improve your entire freelance business... You'll get ready-to-use emails for handling a ton of different situations.
     
     You'll also get the low-down on how I setup my GMail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why
 
-4. Premium Only - Emails That Win: Cold email checklist
+4. ### Premium Only - Emails That Win: Cold email checklist
 A one-page cheatsheet that's the perfect companion to the book. Use it to quickly make sure any email you send is optimized and ready to win you clients.
 
-5. Premium Only - Emails That Win: Automation Video Course
+5. ### Premium Only - Emails That Win: Automation Video Course
 Save time & sell more to prospects and clients while you sleep. This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.
 
    Here's what's in it for you: we'll end the feast or famine cycle of freelancing. You'll sell you while you sleep. And you'll take back your time. Plus you'll learn how I made $10K in 72 hours with a single email
@@ -566,4 +596,26 @@ Save time & sell more to prospects and clients while you sleep. This course is e
 			</td>
 	</tr>
 </table>
+
+
+
+<div class="spacer" style="height: 2em; display: table;"></div>
+
+
+### Why I think you should buy right now
+As a freelancer, right now is when you should do something. Waiting is almost guaranteed to hurt your business forever. See, It's a common misconception that dry spells are a part of freelancing. The truth is they happen because we sit and wait.
+
+Failing to line up work during flush times (not dry spells), is the real reason you run into feast or famine cycles. Just because you have work now, you're short on time, or you have some other excuse, you shouldn't put your hands up and stop sales activity.
+
+On the contrary, now is when you should find next month or next year's client. I don't want you to wait until it's too late, and in order to prove it I'm willing to take away all of the risk. You can get 100% of your money back if you don't like it, at any time.
+
+See like you, I know there are a ton of businesses who will benefit from working with me. Only you know the vision you had when you decided to strike out on your own and start your freelance consulting business. My goal is to help you reach that vision.
+
+Warm Regards,
+
+<img src="/images/rob-sig.png" style="max-width: 7em; margin: 1em 0 0em; display: inline-block;">
+
+Robert Williams
+
+ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a>
 
