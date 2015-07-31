@@ -146,7 +146,6 @@ h1, h2, h3 {
   font-weight: 300;
   color: #2B2828;
   margin: 2em 0 .75em;
-  font-family: 'Gotham SSm A', 'Gotham SSm B';
   font-style: normal;
   line-height: 1.4;
   font-style: normal; }
@@ -248,7 +247,6 @@ blockquote {
   border-top: 1px solid #e5e3db;
   padding: 1em 0;
   font-size: 90%;
-  font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
   margin-top: 1.5em; }
   blockquote > :last-child {
     margin-bottom: 0; }
@@ -401,8 +399,7 @@ table.pricing {
     background-color: #f7f8f9;
     font-weight: 500;
     color: #5a5643;
-    border: 0;
-    font-family: 'Gotham SSm A', 'Gotham SSm B'; }
+    border: 0; }
     table.pricing .bonus p, table.pricing .bonus h2 {
       letter-spacing: normal;
       text-align: left; }

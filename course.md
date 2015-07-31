@@ -126,6 +126,34 @@ The best part is that you already have everything you need to start the course.
 
 Here's a look at just a few of the things you get you get:
 
+<div class="spacer" style="height: 2em; display: table;"></div>
+
+
+1. ### Emails that Win You Clients Audio Masterclass - 
+Over 2.5 hours of audio by top freelancers (including: Nick Disabato, Alex Hillman, Paul Jarvis, Kurt Elster, Samuel Hulick, Michael Alexis, and Jarrod Drysdale) discussing writing great emails, pricing, productized consulting, and a ton more. 7 premium mp3 audio files totalling over 2+ hours of case studies. 
+
+2. ### Premium Only - Emails That Win You Clients 
+An advanced guide to writing crisp, compelling emails that win you more freelance work in less time. Includes a digital copy of the book in PDF, iBooks, and Kindle format.
+
+3. ### Premium Only - Emails That Win: Template Library 
+Discover how a well-crafted message can improve your entire freelance business... You'll get ready-to-use emails for handling a ton of different situations.
+    
+    You'll also get the low-down on how I setup my GMail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why
+
+4. ### Premium Only - Emails That Win: Cold email checklist
+A one-page cheatsheet that's the perfect companion to the book. Use it to quickly make sure any email you send is optimized and ready to win you clients.
+
+5. ### Premium Only - Emails That Win: Automation Video Course
+Save time & sell more to prospects and clients while you sleep. This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.
+
+   Here's what's in it for you: we'll end the feast or famine cycle of freelancing. You'll sell you while you sleep. And you'll take back your time. Plus you'll learn how I made $10K in 72 hours with a single email
+
+   You'll get: 77 minutes of video training, Copy-and-paste email templates you can use right now, E-mail Content Calendar, Plus presentation notes
+ 
+   What the video course covers: The Opportunity, Follow-up Drips, Business Automation, Audience Segmenting, Structuring a Follow-up Sequence, Setting Up Drip, Automation Flows, Bonus Content
+
+
+<!--
 ## You get the Emails That Win Audio Masterclass
 <img src="/images/strat.png" style="width: 15em; margin-right: 1em;" align="left">
 The Emails That Win Masterclass is a comprehensive course containing audio, detailed notes, and insider information about the exact steps you need to take to make your freelancing more profitable. 
@@ -341,7 +369,7 @@ Our goal is to help you crystalize what your dream job means to you, and help yo
 ## I still have a question?
 No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop.com) and I’ll get back to you shortly, take care!
 
-
+-->
 
 <div class="spacer" style="height: 2em; display: table;"></div>
 
@@ -451,35 +479,6 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 >
 > Jarrod Drysdale<br>
 > Denver, CO
-
-
-<div class="spacer" style="height: 2em; display: table;"></div>
-
-
-## What you get:
-
-1. ### Emails that Win You Clients Audio Masterclass - 
-Over 2.5 hours of audio by top freelancers (including: Nick Disabato, Alex Hillman, Paul Jarvis, Kurt Elster, Samuel Hulick, Michael Alexis, and Jarrod Drysdale) discussing writing great emails, pricing, productized consulting, and a ton more. 7 premium mp3 audio files totalling over 2+ hours of case studies. 
-
-2. ### Premium Only - Emails That Win You Clients 
-An advanced guide to writing crisp, compelling emails that win you more freelance work in less time. Includes a digital copy of the book in PDF, iBooks, and Kindle format.
-
-3. ### Premium Only - Emails That Win: Template Library 
-Discover how a well-crafted message can improve your entire freelance business... You'll get ready-to-use emails for handling a ton of different situations.
-    
-    You'll also get the low-down on how I setup my GMail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why
-
-4. ### Premium Only - Emails That Win: Cold email checklist
-A one-page cheatsheet that's the perfect companion to the book. Use it to quickly make sure any email you send is optimized and ready to win you clients.
-
-5. ### Premium Only - Emails That Win: Automation Video Course
-Save time & sell more to prospects and clients while you sleep. This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.
-
-   Here's what's in it for you: we'll end the feast or famine cycle of freelancing. You'll sell you while you sleep. And you'll take back your time. Plus you'll learn how I made $10K in 72 hours with a single email
-
-   You'll get: 77 minutes of video training, Copy-and-paste email templates you can use right now, E-mail Content Calendar, Plus presentation notes
- 
-   What the video course covers: The Opportunity, Follow-up Drips, Business Automation, Audience Segmenting, Structuring a Follow-up Sequence, Setting Up Drip, Automation Flows, Bonus Content
 
 
 
