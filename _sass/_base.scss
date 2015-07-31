@@ -17,21 +17,30 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 400;
+    font-weight: 300;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+		letter-spacing: -.02em;
+		word-spacing: .02em;
 
 }
 
-p {
+p, li {
 	@include media-query($on-palm) {
 		font-size: 80%;
+		line-height: 1.35;
 	}
 }
 
 strong {
-	font-weight: 500;
+	font-weight: 400;
+	letter-spacing: 0;
+}
+
+em {
+	font-style: normal;
+	font-weight: 400;
 }
 
 /**
@@ -76,6 +85,22 @@ ul, ol {
     margin-left: $spacing-unit;
 }
 
+ul {
+    line-height: 1.75em;
+    margin: 1em 1.5em;
+    list-style: none;
+    padding: 0;
+		li {
+		    padding-left: 1em;
+		    text-indent: -1em;
+		}
+	li:before {
+	    content: "•";
+	    color: #e66125;
+	    padding-right: .5em;
+	}
+}
+
 li {
     > ul,
     > ol {
@@ -89,7 +114,7 @@ ol {
     padding-left:0; /* Remove the default left padding */
 
 	h1, h2, h3 {
-		margin: 0 auto;
+		margin: 0 auto .5em;
 	}
 }
 
@@ -99,6 +124,9 @@ ol > li {
     padding:4px 12px; /* Add some spacing around the content */
     list-style:none; /* Disable the normal item numbering */
     background: #FFF;
+		@include media-query($on-palm) {
+		margin:0 0 10px 1em;
+		}
 }
 
 ol > li:before {
@@ -107,22 +135,29 @@ ol > li:before {
     /* Position and style the number */
     position:absolute;
     top:.5em;
-    left:-4em;
+    left:-3em;
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
     box-sizing:border-box;
-    width:2em;
-		height: 2em;
+    width:1.75em;
+		height: 1.75em;
 		border-radius: 100%;
     /* Some space between the number and the content in browsers that support
        generated content but not positioning it (Camino 2 is one example) */
-    margin-right:3em;
-		margin-left: 1em;
+    margin-right: 1.5em;
+		margin-left: .5em;
     padding:2px;
     background: $grey-color-light;
-    font-weight: 700;
-		font-size: 14px;
+    font-weight: 300;
+		font-size: 13px;
     text-align:center;
+		color: $text-color;
+		@include media-query($on-palm) {
+			margin-right: .75em;
+			margin-left: .5em;
+			top: .25em;
+			left: -2em;
+		}
 }
 
 
@@ -130,31 +165,37 @@ ol > li:before {
  * Headings
  */
 h1, h2, h3 {
-  font-weight: 500;
+  font-weight: 300;
 	color: $header-color;
-	margin: 1em 0 .5em;
+	margin: 2em 0 .75em;
+	font-family: 'Gotham SSm A', 'Gotham SSm B';
+	font-style: normal;
+	line-height: 1.4;
+	font-style: normal;
+	
+	em {
+		font-weight: 500;
+		font-style: normal;
+	}
 }
 
 h1 {
-	font-size: 159%;
-	line-height: 1.4;
+	font-size: 180%;
+	margin: 1.5em 0 .75em;
 	
+	letter-spacing: -.025em;
 	@include media-query($on-palm) {
 		font-size: 125%;
 	}
 }
 
-h2 {
-	font-size: 129%;
-	@include media-query($on-palm) {
-		font-size: 110%;
-	}
-}
-
-h3 {
+h2, h3 {
 	font-size: 115%;
+	letter-spacing: -.02em;
+	font-weight: 400;
+	
 	@include media-query($on-palm) {
-		font-size: 105%;
+		font-size: 90%;
 	}
 }
 
@@ -170,13 +211,13 @@ a {
     }
 
     &:hover {
-        color: darken($brand-color, 10%);
+        color: $hover-color;
     }
 		
 	&.buy-link {
 		color: #FFF;
 		font-weight: 600;
-		background-color: $brand-color;
+		background-color: $grey-color;
 		display: block;
 		padding: .4em .5em;
 		border-radius: .5em;
@@ -184,7 +225,7 @@ a {
 		min-width: 5em;
 		&:hover {
 			text-decoration: none;
-			background-color: #3eb2e7;
+			background-color: lighten($grey-color, 10%);
 		}
 	}
 	&.regular {
@@ -229,7 +270,7 @@ input[type=submit], a.submit {
 	cursor: pointer;
 	border-radius: $ui-border-radius; 
 	background-color: $brand-color;
-	padding: .8em 1em; 
+	padding: .7em 1em; 
 	margin: 1 0; 
 	font-weight: 700;
 	letter-spacing: .05em;
@@ -241,7 +282,7 @@ input[type=submit], a.submit {
   appearance: none;
 	color: #FFF;
 	&:hover {
-		background-color: lighten($brand-color, 10%);
+		background-color: $hover-color;
 		text-shadow: 0px 0px 1px $brand-color;
 	}
 	&.buy {
@@ -363,6 +404,155 @@ i.fa.fa-external-link {
 }
 
 /** Table **/
+
+table {
+
+	
+	&.pricing {
+		
+		h2 {
+			font-weight: 500;
+			font-size: 150%;
+			margin: 1em 0 .5em;
+		}
+		
+		p {
+			@include media-query($on-laptop) {
+				font-size: 75%;
+			}
+		}
+		
+		tr:first-child td:first-child {
+		    -moz-border-radius-top-left:$pricing-table-border-radius;
+		    -webkit-border-top-left-radius:$pricing-table-border-radius;
+		    border-top-left-radius:$pricing-table-border-radius;
+		}
+	
+		tr:first-child td:last-child {
+			    -moz-border-radius-top-right:$pricing-table-border-radius;
+			    -webkit-border-top-right-radius:$pricing-table-border-radius;
+			    border-top-right-radius:$pricing-table-border-radius;
+			}
+
+		tr:last-child td:first-child {
+		    -moz-border-radius-bottom-left:$pricing-table-border-radius;
+		    -webkit-border-bottom-left-radius:$pricing-table-border-radius;
+		    border-bottom-left-radius:$pricing-table-border-radius;
+		}
+
+		tr:last-child td:last-child {
+		    -moz-border-radius-bottom-right:$pricing-table-border-radius;
+		    -webkit-border-bottom-right-radius:$pricing-table-border-radius;
+		    border-bottom-right-radius:$pricing-table-border-radius;
+		}
+		tr:last-child {
+			border: 0;
+		}
+		.button {
+				@include media-query($on-laptop) {
+				padding: .1em .5em .25em;
+					}
+
+		}
+
+    -moz-border-radius: $pricing-table-border-radius-outside;
+    -webkit-border-radius: $pricing-table-border-radius-outside;
+		border-radius: $pricing-table-border-radius-outside;
+		border: 5px solid $brand-color;
+		margin: 2em 0;
+		width: 100%;
+		
+		.bottom-right {
+		border-radius-bottom-right: $ui-border-radius;}
+		& th, td {
+			border: 1px solid darken(#f7f8f9, 2%);
+
+		}
+		
+		tbody tr:nth-child(odd) {
+		}
+		th, .check, .buy {
+			
+				text-align: center;
+		}
+		th {
+			padding: 1em 0;
+			h2 {
+				@include media-query($on-laptop) {
+				font-size: 70%;
+				}
+			}
+			
+			p {
+				font-size: 80%;
+			
+					@include media-query($on-laptop) {
+					font-size: 70%;
+					}
+			
+			}
+		}
+		td {
+			font-size: 80%;
+			padding: 1em 1.5em;
+			strong {
+				color: darken($grey-color, 5%);
+				font-weight: 600;
+					font-size: 100%;
+			}
+			@include media-query($on-laptop) {
+			padding: .25em;
+			}
+		}
+		.money-sign {
+			font-weight: 400;
+			color: $black-color;
+			vertical-align: .25em;
+			@include media-query($on-laptop) {
+			font-size: 70%;
+			}
+		}
+		.per-month {
+			color: $black-color;
+				font-weight: 300;
+				@include media-query($on-laptop) {
+				font-size: 70%;
+				}
+			
+		}
+		.bonus {
+			background-color: #f7f8f9;
+			font-weight: 500;
+			color: darken($grey-color, 7%);
+			border: 0;
+			font-family: 'Gotham SSm A', 'Gotham SSm B';
+			
+			p, h2 {
+				letter-spacing: normal;
+				text-align:left;
+			}
+			p {
+				font-weight: normal;
+			}
+		}
+		.center {
+		text-align: center;
+		}
+		.check {
+			text-align: center;
+			i {
+				color: $red-color;
+			}
+		}
+		.buy {
+		}
+		a.premium {
+			background-color: #ff552c;
+		}
+	}
+}
+/*
+
 table {
 	display: table;
   	border-collapse: separate;
@@ -435,4 +625,4 @@ table {
 		}
 	}
 	
-}
+}*/

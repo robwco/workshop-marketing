@@ -13,12 +13,12 @@ Calm and Profitable - A free online book about how to get your next freelance cl
 	</center>
 </header>-->
 
-<div class="book">
+<div class="book" style="padding: 0 0 5em;">
 	
-	<h2>Articles</h2>
+	<h1>Guides</h1>
     {% for post in site.posts %}
         <h3 style="margin: 2em 0 0;">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" style="text-decoration: underline;">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
 				<p>{{ post.excerpt | strip_html  | truncatewords:25 }}</p>
     {% endfor %}

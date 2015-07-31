@@ -17,6 +17,13 @@
 		background-size: 12em;
 }
 
+.feature.rob {
+		background-image: url('/images/rob-headshot.png');
+		background-position: 90% bottom;
+		background-repeat: no-repeat;
+		background-size: 13em;
+}
+
 .testimonial-photo {
 	max-width: 4em;
 	max-height: 4em;
@@ -81,7 +88,7 @@ ul, ol {
  */
 .site-header {
     min-height: 56px;
-		padding: 1em;
+		padding: 2.5em 1em 0;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -112,7 +119,6 @@ nav {
 		display: inline;
 		float: left;
 		color: $grey-color;
-		font-family: $alt-font-family;
 		font-style: italic;
 		strong {
 			margin-right: .5em;
@@ -131,11 +137,17 @@ nav {
 		min-width: 400px;
 		width: 50%;
 		display: inline;
-		font-weight: 500;
+		font-weight: 300;
 		font-size: 85%;
+		padding: 2em 0 0;
+		font-family: 'Gotham SSm A', 'Gotham SSm B';
+		letter-spacing: 0em;
 		
 		a {
-			margin-right: 1em;
+			margin-right: 1.5em;
+			strong {
+				font-weight: 500;
+			}
 		}
 		
     @include media-query($on-palm) {

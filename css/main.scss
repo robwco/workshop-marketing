@@ -6,32 +6,35 @@
 
 
 // Our variables
-$base-font-family: 'Gotham SSm A', 'Gotham SSm B', Lucida grande, sans-serif;
-$alt-font-family:	 'Gotham Narrow SSm A', 'Gotham Narrow SSm B', Lucida grande, sans-serif;
-$base-font-size:   16px;
+$base-font-family:  'Gotham SSm A', 'Gotham SSm B';
+$alt-font-family:	  'Gotham SSm A', 'Gotham SSm B';
+$base-font-size:   17px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.7;
+$base-line-height: 1.5;
 $ui-border-radius: .25em;
+$pricing-table-border-radius: 	1em;
+$pricing-table-border-radius-outside: 1em;
 
 $spacing-unit:     30px;
 
-$text-color:       #3D3932;
+$text-color:       #454038;
 $background-color: #FFF;
 $brand-color:      #2996bf;
-$red-color:					#dd5020;
+$hover-color:				#00729c;
+$red-color:					#e66125;
 $green-color: 			#36b744;
 
 $black-color:			 #2B2828;
 $header-color:		 $black-color;
 
 $grey-color:       #6F6952;
-$grey-color-light: lighten($grey-color, 59%);
+$grey-color-light: #f3f4f2;
 $grey-color-dark:  darken($grey-color, 25%);
 
 
 
 // Width of the content area
-$content-width:    670px;
+$content-width:    650px;
 
 $on-palm:          650px;
 $on-laptop:        650px;

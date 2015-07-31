@@ -4,25 +4,16 @@ title: Welcome to Workshop!
 permalink: /welcome
 ---
 
-
-<section class="loose-wrap" style="text-align: center;">
-
-	<%= image_tag("confetti.png", :style => "margin: -2em 0 0;") %>
-
-
-</section>
+<center>
+	<img src="/images/confetti.png">
+</center>
 
 
+You've been charged successfully!
+# Thanks! You're all paid and ready to go. Now, the clients await.
 
-	<section class="tight-wrap" style="margin: 2em auto 4em;">
-		<center>
-			<p>You've been charged $<%= current_user.subscription.plan.price %> successfully!</p>
-			<h1 style="margin: 1em 0 2em; font-size: 220%;">Thanks <%= first_name @user.name %>! You're all paid and ready to go. Now, the clients await.</h1>
-			<% @leads.most_recent.limit(8).each do |lead| %>
-				<%= image_tag lead.image.url(:medium, timestamp: false), :style => "width: 5em; height: 5em; border-radius: 5em;"  %>
-			<% end %>
-		</center>
-			<h4>Here's what happens next...</h4>
+## Here's what happens next...
+
 			<p><strong>Check your inbox for a special lead I just sent.</strong></p> 
 			<p>The best way to get started with Workshop is to jump straight into emailing the prospects I send over. That way you get right to filling your pipeline and seeing results.</p>
 
@@ -57,5 +48,4 @@ permalink: /welcome
 			<h4>Anything else?</h4>
 			<p>Yea! We're stoked to have you. Julie (your new personal email specialist) will be reaching out with some 1-on-1 concierge help shortly to get you up to speed. We can't wait until you land your first client with Workshop! If you have any questions, <a href="MAILTO:julie@letsworkshop.com">send us an email</a>.</p>
 			<p>Now check your inbox!</p>
-			
-		</section>
+

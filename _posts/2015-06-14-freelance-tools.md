@@ -1,30 +1,16 @@
 ---
 layout: post
-title: Tools
+title: How to keep up with the best freelancing tools
 tags: appendix
 permalink: /freelance-tools
 author: Robert Williams
 date: 2015-05-02 02:00:00
 ---
 # 2015's Best Freelancing Tools: The 55 Best Resources for Freelancers and Consultants
-<!-- Twitter code -->
-<script type="text/javascript">
-window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
-</script>
 
-<p style="position: fixed; top: .1em; right: 0;"><a class="twitter-share-button"
-   href="https://twitter.com/share"
-  data-url="http://2015freelancetools.com"
-  data-via="letsworkshop"
-  data-text="Great stuff for freelancers to use in 2015"
-  data-related="letsworkshop"
-  data-count="horizontal">Tweet</a>
-</p>
+Last year, this page saved consultants $687 through exclusive deals on awesome tools! Want access to tools that will grow your business?
 
-<section class="content" style="margin: 3em auto 6em;">
-
-<h3>Last year, this page saved consultants $687 through exclusive deals on awesome tools! Want access to tools that will grow your business?</h3> 
-<p>You're in luck, I've compiled the best links for freelancers on this page plus if you enter your name and email below, I'll send you new tools as I find them (and exclusive discounts) for free.</p>
+You're in luck, I've compiled the best links for freelancers on this page plus if you enter your name and email below, I'll send you new tools as I find them (and exclusive discounts) for free.
 
 <form action="https://www.getdrip.com/forms/2811915/submissions" method="post" target="_blank" data-drip-embedded-form="3137">
     <div>
@@ -33,13 +19,7 @@ window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.ge
     </div>
 </form>
 
-
-<hr>
-
-
-<h1>2015's Best Freelancing Tools: The 55 Best Resources for Freelancers and Consultancies</h1>
-
-<h3>Finding New Work Opportunities</h3>
+### Finding New Work Opportunities
 
 <ol class="freelance-tools">
 <li><p><a href="http://emailsthatwin.com" target="_blank">Emails That Win You Clients</a> <span class="favorite">Favorite</span></p></li>	
