@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   font-size: 17px;
   line-height: 1.5;
   font-weight: 300;
@@ -193,7 +193,7 @@ a {
     background-color: #6F6952; }
 
 input[type="text"], input[type="password"], input[type="name"], input[type="email"], input[type="number"], select, textarea, input[type=file] {
-  font: 18px/1.552em "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font: 18px/1.552em "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -218,7 +218,7 @@ input[type="text"], input[type="password"], input[type="name"], input[type="emai
     border: 2px solid #2996bf; }
 
 input[type=submit], a.submit {
-  font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   cursor: pointer;
   border-radius: 0.25em;
   background-color: #2996bf;
@@ -495,7 +495,7 @@ table {
   margin: 4em 0 6em;
   padding: 2em 2em 2em; }
   .feature p {
-    font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif; }
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif; }
 
 .feature.kurt {
   background-image: url("/images/features/kurt.png");
@@ -522,13 +522,13 @@ h3.topic-section {
   h3.topic-section a {
     margin-left: -.5em;
     padding: 0 .5em;
-    font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
     color: #26241c; }
     h3.topic-section a span {
       margin-left: .25em;
       vertical-align: .1em;
       font-size: 19px;
-      font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif; }
+      font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif; }
     h3.topic-section a:hover {
       background-color: #F1F1F1;
       border-radius: 2em; }
@@ -550,7 +550,7 @@ ul.topic-list, ol.topic-list {
     width: 100%;
     margin: 1em auto 1em; }
 ul a.topic-chapter, ol a.topic-chapter {
-  font: 17px/1.4 "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font: 17px/1.4 "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   display: inline-block;
   overflow: hidden; }
 
@@ -618,7 +618,7 @@ nav .utilities {
       width: 100%; } }
 
 .book-nav {
-  font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   font-size: 13px;
   font-weight: 500;
   padding: 1em 1em;
@@ -714,7 +714,7 @@ nav .utilities {
 
 .post-note {
   padding: 1em 2em;
-  font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   border: 1px dashed #6F6952;
   margin: 2em 0;
   color: #6F6952; }
@@ -730,14 +730,14 @@ nav .utilities {
     border-radius: .5em;
     font-size: 15px;
     min-width: 5em;
-    font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif; }
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif; }
     .post-note input[type=submit]:hover {
       text-decoration: none;
       background-color: #3eb2e7; }
 
 .post-post-it-note {
   padding: 1em 2em;
-  font-family: "Gotham SSm A", "Gotham SSm B", "Lato", Helvetica, sans-serif;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   margin: 2em 0;
   color: #26241c;
   background-color: #fffdee; }
