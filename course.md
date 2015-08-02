@@ -96,7 +96,7 @@ If you could unlock the most fulfilling, meaningful freelance work of your caree
 
 It would mean more clients and access to better, more profitable projects. Best of all, it would mean working less and getting more out of your time.
 
-## Announcing! Emails That Win You Clients Course: Learn how to make your work more profitable through email. 
+## Announcing! The Emails That Win You Clients Masterclass and Video Course: Learn how to make your work more profitable through email. 
 
 It's a powerful system for getting new clients that's specifically built for a freelance business. It will totally change how you find and keep clients. 
 

@@ -137,7 +137,8 @@ ol > li:before {
       margin-right: .75em;
       margin-left: .5em;
       top: .25em;
-      left: -2em; } }
+      left: -2em;
+      font-size: 8px; } }
 
 /**
  * Headings
@@ -180,7 +181,7 @@ a {
   a.buy-link {
     color: #FFF;
     font-weight: 600;
-    background-color: #6F6952;
+    background-color: #403326;
     display: block;
     padding: .4em .5em;
     border-radius: .5em;
@@ -188,9 +189,12 @@ a {
     min-width: 5em; }
     a.buy-link:hover {
       text-decoration: none;
-      background-color: #8c8568; }
+      background-color: #604d39; }
+    @media screen and (max-width: 650px) {
+      a.buy-link {
+        font-size: 90%; } }
   a.regular {
-    background-color: #6F6952; }
+    background-color: #403326; }
 
 input[type="text"], input[type="password"], input[type="name"], input[type="email"], input[type="number"], select, textarea, input[type=file] {
   font: 18px/1.552em "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
@@ -205,7 +209,7 @@ input[type="text"], input[type="password"], input[type="name"], input[type="emai
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   transition: all 0.2s ease;
-  border: 2px solid #c4c0af;
+  border: 2px solid #aa8c6f;
   display: block;
   font-size: 14px;
   padding: 8px 8px;
@@ -244,10 +248,11 @@ input[type=submit], a.submit {
  */
 blockquote {
   color: #454038;
-  border-top: 1px solid #e5e3db;
+  border-top: 1px solid #f3f4f2;
   padding: 1em 0;
-  font-size: 90%;
-  margin-top: 1.5em; }
+  font-size: 95%; }
+  blockquote h3 {
+    margin: .5em 0; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -306,7 +311,7 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #6F6952; }
+    fill: #403326; }
 
 i.fa.fa-check {
   color: #e66125;
@@ -333,7 +338,7 @@ table.pricing {
     font-size: 150%;
     margin: 1em 0 .5em; }
   @media screen and (max-width: 650px) {
-    table.pricing p {
+    table.pricing {
       font-size: 75%; } }
   table.pricing tr:first-child td:first-child {
     -moz-border-radius-top-left: 1em;
@@ -376,7 +381,7 @@ table.pricing {
     font-size: 80%;
     padding: 1em 1.5em; }
     table.pricing td strong {
-      color: #605b47;
+      color: #30261c;
       font-weight: 600;
       font-size: 100%; }
     @media screen and (max-width: 650px) {
@@ -398,7 +403,7 @@ table.pricing {
   table.pricing .bonus {
     background-color: #f7f8f9;
     font-weight: 500;
-    color: #5a5643;
+    color: #2a2119;
     border: 0; }
     table.pricing .bonus p, table.pricing .bonus h2 {
       letter-spacing: normal;
@@ -523,7 +528,7 @@ h3.topic-section {
     margin-left: -.5em;
     padding: 0 .5em;
     font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
-    color: #26241c; }
+    color: black; }
     h3.topic-section a span {
       margin-left: .25em;
       vertical-align: .1em;
@@ -558,8 +563,10 @@ ul a.topic-chapter, ol a.topic-chapter {
  * Site header
  */
 .site-header {
-  min-height: 56px;
-  padding: 2.5em 1em 0;
+  border-bottom: 1px solid #f3f4f2;
+  min-height: 40px;
+  padding: 2.5em 0em 0;
+  font-weight: 400;
   position: relative;
   -webkit-animation: fadein 2s;
   /* Safari, Chrome and Opera > 12.1 */
@@ -570,73 +577,24 @@ ul a.topic-chapter, ol a.topic-chapter {
   -o-animation: fadein 2s;
   /* Opera < 12.1 */
   animation: fadein 2s; }
-
-.site-title {
-  font-size: 26px;
-  line-height: 56px;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left; }
-  .site-title, .site-title:visited {
-    color: #26241c; }
-
-nav .site-id {
-  min-width: 350px;
-  width: 50%;
-  display: inline;
-  float: left;
-  color: #6F6952;
-  font-style: italic; }
-  nav .site-id strong {
-    margin-right: .5em;
-    font-size: 100%;
-    font-style: normal;
-    color: #2B2828; }
-  @media screen and (max-width: 650px) {
-    nav .site-id {
-      font-size: 12px;
-      text-align: center;
-      margin: 1em auto 0;
-      width: 100%; } }
-nav .utilities {
-  min-width: 400px;
-  width: 50%;
-  display: inline;
-  font-weight: 300;
-  font-size: 85%;
-  padding: 2em 0 0;
-  letter-spacing: 0em; }
-  nav .utilities a {
-    margin-right: 1.5em; }
-    nav .utilities a strong {
-      font-weight: 500; }
-  @media screen and (max-width: 650px) {
-    nav .utilities {
-      font-size: 12px;
-      text-align: center;
-      margin: 1em auto;
-      width: 100%; } }
-
-.book-nav {
-  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
-  font-size: 13px;
-  font-weight: 500;
-  padding: 1em 1em;
-  color: #a49d83; }
-  .book-nav i {
-    font-size: 10px;
-    margin: .5em 1em 0 0;
-    padding: .15em 1em .25em; }
-  .book-nav a {
-    color: #6F6952;
-    display: inline-block;
-    font-weight: 600; }
-    .book-nav a:hover {
-      color: #454038; }
-
-.next_post, .prev_post {
-  padding: 1em 0;
-  margin: 1em 0 3em; }
+  .site-header nav {
+    min-width: 400px;
+    width: 50%;
+    display: inline;
+    font-size: 80%;
+    padding: 2em 0 0;
+    letter-spacing: .05em; }
+    .site-header nav a {
+      text-transform: uppercase;
+      margin-right: 1.5em; }
+      .site-header nav a strong {
+        font-weight: 600; }
+    @media screen and (max-width: 650px) {
+      .site-header nav {
+        font-size: 11px;
+        text-align: center;
+        margin: 1em auto;
+        width: 100%; } }
 
 /**
  * Site footer
@@ -656,7 +614,7 @@ nav .utilities {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #6F6952;
+  color: #403326;
   margin-left: -15px; }
 
 .footer-col {
@@ -707,7 +665,7 @@ nav .utilities {
 
 .post-meta {
   font-size: 14.875px;
-  color: #6F6952; }
+  color: #403326; }
 
 .post-link {
   display: block; }
@@ -715,9 +673,9 @@ nav .utilities {
 .post-note {
   padding: 1em 2em;
   font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
-  border: 1px dashed #6F6952;
+  border: 1px dashed #403326;
   margin: 2em 0;
-  color: #6F6952; }
+  color: #403326; }
   .post-note p, .post-note h1, .post-note h2, .post-note h3, .post-note h4 {
     margin: 0 auto; }
   .post-note input[type=submit] {
@@ -739,13 +697,13 @@ nav .utilities {
   padding: 1em 2em;
   font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   margin: 2em 0;
-  color: #26241c;
+  color: black;
   background-color: #fffdee; }
   .post-post-it-note p, .post-post-it-note h1, .post-post-it-note h2, .post-post-it-note h3, .post-post-it-note h4 {
     margin: 0 auto; }
 
 .course {
-  border: 3px solid #c4c0af; }
+  border: 3px solid #aa8c6f; }
 
 /**
  * Posts
@@ -760,7 +718,7 @@ nav .utilities {
       font-size: 150%; } }
 
 .book-description {
-  color: #6F6952;
+  color: #403326;
   margin-bottom: 5em; }
 
 .post-content {

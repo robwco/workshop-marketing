@@ -2,7 +2,7 @@
 layout: post
 title: How to design the experience of working with you
 tags: upsells
-permalink: /freelance-onboarding
+permalink: /onboarding
 author: Robert Williams
 date: 2015-01-29 20:00:00
 ---

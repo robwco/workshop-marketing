@@ -86,10 +86,35 @@ ul, ol {
 /**
  * Site header
  */
-.site-header {
-    min-height: 56px;
-		padding: 2.5em 1em 0;
+.site-header {	
+		border-bottom: 1px solid $grey-color-light;
+    min-height: 40px;
+		padding: 2.5em 0em 0;
+		font-weight: 400;
 
+		nav {
+				min-width: 400px;
+				width: 50%;
+				display: inline;
+				font-size: 80%;
+				padding: 2em 0 0;
+				letter-spacing: .05em;
+
+				a {
+					text-transform: uppercase;
+					margin-right: 1.5em;
+					strong {
+						font-weight: 600;
+					}
+				}
+
+		    @include media-query($on-palm) {
+					font-size: 11px;
+					text-align: center;
+					margin: 1em auto;
+					width: 100%;
+				}
+	}
     // Positioning context for the mobile navigation icon
     position: relative;
     -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
@@ -99,95 +124,6 @@ ul, ol {
             animation: fadein 2s;
 }
 
-.site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
-}
-
-nav {
-	.site-id {
-		min-width: 350px;
-		width: 50%;
-		display: inline;
-		float: left;
-		color: $grey-color;
-		font-style: italic;
-		strong {
-			margin-right: .5em;
-			font-size: 100%;
-			font-style: normal;
-			color: $black-color;
-		}
-	    @include media-query($on-palm) {
-				font-size: 12px;
-				text-align: center;
-				margin: 1em auto 0;
-				width: 100%;
-			}
-	}
-	.utilities {
-		min-width: 400px;
-		width: 50%;
-		display: inline;
-		font-weight: 300;
-		font-size: 85%;
-		padding: 2em 0 0;
-		letter-spacing: 0em;
-		
-		a {
-			margin-right: 1.5em;
-			strong {
-				font-weight: 500;
-			}
-		}
-		
-    @include media-query($on-palm) {
-			font-size: 12px;
-			text-align: center;
-			margin: 1em auto;
-			width: 100%;
-		}
-	}
-}
-
-
-.book-nav {
-	font-family: $alt-font-family;
-	font-size: 13px;
-	font-weight: 500;
-	padding: 1em 1em;
-	color: lighten($grey-color, 20%);
-	
-	i {
-		font-size: 10px;
-		margin: .5em 1em 0 0;
-		padding: .15em 1em .25em;
-	}
-	
-	a {
-		color: $grey-color;
-		display: inline-block;
-		font-weight: 600;
-		
-		&:hover {
-			color: $text-color;
-		}
-	
-	}
-}
-
-.next_post, .prev_post {
-	padding: 1em 0;
-	margin: 1em 0 3em;
-}
 
 /**
  * Site footer

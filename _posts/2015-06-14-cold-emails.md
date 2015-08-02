@@ -63,6 +63,6 @@ The first step is to just dive in and write a quick, short rough draft email to 
 	<p>You don't want to give a busy lead more work. If the lead can say "sounds good" you're probably on the right track.</p>
 </div>
 
-If your email passes all of these rules, it is probably ready to send and you'll have a 30-50% chance of response form a client.
+### If your email passes all of these rules, it is probably ready to send and you'll have a 30-50% chance of response form a client.
 
 You still have to land one of them. So how do yoy find a list of prospects you can email right now?
