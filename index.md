@@ -92,6 +92,25 @@ In fact, Workshop's value is equally about the leads I don't send you.
 
 The thousands of leads I eliminate from your life completely mean you can focus on *how you're contacting leads* instead. 
 
+### "Who gets these leads? How many people am I competing with?"
+
+This is a great question. If you're wondering about this it means you believe there are opportunities for you in Workshop, and now you're wondering if you have a shot. That's a great sign!
+
+You absolutely do! The number one mistake I see freelancers make when they sign up for Workshop is assuming the leads are getting inundated with replies.
+
+I’ve actually heard business owners complain that their project only received 1 or no replies. These were 5-figure projects!
+
+So make sure you reply. If you send a good email, you will hear back.
+
+How do I know? Well the truth is that for every type of lead I send there’s truly only 4-5 real competitors (or less). That number sounds low because there’s over a hundred people subscribed to Workshop but all members specialize in different areas.
+
+Based on the amount of clicks I see happening in each email, every lead type attracts maybe 5-10% of the list. That means about 20 people from Workshop are clicking on that one you have your eye on.
+
+Out of those 20 people, half eliminate themselves because they don’t think they’re right for the project. Another 5 or 6 are just too busy that day to reply, and even a couple more completely forget. This doesn't take into account (the overwhelmingly high majority of those remaining) who will send a half-assed email.
+
+So if I were you and wondering this question, I’d certainly sign up and reply to the project in Workshop. Even if you’re skeptical landing just one project will pay for Workshop for the next 5 years. What's the worst that can happen?
+
+
 ### "I just started freelancing. What if I'm not ready?"
 I guarantee that if you can build a website, design, or code - at any level - you can also make a lot of money from Workshop today.
 

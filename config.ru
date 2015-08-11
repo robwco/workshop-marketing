@@ -49,6 +49,7 @@ use Rack::Rewrite do
   r301 '/help', '/freelancing'
   r301 '/mockups', '/feedback'
   r301 '/faqs', '/freelancing'
+  r301 '/feedback/feedback.pdf', '/downloads/feedback.pdf'
 end
 
 use Rack::TryStatic, 
