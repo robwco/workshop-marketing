@@ -110,7 +110,6 @@ Out of those 20 people, half eliminate themselves because they don’t think the
 
 So if I were you and wondering this question, I’d certainly sign up and reply to the project in Workshop. Even if you’re skeptical landing just one project will pay for Workshop for the next 5 years. What's the worst that can happen?
 
-
 ### "I just started freelancing. What if I'm not ready?"
 I guarantee that if you can build a website, design, or code - at any level - you can also make a lot of money from Workshop today.
 
