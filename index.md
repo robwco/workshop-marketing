@@ -480,10 +480,10 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 
 		</td>
 		<td style="text-align: center;">
-			<a href="https://workshop.memberful.com/checkout?plan=7512" class="buy-link">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=1" class="buy-link">Buy Now</a>
 			</td>
 		<td style="text-align: center;">
-			<a href="https://workshop.memberful.com/checkout?plan=7193" class="buy-link">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=2" class="buy-link">Buy Now</a>
 			</td>
 	</tr>
 </table>
