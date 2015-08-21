@@ -6,7 +6,7 @@ layout: default
 
 It's always on the back of your mind as a freelancer. You ask yourself: "Where will my next project come from?" "Am I starting to fall into a dry spell?" and "Am I going to run out of money before I find my next client?"
 
-Yet finding new work continues to be a chore - despite knowing there are currently thousands of companies you can help with your services. 
+Yet finding new work continues to be a chore - despite knowing there are thousands of companies you can help.
 
 With that big of a pool of potential clients, shouldn't you have new work whenever you want? Yes. The problem is finding these opportunities. It takes time you don't have. 
 

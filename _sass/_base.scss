@@ -17,11 +17,10 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 200;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-		letter-spacing: -.02em;
 		word-spacing: .02em;
 
 }
@@ -87,7 +86,7 @@ ul, ol {
 
 ul {
     line-height: 1.75em;
-    margin: 1em 1.5em;
+    margin: 1em;
     list-style: none;
     padding: 0;
 		li {
@@ -120,8 +119,8 @@ ol {
 
 ol > li {
     position:relative; /* Create a positioning context */
-    margin:0 0 10px 3em; /* Give each list item a left margin to make room for the numbers */
-    padding:4px 12px; /* Add some spacing around the content */
+    margin:0 0 10px 2em; /* Give each list item a left margin to make room for the numbers */
+    padding:4px 5px; /* Add some spacing around the content */
     list-style:none; /* Disable the normal item numbering */
     background: #FFF;
 		@include media-query($on-palm) {
@@ -134,7 +133,7 @@ ol > li:before {
     counter-increment:li; /* Increment the counter by 1 */
     /* Position and style the number */
     position:absolute;
-    top:.5em;
+    top:.25em;
     left:-3em;
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
@@ -149,7 +148,7 @@ ol > li:before {
     padding:2px;
     background: $grey-color-light;
     font-weight: 300;
-		font-size: 13px;
+		font-size: 10px;
     text-align:center;
 		color: $text-color;
 		@include media-query($on-palm) {
@@ -172,6 +171,7 @@ h1, h2, h3 {
 	font-style: normal;
 	line-height: 1.4;
 	font-style: normal;
+	font-family: $alt-font-family;
 	
 	em {
 		font-weight: 500;
@@ -180,7 +180,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 180%;
+	font-size: 220%;
 	margin: 1.5em 0 .75em;
 	
 	letter-spacing: -.025em;
@@ -190,7 +190,7 @@ h1 {
 }
 
 h2, h3 {
-	font-size: 115%;
+	font-size: 135%;
 	letter-spacing: -.02em;
 	font-weight: 400;
 	
@@ -217,7 +217,7 @@ a {
 	&.buy-link {
 		color: #FFF;
 		font-weight: 600;
-		background-color: $grey-color;
+		background-color: $grey-color-dark;
 		display: block;
 		padding: .4em .5em;
 		border-radius: .5em;
@@ -225,7 +225,7 @@ a {
 		min-width: 5em;
 		&:hover {
 			text-decoration: none;
-			background-color: lighten($grey-color, 10%);
+			background-color: lighten($grey-color-dark, 10%);
 		}
 		
 		@include media-query($on-palm) {
@@ -252,7 +252,7 @@ input[type="text"], input[type="password"], input[type="name"],  input[type="ema
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   transition: all 0.2s ease;
-  border: 2px solid lighten($grey-color, 35%);
+  border: 2px solid $grey-color;
   display: block;
   font-size: 14px;
   padding: 8px 8px;
@@ -528,7 +528,7 @@ table {
 		.bonus {
 			background-color: #f7f8f9;
 			font-weight: 500;
-			color: darken($grey-color, 7%);
+			color: $grey-color-dark;
 			border: 0;
 			
 			p, h2 {

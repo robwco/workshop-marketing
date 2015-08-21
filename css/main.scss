@@ -6,19 +6,19 @@
 
 
 // Our variables
-$base-font-family:  'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
-$alt-font-family:	  'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
-$base-font-size:   17px;
+$base-font-family: "kepler-std", Helvetica, sans-serif;
+$alt-font-family:	 'Gotham SSm A', 'Gotham SSm B', Helvetica, sans-serif;
+$base-font-size:   22px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-$ui-border-radius: .25em;
+$ui-border-radius: .4em;
 $pricing-table-border-radius: 	1em;
 $pricing-table-border-radius-outside: 1em;
 
 $spacing-unit:     30px;
 
-$text-color:       	#454038;
-$background-color: 	#FFF;
+$text-color:       	#333;
+$background-color: 	#fefefe;
 $brand-color:      	#2996bf;
 $hover-color:				#00729c;
 $red-color:					#e66125;
@@ -27,14 +27,14 @@ $green-color: 			#36b744;
 $black-color:			 #2B2828;
 $header-color:		 $black-color;
 
-$grey-color:       #403326;
+$grey-color:       #d9d3cf;
 $grey-color-light: #f3f4f2;
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark:  #504a44;
 
 
 
 // Width of the content area
-$content-width:    650px;
+$content-width:    700px;
 
 $on-palm:          650px;
 $on-laptop:        650px;

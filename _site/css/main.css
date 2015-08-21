@@ -12,14 +12,13 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
-  font-size: 17px;
+  font-family: "kepler-std", Helvetica, sans-serif;
+  font-size: 22px;
   line-height: 1.5;
-  font-weight: 300;
-  color: #454038;
-  background-color: #FFF;
+  font-weight: 200;
+  color: #333;
+  background-color: #fefefe;
   -webkit-text-size-adjust: 100%;
-  letter-spacing: -.02em;
   word-spacing: .02em; }
 
 @media screen and (max-width: 650px) {
@@ -58,7 +57,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14.875px; }
+  font-size: 19.25px; }
 
 /**
  * Lists
@@ -68,7 +67,7 @@ ul, ol {
 
 ul {
   line-height: 1.75em;
-  margin: 1em 1.5em;
+  margin: 1em;
   list-style: none;
   padding: 0; }
   ul li {
@@ -96,9 +95,9 @@ ol {
 ol > li {
   position: relative;
   /* Create a positioning context */
-  margin: 0 0 10px 3em;
+  margin: 0 0 10px 2em;
   /* Give each list item a left margin to make room for the numbers */
-  padding: 4px 12px;
+  padding: 4px 5px;
   /* Add some spacing around the content */
   list-style: none;
   /* Disable the normal item numbering */
@@ -114,7 +113,7 @@ ol > li:before {
   /* Increment the counter by 1 */
   /* Position and style the number */
   position: absolute;
-  top: .5em;
+  top: .25em;
   left: -3em;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -129,9 +128,9 @@ ol > li:before {
   padding: 2px;
   background: #f3f4f2;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 10px;
   text-align: center;
-  color: #454038; }
+  color: #333; }
   @media screen and (max-width: 650px) {
     ol > li:before {
       margin-right: .75em;
@@ -149,13 +148,14 @@ h1, h2, h3 {
   margin: 2em 0 .75em;
   font-style: normal;
   line-height: 1.4;
-  font-style: normal; }
+  font-style: normal;
+  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif; }
   h1 em, h2 em, h3 em {
     font-weight: 500;
     font-style: normal; }
 
 h1 {
-  font-size: 180%;
+  font-size: 220%;
   margin: 1.5em 0 .75em;
   letter-spacing: -.025em; }
   @media screen and (max-width: 650px) {
@@ -163,7 +163,7 @@ h1 {
       font-size: 125%; } }
 
 h2, h3 {
-  font-size: 115%;
+  font-size: 135%;
   letter-spacing: -.02em;
   font-weight: 400; }
   @media screen and (max-width: 650px) {
@@ -181,7 +181,7 @@ a {
   a.buy-link {
     color: #FFF;
     font-weight: 600;
-    background-color: #403326;
+    background-color: #504a44;
     display: block;
     padding: .4em .5em;
     border-radius: .5em;
@@ -189,27 +189,27 @@ a {
     min-width: 5em; }
     a.buy-link:hover {
       text-decoration: none;
-      background-color: #604d39; }
+      background-color: #6c645b; }
     @media screen and (max-width: 650px) {
       a.buy-link {
         font-size: 90%; } }
   a.regular {
-    background-color: #403326; }
+    background-color: #d9d3cf; }
 
 input[type="text"], input[type="password"], input[type="name"], input[type="email"], input[type="number"], select, textarea, input[type=file] {
-  font: 18px/1.552em "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
+  font: 18px/1.552em "kepler-std", Helvetica, sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-border-radius: 0.25em;
-  -moz-border-radius: 0.25em;
-  -o-border-radius: 0.25em;
-  border-radius: 0.25em;
+  -webkit-border-radius: 0.4em;
+  -moz-border-radius: 0.4em;
+  -o-border-radius: 0.4em;
+  border-radius: 0.4em;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   transition: all 0.2s ease;
-  border: 2px solid #aa8c6f;
+  border: 2px solid #d9d3cf;
   display: block;
   font-size: 14px;
   padding: 8px 8px;
@@ -222,9 +222,9 @@ input[type="text"], input[type="password"], input[type="name"], input[type="emai
     border: 2px solid #2996bf; }
 
 input[type=submit], a.submit {
-  font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
+  font-family: "kepler-std", Helvetica, sans-serif;
   cursor: pointer;
-  border-radius: 0.25em;
+  border-radius: 0.4em;
   background-color: #2996bf;
   padding: .7em 1em;
   margin: 1 0;
@@ -247,7 +247,7 @@ input[type=submit], a.submit {
  * Blockquotes
  */
 blockquote {
-  color: #454038;
+  color: #333;
   border-top: 1px solid #f3f4f2;
   padding: 1em 0;
   font-size: 95%; }
@@ -281,16 +281,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(650px - (30px * 2));
-  max-width: calc(650px - (30px * 2));
+  max-width: -webkit-calc(700px - (30px * 2));
+  max-width: calc(700px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 650px) {
     .wrapper {
-      max-width: -webkit-calc(650px - (30px));
-      max-width: calc(650px - (30px));
+      max-width: -webkit-calc(700px - (30px));
+      max-width: calc(700px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -311,7 +311,7 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #403326; }
+    fill: #d9d3cf; }
 
 i.fa.fa-check {
   color: #e66125;
@@ -362,7 +362,7 @@ table.pricing {
     table.pricing .button {
       padding: .1em .5em .25em; } }
   table.pricing .bottom-right {
-    border-radius-bottom-right: 0.25em; }
+    border-radius-bottom-right: 0.4em; }
   table.pricing th, table.pricing td {
     border: 1px solid #f1f3f5; }
   table.pricing th, table.pricing .check, table.pricing .buy {
@@ -381,7 +381,7 @@ table.pricing {
     font-size: 80%;
     padding: 1em 1.5em; }
     table.pricing td strong {
-      color: #30261c;
+      color: #cec6c1;
       font-weight: 600;
       font-size: 100%; }
     @media screen and (max-width: 650px) {
@@ -403,7 +403,7 @@ table.pricing {
   table.pricing .bonus {
     background-color: #f7f8f9;
     font-weight: 500;
-    color: #2a2119;
+    color: #504a44;
     border: 0; }
     table.pricing .bonus p, table.pricing .bonus h2 {
       letter-spacing: normal;
@@ -528,12 +528,12 @@ h3.topic-section {
     margin-left: -.5em;
     padding: 0 .5em;
     font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
-    color: black; }
+    color: #504a44; }
     h3.topic-section a span {
       margin-left: .25em;
       vertical-align: .1em;
       font-size: 19px;
-      font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif; }
+      font-family: "kepler-std", Helvetica, sans-serif; }
     h3.topic-section a:hover {
       background-color: #F1F1F1;
       border-radius: 2em; }
@@ -555,7 +555,7 @@ ul.topic-list, ol.topic-list {
     width: 100%;
     margin: 1em auto 1em; }
 ul a.topic-chapter, ol a.topic-chapter {
-  font: 17px/1.4 "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
+  font: 17px/1.4 "kepler-std", Helvetica, sans-serif;
   display: inline-block;
   overflow: hidden; }
 
@@ -614,7 +614,7 @@ ul a.topic-chapter, ol a.topic-chapter {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #403326;
+  color: #d9d3cf;
   margin-left: -15px; }
 
 .footer-col {
@@ -664,8 +664,8 @@ ul a.topic-chapter, ol a.topic-chapter {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14.875px;
-  color: #403326; }
+  font-size: 19.25px;
+  color: #d9d3cf; }
 
 .post-link {
   display: block; }
@@ -673,9 +673,9 @@ ul a.topic-chapter, ol a.topic-chapter {
 .post-note {
   padding: 1em 2em;
   font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
-  border: 1px dashed #403326;
+  border: 1px dashed #d9d3cf;
   margin: 2em 0;
-  color: #403326; }
+  color: #d9d3cf; }
   .post-note p, .post-note h1, .post-note h2, .post-note h3, .post-note h4 {
     margin: 0 auto; }
   .post-note input[type=submit] {
@@ -697,13 +697,13 @@ ul a.topic-chapter, ol a.topic-chapter {
   padding: 1em 2em;
   font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, sans-serif;
   margin: 2em 0;
-  color: black;
+  color: #504a44;
   background-color: #fffdee; }
   .post-post-it-note p, .post-post-it-note h1, .post-post-it-note h2, .post-post-it-note h3, .post-post-it-note h4 {
     margin: 0 auto; }
 
 .course {
-  border: 3px solid #aa8c6f; }
+  border: 3px solid white; }
 
 /**
  * Posts
@@ -718,7 +718,7 @@ ul a.topic-chapter, ol a.topic-chapter {
       font-size: 150%; } }
 
 .book-description {
-  color: #403326;
+  color: #d9d3cf;
   margin-bottom: 5em; }
 
 .post-content {
