@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Find your next client today.
+# Find your next client 2-3 months sooner. End future dry spells.
 
 It's always on the back of your mind as a freelancer. You ask yourself: "Where will my next project come from?" "Am I starting to fall into a dry spell?" and "Am I going to run out of money before I find my next client?"
 

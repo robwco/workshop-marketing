@@ -133,7 +133,7 @@ ol > li:before {
     counter-increment:li; /* Increment the counter by 1 */
     /* Position and style the number */
     position:absolute;
-    top:.25em;
+    top:.35em;
     left:-3em;
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
@@ -145,7 +145,7 @@ ol > li:before {
        generated content but not positioning it (Camino 2 is one example) */
     margin-right: 1.5em;
 		margin-left: .5em;
-    padding:2px;
+    padding:0;
     background: $grey-color-light;
     font-weight: 300;
 		font-size: 10px;
@@ -165,7 +165,7 @@ ol > li:before {
  * Headings
  */
 h1, h2, h3 {
-  font-weight: 300;
+  font-weight: 500;
 	color: $header-color;
 	margin: 2em 0 .75em;
 	font-style: normal;
@@ -180,7 +180,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 220%;
+	font-size: 30px;
 	margin: 1.5em 0 .75em;
 	
 	letter-spacing: -.025em;
@@ -190,9 +190,9 @@ h1 {
 }
 
 h2, h3 {
-	font-size: 135%;
+	font-size: 18px;
 	letter-spacing: -.02em;
-	font-weight: 400;
+	font-weight: 500;
 	
 	@include media-query($on-palm) {
 		font-size: 90%;
