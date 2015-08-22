@@ -37,7 +37,7 @@ Alternatively, if you keep contacting new opportunities when you're booked solid
 
 That's hard to do when you are starving for work. 
 
-## That’s why you should keep emailing leads even when you’re already fully booked.
+## That’s why you should keep emailing leads even when you HAVE work.
 It sounds simple but you probably don't it because finding new clients takes a lot of effort. 
 
 And just thinking you can force yourself to keep up isn't the answer either. When you have work, by definition, you're more busy. 

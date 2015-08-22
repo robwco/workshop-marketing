@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Find your next client 2-3 months sooner. End future dry spells.
+# What if you were already booked through October?
 
-It's always on the back of your mind as a freelancer. You ask yourself: "Where will my next project come from?" "Am I starting to fall into a dry spell?" and "Am I going to run out of money before I find my next client?"
+It's always on the back of your mind as a freelancer. You ask yourself: "Where will my next project come from?" "Am I going to fall into a dry spell soon?" and "What if I run out of money before I find my next client?"
 
 Yet finding new work continues to be a chore - despite knowing there are thousands of companies you can help.
 

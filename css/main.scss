@@ -6,21 +6,29 @@
 
 
 // Our variables
-$base-font-family: "Ideal Sans SSm A", "Ideal Sans SSm B" Helvetica, sans-serif;
-$alt-font-family:	 "Ideal Sans SSm A", "Ideal Sans SSm B", Helvetica, sans-serif;
-$base-font-size:   16px;
+$base-font-family: "ff-basic-gothic-web-pro", Verdana, Sans-Serif;
+$base-font-weight: 	300;
+$base-font-size:   17px;
+$base-line-height: 1.4;
+
+$headline-font-weight: 500;
+$headline-font-size: 26px;
+$headline-line-height: 1.27;
+$sub-headline-font-size: 20px;
+$sub-headline-line-height: 1.34;
+
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+
 $ui-border-radius: .4em;
 $pricing-table-border-radius: 	1em;
 $pricing-table-border-radius-outside: 1em;
 
 $spacing-unit:     30px;
 
-$text-color:       	#333;
+$text-color:       	#4c4c4c;
 $background-color: 	#fefefe;
-$brand-color:      	#2996bf;
-$hover-color:				#00729c;
+$brand-color:      	#299ace;
+$hover-color:				#48b2e9;
 $red-color:					#e66125;
 $green-color: 			#36b744;
 
@@ -28,14 +36,13 @@ $black-color:			 #2B2828;
 $header-color:		 $black-color;
 
 $grey-color:       #d9d3cf;
-$grey-color-light: #f3f4f2;
+$grey-color-light: #dddddd;
 $grey-color-dark:  #504a44;
 
 
 
 // Width of the content area
 $content-width:    700px;
-
 $on-palm:          650px;
 $on-laptop:        650px;
 

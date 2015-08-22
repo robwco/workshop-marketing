@@ -4,7 +4,7 @@ title: Emails That Win You Clients
 permalink: /course/
 ---
 
-# If you're not booked 4-6 months in advance you're at risk of a dry spell.
+# If you're not booked 4-6 months in advance you're asking for a dry spell.
 If you're like me, when you see an email from a potential client you feel a small rush of excitement. For a second you really believe you might have hit the client jackpot and that amazing fulfilling client work awaits you. 
 
 Unfortunately that feeling usually goes away rather quickly... and sometimes doesn't come back for weeks or months. We call those dry spells. 

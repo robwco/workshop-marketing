@@ -6,7 +6,7 @@
 	padding: 2em 2em 2em;
 	
 	p {
-		font-family: $alt-font-family;
+		font-family: $base-font-family;
 	}
 
 }
@@ -40,7 +40,7 @@ h3 {
 				a {
 					margin-left: -.5em;
 					padding: 0 .5em;
-					font-family: $alt-font-family;
+					font-family: $base-font-family;
 					color: $grey-color-dark;
 					span { 
 						margin-left: .25em;
@@ -96,15 +96,14 @@ ul, ol {
 				min-width: 400px;
 				width: 50%;
 				display: inline;
-				font-size: 80%;
 				padding: 2em 0 0;
-				letter-spacing: .05em;
+				font-weight: 500;
+				font-size: 14px;
 
 				a {
-					text-transform: uppercase;
-					margin-right: 1.5em;
+					margin-right: 1.8em;
 					strong {
-						font-weight: 600;
+					font-weight: 500;
 					}
 				}
 
@@ -226,7 +225,7 @@ ul, ol {
 
 .post-note {
 	padding: 1em 2em;
-	font-family: $alt-font-family;
+	font-family: $base-font-family;
 	border: 1px dashed $grey-color;
 	margin: 2em 0;
 	color: $grey-color;
@@ -243,7 +242,7 @@ ul, ol {
 		border-radius: .5em;
 		font-size: 15px;
 		min-width: 5em;
-		font-family: $alt-font-family;
+		font-family: $base-font-family;
 		&:hover {
 			text-decoration: none;
 			background-color: #3eb2e7;
@@ -253,7 +252,7 @@ ul, ol {
 
 .post-post-it-note {
 	padding: 1em 2em;
-	font-family: $alt-font-family;
+	font-family: $base-font-family;
 	margin: 2em 0;
 	color: $grey-color-dark;
 	background-color: lighten(#fff7ac, 13%);
