@@ -2,15 +2,22 @@
 layout: default
 ---
 
-# What if you were already booked through October?
 
-It's always on the back of your mind as a freelancer. You ask yourself: "Where will my next project come from?" "Am I going to fall into a dry spell soon?" and "What if I run out of money before I find my next client?"
+# What if you were already booked through November?
 
-Yet finding new work continues to be a chore - despite knowing there are thousands of companies you can help.
+As a tiny company, constantly finding new work to pitch and win can start to weigh you down. Month after month the same questions loom in the back of your mind: 
 
-With that big of a pool of potential clients, shouldn't you have new work whenever you want? Yes. The problem is finding these opportunities. It takes time you don't have. 
+- "Where will my next freelance project come from?" 
+- "Am I going to fall into a dry spell again?"
+- "What if I run out of money before I find my next client?"
 
-After all, you already work too much. You have existing clients to take care of, important emails to write, and urgent fires to put out.
+It doesn't make any sense. Why should it be so hard to find a client when there's thousands of companies out there you can help?
+
+After all, with such a vast pool of potential clients and your level of expertise, shouldn't you have new work whenever you want? 
+
+Yes! The problem isn't your copy, portfolio, or your service. It's finding these opportunities. 
+
+It takes time you don't have. You have existing clients to take care of, important emails to write, and urgent fires to put out.
 
 Doing lead generation on top of all of this just sucks. You want to do the work you love, not search for it. Worse, it's unprofitable. That's why you put it off. 
 
@@ -27,7 +34,7 @@ It's not worth it.
 
 ### Don't believe internet trolls, freelancing doesn't have to be feast or famine. You *don't* have to rely solely on referrals.
 
-It's time to do something about your unprofitability today. Your business should have access to all of the best clients and opportunities for growth. 
+It's time to do something about your unprofitability. Your business should have access to all of the best clients and opportunities for growth. 
 
 Likewise, great clients should have access to your services and expertise – regardless of whether you remembered to check a job board.
 
@@ -40,11 +47,11 @@ You just need them delivered to you. That way, you can focus on selling your com
 
 <div class="spacer" style="height: 2em; display: table;"></div>
 
-## What if refreshing your inbox and waiting wasn't the only thing you could do when you ran out of work?
+## Refreshing your inbox and waiting isn't the only thing you can do when you run out of work.
 
-If you woke up every day with a dozen great clients looking for your help, what would it mean to the profitability of your business? 
+What if you woke up every day with a dozen great clients looking for your help, what would it mean to the profitability of your business? 
 
-Would your revenue double? Would it turn your on-the-side freelancing into your full-time six-figure consultancy? If, overnight, you got the best opportunities automatically instead? 
+Would your revenue double? Would it turn your on-the-side freelancing into your full-time six-figure consultancy? If, overnight, you got the best opportunities automatically instead of sitting and waiting by your phone. 
 
 Or if you could simply reply to people and projects you were excited to work for, straight from your inbox? 
 

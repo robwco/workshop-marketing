@@ -1,19 +1,67 @@
 ---
-layout: page
+layout: default
 title: How to get your next client today
-tags: intro
-chapter: Introduction
 permalink: /freelancing/
-author: Robert Williams
-date: 2015-06-17 23:59:00
 ---
 
-{% include course-optin.html %}
+<div style="width: 100%;">
+	<img src="/images/workshop-freelancer.png" style="display: block; margin: 2em auto -2em; width: 25em; max-width: 100%;">
+</div>
 
-# Why do dry spells happen?
+
+<center>
+<h1>Feast or famine isn't just a part of freelancing you have to live with.</h1>
+
+
+<div class="course">
+	
+<h3>Free Course: How to end dry spells forever (plus 8-12 high-quality freelance leads)</h3>
+
+{% include course-form.html %}
+
+</div>
+
+</center>
+
+<hr>
+
+<div class="spacer" style="height: 2em; display: table;"></div>
+
+<div style="float: right; width: 225px; margin-left: 1em; font-size: 65%; padding: 1em .5em 0; border: 1px solid #ddd; border-radius: 6px; margin: 0em 0 0 1em">
+	<center><h3 style="font-size: 120%; margin: .5em 0 0;">Lessons Included in the Course:</h3></center>
+	<ul>
+		<li>What to do today</li>
+		<li>The email line that's client repellent</li>
+		<li>How to 2x a client's budget</li>
+		<li>What to say to leads</li>
+		<li>Template: world-class client feedback</li>
+		<li>How to find 100s of clients for free</li>
+		<li>The Portfolio guide</li>
+		<li>Case Study: Tyler van der Hoeven</li>
+	</ul>
+</div>
+<div style="display: table;">
+<p>
+Sure, you might be in and out of dry spells because you don’t have time to find new work but you can end the cycle.</p>
+
+<p>There’s a better way. You can fill up your pipeline months in advanced and never worry about where your next project will come from again.</p>
+
+<p>I'll help by sending you 10+ high quality freelance leads that are looking to hire someone like you. You’ll also get a trusted system for finding, emailing, and winning work absolutely free.</p>
+</div>
+
+
+> “I used your tips and landed gigs in less than 2 weeks and am currently in talks with 3 more!”
+>
+> <img src="/images/glori.png" class="testimonial-photo"> 
+>
+> Glori Surban<br>
+> [Slideshare Designer](http://www.glorisurban.com/)
+
+
+
+## Why do dry spells happen to good freelancers?
+
 When you're in a dry spell an untimely bill can put your checking account in the red at any moment. This cycle regularly pokes holes in your income, business trajectory, and sanity. Yet most freelancers don't know the true cause.
-
-
 
 ## It's not why you think. Dry spells are NOT a natural part of freelancing. 
 Every sales cycle will naturally go through ebbs and flows - BUT long periods without work don't occur just because. They actually happen because of inaction.
@@ -24,7 +72,7 @@ In fact, that's probably the last time you dedicated whole days just to looking 
 
 When you're a freelancer, it seems like work is destined to come in bunches and leave you thinking: "Where were all of these clients 2 weeks ago?"
 
-The truth is, though, you have a hand in it – and if you stopped waiting until you're out of work to jumpstart your client outreach, you could totally avoid it.
+The truth is you have a hand in it – and if you stopped waiting until you're out of work to jumpstart your client outreach, you could totally avoid it.
 
 ## Dry spells actually begin when you're fully-booked!
 See, just like you suck at estimating how long a client project will take, you also suck at estimating how long the income you just got will sustain you.

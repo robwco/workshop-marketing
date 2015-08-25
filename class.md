@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Emails That Win You Clients
-permalink: /course/
+title: Designing the Experience of Working with You Masterclass
+permalink: /class/
 ---
 
 # If you're not booked 4-6 months in advance you're asking for a dry spell.

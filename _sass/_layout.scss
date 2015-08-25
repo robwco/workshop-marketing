@@ -1,5 +1,35 @@
 /** Homepage **/
 
+.course {
+	& + h1 {
+		margin: .25em 0;
+	}
+	h3 {
+		margin: 0;
+	}
+	margin: 1em 0; 
+	padding: 1em 2em .5em;
+	background-color: lighten($brand-color, 46%);
+	border-radius: .4em;
+}
+.product {
+	border: 2px solid #ddd; border-radius: .4em; padding: 1em;
+	margin: 1em 0;
+	display: block;
+	h3 { 
+		margin: .5em 0 .5em;
+		}
+	img { 
+		margin: .5em 2em .5em 1em; 
+		max-width: 6em;
+		
+			@include media-query($on-palm) {
+			width: 3em;
+			margin: .5em 1em .5em .5em;
+			}
+		}
+}
+
 .feature {
 	background-color: $grey-color-light;
 	margin: 4em 0 6em;
@@ -89,21 +119,21 @@ ul, ol {
 .site-header {	
 		border-bottom: 1px solid $grey-color-light;
     min-height: 40px;
-		padding: 2.5em 0em 0;
+		padding: 1em 1em 0;
 		font-weight: 400;
 
 		nav {
 				min-width: 400px;
 				width: 50%;
 				display: inline;
-				padding: 2em 0 0;
-				font-weight: 500;
+				font-weight: 400;
 				font-size: 14px;
+				letter-spacing: 0;
 
 				a {
 					margin-right: 1.8em;
 					strong {
-					font-weight: 500;
+					font-weight: 400;
 					}
 				}
 

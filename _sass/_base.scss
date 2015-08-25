@@ -8,6 +8,42 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: $base-font-weight;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+		letter-spacing: -.04em;
+		text-rendering: optimizeLegibility;
+
+
+}
+
+p, li {
+	@include media-query($on-palm) {
+		font-size: 80%;
+		line-height: 1.35;
+	}
+}
+
+strong {
+	font-weight: 400;
+	letter-spacing: 0;
+}
+
+em {
+	font-style: normal;
+	font-weight: 400;
+}
+
+
 @font-face {
 	font-family: Cortado-Web;
 	src: url('/fonts/CortadoScript.eot');
@@ -39,48 +75,22 @@ a {
  }
 }
 
-/**
- * Basic styling
- */
-body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: $base-font-weight;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-		word-spacing: .01em;
-		letter-spacing: -.03em;
 
+hr {
+	border: 0;
+	height: 1px;
+	outline: 0;
+	background-color: #DDD;
+	
 }
-
-p, li {
-	@include media-query($on-palm) {
-		font-size: 80%;
-		line-height: 1.35;
-	}
-}
-
-strong {
-	font-weight: 400;
-	letter-spacing: 0;
-}
-
-em {
-	font-style: normal;
-	font-weight: 400;
-}
-
-
 
 /**
  * Headings
  */
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
 	color: $header-color;
   font-weight: $headline-font-weight;
-	margin: 2em 0 .75em;
+	margin: $headline-margin;
 	font-style: normal;
 	letter-spacing: -.03em;
 	
@@ -151,18 +161,35 @@ ul, ol {
 }
 
 ul {
-    line-height: 1.75em;
-    margin: 1em;
-    list-style: none;
-    padding: 0;
-		li {
-		    padding-left: 1em;
-		    text-indent: -1em;
-		}
+  line-height: 1.5em;
+  margin: 1em;
+  list-style: none;
+  padding: 0;
+	li {
+	    padding-left: 1em;
+	    text-indent: -1em;
+	}
 	li:before {
 	    content: "•";
 	    color: #e66125;
 	    padding-right: .5em;
+	}
+	&.favorites {
+		  line-height: 2em;
+	    margin: 1em 0 2em;
+	    list-style: none;
+	    padding: 0;
+			li {
+			    padding-left: 1em;
+			    text-indent: -1em;
+			}
+			li:before {
+					font-size: 14px;
+			    content: "★";
+			    color: #edbc40;
+			    padding-right: 1.5em;
+			vertical-align: .25em;
+			}
 	}
 }
 
@@ -199,7 +226,7 @@ ol > li:before {
     counter-increment:li; /* Increment the counter by 1 */
     /* Position and style the number */
     position:absolute;
-    top:.35em;
+    top:.6em;
     left:-3em;
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
@@ -211,10 +238,10 @@ ol > li:before {
        generated content but not positioning it (Camino 2 is one example) */
     margin-right: 1.5em;
 		margin-left: .5em;
-    padding:0;
-    background: $grey-color-light;
-    font-weight: 300;
-		font-size: 10px;
+    padding:3px 0 0;
+    background: lighten($grey-color-light, 9%) ;
+    font-weight: 500;
+		font-size: 12px;
     text-align:center;
 		color: $text-color;
 		@include media-query($on-palm) {
@@ -301,7 +328,7 @@ input[type=submit], a.submit {
 	cursor: pointer;
 	border-radius: $ui-border-radius; 
 	background-color: $brand-color;
-	padding: .8em 1.5em .7em; 
+	padding: 1em 1.5em .9em; 
 	margin: 1 0; 
 	font-weight: 600;
 	letter-spacing: 0;
