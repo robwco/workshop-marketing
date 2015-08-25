@@ -31,9 +31,19 @@ permalink: /products/
 	<img src="/images/folyo-1.png" align="left" style="margin-top: 1.5em;">
 
 	<div style="display: table;">
+		<h3>Post your project to Workshop</h3>
+		<p>Submit your project to Workshop and skip 99% of job board site spam by only showing your project to paying freelancers.</p>
+		<a href="/connect" class="buy-link" style="display: inline-block;">Learn more</a>
+	</div>
+</div>
+
+<div class="product">
+	<img src="/images/folyo-1.png" align="left" style="margin-top: 1.5em;">
+
+	<div style="display: table;">
 		<h3>Folyo - a private job board for designers</h3>
 		<p>My marketplace for the best freelance designers in the world. Originally created by Sacha Greif I took over the app this year.</p>
-		<a href="/" class="buy-link" style="display: inline-block;">Learn more</a>
+		<a href="http://folyo.me" class="buy-link" style="display: inline-block;">Learn more</a>
 	</div>
 </div>
 
@@ -64,7 +74,7 @@ permalink: /products/
 
 	<div style="display: table;">
 		<h3>Endless Client Generator</h3>
-		<p>A lead generation service that takes the suckage out of finding clients by delivering them to you inbox every weekday.</p>
+		<p>A file pre-loaded with a huge chunk of freelance job boards that's ready to get plugged into any RSS reader. Comes with a short video on how exactly to to use it.</p>
 		<a href="/using-job-boards" class="buy-link" style="display: inline-block;">Learn more</a>
 	</div>
 </div>
