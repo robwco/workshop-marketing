@@ -29,9 +29,6 @@ As a result, you don't get paid what you're worth, you don't know where your nex
 
 It's not worth it.   
 
-
-<div class="spacer" style="height: 2em; display: table;"></div>
-
 ### Don't believe internet trolls, freelancing doesn't have to be feast or famine. You *don't* have to rely solely on referrals.
 
 It's time to do something about your unprofitability. Your business should have access to all of the best clients and opportunities for growth. 
@@ -43,9 +40,6 @@ But how? You know you can't be everywhere at once. You can't even imagine findin
 You can't. 
 
 You just need them delivered to you. That way, you can focus on selling your company, the thing you **know** how to do – the thing you love to focus on.
-
-
-<div class="spacer" style="height: 2em; display: table;"></div>
 
 ## Refreshing your inbox and waiting isn't the only thing you can do when you run out of work.
 
@@ -61,9 +55,6 @@ What then? Would you add that extra feature to your client's project and blow th
 
 Or would you just spend more time with people you care about?
 
-
-<div class="spacer" style="height: 2em; display: table;"></div>
-
 ## Let me send you the 8-12 best leads every day so you can wake up focused on winning work.
 
 You might think this life is impossible. However, for hundreds of consultancies in Workshop it's a reality. 
@@ -76,7 +67,7 @@ It's also super affordable. Even if you're just freelancing on the side, you can
 
 But you won't love the service because it's cheap, you'll love it because it works and you know it's the best thing you can do for your business.
 
-<div class="spacer" style="height: 2em; display: table;"></div>
+
 
 ### "So what happens if I don't like it?"
 No worries. There's a 30-day 100% satisfaction guarantee. 
@@ -148,7 +139,7 @@ I started doing this with select consultancies in November, 2013.
 Since then I've helped hundreds land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results.
 
 
-<div class="spacer" style="height: 2em; display: table;"></div>
+
 
 ## What my clients say...
 
@@ -299,7 +290,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 > Kurt Elster<br>
 > Chicago, Illinois, USA
 
-<div class="spacer" style="height: 2em; display: table;"></div>
+
 
 
 ## Here's everything you get when you signup:   
@@ -377,7 +368,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
    
    There’s nothing between you and the clients I send you, you email them directly from your inbox and your conversation stays private. Like all my leads, there’s no middleman referral fees, no app, and no confusing system to work around. Just profit.
    
-<div class="spacer" style="height: 2em; display: table;"></div>
+
 
 <table class="pricing" cellspacing="0" cellpadding="0">
 	<tr>

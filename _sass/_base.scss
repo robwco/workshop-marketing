@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5 {
   font-weight: $headline-font-weight;
 	margin: $headline-margin;
 	font-style: normal;
-	letter-spacing: -.03em;
+	letter-spacing: $headline-letter-spacing;
 	
 	em {
 		font-weight: 500;
@@ -112,6 +112,9 @@ h1 {
 h2, h3 {
 	font-size: $sub-headline-font-size;
 	line-height: $sub-headline-line-height;
+	font-weight: $sub-headline-font-weight;
+	font-family: $sub-headline-font-family;
+	
 	@include media-query($on-palm) {
 		font-size: 90%;
 	}
