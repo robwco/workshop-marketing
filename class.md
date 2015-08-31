@@ -632,7 +632,7 @@ Watch me and Tyler go over exactly how he's created an agency that he can manage
 
 
 ### Why you should buy right now
-For the first 25 people who purchase I'm offering a free 2-hour bootcamp, hosted over Google hangouts. Me and Kurt will go over the class material, and answer specific questions for you and your specific business.
+For the first 25 people who purchase I'm offering a free 2-hour bootcamp, hosted over Google hangouts. Kurt and I will go over the class material, and answer questions for you about your specific business.
 
 This one-on-one help will be super valuable if you run into questions implementing the course. 
 
