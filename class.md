@@ -2,6 +2,7 @@
 layout: default
 title: Get Paid! Masterclass on Designing the Experience of Working with You
 permalink: /class/
+description: A course for freelance consultants on how to approach talking to clients, designing the experience of working with you, and using email to automate the bulk of the work and win more clients in less time.
 ---
 
 # If you're not booked 1-2 months in advance you're asking for a dry spell.
