@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Designing the Experience of Working with You Masterclass
+title: Get Paid! Masterclass on Designing the Experience of Working with You
 permalink: /class/
 ---
 
@@ -614,14 +614,13 @@ Watch me and Tyler go over exactly how he's created an agency that he can manage
 	</tr>
 	<tr>
 		<td>
-			<!--<a href="/freelancing">Not ready yet? Try a free sample</a>-->
 
 		</td>
 		<td style="text-align: center;">
-			<a href="#" class="buy-link">Coming soon</a>
+			<a href="https://gumroad.com/l/xJTIw" class="buy-link">Buy now</a>
 			</td>
 		<td style="text-align: center;">
-			<a href="#" class="buy-link">Coming soon</a>
+			<a href="https://gumroad.com/l/QNwhn" class="buy-link">Buy now</a>
 			</td>
 	</tr>
 </table>
