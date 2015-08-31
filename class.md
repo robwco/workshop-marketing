@@ -4,27 +4,30 @@ title: Designing the Experience of Working with You Masterclass
 permalink: /class/
 ---
 
-# If you're not booked 4-6 months in advance you're asking for a dry spell.
-If you're like me, when you see an email from a potential client you feel a small rush of excitement. For a second you really believe you might have hit the client jackpot and that amazing fulfilling client work awaits you. 
+# If you're not booked 1-2 months in advance you're asking for a dry spell.
+If you're like me, when you see an email from a potential client you feel a small rush of excitement. For a second you think you've hit the client jackpot and that amazing, fulfilling client work awaits you. 
 
 Unfortunately that feeling usually goes away rather quickly... and sometimes doesn't come back for weeks or months. We call those dry spells. 
 
-## With so much of your joy and success hinging on your email, why do you let your inbox become a graveyard for freelance work? 
+## With so much of your freelancing hinging on email, why do you let your inbox become a graveyard for freelance work? 
 
-The truth is most freelancers feel anxious about their inbox and for good reason. If I looked in your email right now, what would I see?
+The truth is most freelancers feel anxious about their inbox. If I looked in your email right now, what would I see?
 
-You'd probably have a bunch of folders with cobwebs on them, emails crammed all over the place, and no real strategy to how you utilize your inbox ... just like most freelancers.
+You'd probably have a bunch of folders with cobwebs on them, emails crammed all over the place, and no real strategy to how you utilize your day to day emails ... just like most freelancers.
 
 Even thinking about it now probably makes you uncomfortable.
 
 Consider the fact that virtually all of your new business opportunities are born and live here. Whether it's a new client, referral work, or past clients - most of them will approach you *via email.*
 
-So your anxiety is well placed. Your inbox HAS to be affecting your business. It HAS to have a direct correlation on how much you make. And if it's not properly utilized, you're leaving money on the table.
+So your anxiety is well placed. Your inbox HAS to be affecting your business. It HAS to have a direct correlation with how much you make. And if it's not properly utilized, you're leaving money on the table.
 
-## When was the last time you focused on improving your email skills? 
-Sure you're constantly learning about design, development, or whatever you're passionate about but do those things have the direct correlation to your bottom line as email?
+## You've probably never focused on improving your email skills even though your business depends on it. 
 
-I'd argue email is equally as important, yet most of us never focus on improving it as a skill – and the truth is our professional lives are a roller coaster of worry because of it. 
+Sure you're constantly learning about design, development, or whatever you're passionate about – but do those things have the direct correlation to your bottom line as email?
+
+Does adding a new design or development skill automatically guarantee new work? Or is it just another distraction from what you should be doing, finding and winning clients?
+
+That's why I'd argue email is equally as important, yet most of us never focus on improving it as a skill – and the truth is our professional lives are a roller coaster of worry because of it. 
 
 Opportunities come and go. You feel unorganized. You have this terrible feeling that you might be dropping the ball all of the time. 
 
@@ -32,11 +35,11 @@ The worst part is you accept your situation as the nature of the business.
 
 ## Cold hard fact 1: You don't have a system for handling email so you forget important shit (like who's interested, who you've already emailed, who you need to follow up with, etc).
 
-That's why you feel like you're dropping the ball constantly.
+That's why you feel like you're dropping the ball.
 
-The truth is this is bound to happen. You're just one person. It's not possible to remember every little detail about everything you should be doing for your business. 
+The truth is it's bound to happen. You're just one person. It's not possible to remember every little detail about everything you should be doing for your business. 
 
-Still, there's no denying that when you go to sleep your business stops. When you don't find and email new leads your phone doesn't ring. If I were to take you away from your business for a few weeks, it wouldn't survive very long.
+Still, there's no denying that when you go to sleep your business stops. When you don't find new leads your phone doesn't ring. If I were to take you away from your business for a few weeks, it wouldn't survive very long.
 
 It would fall into a dry spell. It would be lost without you. 
 
@@ -51,9 +54,9 @@ Companies everywhere are looking for a freelancer like you – everyday you see 
 
 You know you can help these companies, why does contacting them feel spammy? Worse, why don't they respond to your emails?
 
-One thing is for sure: you don't want to be that spammy guy. You hate the thought of sending a bunch of shitty emails, crossing your fingers and hoping you'll hear back. 
+One thing is for sure: you don't want to be considered a spammer. You hate the thought of sending a bunch of shitty emails, crossing your fingers and hoping you'll hear back. 
 
-But when you sit down to write it that's exactly what comes out. So you tense up. A surge of ideas hit you. You want to encapsulate every bit of yourself in your email.
+But when you sit down to write it that's exactly what comes out. So you tense up. You overcompensate. A surge of ideas hit you. You want to encapsulate every bit of yourself in your email.
 
 Every word you write makes you feel less confident. Before you know it, you’ve re-written your email a hundred times and you're still not happy. Staring at a blank screen, you ask yourself:
 
@@ -64,7 +67,7 @@ Every word you write makes you feel less confident. Before you know it, you’ve
 
 You don't know the answers so you highlight it all and hit delete. It's only a few more seconds before you give up and close the tab. You asked yourself the wrong questions.
 
-## Cold hard fact 3: You spend too much time rewriting the same emails and it's crippling your productivity and effectiveness.
+## Cold hard fact 3: You spend too much time writing the same emails you sent last week and it's crippling your productivity and effectiveness.
 
 You've probably discovered by now that a shocking amount of your time and business is spent just sending emails. 
 
@@ -72,17 +75,25 @@ Because of this you know your business is unavoidably tied to the success of tho
 
 If you're an average freelancer you send over 10,000 emails per year. At that volume you repeat yourself a lot. 
 
-By the 13th time you ask someone for a referral you undoubtably start to half-ass it. 
+There's really only a handful of emails you write. 
+
+By the 13th time you ask someone for a referral you undoubtably start to half-ass it.
+
+The same thing happens when you approach a lead, ask a client for feedback, and more. 
 
 Why does it have to be this way? Shouldn't every client get your best? Why can't every email you write put you in the best position possible?
 
-There's only so many different types of emails you need to send. You ask for testimonials, you send cold emails, you ask for referrals, yet each time you write one of these emails for the millionth time, you feel yourself slipping. 
+There's only so many different types of emails you need to send. You ask for testimonials, you send cold emails, you ask for referrals, you ask clients for feedback, yet each time you write one of these emails for the millionth time, you feel yourself slipping. 
 
 I know, I hate it too. 
 
 ## But instead of sitting and waiting for your next client to appear, what if you could turn on client work whenever you wanted?
 
 What if you knew the exact recipe for writing a perfect email? What if you only sent emails that gave you the best chance at landing a client?
+
+What if you could build a source of income without having to find new clients, that consistently brought you new projects automatically without you having to lift a finger?
+
+How about keeping your clients happier than ever by connecting with them regularly, all automatically?
 
 What if you didn't want to wait for work to come to you anymore? What if you wanted to be a top freelancer that attracts work strategically and automatically?
 
@@ -96,9 +107,11 @@ If you could unlock the most fulfilling, meaningful freelance work of your caree
 
 It would mean more clients and access to better, more profitable projects. Best of all, it would mean working less and getting more out of your time.
 
-## Announcing! The Emails That Win You Clients Masterclass and Video Course: Learn how to make your work more profitable through email. 
+Time is the key here. It opens up a better life. 
 
-It's a powerful system for getting new clients that's specifically built for a freelance business. It will totally change how you find and keep clients. 
+## Announcing: Get Paid! The only video course focused on creating a profitable email system for freelance businesses.
+
+It's a powerful system for getting and keeping new clients that's specifically built for a freelance business. It will totally change how you find and keep clients. 
 
 You'll learn:
 
@@ -126,195 +139,179 @@ The best part is that you already have everything you need to start the course.
 
 Here's a look at just a few of the things you get you get:
 
-<div class="spacer" style="height: 2em; display: table;"></div>
 
+<div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
-1. ### Emails that Win You Clients Audio Masterclass - 
-Over 2.5 hours of audio by top freelancers (including: Nick Disabato, Alex Hillman, Paul Jarvis, Kurt Elster, Samuel Hulick, Michael Alexis, and Jarrod Drysdale) discussing writing great emails, pricing, productized consulting, and a ton more. 7 premium mp3 audio files totalling over 2+ hours of case studies. 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221203082&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-2. ### Premium Only - Emails That Win You Clients 
-An advanced guide to writing crisp, compelling emails that win you more freelance work in less time. Includes a digital copy of the book in PDF, iBooks, and Kindle format.
+<h3><i class="fa fa-check-circle" style="color: #36b744;"></i> The Get Paid! Audio Masterclass</h3>
 
-3. ### Premium Only - Emails That Win: Template Library 
-Discover how a well-crafted message can improve your entire freelance business... You'll get ready-to-use emails for handling a ton of different situations.
-    
-    You'll also get the low-down on how I setup my GMail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why
+<p>Get Paid! Audio Masterclass is a comprehensive course containing  insider information about the exact steps you need to take to make your freelancing more profitable.</p>
 
-4. ### Premium Only - Emails That Win: Cold email checklist
-A one-page cheatsheet that's the perfect companion to the book. Use it to quickly make sure any email you send is optimized and ready to win you clients.
+<p>Most freelancers struggle for one reason and one reason only. Because they approach freelancing without a foundation of customer psychology.</p>
 
-5. ### Premium Only - Emails That Win: Automation Video Course
-Save time & sell more to prospects and clients while you sleep. This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.
+<p>This lack of understanding means they struggle to hear back from clients they approach, and clients don't approach them. The problem isn't the quality of work you do. It's that you're bad at writing emails, and communicating in a way they want to hear. </p>
 
-   Here's what's in it for you: we'll end the feast or famine cycle of freelancing. You'll sell you while you sleep. And you'll take back your time. Plus you'll learn how I made $10K in 72 hours with a single email
+<p>That's why when you look at top consultants what they do differently is usually communicate extraordinarily well. It's not so much their work. </p>
 
-   You'll get: 77 minutes of video training, Copy-and-paste email templates you can use right now, E-mail Content Calendar, Plus presentation notes
- 
-   What the video course covers: The Opportunity, Follow-up Drips, Business Automation, Audience Segmenting, Structuring a Follow-up Sequence, Setting Up Drip, Automation Flows, Bonus Content
+<p>It's their ability to close prospects and turn them into clients at extremely high rates. The thing is that unless you take the time to study these top freelancers you won't notice it. </p>
 
+<p>That's why my audio masterclass is centered around world-class consultants sharing their secrets.</p>
 
-<!--
-## You get the Emails That Win Audio Masterclass
-<img src="/images/strat.png" style="width: 15em; margin-right: 1em;" align="left">
-The Emails That Win Masterclass is a comprehensive course containing audio, detailed notes, and insider information about the exact steps you need to take to make your freelancing more profitable. 
+<p>You'll hear Paul Jarvis, Nick Disabato, Jarrod Drysdale, Samuel Hulick, Kurt Elster, Alex Hillman, Kai Davis and Michael Alexis all discussing the systems they've created for their business.</p>
 
-Most freelancers struggle for one reason and one reason only. Because they approach freelancing without a foundation of customer psychology.
+<p>They'll detail the steps they've gone for building 6-figure consulting practices, businesses that most freelancers only dream of.</p>
+</div>
 
-This lack of understanding means they struggle to hear back from clients they approach, and clients don't approach them. The problem isn't the quality of work you do. It's that you're bad at writing emails. 
 
-I can help  you send better emails and unlock your dream business. h
 
 
 
-This lack of this psychology means the website owner needs to drive tens of thousands of prospects to his/her website to make the website profitable. And even if you do drive those herds of prospects, there’s no guarantee that they’ll buy anything at all.
 
-And this need to have to drive a constant stream of customers, ends up with the website owner doing a lot of legwork. He/she has to be constantly advertising; constantly doing joint ventures; constantly travelling and speaking; constantly working and consequently going a little nuts if everything turns to custard.
 
-What do Paul Jarvis, Nick Disabato, Jarrod Drysdale, Samuel Hulick, Kurt Elster, Alex Hillman, Kai Davis and Michael Alexis all have in common?
+<div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
+<img src="/images/automation-video-course.png" style="width: 22em; margin: .5em auto; display: block;">
 
-They've all built 6-figure consulting practices. They've built businesses that most freelancers only dream of.
+<h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Get Paid! Automation Video Course</h3>
 
-This course comes from a 12-month long series of strategy sessions with over 50+ freelancers who were struggling to hear back from clients. Every one of these freelancers began to see results as soon as they implemented the material. Leads began responding. They started winning clients.
+<p>This detailed video course is an in-depth look at automating your entire system so you can sell to more prospects and clients while you sleep. Videos include how to automate:</p>
+<ul>
+	<li>Customer service consisting like follow-ups and check-ins</li>
+	<li>Giving out valuable info (to keep building trust and authority)</li>
+	<li>Up-sells and info about other services and packages</li>
+</ul>
 
-Here's what's covered:
+<p>The common thread behind all of this is value. This setup will allow you to deliver so much more value that the quality of clients you work with, and drastically improve the amount of work you have, so that your freelancing rate improves accordingly (almost with no added effort on your end).</p>
 
+<p>So long as you're constantly delivering value in the form of either literal return on investment for clients or actionable advice for growing a business to prospects, you'll keep succeeding.</p>
 
-This course is designed to be a companion to your email writing process. It’s intended to be something you can open up next to gmail and refer back to whenever you want. It's a resources you can look at quickly and know you're sending out a great email every time.
+<p>I know this video course works because it's directly pulled from my friend Kurt Elste's business. After Kurt completely productized his freelance services and automated his buying cycle with Drip, he literally stepped back and documented exactly how he did it. This course walks you through the exact steps you can take for yourself to follow in his footsteps.</p>
 
-To help you find what you’re looking for quickly, I made stuff easy to find. How to start writing is at the beginning. How to end emails is at the end.
+<p>We'll show you step-by-step exactly how to start generating leads for your business on a daily basis while you sleep. The best part is that you could be fully setup in an afternoon.</p>
 
-In the last year, I've helped dozens of freelancers like you make hundreds of thousands of dollars from emailing freelance leads.
+<p>Kurt used this very same system last year to get so many clients and projects that his revenue grew by 8x. He literally booked myself solid, without networking or cold calls.</p>
 
-That's great, but that's not the whole story. There was also another group. This one made nothing. Despite reaching out to the same opportunities, they couldn't land work. Don't be in the second group.
+<p>This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.</p>
 
-- Don't make the same mistakes when contacting companies:
-- Don't offer nothing compelling.
-- Don't blab on for too long, not knowing when to end an email.
-- Don't sound like a robot.
-- Don't come off spammy.
+<h3>Here's a closer look at over 60 minutes of actionable content:</h3>
 
+	<ul>
+		<li>How Kurt made $10K in 72 hours with a single email.</li>
+		<li>How to end the feast or famine cycle of freelancing</li>
+		<li>How to sell you while you sleep</li>
+		<li>How to take back your time</li>
+		<li>How to setup a system to generate new leads automatically</li>
+		<li>How to setup a system to follow up with past clients automatically</li>
+	</ul>
 
+</div>
 
 
 
 
+<div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
-## Premium Only: The Emails That Win You Clients guide to doubling the amount clients in your inbox that are eager to work with you.
+	<img src="/images/book-mockup.png" style="width: 12em; margin: 0 auto; display: block;">
 
-<img src="/images/book.png" style="width: 6em; margin-right: 1em;" align="left">
+<h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Emails That Win You Clients</h3>
 
+<p>The complete guide to doubling the amount clients in your inbox that are eager to work with you.</p>
+<p>This is my book on how to write emails from scratch that win you more clients in less time.  It comes from strategy sessions with over 50+ freelancers who were struggling to hear back from clients.</p> 
 
+<p>Every one of these freelancers began to see results as soon as they implemented the material. Leads began responding. They started winning clients.</p>
 
-## Premium Only: The Emails That Win You Clients: Template Library that will help you write Amazing Emails in seconds
-<img src="/images/template-library.png" style="width: 7em; margin-right: 1em;" align="left">
- 
-Could well-crafted messages improve your freelance business?
+<p>This book is designed to be a companion to your email writing process. You can open it up next to gmail and refer to it as you write. It's a resource you can look at quickly and know you're sending out a great email every time.</p>
 
-Since jumping feet first into consulting five years ago, I've discovered that a shocking amount of my time and my business is spent just sending emails. As a percentage of time, I'd say my business (and yours) is unavoidably tied to the success of those emails.
+<p>It's organized for skimming. How to start writing is at the beginning. How to end emails is at the end.</p>
 
-As principal of a web development agency, I live & die by email - last year, I sent 11,448 of them. In that time, I've tested dozens of email templates (with dozens of variations) to find the most effective, persuasive, and concise emails. The result is consistently professional correspondence, and that means more profit.
+<p>It stops you from making these mistakes when contacting companies:</p>
 
-By using the very same email templates I use in my business, you'll be able to save yourself hours spent in your inbox, decrease response times, and even fight scope creep.
+<ul>
+<li>Offering nothing compelling.</li>
+<li>Blabbing on for too long, not knowing when to end an email.</li>
+<li>Sounding like a robot.</li>
+<li>Coming off spammy.</li>
+</ul>
+<p>The biggest part is you might not even know you're coming off this way because it's hard to recognize on your own. The book will end that forever.</p>
+</div>
 
-Here's what other freelance business owners have had to say about Email Templates For Freelancers:
 
-What's the perfect email? The right message at the right time said with the right tone. Language that keeps you from giving the farm away, keeps your clients happy, and gets $#!& DONE. Every page of this book got me closer than I ever have been to effective email nirvana. Thanks Kurt!
-–Philip Morgan, My Drip Sherpa
-Kurt taught me the magic email, which has a running success rate of about 95%; therefore, in my eyes he is the Godfather of all things email.
-–Michael Steele, The Bright Agency
-Kurt is on a roll with his second product, this one is an absolute goldmine for any freelancer. These templates will save you dozens of hours of time, while boosting your bottom line. And the best part, is that they are tried and tested, proven lines straight from Kurt's own successful agency business.
-–Chad Fullerton, Founder: Freelancer's Networking Group
-If you want to see what all the fuss is about, you can download my 37 page, 3,400 word guide to successful email templates for freelancers, with copy & paste email templates for handling dozens of situations right now.
 
-Here's what's in it for you:
 
-- Save time with proven templates
-- Maintain a tone that garners respect from clients
-- Keep your projects on track with effective communication
-- Close more deals
-- Get shit done.
+<div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
-You'll get ready-to-use emails for handling these situations:
 
-- Qualifying new Leads
-- Declining a bad Fit
-- Scheduling a Call
-- The Magic Email
-- Onboarding
-- Surveying Your Clients
-- Asking for a Testimonial
-- Asking for a Referral
-- Following-up
-- Weekend Work
-- Handling NDAs
+	<img src="/images/templates.jpg" style="width: 14em; margin: 2em auto; display: block;">
 
-You'll also get the low-down on how I setup my GMail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why.
 
-Why put off improving your business communication? You can buy Email Templates for Freelancers right now for only $47. (The advice in chapter 1 alone is worth that.) The book comes with a 100% guarantee of your satisfaction. Seriously, if you're not happy for any reason, I'll refund your money with 14 days of your purchase.
+<h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Get Paid! Email Templates</h3>
 
-Put Your Lead Gen on Autopilot with Drip Email
+<p>A library of scripts that will help you write amazing emails in seconds.</p>
 
+<p>As principal of a freelance business or agency, you live & die by email - in fact most freelancers send over 10,000 email per year.</p> 
 
+<p>We've tested dozens of email templates (with dozens of variations) to find the most effective, persuasive, and concise emails. The result is consistently professional correspondence, and that means more profit.</p>
+	
+<p>Plug these emails into your consulting and cut down on the huge amount of time you spend writing emails - and just send the perfect email every time almost instantly. These emails are focused in a few key areas:</p>
 
-## Premium Only: The Video Course on automating this entire system so you can sell to more prospects and clients while you sleep
-<img src="/images/video-course.png" style="width: 20em;">
+<ul>
+	<li>Save time with proven templates</li>
+	<li>Maintain a tone that garners respect from clients</li>
+	<li>Keep your projects on track with effective communication</li>
+	<li>Close more deals</li>
+	<li>Get shit done</li>
+</ul>
 
-- Customer service consisting of follow-ups and check-ins
-- Valuable info (to keep building trust and authority)
-- Up-sells and info about other services and packages
+<p>You'll get ready-to-use emails for handling these situations and more:</p>
 
-The common thread behind all of my marketing effort is value.  This setup has allowed me to deliver so much more value that the quality of clients I work with, amount of work I have, and my freelancing rate has improved accordingly (almost with no added effort on my end).
+<ul>
+	<li>Qualifying new Leads</li>	
+	<li>Declining a bad Fit</li>
+	<li>Scheduling a Call</li>
+	<li>The Magic Email</li>
+	<li>Onboarding</li>
+	<li>Surveying Your Clients</li>
+	<li>Asking for a Testimonial</li>
+	<li>Asking for a Referral</li>
+	<li>Following-up</li>
+	<li>Weekend Work</li>
+	<li>Handling NDAs</li>
+	<li>And more!</li>
+</ul>
 
-So long as I’m constantly delivering value in the form of either literal return on investment for clients or actionable advice for growing a business to prospects, I know I’ll keep succeeding. My favorite aphorism being “a rising tide lifts all boats.”
+<p>You'll also get the low-down on how I setup my gmail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why.</p>
 
+</div>
 
-Now after Kurt completely productized his freelance services and automated his buying cycle with Drip, he literally stepped back and documented exactly how he did it.
 
-He's created a course that walks you through the exact steps you can take for yourself to follow in his footsteps.
 
-I took the course and was blown away. It's called Drip profits and it gives you the keys to providing ridiculous amounts of value to your clients, effortlessly.
 
+<div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
-I really wanted to promote this thing to you guys because I know how much it'll help ANY FREELANCE BUSINESS, so I talked him into giving you a sweet discount. 
 
-You can buy it now and get $20 off – it's the best way to automate filling your sales pipeline that I've seen.
+	<img src="/images/case-study.png" style="width: 17em; margin: 2em auto; display: block;">
 
-This coupon will last 48 hours: letsworkshop
 
-Make sure you do yourself a favor and buy this course now. Even if you're busy with client work right at the moment, make time to implement this course soon. Kurt should really be charging 3-4x the current price... and will probably raise the price soon.
+<h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Video Case Study: Tyler Van Der Hoeven</h3>
 
-It's a guaranteed investment that will easily double or triple your consulting revenue in just a few hours.
+<p>This hands-on look at the exact steps you take to go from novice to a top-level consultant. Tyler breaks down every step in his journey from Kentucky farmer to working with top companies like Baremetrics and more. </p>
 
+<p>Not only is this story inspirational, it's practical. You'll gain an insight into how you should approach projects so that you no longer sell yourself short.</p>
 
-What if you could build a source of income without having to find new clients, that consistently brought you new projects automatically without you having to lift a finger?
+<p>Tyler shares exactly how he gets results. He breaks down how he landed work from 5/7 clients he emailed. How he approached them and exactly what he said to land over $50k worth of work.</p>
 
-How about keeping your clients happier than ever by connecting with them regularly, all automatically?
+<p>The fact is if you're a web designer or developer you can do this too. You have one of the most sought after skills in the world right now. Knowing this isn't enough. You have to also use it to your advantage. That's exactly what we dive into and more. You'll learn:</p>
 
-In this course I will show you step-by-step exactly how to start generating leads for your business on a daily basis while you sleep. The best part is that you could be fully setup in an afternoon.
+<ul>
+	<li>How Tyler went from mid-west farmer to top developer without intimidation</li>
+	<li>How Tyler positioned himself with NO portfolio</li>
+	<li>How to get an insanely high response rate</li>
+	<li>How to approach pricing practically</li>
+	<li>Much more</li>
+</ul>
 
-How do I know it'll work? It's the very same system I used last year to get so many clients and projects that I grew my revenue by 8x. I literally booked myself solid, without networking or cold calls.
 
-This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.
-
-Here's what's in it for you:
-
-- We'll end the feast or famine cycle of freelancing
-- You'll sell you while you sleep
-- And you'll take back your time
-
-Plus you'll learn how I made $10K in 72 hours with a single email.
-What you'll get:
-
-- Over 60 minutes of actionable content
-- A system to generate new leads automatically
-- A system to follow up with past clients automatically
-- Copy-and-paste templates you can use right now to create your follow up sequences
-- E-mail Content Calendar 
-- Plus presentation notes
-- Still not convinced? Read these raving testimonials:
-
-
-<div class="spacer" style="height: 2em; display: table;"></div>
+</div>
 
 
 ## “So what happens if I don’t like it?”
@@ -333,27 +330,27 @@ If you’re not booked at least 4-6 months in advanced, it’s a sign you’re s
 
 ## “I just started freelancing. What if I’m not ready?”
 
-I guarantee that if you can build a website, design, or code - at any level - you can also make a lot of money from Workshop today.
+I guarantee that if you can build a website, design, or code - at any level - you can also make a lot of money from this class today.
 
 But it takes investing in yourself now.
 
-It doesn’t matter how much experience you have, the habits you build into your business now will stay with you for a long time (maybe forever).
+It doesn’t matter how much experience you have, the habits and systems you build into your business now will stay with you for a long time (maybe forever).
 
 That’s why it’s important that you push yourself outside of your comfort zone.
 
 Leveling up your consulting business isn’t about planning for the future. It’s about taking small steps right now that will ensure you’re in the best position to succeed.
 
-## “But will Emails That Win work for me? I specialize in X.”
+## “But will this work for me? I specialize in X.”
 
-Yes. Emails that win is a course mostly focused on web design and web development - however the concepts inside it can be applied to any business or even day job. 
+Yes. Get Paid! is a course mostly focused on web design and web development - however the concepts inside it can be applied to any business or even day job. 
 
 The amount of email you send don't just happen behind the scenes. They're the key to all kinds of new opportunities. You'll see a dramatic shift in other areas of your life.
 
-If you’re still worried there may not be enough of your type of lead, the best advice I can give is to try it. There’s a 30-day 100% money-back guarantee for this exact reason.
+If you’re still worried about your specific case, the best advice I can give is to try it. There’s a 30-day 100% money-back guarantee for this exact reason.
 
-Sign up for yourself and see.
+Buy it and see for yourself.
 
-## Will the book have scripts? 
+## Will the course have scripts? 
 Yes. I love examples and will include many breakdowns of emails. However, I believe that scripts and templates almost always encourage writing bad emails. 
 
 They’re formulaic and people can smell a form email coming from a mile away. So my hope is that while you can certainly use these examples in your daily life, you also learn the thought process behind why they're written the way they are.
@@ -362,18 +359,17 @@ They’re formulaic and people can smell a form email coming from a mile away. S
 Great emails are simple. It doesn’t matter if your grammar is perfect, as long as you can write clearly. I’ll teach you to sum up what you need to say.
 
 ## Who are you?
-Robert Williams and Kurt Elster. Robert started Workshop, a service that helps freelancers find work, over a year ago and Kurt runs a consultancy full-time. 
+Robert Williams. I run  Workshop, a service that helps freelancers find work, over a year ago. I also asked Kurt Elster to help me with the video course. Kurt runs a consultancy, Ethercycle, full-time. 
 
 Our goal is to help you crystalize what your dream job means to you, and help you get there.
 
 ## I still have a question?
 No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop.com) and I’ll get back to you shortly, take care!
 
--->
 
 <div class="spacer" style="height: 2em; display: table;"></div>
 
-
+<h1>Acclaim for Get Paid!</h1>
 
 
 > <iframe src="//fast.wistia.net/embed/iframe/xwz61pvzfx?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="500" height="250"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js"></script>
@@ -481,6 +477,33 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 > Denver, CO
 
 
+# Here's what you get:
+
+1. ### Get Paid! Audio Masterclass - 
+Over 2.5 hours of audio by top freelancers (including: Nick Disabato, Alex Hillman, Paul Jarvis, Kurt Elster, Samuel Hulick, Michael Alexis, and Jarrod Drysdale) discussing writing great emails, pricing, productized consulting, and a ton more. 7 premium mp3 audio files totalling over 2+ hours of case studies. 
+
+2. ### Bonus - Cold email checklist
+A 3-page cheatsheet that's the perfect companion to the course. Use it to quickly make sure any email you send is optimized and ready to win you clients.
+
+3. ### Special Bonus - Video Course
+Save time & sell more to prospects and clients while you sleep. This course is excellent for anyone looking to expand their lead generation and online sales. So if you don't want to manage a sales person and don't have enough time to do the selling yourself, then this course is perfect for you.
+
+   Here's what's in it for you: we'll end the feast or famine cycle of freelancing. You'll sell you while you sleep. And you'll take back your time. Plus you'll learn how I made $10K in 72 hours with a single email
+
+   You'll get: 77 minutes of video training, Copy-and-paste email templates you can use right now, E-mail Content Calendar, Plus presentation notes
+ 
+   What the video course covers: The Opportunity, Follow-up Drips, Business Automation, Audience Segmenting, Structuring a Follow-up Sequence, Setting Up Drip, Automation Flows, Bonus Content
+
+4. ### Special Bonus - Emails That Win You Clients 
+An advanced guide to writing crisp, compelling emails that win you more freelance work in less time. Includes a digital copy of the book in PDF, iBooks, and Kindle format.
+
+5. ### Special Bonus - Email Template Library 
+Discover how a well-crafted message can improve your entire freelance business... You'll get ready-to-use emails for handling a ton of different situations.
+    
+    You'll also get the low-down on how I setup my GMail to triage my inbox, a list of the best email one-liners I use to keep projects on track and budget, and as a bonus, you'll learn what you should never do in an email and why
+
+6. ### Special Bonus - Video Case Study
+Watch me and Tyler go over exactly how he's created an agency that he can manage remotely, all while working a full-time job. 
 
 
 <table class="pricing" cellspacing="0" cellpadding="0">
@@ -509,20 +532,17 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 		<td class="check"><i class="fa fa-check"></i></td>
 	</tr>
 
-	
+
+
 	<tr>
-		<td>
-		 Video course: Using job boards
+		<td colspan="3" class="bonus">
+		 Bonus
 		</td>
-		<td class="check"><i class="fa fa-check"></i></td>
-		<td class="check"><i class="fa fa-check"></i></td>
 	</tr>
-
-
 	
 	<tr>
 		<td>
-		 Audio case studies
+			Cold email checklist
 		</td>
 		<td class="check"><i class="fa fa-check"></i></td>
 		<td class="check"><i class="fa fa-check"></i></td>
@@ -532,43 +552,53 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 
 		<tr>
 			<td colspan="3" class="bonus">
-			 Bonuses
+			 Special Bonuses
 			</td>
 		</tr>
 		
 		<tr>
 			<td>
-				Emails That Win You Clients (Worth $79)
+				Video Course (Worth $259)
 			</td>
 			<td class="check">-</td>
 			<td class="check"><i class="fa fa-check"></i></td>
-		</tr>
-
-
-		<tr>
-			<td>
-				Response Optimization Checklist
-			</td>
-			<td class="check">-</td>
-			<td class="check"><i class="fa fa-check"></i></td>
-		</tr>
-
-		<tr>
-			<td>
-				Template Library (Worth $47)
-			</td>
-			<td class="check">-</td>
-			<td class="check"><i class="fa fa-check"></i></td>
-		</tr>
-
+		</tr>	
 	
-	<tr>
-		<td>
-		 Video Course (Worth $259)
-		</td>
-		<td class="check">-</td>
-		<td class="check"><i class="fa fa-check"></i></td>
-	</tr>	
+		<tr>
+			<td>
+				Book (Worth $79)
+			</td>
+			<td class="check">-</td>
+			<td class="check"><i class="fa fa-check"></i></td>
+		</tr>
+
+		<tr>
+			<td>
+				Email Templates (Worth $47)
+			</td>
+			<td class="check">-</td>
+			<td class="check"><i class="fa fa-check"></i></td>
+		</tr>
+
+
+		<tr>
+			<td>
+			 Video Case Study
+			</td>
+			<td class="check">-</td>
+			<td class="check"><i class="fa fa-check"></i></td>
+		</tr>
+
+
+
+		<tr>
+			<td>
+			 **LIVE BOOTCAMP (FIRST 25 WHO BUY)**
+			</td>
+			<td class="check">-</td>
+			<td class="check"><i class="fa fa-check"></i></td>
+		</tr>
+
 
 	<tr>
 		<td>
@@ -601,8 +631,18 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 <div class="spacer" style="height: 2em; display: table;"></div>
 
 
-### Why I think you should buy right now
-As a freelancer, right now is when you should do something. Waiting is almost guaranteed to hurt your business forever. See, It's a common misconception that dry spells are a part of freelancing. The truth is they happen because we sit and wait.
+### Why you should buy right now
+For the first 25 people who purchase I'm offering a free 2-hour bootcamp, hosted over Google hangouts. Me and Kurt will go over the class material, and answer specific questions for you and your specific business.
+
+This one-on-one help will be super valuable if you run into questions implementing the course. 
+
+<img src="/images/video-course.png" style="width: 15em; display: block;">
+
+## This is a one-time only, LIVE online bootcamp only for the first 25 people who purchase. If this message is still here there's still time. 
+
+It's is going to be insanely valuable and will be your chance to have two top consultants look at your business with a fine tooth comb.
+
+As a freelancer, right now is when you should do something about your business. Waiting is almost guaranteed to hurt your business forever. See, It's a common misconception that dry spells are a part of freelancing. The truth is they happen because we sit and wait.
 
 Failing to line up work during flush times (not dry spells), is the real reason you run into feast or famine cycles. Just because you have work now, you're short on time, or you have some other excuse, you shouldn't put your hands up and stop sales activity.
 
@@ -610,7 +650,7 @@ On the contrary, now is when you should find next month or next year's client. I
 
 See like you, I know there are a ton of businesses who will benefit from working with me. Only you know the vision you had when you decided to strike out on your own and start your freelance consulting business. My goal is to help you reach that vision.
 
-Warm Regards,
+Best Regards,
 
 <img src="/images/rob-sig.png" style="max-width: 7em; margin: 1em 0 0em; display: inline-block;">
 

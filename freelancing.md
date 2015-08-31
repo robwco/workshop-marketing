@@ -5,12 +5,12 @@ permalink: /freelancing/
 ---
 
 <div style="width: 100%;">
-	<img src="/images/workshop-freelancer.png" style="display: block; margin: 2em auto -2em; width: 25em; max-width: 100%;">
+	<img src="/images/workshop-freelancer.png" style="display: block; margin: 2em auto -1em; width: 25em; max-width: 100%;">
 </div>
 
 
 <center>
-<h1>Feast or famine isn't just a part of freelancing you have to live with.</h1>
+<h1>Feast or famine isn't just a part of life you have to live with.</h1>
 
 
 <div class="course">

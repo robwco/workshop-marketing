@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# What if you were already booked through November?
+# How would you feel if you were booked through November?
 
 As a tiny company, constantly finding new work to pitch and win can start to weigh you down. Month after month the same questions loom in the back of your mind: 
 
