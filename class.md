@@ -618,10 +618,10 @@ Watch me and Tyler go over exactly how he's created an agency that he can manage
 
 		</td>
 		<td style="text-align: center;">
-			<a href="https://gumroad.com/l/xJTIw" class="buy-link">Buy now</a>
+			<a href="https://gumroad.com/a/895890547" class="buy-link">Buy now</a>
 			</td>
 		<td style="text-align: center;">
-			<a href="https://gumroad.com/l/QNwhn" class="buy-link">Buy now</a>
+			<a href="https://gumroad.com/a/191247475" class="buy-link">Buy now</a>
 			</td>
 	</tr>
 </table>
