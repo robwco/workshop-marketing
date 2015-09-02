@@ -5,12 +5,29 @@ permalink: /class/
 description: A course for freelance consultants on how to approach talking to clients, designing the experience of working with you, and using email to automate the bulk of the work and win more clients in less time.
 ---
 
-# If you're not booked 1-2 months in advance you're asking for a dry spell.
-If you're like me, when you see an email from a potential client you feel a small rush of excitement. For a second you think you've hit the client jackpot and that amazing, fulfilling client work awaits you. 
+<center>
+<h1>Get Paid! The Masterclass <span style="display: block; font-size: 75%; margin-top: .5em;">A self-study course to finding, winning, and keeping more clients in half the time using automated emails.</span></h1>
+<img src="/images/get-paid-course.png">
+</center>
+
+
+## "When I'm working on a client project I don't have the time or energy to find my next project."
+If you're like me, when you see an email from a potential client you feel a small rush of excitement. For a second you think you've hit the client jackpot and nothing but amazing client work awaits you. 
 
 Unfortunately that feeling usually goes away rather quickly... and sometimes doesn't come back for weeks or months. We call those dry spells. 
 
-## With so much of your freelancing hinging on email, why do you let your inbox become a graveyard for freelance work? 
+
+> ## I never learned how to write good emails in design school, *and neither did you.*
+> “Running an independent design consultancy, one of the hardest things I do on a daily basis is get sales. Robert helped me communicate in a more focused, actionable way to get the business that my clients and I both deserve. Because I never learned how to write good email in design school, and neither did you.”
+> 
+> <img src="/images/nickd.png" class="testimonial-photo">
+>
+> Nick Disabato<br>
+> Chicago, IL
+
+
+
+## With so much of your success freelancing hinging on email, why do you let your inbox become a graveyard for freelance work? 
 
 The truth is most freelancers feel anxious about their inbox. If I looked in your email right now, what would I see?
 
@@ -402,14 +419,6 @@ No problemo, email me here: [robert@letsworkshop.com](MAILTO:robert@letsworkshop
 >
 > Glori Surban<br>
 > Phillipines
-
-> ## I never learned how to write good email in design school, and neither did you.
-> “Running an independent design consultancy, one of the hardest things I do on a daily basis is get sales. Robert’s book helped me communicate in a more focused, actionable way to get the business that my clients and I both deserve. Because I never learned how to write good email in design school, and neither did you.”
-> 
-> <img src="/images/nickd.png" class="testimonial-photo">
->
-> Nick Disabato<br>
-> Chicago, IL
 
 
 > ##  Amazing job at showing how to optimize those 1-1 emails that we write to our leads and potential clients
