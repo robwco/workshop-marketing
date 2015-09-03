@@ -4,7 +4,8 @@ title: Articles on how to get your next freelance client today by Workshop
 permalink: /advice/
 ---
 
-## The best articles to start with if you're new here:
+
+<h2> The best articles to start with if you're new here:</h2>
 
 <ul class="favorites">
 	<li><a href="/freelance-tools">My most recommended tools and resources for freelancers</a></li>
@@ -14,10 +15,15 @@ permalink: /advice/
 </ul>
 
 {% include course-optin.html %}
+
+
 ---
+
+# Articles
+
 {% for post in site.posts %}
-<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-{{ post.content }}
+<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+{{ post.excerpt }}
 ---
 {% endfor %}
 

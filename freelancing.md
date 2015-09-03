@@ -4,24 +4,55 @@ title: How to get your next client today
 permalink: /freelancing/
 ---
 
-<div style="width: 100%;">
-	<img src="/images/workshop-freelancer.png" style="display: block; margin: 2em auto -1em; width: 25em; max-width: 100%;">
+{::options parse_block_html="true" /}
+
+<div style="text-align: center;">
+<h1>Stop hating clients.</h1>
 </div>
+<p>Does it feel like clients expect near-instant gratification at all times? That type of client relationship kills your productivity and work-life balance... leaving you feeling burnt out.</p> 
 
 
-<center>
-<h1>Feast or famine isn't just a part of life you have to live with.</h1>
-
-
-<div class="course">
-	
-<h3>Free Course: How to end dry spells forever (plus 8-12 high-quality freelance leads)</h3>
-
+<div style="text-align: center;">
+<h3>You can maximize output AND work less with my free course:</h3>
 {% include course-form.html %}
-
 </div>
 
-</center>
+
+<div style="display: table;">
+<blockquote style="width: 310px; font-size: 75%; float: left; margin:0 .5em 0 0;">
+<table>
+<tr>
+<td>
+<img src="/images/nickd.png" class="testimonial-photo" align="left" style="margin: 0 .5em 0 0;">
+</td>
+<td><h3>“I never learned how to write emails to clients in design school, and neither did you.”</h3>
+<p><strong>Nick Disabato, Chicago, IL</strong></p>
+</td>
+</tr>
+</table>
+</blockquote>
+
+<blockquote style="width: 310px; font-size: 75%; float: left; margin: 0;">
+<table>
+<tr>
+<td>
+<img src="/images/features/ctiani.jpg" class="testimonial-photo" align="left" style="margin: 0 .5em 0 0;">
+</td>
+<td><h3>“I’ve gotten over my imposter-syndrome and realized I can compete with anyone.”</h3>
+<p><strong>Corey Tiani, Pittsburgh, PA</strong></p>
+</td>
+</tr>
+</table>
+</blockquote>
+</div>
+
+
+<div  style="text-align: center; width: 100%; display: table; margin: 2em 0 5em 0;">
+<a href="/advice">Continue to the blog →</a>
+</div>
+
+
+<!--
 
 <hr>
 
@@ -117,7 +148,7 @@ It's a system I've built that will walk you through how to go from paycheck-to-p
 
 I don't know how long I'll offer the free trial (probably until I sell out of Workshop subscriptions) so don't wait.
 
-{% include course-optin.html %}
+{% include course-optin.html %}-->
 
 <!--
 [<i class="fa fa-long-arrow-left"></i> Articles](/advice)-->

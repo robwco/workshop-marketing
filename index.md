@@ -1,9 +1,57 @@
 ---
 layout: default
 ---
+{::options parse_block_html="true" /}
 
+<h1 style="text-align: center; margin: 2em 0 1em;">"What if I run out of money before I land my next gig?"</h1>
 
-# How would you feel if you were booked through November?
+<div style="width: 225px; float: right; margin: 0 0 0 1em; font-size: 80%;">
+
+> ### “I’ve gotten over my imposter-syndrome”
+>
+> I like to focus on projects that are particularly interesting to me, and fit my skill set well. Amongst the work I scored from Workshop last year were two projects that have now blossomed into amazing client relationships and tens of thousands of dollars… with no end in sight. I was really on the fence about Workshop (and freelancing in general), but I’ve gotten over my imposter-syndrome at this point and realize I can compete and score some of these great leads.
+>
+> <img src="/images/features/ctiani.jpg" class="testimonial-photo">
+>
+> Corey Tiani <br>
+> Pittsburgh, Pennsylvania, USA
+
+> ### “I'm starting to build an on-going relationship with clients”
+> The day I took Workshop for a test drive, here's how it went down:
+> 
+> - 8:30 am- signed up for Workshop
+> - 9:21 am- sent first email to lead
+> - 10:22 am- had phone interview with lead
+> - 10:40 am- received W-9 and project contract
+> - If this sounds ridiculous, it's because it is. And it actually happened.
+>
+> Because of Workshop I'm starting to build an on-going relationship with a client, which is beyond worth the cost. I typically don't do reviews, rate things, etc, but this has to be said: Workshop is an incredibly EFFECTIVE tool, and a must-have for freelancers. Thanks so much!”
+>
+> <img src="/images/features/dmatheson.jpg" class="testimonial-photo">
+>
+> David Matheson <br>
+> Charlotte, North Carolina, USA
+
+> ### “I landed my first project after just 4 or 5 days.”
+> I  ordered Workshop because it sounded like a dream way to receive possible leads. I hesitated for a while but ordered after a week. Robert wrote in one of his first emails, that it takes time and practice to actually land a project, and that it can take weeks or even months. 
+>
+> I had no problem with that. Nevertheless, I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month. I'll keep being a Workshopper, thanks Robert!
+>
+> <img src="/images/features/gszurdoki.jpg" class="testimonial-photo">
+>
+> Gábor Szurdoki <br>
+> BAZ, Hungary, EU
+
+> ### “I've already made an appointment for a Skype call”
+> I wrote to two contacts from the first Workshop email I got. I already made an appointment for a Skype call with one of the two. It’s 50% conversion for now, not bad at all ;) Looking forward for the new email today.
+>
+> <img src="/images/features/asten.jpg" class="testimonial-photo">
+>
+> Anton Sten <br>
+> Lomma, Sweden
+
+</div>
+
 
 As a tiny company, constantly finding new work to pitch and win can start to weigh you down. Month after month the same questions loom in the back of your mind: 
 
@@ -11,7 +59,7 @@ As a tiny company, constantly finding new work to pitch and win can start to wei
 - "Am I going to fall into a dry spell again?"
 - "What if I run out of money before I find my next client?"
 
-It doesn't make any sense. Why should it be so hard to find a client when there's thousands of companies out there you can help?
+It doesn't make any sense. Why should it be so hard to find client work when there's thousands of companies out there you can help?
 
 After all, with such a vast pool of potential clients and your level of expertise, shouldn't you have new work whenever you want? 
 
@@ -41,7 +89,7 @@ You can't.
 
 You just need them delivered to you. That way, you can focus on selling your company, the thing you **know** how to do – the thing you love to focus on.
 
-## Refreshing your inbox and waiting isn't the only thing you can do when you run out of work.
+## Refreshing your inbox and waiting isn't the only thing you can do when you run out of work. How would you feel if you were booked through December?
 
 What if you woke up every day with a dozen great clients looking for your help, what would it mean to the profitability of your business? 
 
@@ -54,6 +102,8 @@ And what if it took minutes (instead of hours) to fill your sales pipeline each 
 What then? Would you add that extra feature to your client's project and blow them away? Would you use the free time to go on a walk and clear your head? 
 
 Or would you just spend more time with people you care about?
+
+
 
 ## Let me send you the 8-12 best leads every day so you can wake up focused on winning work.
 
@@ -138,53 +188,6 @@ I started doing this with select consultancies in November, 2013.
 
 Since then I've helped hundreds land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results.
 
-
-
-
-## What my clients say...
-
-> ### “I’ve gotten over my imposter-syndrome”
->
-> I like to focus on projects that are particularly interesting to me, and fit my skill set well. Amongst the work I scored from Workshop last year were two projects that have now blossomed into amazing client relationships and tens of thousands of dollars… with no end in sight. I was really on the fence about Workshop (and freelancing in general), but I’ve gotten over my imposter-syndrome at this point and realize I can compete and score some of these great leads.
->
-> <img src="/images/features/ctiani.jpg" class="testimonial-photo">
->
-> Corey Tiani <br>
-> Pittsburgh, Pennsylvania, USA
-
-> ### “I'm starting to build an on-going relationship with clients”
-> The day I took Workshop for a test drive, here's how it went down:
-> 
-> - 8:30 am- signed up for Workshop
-> - 9:21 am- sent first email to lead
-> - 10:22 am- had phone interview with lead
-> - 10:40 am- received W-9 and project contract
-> - If this sounds ridiculous, it's because it is. And it actually happened.
->
-> Because of Workshop I'm starting to build an on-going relationship with a client, which is beyond worth the cost. I typically don't do reviews, rate things, etc, but this has to be said: Workshop is an incredibly EFFECTIVE tool, and a must-have for freelancers. Thanks so much!”
->
-> <img src="/images/features/dmatheson.jpg" class="testimonial-photo">
->
-> David Matheson <br>
-> Charlotte, North Carolina, USA
-
-> ### “I landed my first project after just 4 or 5 days.”
-> I  ordered Workshop because it sounded like a dream way to receive possible leads. I hesitated for a while but ordered after a week. Robert wrote in one of his first emails, that it takes time and practice to actually land a project, and that it can take weeks or even months. 
->
-> I had no problem with that. Nevertheless, I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month. I'll keep being a Workshopper, thanks Robert!
->
-> <img src="/images/features/gszurdoki.jpg" class="testimonial-photo">
->
-> Gábor Szurdoki <br>
-> BAZ, Hungary, EU
-
-> ### “I've already made an appointment for a Skype call”
-> I wrote to two contacts from the first Workshop email I got. I already made an appointment for a Skype call with one of the two. It’s 50% conversion for now, not bad at all ;) Looking forward for the new email today.
->
-> <img src="/images/features/asten.jpg" class="testimonial-photo">
->
-> Anton Sten <br>
-> Lomma, Sweden
 
 > ### “It's possible to actually wind up with more work than I can handle through Workshop!”
 > In seven months, I've closed 3 deals that total a little over $20,000-directly from the leads in Workshop. All three of these projects have led to long-term clients that continue to come back to me, so the value of these contracts continues to grow.
@@ -289,8 +292,6 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 > 
 > Kurt Elster<br>
 > Chicago, Illinois, USA
-
-
 
 
 ## Here's everything you get when you signup:   
