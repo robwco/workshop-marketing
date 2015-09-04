@@ -5,6 +5,23 @@ permalink: /class/
 description: A course for freelance consultants on how to approach talking to clients, designing the experience of working with you, and using email to automate the bulk of the work and win more clients in less time.
 ---
 
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '661316233968843']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=661316233968843&amp;ev=PixelInitialized" /></noscript>
+
 <center>
 <h1>Get Paid! The Masterclass <span style="display: block; font-size: 75%; margin-top: .5em;">A self-study course to finding, winning, and keeping more clients in half the time using automated emails.</span></h1>
 <img src="/images/get-paid-course.png">

@@ -13,7 +13,7 @@ permalink: /freelancing/
 
 
 <div style="text-align: center;">
-<h3>You can maximize output AND work less with my free course:</h3>
+<h3>You can maximize output AND work far less with my free course:</h3>
 {% include course-form.html %}
 </div>
 
