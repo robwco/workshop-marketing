@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: page
 title: A Client's Guide to giving great feedback
 permalink: /feedback/client-cheatsheet/
 ---

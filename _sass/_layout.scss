@@ -1,4 +1,4 @@
-/** Homepage **/
+/** Homepage *
 
 .course {
 	& + h1 {
@@ -61,7 +61,7 @@
 	display: block;
 }
 
-/** Table of Contents **/
+/** Table of Contents * 
 h3 {
 	
 			&.topic-section {
@@ -115,9 +115,8 @@ ul, ol {
 
 /**
  * Site header
- */
-.site-header {	
-		border-bottom: 1px solid $grey-color-light;
+  
+.site-header {
     min-height: 40px;
 		padding: 1em 1em 0;
 		font-weight: 400;
@@ -146,17 +145,17 @@ ul, ol {
 	}
     // Positioning context for the mobile navigation icon
     position: relative;
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 2s; /* Firefox < 16 */
-        -ms-animation: fadein 2s; /* Internet Explorer */
-         -o-animation: fadein 2s; /* Opera < 12.1 */
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1  
+       -moz-animation: fadein 2s; /* Firefox < 16  
+        -ms-animation: fadein 2s; /* Internet Explorer  
+         -o-animation: fadein 2s; /* Opera < 12.1  
             animation: fadein 2s;
 }
 
 
 /**
  * Site footer
- */
+  
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
@@ -226,7 +225,7 @@ ul, ol {
 
 /**
  * Page content
- */
+  
 .page-content {
     padding: 0;
 }
@@ -297,7 +296,7 @@ ul, ol {
 
 /**
  * Posts
- */
+  
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -320,3 +319,4 @@ ul, ol {
 
 
 }
+*/

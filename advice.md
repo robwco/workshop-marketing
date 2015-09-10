@@ -4,8 +4,13 @@ title: Articles on how to get your next freelance client today by Workshop
 permalink: /advice/
 ---
 
+{::options parse_block_html="true" /}
 
-<h2> The best articles to start with if you're new here:</h2>
+<div class="story">
+
+<div style="margin: 5em 0;">
+
+<h2> The best essays to start with if you're new here:</h2>
 
 <ul class="favorites">
 	<li><a href="/freelance-tools">My most recommended tools and resources for freelancers</a></li>
@@ -14,19 +19,21 @@ permalink: /advice/
 	<li><a href="/cold-emails">Double your cold email response rate</a></li>
 </ul>
 
-{% include course-optin.html %}
+</div>
 
 
----
 
-# Articles
+<div style="margin: 5em 0;">
+# Essays
 
 {% for post in site.posts %}
-<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+<h2 style="margin-top: 3em;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 {{ post.excerpt | strip_html }}
----
 {% endfor %}
 
+</div>
+
+</div>
 
 
 <!--

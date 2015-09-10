@@ -1,6 +1,6 @@
 /**
  * Reset some basic elements
- */
+ 
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 
 /**
  * Basic styling
- */
+ 
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -20,12 +20,14 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-		letter-spacing: -.04em;
+		letter-spacing: -.02em;
+		word-spacing: .04em;
 
 
 }
 
 p, li {
+	margin: 1em 0;
 	@include media-query($on-palm) {
 		font-size: 80%;
 		line-height: 1.35;
@@ -85,7 +87,7 @@ hr {
 
 /**
  * Headings
- */
+  
 h1, h2, h3, h4, h5 {
 	color: $header-color;
   font-weight: $headline-font-weight;
@@ -122,7 +124,7 @@ h2, h3 {
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
- */
+  
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -134,7 +136,7 @@ ul, ol, dl, figure,
 
 /**
  * Images
- */
+  
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -144,7 +146,7 @@ img {
 
 /**
  * Figures
- */
+  
 figure > img {
     display: block;
 }
@@ -157,7 +159,7 @@ figcaption {
 
 /**
  * Lists
- */
+  
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -203,9 +205,9 @@ li {
 }
 
 ol {
-    counter-reset:li; /* Initiate a counter */
-    margin-left:0; /* Remove the default left margin */
-    padding-left:0; /* Remove the default left padding */
+    counter-reset:li; /* Initiate a counter  
+    margin-left:0; /* Remove the default left margin  
+    padding-left:0; /* Remove the default left padding  
 
 	h1, h2, h3 {
 		margin: 0 auto .5em;
@@ -213,10 +215,10 @@ ol {
 }
 
 ol > li {
-    position:relative; /* Create a positioning context */
-    margin:0 0 10px 2em; /* Give each list item a left margin to make room for the numbers */
-    padding:4px 5px; /* Add some spacing around the content */
-    list-style:none; /* Disable the normal item numbering */
+    position:relative; /* Create a positioning context  
+    margin:0 0 10px 2em; /* Give each list item a left margin to make room for the numbers  
+    padding:4px 5px; /* Add some spacing around the content  
+    list-style:none; /* Disable the normal item numbering  
     background: #FFF;
 		@include media-query($on-palm) {
 		margin:0 0 10px 1em;
@@ -224,9 +226,9 @@ ol > li {
 }
 
 ol > li:before {
-    content:counter(li); /* Use the counter as content */
-    counter-increment:li; /* Increment the counter by 1 */
-    /* Position and style the number */
+    content:counter(li); /* Use the counter as content  
+    counter-increment:li; /* Increment the counter by 1  
+    /* Position and style the number  
     position:absolute;
     top:.6em;
     left:-3em;
@@ -237,7 +239,7 @@ ol > li:before {
 		height: 1.75em;
 		border-radius: 100%;
     /* Some space between the number and the content in browsers that support
-       generated content but not positioning it (Camino 2 is one example) */
+       generated content but not positioning it (Camino 2 is one example)  
     margin-right: 1.5em;
 		margin-left: .5em;
     padding:3px 0 0;
@@ -258,7 +260,7 @@ ol > li:before {
 
 /**
  * Links
- */
+  
 a {
     color: $brand-color;
     text-decoration: none;
@@ -352,7 +354,7 @@ input[type=submit], a.submit {
 
 /**
  * Blockquotes
- */
+  
 blockquote {
     color: $text-color;
     border-left: 2px solid #e5e5e5;
@@ -374,7 +376,7 @@ blockquote {
 
 /**
  * Code formatting
- */
+  
 pre,
 code {
     font-size: 15px;
@@ -402,7 +404,7 @@ pre {
 
 /**
  * Wrapper
- */
+  
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -424,7 +426,7 @@ pre {
 
 /**
  * Clearfix
- */
+  
 %clearfix {
 
     &:after {
@@ -438,7 +440,7 @@ pre {
 
 /**
  * Icons
- */
+  
 .icon {
 
     > svg {
@@ -467,7 +469,7 @@ i.fa.fa-external-link {
 	max-width: 1.6em;
 }
 
-/** Table **/
+/** Table * 
 
 table {
 
@@ -687,4 +689,4 @@ table {
 		}
 	}
 	
-}*/
+} */

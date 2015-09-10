@@ -22,9 +22,16 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=661316233968843&amp;ev=PixelInitialized" /></noscript>
 
+
+
+{::options parse_block_html="true" /}
+
+<div class="story">
+
+
 <center>
-<h1>Get Paid! The Masterclass <span style="display: block; font-size: 75%; margin-top: .5em;">A self-study course to finding, winning, and keeping more clients in half the time using automated emails.</span></h1>
-<img src="/images/get-paid-course.png">
+<h1>Get Paid! The Masterclass <span style="display: block; font-size: 75%; margin-top: .5em; color: #444;">A self-study course to finding, winning, and keeping more clients in half the time using automated emails.</span></h1>
+<img src="/images/get-paid-course.png" style="max-width: 100%;">
 </center>
 
 
@@ -230,14 +237,14 @@ Here's a look at just a few of the things you get you get:
 
 <h3>Here's a closer look at over 60 minutes of actionable content:</h3>
 
-	<ul>
-		<li>How Kurt made $10K in 72 hours with a single email.</li>
-		<li>How to end the feast or famine cycle of freelancing</li>
-		<li>How to sell you while you sleep</li>
-		<li>How to take back your time</li>
-		<li>How to setup a system to generate new leads automatically</li>
-		<li>How to setup a system to follow up with past clients automatically</li>
-	</ul>
+<ul>
+<li>How Kurt made $10K in 72 hours with a single email.</li>
+<li>How to end the feast or famine cycle of freelancing</li>
+<li>How to sell you while you sleep</li>
+<li>How to take back your time</li>
+<li>How to setup a system to generate new leads automatically</li>
+<li>How to setup a system to follow up with past clients automatically</li>
+</ul>
 
 </div>
 
@@ -246,7 +253,7 @@ Here's a look at just a few of the things you get you get:
 
 <div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
-	<img src="/images/book-mockup.png" style="width: 12em; margin: 0 auto; display: block;">
+<img src="/images/book-mockup.png" style="width: 12em; margin: 0 auto; display: block;">
 
 <h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Emails That Win You Clients</h3>
 
@@ -276,7 +283,7 @@ Here's a look at just a few of the things you get you get:
 <div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
 
-	<img src="/images/templates.jpg" style="width: 14em; margin: 2em auto; display: block;">
+<img src="/images/templates.jpg" style="width: 14em; margin: 2em auto; display: block;">
 
 
 <h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Get Paid! Email Templates</h3>
@@ -324,7 +331,7 @@ Here's a look at just a few of the things you get you get:
 <div style="border: 5px solid #2996bf; border-radius: 1em; padding: 1em; margin: 2em 0;">
 
 
-	<img src="/images/case-study.png" style="width: 17em; margin: 2em auto; display: block;">
+<img src="/images/case-study.png" style="width: 17em; margin: 2em auto; display: block;">
 
 
 <h3><i class="fa fa-check-circle" style="color: #36b744;"></i> Video Case Study: Tyler Van Der Hoeven</h3>
@@ -684,3 +691,4 @@ Robert Williams
 
 ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a>
 
+</div>
