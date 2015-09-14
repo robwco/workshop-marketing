@@ -1,7 +1,7 @@
 ---
 layout: default-no-header
 title: Client Burnout Rescue Kit by Robert Williams
-permalink: /funnel-tester/
+permalink: /freelancing/
 ---
 {::options parse_block_html="true" /}
 

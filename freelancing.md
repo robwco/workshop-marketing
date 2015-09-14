@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to get your next client today
-permalink: /freelancing/
+permalink: /inbetween
 ---
 
 {::options parse_block_html="true" /}
