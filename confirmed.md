@@ -4,11 +4,14 @@ title: Sweet your stuff is on it's way!
 permalink: /successful/
 ---
 
-<center><img src="/images/yay.png" style="margin: 2em auto 0; text-align:center;"></center>
+<center><img src="/images/yay.png" style="width: 6em; margin: 2em auto -1em; text-align:center;"></center>
 
-# Sweet your stuff is on it's way!
+# Sweet! Your rescue kit is ready. 
 
-You'll get an email from me in a few minutes. For now [follow me on twitter](http://twitter.com/letsworkshop), so you can give me a shoutout when you land work.
+## Just confirm your email and you're all set.
+
+You'll get the email from me in a few minutes. In the meantime [follow me on twitter](http://twitter.com/letsworkshop), so you can give me a shoutout when you streamline your freelance business.
+
 
 Best Regards,
 <img src="/images/rob-sig.png" style="max-width: 7em; margin: 1em 0 0em; display: block;">

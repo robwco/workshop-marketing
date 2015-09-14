@@ -12,6 +12,9 @@ permalink: /freelancing/
 <p>Does it feel like clients expect near-instant gratification at all times? That type of client relationship kills your productivity and work-life balance... leaving you feeling burnt out.</p> 
 </div>
 
+
+
+
 <div style="text-align: center;">
 <h3>You can maximize output AND work far less with my free course:</h3>
 {% include course-form.html %}
