@@ -160,9 +160,6 @@ Stop waiting for the next client/billing disaster to blow up in your face. Build
 
 <h2><i class="fa fa-key" style="color: #d5b462;"></i> Yes! You signed up. Welcome back.</h2>
 
-</div>
-
-
 <div class="story" style="display: table;">
 
 # The Rescue-Kit includes:
