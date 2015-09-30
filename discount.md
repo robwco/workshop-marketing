@@ -17,7 +17,7 @@ If you sign up for Workshop, you'll get my ($499) self-study course to finding, 
 1. Read what you'll be getting with 1) [Workshop](/) and 2) [my Get Paid! Masterclass](/class).
 2. Decide this is a fantastic deal.
 3. [Sign up for Workshop](/)
-4. Email me and mention who referred you and I'll send you your coupon code for the Get Paid! Masterclass free (normal price $499).
+4. Email me (robert@letsworkshop.com) and mention who referred you and I'll send you your coupon code for the Get Paid! Masterclass free (normal price $499).
 
 Warm Regards,
 
