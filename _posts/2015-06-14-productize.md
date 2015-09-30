@@ -45,7 +45,7 @@ In fact, when I needed help on a specific project recently, I actively seeked ou
 
 The only problem was finding it  was tough. I know I'm a lot better connected with freelancers than the average business so I decided to make something.
 
-[![Wheelhouse - a collection of freelancer-created products that take the risk out of buying services](http://knowingwhattosay.com/assets/images/wheelhouse.png)](http://inwheelhouse.com)
+[![Wheelhouse - a collection of freelancer-created products that take the risk out of buying services](/images/wheelhouse.png)](http://inwheelhouse.com)
 
 I created [Wheelhouse](http://inwheelhouse.com), a directory of the best productized services in one place that businesses can refer back to if they ever need help on a project. 
 

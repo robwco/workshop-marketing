@@ -21,7 +21,7 @@ But besides spending 5+ hours on each individual member my only other option is 
 This may sound like a mundane task but it's actually an opportunity to categorize what we do. The end result is something that I hope will focus more on selling a benefit of a service than just a service. 
 
 **The exact opposite of freelancer.com's category list:**
-![Freelancer.com's list of categories](http://knowingwhattosay.com/assets/images/freelancercategories.png)
+![Freelancer.com's list of categories](/images/freelancercategories.png)
 
 That list is ridiculous. It's the epitome of vague industry terms that nobody knows the definition for. 
 
