@@ -184,6 +184,22 @@ input[type=submit], a.submit {
 }
 
 
+a.button {
+	text-align: center; 
+	background-color: #e66125; 
+	color: white; 
+	padding: .25em .5em; 
+	display: block; 
+	width: 6.5em; 
+	font-weight: 500; 
+	font-size: 13px; 
+	border-radius: 9px; 
+	text-decoration: none;
+	&:hover {
+		background-color: #ff7a48;
+	}
+}
+
 table {
 
 	

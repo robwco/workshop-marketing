@@ -103,6 +103,20 @@ input[type=submit], a.submit {
   border-radius: 3em;
   display: block; }
 
+a.button {
+  text-align: center;
+  background-color: #e66125;
+  color: white;
+  padding: .25em .5em;
+  display: block;
+  width: 6.5em;
+  font-weight: 500;
+  font-size: 13px;
+  border-radius: 9px;
+  text-decoration: none; }
+  a.button:hover {
+    background-color: #ff7a48; }
+
 table.pricing {
   -moz-border-radius: 1em;
   -webkit-border-radius: 1em;

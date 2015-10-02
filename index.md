@@ -18,7 +18,7 @@ Stop waiting for the next client disaster to blow up in your face. <span style="
 <div class="story">
 	
 <div style="display: table; width: 100%;">
-<a style="text-align: center; float: right; background-color: #e66125; color: white; padding: .25em .5em; display: block; width: 6.5em; font-weight: 500; font-size: 13px; border-radius: 9px; text-decoration: none;" href="https://app.letsworkshop.com/users/sign_in">Client Sign in</a>
+<a style="float: right;" class="button" href="https://app.letsworkshop.com/users/sign_in">Client Sign in</a>
 </div>
 
 
@@ -36,7 +36,7 @@ The magnitude of every new client meeting ballooned greater and greater. Before 
 
 Eventually my dry spell ended, however the lessons it taught me have stayed. It’s the nature of being a freelancer. By definition, the work ends.
 
-That's why month after month the same questions picks at the back of your mind: where will the next project come from?
+That's why month after month the same questions pick away at your energy: where will the next project come from?
 when will the next dry spell hit? how do you find your next client?
 
 It doesn't make sense. Why should it be so hard to find client work when there's thousands of companies out there you can help?
@@ -440,10 +440,10 @@ Big budget projects projects you won't find anywhere else.
 
 		</td>
 		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=1" class="buy-link">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=1" class="button">Buy Now</a>
 			</td>
 		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=2" class="buy-link">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=2" class="button">Buy Now</a>
 			</td>
 	</tr>
 </table>
