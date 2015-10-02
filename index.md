@@ -145,7 +145,7 @@ Not at all. Workshop has top freelancers from all over the world, including plac
 All leads are 100% remote and open to remote freelancers anywhere in the world, so I'd suggest you sign up and see if it'll work for you.
 
 ### "Who are you? How long have you been doing this?"
-My name is Robert Williams. I was a freelancer who started sharing how I ran my business online a few years ago. I've been featured on [Copyhackers](https://copyhackers.com/2012/12/the-3-step-hack-for-startups-bootstrapping-their-design/), DoubleYourFreelancing.com, 30x500, [The Freelancers' Show](https://devchat.tv/freelancers/153-fs-workshop-with-robert-williams), [Bidsketch](https://blog.bidsketch.com/sales/cold-email/), [Freelancelift](https://www.freelancelift.com/describing-your-freelance-service-with-rob-williams/), [BootstrappedWeb](http://bootstrappedweb.com/64-giving-customers-really-want-w-robert-williams-workshop/), and  [Rocketship.fm](http://rocketship.fm/episodes/ep-45-robert-williams/).
+My name is Robert Williams. I was a freelancer who started sharing how I ran my business online a few years ago. I've been featured on Copyhackers, DoubleYourFreelancing.com, 30x500, The Freelancers' Show, Bidsketch, Freelancelift, BootstrappedWeb, Rocketship.fm and more.
 
 I started Workshop with select consultancies in November, 2013.  Since then I've helped hundreds land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results.
 
