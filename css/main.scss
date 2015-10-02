@@ -56,12 +56,17 @@ $on-laptop:        650px;
     }
 }
 
+html, body, div {
+		padding: 0;
+		margin: 0;
+}
 
 body {
 	font-family: "ff-basic-gothic-web-pro", Verdana, Sans-Serif;
 	color: #444;
 	font-size: 18px;
 	line-height: 1.5;
+
 }
 
 a, .story ul li a, .story h2 a, .story ol li a { color: #827c76; }

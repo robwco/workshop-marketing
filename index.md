@@ -1,37 +1,57 @@
 ---
-layout: default
+layout: default-no-header
 ---
 {::options parse_block_html="true" /}
 
+<div style="display:table; width: 100%; background-color: #fef3b8; height: 30px; padding: 0;">
+<div style="width: 800px; margin: 0 auto; display: block; text-align: center;">
+<p style="margin: .5em 0;">
+<a href="/freelancing" style="font-size: 14px;  color: #444; text-decoration: none;">
+<span style="font-weight: 500;">New!</span>
+Stop waiting for the next client disaster to blow up in your face. <span style="color: #e66125; font-weight: 500;">Get my free client rescue kit!</span></a>
+</p>
+</div>
+</div>
 
-<center>
-<h1 style="margin-top: 2em;"></h1>
-</center>
+
 
 <div class="story">
+	
+<div style="display: table; width: 100%;">
+<a style="text-align: center; float: right; background-color: #e66125; color: white; padding: .25em .5em; display: block; width: 6.5em; font-weight: 500; font-size: 13px; border-radius: 9px; text-decoration: none;" href="https://app.letsworkshop.com/users/sign_in">Client Sign in</a>
+</div>
 
-<img src="/images/workshop-freelancer.png" style="max-width: 30em; margin: 0 auto; display: block;">
+
+<img src="/images/hourglass.png" style="max-width: 4em; margin: 0 auto; display: block;">
 
 # What if you run out of money before you find your next freelance gig?
 
-Month after month this question looms in the back of your mind, weighing you down as you try to find new work to pitch and win.
+I’d gone through a few droughts as a freelancer, but this one was bad.
 
-> "Where will my next freelance project come from?"<br>
-> "Am I going to fall into a dry spell again?"<br>
-> "Where should I be looking for new freelance work?"<br>
-> "What if I run out of money before I find my next client?"
+Each day, the stress mounted.
 
-It doesn't make any sense. Why should it be so hard to find client work when there's thousands of companies out there you can help?
+The magnitude of every new client meeting ballooned greater and greater. Before each meeting, I went in knowing one thing:
 
-After all, with such a vast pool of potential clients and your level of expertise, shouldn't you have new work whenever you want? 
+> “I NEED THIS JOB.”
 
-Yes! The problem isn't your copy, portfolio, or your service. It's finding these opportunities. 
+Eventually my dry spell ended, however the lessons it taught me have stayed. It’s the nature of being a freelancer. By definition, the work ends.
 
-It takes time you don't have. You have existing clients to take care of, important emails to write, and urgent fires to put out.
+That's why month after month the same questions picks at the back of your mind: where will the next project come from?
+when will the next dry spell hit? how do you find your next client?
 
-Doing lead generation on top of all of this just sucks. You want to do the work you love, not search for it. Worse, it's unprofitable. That's why you put it off. 
+It doesn't make sense. Why should it be so hard to find client work when there's thousands of companies out there you can help?
 
-So instead you wait for work to come to you (read: do nothing). But putting off finding work only makes things worse. Much worse. 
+### The problem isn't your copy, portfolio, or your service. It's finding these opportunities. 
+
+Finding them takes time you don't have.
+
+Doing lead generation on top of client work just sucks. You want to do the work you love, not search for it. 
+
+Worse, it's unprofitable. That's why you put it off. 
+
+So instead you wait for work to come to you (read: do nothing).
+
+Eventually putting off finding work only makes things worse. Much worse. 
 
 It makes you have no control over the work you take on... so instead of firing bad clients, you're forced to put up with them forever.
 
@@ -42,9 +62,9 @@ It's not worth it.
 
 ### Don't believe internet trolls, freelancing doesn't have to be feast or famine. You *don't* have to rely solely on referrals.
 
-It's time to do something about your unprofitability. Your business should have access to all of the best clients and opportunities for growth. 
+It's time to do something about your leaky sales funnel. Your should have access to the best clients and opportunities to grow your business. 
 
-Likewise, great clients should have access to your services and expertise – regardless of whether you remembered to check a job board.
+Likewise, great clients should have access to your expertise – regardless of whether you have time to reply to their job post. 
 
 But how? You know you can't be everywhere at once. You can't even imagine finding all of these opportunities yourself, how are you going to also make time to contact them? 
 
@@ -58,17 +78,15 @@ What if you woke up every day with a dozen great clients looking for your help, 
 
 Would your revenue double? Would it turn your on-the-side freelancing into your full-time six-figure consultancy? If, overnight, you got the best opportunities automatically instead of sitting and waiting by your phone. 
 
-Or if you could simply reply to people and projects you were excited to work for, straight from your inbox? 
-
-And what if it took minutes (instead of hours) to fill your sales pipeline each morning and then you got to focus exclusively on billable work the rest of the day?
+And what if it took minutes (instead of hours) to fill your sales pipeline each morning and then you got to focus exclusively on billable work for the rest of the day?
 
 What then? Would you add that extra feature to your client's project and blow them away? Would you use the free time to go on a walk and clear your head? 
 
-Or would you just spend more time with people you care about?
+Or would you just spend more time with your family?
 
 ## Let me send you the 8-12 best leads every day so you can wake up focused on winning work.
 
-You might think this life is impossible. However, for hundreds of consultancies in Workshop it's a reality. 
+You might think effortlessly finding new clients to serve is impossible. However, for hundreds of consultancies in Workshop it's a reality. 
 
 I've created a hands-free lead generation service for consultancies looking to make more money building websites (and apps, and logos, and more). 
 
@@ -79,43 +97,29 @@ It's also super affordable. Even if you're just freelancing on the side, you can
 But you won't love the service because it's cheap, you'll love it because it works and you know it's the best thing you can do for your business.
 
 ### "So what happens if I don't like it?"
-No worries. There's a 30-day 100% satisfaction guarantee. 
-
-Enjoy Workshop for a full month and if you don't like it for any reason, send me an email and I'll give you a refund. I don't want your money if you're not 100% blown away.
+No worries. You can cancel anytime. Workshop is pay-as-you-go, meaning there’s no contract and no long-term commitment.
 
 ### "My schedule is fully booked. Should I still sign up?"
 Yes, here's why: it's a common misconception that dry spells are a part of freelancing. The truth is they happen because we fail to line up work during **flush times** (times when we're loaded with work) NOT only during dry spells. 
 
-Just because you have work now it doesn't give you the right to put your hands up and stop all sales activity. On the contrary. Now is when you should start a small daily amount of activity to ensure you never run out of work again.
+Just because you have work now doesn't mean you can put your hands up and stop all sales activity. On the contrary. Now is the perfect time to start a small daily amount of sales activity to ensure you never run out of work again.
 
-If you're not booked at least 4-6 months in advanced, it's a sign you're susceptible to a dry spell.
+If you're not booked at least 4-6 months in advanced, it's a sign you're still susceptible to a dry spell. Workshop will be your reminder to continue looking for work.
 
 ### "How many leads will be sent, and how often?"
-I usually send 8-10 leads per day. Sometimes more, sometimes less but the whole point of Workshop is that it saves you time. 
+It depends on what you want. Although you can do more, my recommendation is you reply to only 2 leads per day. 
 
-To make sure Workshop does that, I send fewer, better leads. I never send a lead just to hit a quota. 
+This saves you time and allows you to focus on sending a great email. By doing this you'll outperform people sending 100s of outreach emails a day and be efficient with your time.
 
-In fact, Workshop's value is equally about the leads I don't send you.
-
-The thousands of leads I eliminate from your life completely mean you can focus on *how you're contacting leads* instead. 
 
 ### "Who gets these leads? How many people am I competing with?"
-
-This is a great question. If you're wondering about this it means you believe there are opportunities for you in Workshop, and now you're wondering if you have a shot. That's a great sign!
+This is a great question. If you're asking this, it means you'd like to know if you have a shot.
 
 You absolutely do! The number one mistake I see freelancers make when they sign up for Workshop is assuming the leads are getting inundated with replies.
 
-I’ve actually heard business owners complain that their project only received 1 or no replies. These were 5-figure projects!
+I’ve had business owners complain to me that their 5-figure project on Workshop received zero replies!
 
-So make sure you reply. If you send a good email, you will hear back.
-
-How do I know? Well the truth is that for every type of lead I send there’s truly only 4-5 real competitors (or less). That number sounds low because there’s over a hundred people subscribed to Workshop but all members specialize in different areas.
-
-Based on the amount of clicks I see happening in each email, every lead type attracts maybe 5-10% of the list. That means about 20 people from Workshop are clicking on that one you have your eye on.
-
-Out of those 20 people, half eliminate themselves because they don’t think they’re right for the project. Another 5 or 6 are just too busy that day to reply, and even a couple more completely forget. This doesn't take into account (the overwhelmingly high majority of those remaining) who will send a half-assed email.
-
-So if I were you and wondering this question, I’d certainly sign up and reply to the project in Workshop. Even if you’re skeptical landing just one project will pay for Workshop for the next 5 years. What's the worst that can happen?
+So make sure you reply. If you send enough good emails, you **will** hear back.
 
 ### "I just started freelancing. What if I'm not ready?"
 I guarantee that if you can build a website, design, or code - at any level - you can also make a lot of money from Workshop today.
@@ -126,26 +130,24 @@ It doesn't matter how much experience you have, the habits you build into your b
 
 That's why it's important that you push yourself outside of your comfort zone.
 
-Leveling up your consulting business isn't about planning for the future. It's about taking small steps right now that will ensure you're in the best position to succeed. 
+Leveling up your consulting business isn't about planning for the future. It's about taking small steps right now that will ensure you're in the best position to succeed when the time comes. 
 
 ### "But will Workshop work for me? I specialize in X."
 Right now Workshop is mostly focused on web design and development. However, we have a steady amount of other work coming in like mobile, marketing, graphic design, and more. 
 
 I group leads in categories so you'll be able to quickly see if there's enough value for you.
 
-If you’re still worried there may not be enough of your type of lead, the best advice I can give is to try it. There's a 30-day 100% money-back guarantee for this exact reason. 
-
-Sign up for yourself and see.
+If you’re still worried there may not be enough of your type of lead, send an email to <a href="MAILTO:julie@letsworkshop.com">julie@letsworkshop.com</a> and she'll send you a small sample.
 
 ### "I'm outside of the US, is that a problem?"
 Not at all. Workshop has top freelancers from all over the world, including places like Europe, Asia, and basically every other continent in the world who are loving the service. 
 
 All leads are 100% remote and open to remote freelancers anywhere in the world, so I'd suggest you sign up and see if it'll work for you.
 
-### "How long have you been doing this, does it work?"
-I started doing this with select consultancies in November, 2013. 
+### "Who are you? How long have you been doing this?"
+My name is Robert Williams. I was a freelancer who started sharing how I ran my business online a few years ago. I've been featured on [Copyhackers](https://copyhackers.com/2012/12/the-3-step-hack-for-startups-bootstrapping-their-design/), DoubleYourFreelancing.com, 30x500, [The Freelancers' Show](https://devchat.tv/freelancers/153-fs-workshop-with-robert-williams), [Bidsketch](https://blog.bidsketch.com/sales/cold-email/), [Freelancelift](https://www.freelancelift.com/describing-your-freelance-service-with-rob-williams/), [BootstrappedWeb](http://bootstrappedweb.com/64-giving-customers-really-want-w-robert-williams-workshop/), and  [Rocketship.fm](http://rocketship.fm/episodes/ep-45-robert-williams/).
 
-Since then I've helped hundreds land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results.
+I started Workshop with select consultancies in November, 2013.  Since then I've helped hundreds land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results.
 
 
 > ### “I’ve gotten over my imposter-syndrome”
@@ -184,6 +186,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 > Gábor Szurdoki <br>
 > BAZ, Hungary, EU
 
+<!--
 > ### “I've already made an appointment for a Skype call”
 > I wrote to two contacts from the first Workshop email I got. I already made an appointment for a Skype call with one of the two. It’s 50% conversion for now, not bad at all ;) Looking forward for the new email today.
 >
@@ -191,6 +194,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 >
 > Anton Sten <br>
 > Lomma, Sweden
+-->
 
 > ### “It's possible to actually wind up with more work than I can handle through Workshop!”
 > In seven months, I've closed 3 deals that total a little over $20,000-directly from the leads in Workshop. All three of these projects have led to long-term clients that continue to come back to me, so the value of these contracts continues to grow.
@@ -216,6 +220,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 > Milosz Falinksi <br>
 > Lisbon, Portugal
 
+<!--
 > ### “$42,000 worth of work, 10% equity in a company, and $1000/mo retainer”
 > Out of the 3 emails I’ve sent to to workshop leads, 2 replied and resulted in contracts for an estimated total of $42,000 worth of work, 10% equity in a company, and $1000/mo retainer.
 > 
@@ -237,6 +242,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 >
 > Brian Burkett <br>
 > La Jolla, California, USA
+-->
 
 > ### Every day there was a good chance that at least one lead in Workshop could use my services.
 > At first I was worried about the lead quality and quantity. If the leads weren't a good match for my services or there wasn't enough of them then the service wouldn't have worked for me.
@@ -286,6 +292,7 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 > Dan Barret<br>
 > Middlefield, Connecticut, USA
 
+<!--
 > ### I've had an unbroken chain of daily lead generation activity no matter what.
 > My clients were always my priority but when I had too much client work, I neglected sales activities and my pipeline suffered. 
 > Since starting with Workshop, I've had an unbroken chain of daily lead generation activity no matter what. 
@@ -295,82 +302,34 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 > 
 > Kurt Elster<br>
 > Chicago, Illinois, USA
-
+-->
 
 ## Here's everything you get when you signup:   
     
     
-1. ### The best freelance leads on the web
-      
-    Never worry about a dry spell again with a daily stream of hand-picked, remote freelance projects all with budgets over $1000. 
-   
-   You'll be on top of virtually every opportunity there is online with zero effort. 
-   
-   The beauty is that contacting just one or two of these opportunities makes this the only source of work you’ll ever need. It makes it easy to fill up your calendar with work months in advanced.
-   
-    In fact you'll find it so convenient that you'll be able to do it even when you're fully booked. All it takes is opening up your email and replying to someone. 
-   
-    It's an instant 4 to 5 hour head start on every other freelancer.
+1. **The best freelance leads on the web everyday**<br>
+It's an instant 4 to 5 hour head start on every other freelancer.
     
-2. ### Hand-curated lead sorting and qualifying
+2. **Hand-curated lead sorting and qualifying**<br>
+You're only seeing hyper-relevant leads that are worth your time.
    
-    I don't just find the leads I send you. I also pick through each one by hand to make sure you're only seeing hyper-relevant leads that are worth your time. 
+3. **Background recon information on every lead**<br>
+Instantly envision working with a client before you contact them.
     
-    I then assess every lead individually and assign a category to sort projects into groups so you can quickly look through available projects in your specialty to find ones that are perfect for you.
+4. **The maximum response rate checklist (bonus)**<br>
+A one-page cheatsheet that will optimize your emails.
    
-3. ### Background recon information on every lead
-      
-   To help you get up to speed with every potential client quickly, I'll also send you details about their business. This includes how much they're willing to spend, their personal email address, and a photo of who you're contacting. 
+5. **A copy of my book Emails That Win You Clients (premium only)**<br>
+The exact recipe for writing a perfect email from scratch to any client.
    
-   This allows you to instantly envision yourself working with each client before you contact them. 
+6. **Special just-for-you lead requests (premium only)**<br>
+Unlock the ability to request exactly the type of lead you want.
    
-   You'll also get their name, twitter, website, and project description included for every lead. This allows you to decide who you want to work for by approaching better clients and sending better emails in less time.
-    
-4. ### The maximum response rate checklist (bonus)
+7. **Your own personal email specialist (premium only)**<br>
+1-on-1 concierge help picking leads to email and writing something to make sure you hear back.
    
-   It doesn't matter who you're emailing. There's a handful of common mistakes that will kill your response rate if you don't account for them. 
-   
-   My one-page cheatsheet is a perfect companion to the daily email you'll receive. You can use it to quickly make sure every email you send is optimized and ready to win you clients.
-   
-5. ### A copy of my book Emails That Win You Clients (premium only)
-   
-   This is my book on how to write crisp, compelling emails that win you freelance work. You'll learn the exact recipe for writing a perfect email to any client. 
-   
-   Backed by thousands of emails and testing, my short guide on writing emails will give you you the best chance at landing a lead from Workshop (or anywhere else).
-   
-   Every chapter in this book is pulled from the best breakthroughs from strategy sessions with over 50+ freelancers who were struggling to hear back from clients. I know the book will work for you because every one of these freelancers began to see results as soon as they implemented the material. Leads began responding. They started winning clients.
-   
-   Here's what's covered, you'll learn how to: get people to read your emails, write compelling emails, make your emails insanely interesting, address real needs clients will pay you for, get the conversation going quickly and naturally, and know what you’re writing is good.
-   
-   This book is designed to be a companion to your email writing process. It’s intended to be something you can open up next to gmail and refer back to whenever you want that's why it's great to have next two your email with eager clients. 
-   
-   It's a resources you can look at quickly and know you're sending out a great email every time.
-   
-6. ### Special just-for-you lead requests (premium only)
-   
-   With a premium account you'll also get access to a special form where you can request leads be found just for you. Need a rails client in the dental industry? As a premium members you'll be able to request this type of lead and have my team looking that same day.
-   
-   If we find it, you'll see it in the following email. It's like having a team of assistants ready to find you work at a moments notice. You unlock the ability to be able to request exactly the type of lead you want.
-   
-   That kind of personalization would cost you thousands of dollars every month if you hired me individually.
-   
-7. ### Your own personal email specialist (premium only)
-   
-   To make sure you never feel overwhelmed I'll assign you your own personal email specialist to help you contact leads and get up to speed with Workshop. 
-   
-   This 1-on-1 concierge help will help you pick which leads to email and keep you accountable so you make emailing leads a habit that sticks.
-   
-   That will ensure you win more clients and always have access to a real person who can help guide you in the right direction if you don't hear back.
-   
-8. ### Access to low competition, big-budget projects found only on Workshop (premium only)
-   
-   These are big budget projects projects you won't find anywhere else. People come straight to Workshop to post big budget projects because they know that they're going to get a response from a handful of great freelancers. 
-   
-   Because Workshop is private, you won't be competing with the entire world - just a handful of peers. These leads are so valuable that you have virtually no competition on $20k+ projects that fall directly in your specialty. 
-   
-   But Workshop doesn't step in or take a cut, you own 100% of the relationship with your clients and 100% of the project fee. 
-   
-   There’s nothing between you and the clients I send you, you email them directly from your inbox and your conversation stays private. Like all my leads, there’s no middleman referral fees, no app, and no confusing system to work around. Just profit.
+8. **Access to low competition, big-budget projects found only on Workshop (premium only)**<br>
+Big budget projects projects you won't find anywhere else.
 
 
 <table class="pricing" cellspacing="0" cellpadding="0">
@@ -495,23 +454,24 @@ Since then I've helped hundreds land work. Some have even made hundreds of thous
 
 
 <h3 style="margin: .25em 0 .6em;">The two biggest reasons why you should join right away</h3>
-<p>1) The membership fee is at it's absolute lowest. Since starting Workshop in late 2013, there's been a bunch of copycat services pop up. These look-a-like services use automated scraping tools to find leads.</p>
-<p>I don't believe in that. Only a real, experienced, freelancer knows what a great client looks like. Not some crappy algorithm. That's why while the other services continue to come and go, Workshop's price will continue to increase. Today it provides more than 4x the value than when we started.</p>
-<p>
-And when you sign up now and you'll be locked in at the lowest price Workshop will ever be sold at, for as long as you're a member.</p>
-<p>
-2) Waiting to sign up is almost guaranteed to hurt your business forever. See, It's a common misconception that dry spells are a part of freelancing. The truth is they happen when you're fully-booked because you sit and wait.</p> 
-<p>
-Failing to line up work during flush times (not dry spells), is the real reason you run into feast or famine cycles.</p> 
-<p>Just because you have work now, you're short on time, or you have some other excuse, you shouldn't put your hands up and stop all sales activity.</p>
-<p>
-On the contrary, now is when you should find next month's client. Ideally, you should be booked 4-6 months in advanced. I don't want you to wait until it's too late, and in order to prove it I'm willing to take away all of the risk. You can get 100% of your money back if you don't like it, at any time.</p>
-<p>
-See like you, I know there are a ton of businesses who will benefit from working with me. That's why I'm offering this guarantee. I want to put myself in the best position to find them. You can too. </p>
-<p>
-Only you know the vision you had when you decided to strike out on your own and start your freelance consulting business. My goal is to help you reach that vision.</p>
-<p>
-Warm Regards,</p>
+
+
+1) The membership fee is at it's absolute lowest. Since starting Workshop in late 2013, there's been a bunch of copycat services pop up. These look-a-like services use automated scraping tools to find leads.
+
+I don't believe in that. Only a real, experienced, freelancer knows what a great client looks like. Not some crappy algorithm. That's why while the other services continue to come and go, Workshop's price will continue to increase. Today it provides more than 4x the value than when we started (and I've upped the price accordingly).
+
+When you sign up now and you'll be locked in at the lowest price Workshop will ever be sold at again, for as long as you're a member.
+
+2) Waiting to sign up is almost guaranteed to hurt your business forever. See, It's a common misconception that dry spells are a part of freelancing. The truth is they happen because you sit and wait.
+
+Failing to line up work during flush times (not just during dry spells), is the real reason you run into feast or famine cycles.
+
+Just because you have work now, you're short on time, or you have some other excuse, you shouldn't put your hands up and stop all sales activity.
+
+See like you, I've been through dry spells. I know there are a ton of businesses out there who will benefit from working with me. I've put myself in the best position to find them (in front of you right now). 
+
+You can do the same.
+
 <img src="/images/rob-sig.png" style="max-width: 7em; margin: 1em 0 0em; display: block;">
 <p>Robert Williams</p>
 <p>ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a></p>
