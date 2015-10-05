@@ -20,9 +20,9 @@ To top this off, clients typically don’t know a lick about design or developme
 
 Most designers and developers don’t even agree on what should be done. With the odds stacked against you, how do you even stand a chance?
 
-## I'd like to help. *I don’t want to take the project on.*
+## If you have a freelance project coming up, I'd like to help. *(Note: I don’t want to take the project on.)*
 
-If you have a freelance project coming up, however, I would like to speak with you for 15 minutes and give you a unbiased look at what you should expect.
+However, I would like to speak with you for 15 minutes and give you a unbiased look at what you should expect.
 
 Joining me on the call is agency owner Kurt Elster. Together we have over a million dollars worth of consulting projects under our belts.
 
