@@ -10,13 +10,13 @@ permalink: /freelancing/
 
 <img src="/images/rescue-kit.png" style="width: 20em; margin-right: 0em; margin-bottom: 3em; display: table;" align="left">
 
-<h1 style="margin-top: 2em;">Free guide to streamlining your freelance business.</h1>
-Stop waiting for the next client/billing disaster to blow up in your face. Build the business you want now. Start with these short guides to building your dream freelance shop that delivers amazing value to clients on 30 hours a week or less.
+<h1 style="margin-top: 2em;">Free 9-part course to stopping the feast or famine cycle.</h1>
+Stop waiting for the next client/billing disaster to blow up in your face. Build the business you want now. Start with these short guides and deliver amazing value to clients on 30 hours a week or less.
 
 
 <div style="width: 600px; text-align: center; background-color: #fef3b8; border-radius: 5px; padding: 1.5em 0 .5em; display: table; margin: .25em 0 5em;">
 
-<h2 style="margin: 0;">Unlock instant access to all 5 free guides below:</h2>
+<h2 style="margin: 0;">You get instant access to all 5 free guides:</h2>
 
 <form action="https://www.getdrip.com/forms/6960242/submissions" method="post" target="_blank" data-drip-embedded-form="6960242" style="width: 100%;">
 <input type="email" name="fields[email]" value="" placeholder="Your email" style="display: inline-block; width: 300px; margin: 0;"/>
@@ -29,7 +29,7 @@ Stop waiting for the next client/billing disaster to blow up in your face. Build
 
 <div class="story" style="display: table;">
 	
-# The Rescue-Kit includes:
+# The Client Burnout Rescue Kit includes:
 
 
 

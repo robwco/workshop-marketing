@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Get Paid! Masterclass on Designing the Experience of Working with You
+layout: page
+title: Email Bootcamp for Freelancers
 permalink: /class/
 description: A course for freelance consultants on how to approach talking to clients, designing the experience of working with you, and using email to automate the bulk of the work and win more clients in less time.
 ---
@@ -27,7 +27,25 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 {::options parse_block_html="true" /}
 
 <div class="story">
+	
+<a href="/">← Back to Workshop</a>
 
+<h1 style="margin-top: 2em;">Registration for my Emails That Win You Clients Masterclass is now closed.</h1> 
+
+<div style="width: 600px; text-align: center; background-color: #fef3b8; border-radius: 5px; padding: 1.5em 0 .5em; display: table; margin: .25em 0 5em;">
+
+<h2 style="margin: 0;">Be the first in line to know when we launch—and benefit from early bird pricing!</h2>
+
+<form action="https://www.getdrip.com/forms/6960242/submissions" method="post" target="_blank" data-drip-embedded-form="6960242" style="width: 100%;">
+<input type="email" name="fields[email]" value="" placeholder="Your email" style="display: inline-block; width: 300px; margin: 0;"/>
+<input type="submit" name="submit" value="Yes, I want early-bird pricing" style="display: inline-block; margin: 0;"/>
+</form>
+
+<p style="font-size: 12px;">You’ll also get some free stuff I've put together to help you write better emails to clients now.</p>
+</div>
+
+
+<!--
 
 <center>
 <h1>Get Paid! The Masterclass <span style="display: block; font-size: 75%; margin-top: .5em; color: #444;">A self-study course to finding, winning, and keeping more clients in half the time using automated emails.</span></h1>
@@ -689,6 +707,6 @@ Best Regards,
 
 Robert Williams
 
-ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a>
+ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a>-->
 
 </div>

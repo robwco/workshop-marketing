@@ -3,24 +3,11 @@ layout: default-no-header
 ---
 {::options parse_block_html="true" /}
 
-<div style="display:table; width: 100%; background-color: #fef3b8; height: 30px; padding: 0;">
-<div style="width: 800px; margin: 0 auto; display: block; text-align: center;">
-<p style="margin: .5em 0;">
-<a href="/freelancing" style="font-size: 14px;  color: #444; text-decoration: none;">
-<span style="font-weight: 500;">New!</span>
-Stop waiting for the next client disaster to blow up in your face. <span style="color: #e66125; font-weight: 500;">Get my free client rescue kit!</span></a>
-</p>
-</div>
-</div>
 
-
-
-<div class="story">
+<div class="story" style="margin: auto auto 4em auto;">
 	
-<div style="display: table; width: 100%;">
-<a style="float: right;" class="button" href="https://app.letsworkshop.com/users/sign_in">Client Sign in</a>
-</div>
-
+	
+New? [Start Here](/freelancing)
 
 <img src="/images/hourglass.png" style="max-width: 4em; margin: 0 auto; display: block;">
 
@@ -34,12 +21,12 @@ The magnitude of every new client meeting ballooned greater and greater. Before 
 
 > “I NEED THIS JOB.”
 
-Eventually my dry spell ended, however the lessons it taught me have stayed. It’s the nature of being a freelancer. By definition, the work ends.
+Eventually my dry spell ended, but the lesson it taught me stayed. By definition, freelancing means the work ends.
 
-That's why month after month the same questions pick away at your energy: where will the next project come from?
-when will the next dry spell hit? how do you find your next client?
+And you're left facing the same questions month after month after month: where will your next project come from?
+when will your next dry spell hit? how do you find your next client (and the next)?
 
-It doesn't make sense. Why should it be so hard to find client work when there's thousands of companies out there you can help?
+But wait. Why should it be so hard to find client work when there's thousands of companies out there you can help?
 
 ### The problem isn't your copy, portfolio, or your service. It's finding these opportunities. 
 
@@ -145,9 +132,11 @@ Not at all. Workshop has top freelancers from all over the world, including plac
 All leads are 100% remote and open to remote freelancers anywhere in the world, so I'd suggest you sign up and see if it'll work for you.
 
 ### "Who are you? How long have you been doing this?"
-My name is Robert Williams. I was a freelancer who started sharing how I ran my business online a few years ago. I've been featured on Copyhackers, DoubleYourFreelancing.com, 30x500, The Freelancers' Show, Bidsketch, Freelancelift, BootstrappedWeb, Rocketship.fm and more.
+I'm Robert. I'm a freelancer who started sharing how I made money online a few years ago. The response was great and my advice caused hundreds of freelancers to change for the better.
 
-I started Workshop with select consultancies in November, 2013.  Since then I've helped hundreds land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results.
+I've been featured on Copyhackers, DoubleYourFreelancing.com, 30x500, The Freelancers' Show, Bidsketch, Freelancelift, BootstrappedWeb, Rocketship.fm and more.
+
+I started Workshop with select consultancies in November, 2013.  Since then I've helped hundreds of people like you land work. Some have even made hundreds of thousands of dollars from my leads. Now, I focus on Workshop full-time, which wouldn't be possible if it didn't produce massive results for my clients.
 
 
 > ### “I’ve gotten over my imposter-syndrome”
@@ -474,7 +463,7 @@ You can do the same.
 
 <img src="/images/rob-sig.png" style="max-width: 7em; margin: 1em 0 0em; display: block;">
 <p>Robert Williams</p>
-<p>ps. got a question? <a href="http://twitter.com/letsworkshop">tweet me!</a></p>
+<p>PS. Got a question? <a href="MAILTO:robert@letsworkshop.com">email me!</a> I'm currently focusing on delivering more value to my Workshop clients so I'm taking a break from social media and email is the best way to get a hold of me.</p>
 
 </div>   
 

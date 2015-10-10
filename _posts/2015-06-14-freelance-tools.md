@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The 25 Best Freelance Articles of All Time
+title: The 25 Best Articles on Freelancing of All Time
 tags: appendix
 permalink: /freelance-tools
 author: Robert Williams
@@ -27,7 +27,7 @@ date: 2015-05-02 02:00:00
 
 <div class="funnel-tools-funnel" data-funnel="main" data-step="default">
 
-# The 25 Best Freelance Articles of All Time
+# Rob's Top 25 Articles on Freelancing of All Time
 
 <div class="best">
 1. [A (Proven) Freelancer’s Guide to Growing Your Business](http://okdork.com/2014/07/22/actions-techniques-to-go-from-0-to-your-first-1k-with-freelancing/) – Paul Jarvis
