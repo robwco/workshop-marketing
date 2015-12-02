@@ -6,7 +6,7 @@ title:  Workshop | The right clients coming to you everyday
 
 # The right clients coming to you everyday
 
-Stop waiting for your next client & get qualified leads delivered right to your inbox each morning instead. We search the internet for the best consulting projects in your specialty, and deliver just the right leads to your inbox everyday. [Starting at only $179 a month](#signup).
+Stop waiting for your next client & get qualified leads delivered right to your inbox each morning instead. We search the internet for the best consulting projects in your specialty, and deliver just the right leads to your inbox everyday. [Starting at only $229 for 90 days](#signup).
 
 
 ---
