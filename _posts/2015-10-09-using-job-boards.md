@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I find hundreds of leads for freelancers + everything you need
+title: How I find hundreds of leads + everything you need
 tags: finding
 chapter: Finding Clients
 permalink: /using-job-boards

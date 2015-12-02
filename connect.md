@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Find a high-quality freelance designer or developer
-permalink: /connect/
+permalink: /connect-backup/
 ---
 
 

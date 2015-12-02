@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The 25 Best Articles on Freelancing of All Time
 tags: appendix
 permalink: /freelance-tools
@@ -8,7 +8,7 @@ date: 2015-05-02 02:00:00
 ---
 <style>
 .best {
-		border: 1px solid #f1f1f1; font-size: 15px; padding: 1em; line-height: 2em;
+	 padding: 1em; line-height: 2em;
 	}
 .best ol li {
 	 color: #827c76;
@@ -24,37 +24,6 @@ date: 2015-05-02 02:00:00
 </style>
 
 {::options parse_block_html="true" /}
-
-<div class="funnel-tools-funnel" data-funnel="main" data-step="default">
-
-# Rob's Top 25 Articles on Freelancing of All Time
-
-<div class="best">
-1. [A (Proven) Freelancer’s Guide to Growing Your Business](http://okdork.com/2014/07/22/actions-techniques-to-go-from-0-to-your-first-1k-with-freelancing/) – Paul Jarvis
-1. [The Email Line That's Client Repellent](/the-email-line) – Robert Williams
-1. [From $100-an-hour to $X0k-a-week consulting](https://training.kalzumeus.com/newsletters/archive/consulting_1) – Patrick McKenzie
-
-Want the rest?
-
-<h2 style="margin: 0;">Unlock instant access to all 25 free:</h2>
-
-<form action="https://www.getdrip.com/forms/6960242/submissions" method="post" target="_blank" data-drip-embedded-form="6960242" style="width: 100%;">
-<input type="email" name="fields[email]" value="" placeholder="Your email" style="display: inline-block; width: 300px; margin: 0;"/>
-<input type="submit" name="submit" value="Unlock the articles" style="display: inline-block; margin: 0;"/>
-</form>
-</div>
-
-
-
-<div style="display: table; height: 5em;"></div>
-
-</div>
-
-
-
-
-<div class="funnel-tools-funnel" data-funnel="main" data-step="second">
-# The 25 Best Freelance Articles of All Time
 
 <div class="best">
 1. [A (Proven) Freelancer’s Guide to Growing Your Business](http://okdork.com/2014/07/22/actions-techniques-to-go-from-0-to-your-first-1k-with-freelancing/) – Paul Jarvis
@@ -86,15 +55,3 @@ Want the rest?
 1. [Breaking the Time Barrier](http://www.freshbooks.com/breaking-the-time-barrier) – Mike McDerment
 </div>
 
-
-
-## Worried you'll run out of money before your next gig?
-
-<img src="/images/people.png" align="left" style="max-width: 6em; margin-right: 1em;">
-Let me send you the best freelance leads on the web every day so you can wake up focused on winning work.
-
-[See plans and pricing](/)
-
-<div style="display: table; height: 5em;"></div>
-
-</div>

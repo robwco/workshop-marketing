@@ -69,6 +69,7 @@ use Rack::Rewrite do
   r301 '/freelance-time-waste', '/freelancing'
   r301 '/assets/downloads/writing-clearly.pdf', '/downloads/writing-clearly.pdf'
   r301 '/course', '/freelancing'
+  r301 '/connect', 'http://folyo.me'
 end
 
 use Rack::TryStatic, 

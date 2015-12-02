@@ -1,9 +1,27 @@
 ---
 layout: default
-title: Articles on how to get your next freelance client today by Workshop
+title: Training | Workshop
 permalink: /advice/
 ---
 
+Workshop is how I help design and development shops find more work and create better businesses. I create tools that educate freelancers on how they can create a better work / life balance. 
+
+<div style="line-height: 1.3; margin: 1em 0 2em; font-size: 20px; font-family: 'concourse_c3regular', Lucida Grande, sans-serif; font-weight: normal; text-transform: lowercase;">
+	
+<a href="https://gumroad.com/l/emails-that-win">Emails That Win You Clients <i class="fa fa-external-link"></i></a><br>
+<a href="http://folyo.me">Folyo: Freelance Community and Private Job Board <i class="fa fa-external-link"></i></a><br>
+<a href="/using-job-boards">Instant Freelance Lead Generator</a><br>
+<a href="http://wonderfulfeedback.com">Wonderful Client Feedback</a><br>
+<a href="/freelance-tools">25 Best Freelancing Articles of All Time</a><br>
+<a href="/cold-emails">Cold Email Checklist</a>
+
+</div>
+
+
+You can get in touch with me via [Email](MAILTO:robert@letsworkshop.com) or Phone: 760-693-3360. I write to a small list of freelancers every few weeks, to get that: [sign up for my newsletter](/freelancing).
+
+
+<!--
 {::options parse_block_html="true" /}
 
 <div class="story">
@@ -35,8 +53,6 @@ permalink: /advice/
 
 </div>
 
-
-<!--
 Calm and Profitable - A free online book about how to get your next freelance client today by Workshop
 <header class="post-header">
 	<center>
