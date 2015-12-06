@@ -99,7 +99,23 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 
 </ol>
 
+<!--
+## Every lead I send is:
 
+- A project or remote-based opportunity
+- Hand-checked for quality project within the following categories:
+	- 
+- Worth a $1,000+ budget or more
+- Open to remote freelancers anywhere
+- One of 8 project types we send:
+	- Clients building apps that need help with code
+	- People looking for full-time help that might be better off hiring contractors
+	- People building stores or shops where they sell stuff
+	- People needing graphics for a marketing project
+	- People building a content or marketing sites like a blog
+	- People running design and development agencies that need help sub-contracting
+	- People requesting proposals for big budget projects
+	- People requesting proposals for government projects-->
 
 <table class="pricing" style="margin-top: 5em;" cellspacing="0" cellpadding="0" id="signup">
 	<tr>
@@ -131,12 +147,13 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 	</tr>
 	<tr>
 		<td>
-			Unlocked Lead Info (worth $300/month)
+			Unlocked Full Lead Info (worth $300/month)
 		</td>
 		<td style="text-align: center;">-</td>
 		<td class="check"><i class="fa fa-check"></i></td>
 	</tr>
-			
+
+	<!--			
 	<tr>
 		<td>
 			Customizable Lead Shortlist (worth $100/month)
@@ -144,6 +161,7 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 		<td style="text-align: center;">-</td>
 		<td class="check"><i class="fa fa-check"></i></td>
 	</tr>
+	-->
 
 	<tr>
 		<td>
