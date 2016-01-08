@@ -6,7 +6,7 @@ title:  Workshop | The right clients coming to you everyday
 
 # The right clients coming to you everyday
 
-Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning instead. We search the internet for the best consulting projects and deliver just the right fits to you everyday. [Starting at $507 per quarter](#signup)
+Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning instead. We search the internet for the best consulting projects and deliver just the right fits to you everyday. [Starting at $537 per quarter](#signup)
 
 
 ---
@@ -180,7 +180,7 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 	<tr>
 		<td>
 		</td>
-		<td style="text-align: center; font-size: 100%;">$507</td>
+		<td style="text-align: center; font-size: 100%;">$537</td>
 		<td style="text-align: center; font-size: 100%;">$597</td>
 	</tr>
 
