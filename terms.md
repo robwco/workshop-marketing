@@ -17,11 +17,11 @@ Any statements outlined are my opinion and thus are not guarantees or promises o
 
 I don't offer refunds with one exception: if service is denied because I don't think I can help you, I will refund your entire purchase. Denial is based on my discretion.
 
-**Note about refunds:** The reason I don't offer a money-guarantee on my service is because as soon as you pay I'm using your fee to provide the service. 
+(**Note about refunds:** The reason I don't offer a money-guarantee is because as soon as you pay I'm using your fee to provide the service. 
 
 That means I'm paying my team, allotting time in my schedule for you, and enhancing my system and service to provide the best results I can for you. 
 
-Those investments mean I can't get that time back and it would not be fair to ask my team to take on that risk either.
+Those investments mean I can't get that time back and it would not be fair to ask my team to take on that risk either.)
 
 ### Site Terms of Use Modifications
-I may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+I may revise these terms of use at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.

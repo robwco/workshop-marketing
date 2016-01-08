@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'concourse_t3regular', Lucida Grande, sans-serif;
-	font-size: 18px;
+	font-size: 21px;
 	line-height: 1.40;
 	color: #222;
 	
@@ -109,6 +109,31 @@ body {
 		font-size: 20px;
 	}
 
+	a.tooltip i {
+		font-size: 19px !important;
+		color: #222;
+	}
+	a.tooltip span {
+	    display: none;
+	    margin-left:-15em;
+			margin-top: -3em;
+	    width:500px;
+			text-align: center;
+			z-index: 5;
+			line-height:8px;
+			
+	}
+	a.tooltip:hover span {
+	    display:inline;
+	    position:absolute;
+			background-color: #222;
+	    color:#fff;
+			border-radius: 5px;
+	    padding: 12px 10px;
+			box-shadow: 1px 0px 5px #ccc;
+	}
+
+
 	table.pricing {
 		margin: 2em 0;
 		box-shadow: 0 2px 20px #ccc;
@@ -189,7 +214,6 @@ body {
 		}
 
 	}
-
 
 }
 

@@ -177,15 +177,6 @@ Once you have your first draft email written, you can apply a few quick rules to
 	<p>You don't want to give a busy lead more work. If the lead can say "sounds good" you're probably on the right track.</p>
 </div>
 
-# Free: Claim your premium bonus
-
-## My complete guide on writing emails to cold leads and landing more work in less time. 
-
-Write emails that win you more freelance work in less time with my book.  As a premium member you can get the book for free (I usually sell it for $79).
-
-Use the coupon code: WKSHPPREMIUMJD7K
-(And dont share this with anyone it's your own personal code)
-
 
 # Your primary contact person is Julie
 I like providing the absolute best service available anywhere. To do that I've built a team that will help you build your freelance business. 
