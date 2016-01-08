@@ -144,7 +144,7 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 	</tr>
 	<tr>
 		<td>
-			Daily Lead Monitoring of Over 300 Job Boards
+			Daily Monitoring of Over 300 Job Boards
 		</td>
 		<td class="check"><i class="fa fa-check"></i></td>
 		<td class="check"><i class="fa fa-check"></i></td>
@@ -194,10 +194,10 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 
 		</td>
 		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=1" class="buy">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=22" class="buy">Buy Now</a>
 			</td>
 		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=2" class="buy">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=21" class="buy">Buy Now</a>
 			</td>
 	</tr>
 </table>
