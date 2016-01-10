@@ -6,7 +6,12 @@ title:  Workshop | The right clients coming to you everyday
 
 # The right clients coming to you everyday
 
-Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning instead. We search the internet for the best consulting projects and deliver just the right fits to you everyday. [Starting at $537 per quarter](#signup)
+<img src="/images/video.png" style="border-radius: 5px; width: 280px; margin-right: 1em; margin-bottom: 0; display: table; padding-bottom: 1em;" align="left">
+
+
+Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning instead. We search the internet for the best consulting projects and deliver just the right fits to you everyday. 
+
+<a href="#signup" class="button">Starting at $537 per quarter</a>
 
 
 ---

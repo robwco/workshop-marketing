@@ -111,28 +111,27 @@ body {
       font-family: 'concourse_c4bold', Lucida Grande, sans-serif;
       text-transform: lowercase;
       text-decoration: none; }
-  body input[type=submit] {
-    background-color: #eaeae9;
-    border: 2px solid #ccc;
-    color: #222;
-    cursor: pointer;
-    margin: 0 0 0 .5em;
-    padding: .25em 1em .5em;
-    font-family: 'concourse_c4bold', Lucida Grande, sans-serif;
+  body input[type=submit], body .button {
+    font-size: 16px;
+    font-family: 'concourse_c4regular', Lucida Grande, sans-serif;
     text-transform: lowercase;
+    border-radius: 8px;
+    padding: 7px 16px 8px 16px;
+    text-align: center;
+    color: #666;
     text-decoration: none;
+    margin-top: -3.5em;
+    background-color: #eee;
+    cursor: pointer;
     outline: none;
-    border-radius: 5px;
-    font-size: 17px;
-    vertical-align: 2px;
+    border: none;
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
     -ms-transition: all 0.2s ease;
     transition: all 0.2s ease; }
-    body input[type=submit]:hover {
-      color: white;
-      border: 2px solid #e66512;
-      background-color: #e66512; }
+    body input[type=submit]:hover, body .button:hover {
+      background-color: #e66125;
+      color: white; }
   body input[type="text"], body input[type="password"], body input[type="name"], body input[type="url"], body input[type="email"], body input[type="rss"], body input[type="number"], body select, body textarea, body input[type=file] {
     font: 17px/1.4em 'concourse_t3regular';
     -webkit-box-sizing: border-box;
