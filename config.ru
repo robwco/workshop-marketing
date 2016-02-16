@@ -9,12 +9,11 @@ require 'rack/rewrite'
 use Rack::Rewrite do
   # r301('/connect', 'http://letsworkshopapp.heroku.com/connect')
   r301 %r{^/(.*)/$}, '/$1'
-  r301 '/brennan', '/discount'
   r301 '/pjrvs', '/discount'
   r301 '/obie', '/discount'
   r301 '/copyhackers', '/discount'
   r301 '/black-friday-sale-20-off', '/discount'
-  r301 '/c/brennan', '/discount'
+  r301 '/c/brennan', '/brennan'
   r301 '/c/pjrvs', '/discount'
   r301 '/c/obie', '/discount'
   r301 '/let-me-know', '/client-repellent'
