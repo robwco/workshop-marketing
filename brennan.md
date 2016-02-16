@@ -1,7 +1,14 @@
 ---
 layout: default
-title:  Workshop | The right clients coming to you everyday
+title:  Limited time DYF 10% Discount on Workshop
+permalink: /brennan/
 ---
+
+<link rel="stylesheet" href="../compiled/flipclock.css">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="../compiled/flipclock.js"></script>
 
 # The right clients coming to you everyday
 
@@ -12,7 +19,7 @@ title:  Workshop | The right clients coming to you everyday
 
 Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning instead. We search the internet for the best consulting projects and deliver just the right fits to you everyday. 
 
-<a href="#signup" class="button">Starting at $537 per quarter</a>
+<a href="#signup" class="button">Starting at <span style="color: #e66125;"><strike><strong>$537</strong></strike></span> $483 per quarter</a>
 
 
 ---
@@ -195,8 +202,8 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 	<tr>
 		<td>
 		</td>
-		<td style="text-align: center; font-size: 100%;">$537</td>
-		<td style="text-align: center; font-size: 100%;">$597</td>
+		<td style="text-align: center; font-size: 100%;"><strike>$537</strike> <strong><span style="color: #e66125;">$483</span></strong></td>
+		<td style="text-align: center; font-size: 100%;"><strike>$597</strike> <strong><span style="color: #e66125;">$537</span></strong></td>
 	</tr>
 
 	<tr>
@@ -209,13 +216,29 @@ Nope. Workshop works with consultancies from all over the world. All leads are 1
 
 		</td>
 		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=22" class="buy">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=24" class="buy">Buy Now</a>
 			</td>
 		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=21" class="buy">Buy Now</a>
+			<a href="https://app.letsworkshop.com/subscriptions/new?plan=25" class="buy">Buy Now</a>
 			</td>
 	</tr>
 </table>
+
+<center>
+<div class="clock" style="margin:8em;"></div>
+<div class="message"></div>
+
+<script type="text/javascript">
+    var date = new Date(2016, 1, 30);
+    var now = new Date();
+    var diff = (date.getTime()/1000) - (now.getTime()/1000);
+
+    var clock = $('.clock').FlipClock(diff,{
+        clockFace: 'DailyCounter',
+        countdown: true
+    });  
+</script>
+</center>
 
 <img src="/images/as-seen.png" style="width: 100%;">
 
