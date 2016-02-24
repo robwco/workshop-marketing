@@ -15,7 +15,7 @@ permalink: /leads/
 
 Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning. We search the internet for the best consulting projects and deliver them to you. 
 
-<a href="#pricing" class="button">See pricing & packages</a>
+<a href="#signup" class="button">See pricing & packages</a>
 
 
 <img src="/images/as-seen-few.png" style="width: 100%;">
