@@ -9,7 +9,7 @@ permalink: /press/
 
 ## About me and my service
 
-<img src="/images/rob-shades.jpg" align="left" style="width: 150px; border-radius: 150px; margin-right: 1em;">
+<img src="/images/rob-bob.jpg" align="left" style="width: 150px; border-radius: 150px; margin-right: 1em;">
 Hi! I'm Robert Williams and I run Workshop. It's a service I started in November 2013 because I wished I could hire someone to find me leads. I love chatting about consulting, design, and business so [get in touch](MAILTO:julie@letsworkshop.com) about guest posts, podcasts or any other fun opportunities. 
 
 # Recent Press
