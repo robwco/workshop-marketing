@@ -35,3 +35,6 @@ getPinboardEntries = function() {
 <div data-behavior="featured_links" style="width: 450px; margin: 0 auto;">
 </div>
 <p>For the rest check out my <a href="https://pinboard.in/u:letsworkshop">Pinboard</a></p>
+
+
+{% include footer.html %}

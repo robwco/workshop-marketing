@@ -4,7 +4,13 @@ title: Workshop - Press
 permalink: /press/
 ---
 
-Hi! I'm Robert Williams and I run Workshop. It's a service I started in November 2013 because I was a freelancer and wished I could hire someone to find me leads. I love chatting about consulting, design, and business so feel free to [get in touch](MAILTO:julie@letsworkshop.com) about guest posts, podcasts or any other fun opportunities. 
+
+<p style="margin: 2em 0 2em; text-align:center;"><a href="/" style="color: #666; text-decoration: none;">&larr; Back to homepage</a></p>
+
+## About me and my service
+
+<img src="/images/rob-shades.jpg" align="left" style="width: 150px; border-radius: 150px; margin-right: 1em;">
+Hi! I'm Robert Williams and I run Workshop. It's a service I started in November 2013 because I wished I could hire someone to find me leads. I love chatting about consulting, design, and business so [get in touch](MAILTO:julie@letsworkshop.com) about guest posts, podcasts or any other fun opportunities. 
 
 # Recent Press
 
@@ -23,3 +29,7 @@ Hi! I'm Robert Williams and I run Workshop. It's a service I started in November
 - [11 Inspirational Quotes from Leading Freelancers](http://www.freelancebusinessguide.com/2015/07/11-inspirational-quotes-from-leading-freelancers/)
 - [Invisionapp - The right way to end an email to a client](http://blog.invisionapp.com/client-emails/)
 - [Freelancelift - How do you describe your service? Words matter](https://www.freelancelift.com/describing-your-freelance-service-with-rob-williams/)
+
+
+{% include footer.html %}
+

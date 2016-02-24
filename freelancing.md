@@ -32,3 +32,6 @@ Build a process for finding and emailing new clients for free. This is my 9-part
 <a href="https://www.youtube.com/user/bobadub/videos" class="past-goodie"><img src="/images/interviews.png"></a>
 <a href="http://letsworkshop.com/using-job-boards" class="past-goodie"><img src="/images/lead-generator.png"></a>
 </div>
+
+
+{% include footer.html %}

@@ -64,3 +64,5 @@ permalink: /webinar/
 	</div>
 	
 </section>
+
+{% include footer.html %}

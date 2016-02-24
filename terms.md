@@ -4,6 +4,9 @@ title: Terms of Service
 permalink: /terms/
 ---
 
+
+<p style="margin: 2em 0 2em; text-align:center;"><a href="/" style="color: #666; text-decoration: none;">&larr; Back to homepage</a></p>
+
 # Terms of Service
 Here’s how it works. You alone are responsible for your actions and the results of your freelance business, which depend on personal factors such as your skill, abilities, knowledge, connections, and financial situation, just to name a few.
 
@@ -25,3 +28,8 @@ Those investments mean I can't get that time back and it would not be fair to as
 
 ### Site Terms of Use Modifications
 I may revise these terms of use at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+
+
+
+{% include footer.html %}
+

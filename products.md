@@ -80,3 +80,7 @@ permalink: /products/
 	</div>
 </div>
 
+
+{% include footer.html %}
+
+
