@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  Limited time DYF 10% Discount on Workshop
 permalink: /brennan/
 ---
@@ -285,7 +285,7 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 <div class="message"></div>
 
 <script type="text/javascript">
-    var date = new Date(2016, 1, 30);
+    var date = new Date(2016, 2, 4);
     var now = new Date();
     var diff = (date.getTime()/1000) - (now.getTime()/1000);
 
