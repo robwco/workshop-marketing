@@ -6,12 +6,12 @@ permalink: /brennan/
 
 <link rel="stylesheet" href="../compiled/flipclock.css">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 <script src="../compiled/flipclock.js"></script>
 
+<h2> Hey, DYF-ers! This is a special 10% off discount on my entire service – through March 1st! Join today –  Robert</h2>
 
-<div style="text-align: right; margin: 1em 0 0;"><a href="http://app.letsworkshop.com" style="text-decoration: none;">Login</a></div>
 
 <h1 style="margin:1em 0 1em;">The right clients coming to you. Every. Single. Day.</h1>
 
@@ -283,7 +283,6 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 <center>
 <div class="clock" style="margin:8em;"></div>
 <div class="message"></div>
-
 <script type="text/javascript">
     var date = new Date(2016, 2, 4);
     var now = new Date();
