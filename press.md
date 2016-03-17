@@ -4,16 +4,18 @@ title: Workshop - Press
 permalink: /press/
 ---
 
+{% include nav.html %}
 
-<p style="margin: 2em 0 2em; text-align:center;"><a href="/" style="color: #666; text-decoration: none;">&larr; Back to homepage</a></p>
 
-## About me and my service
 
-<img src="/images/rob-bob.jpg" align="left" style="width: 150px; border-radius: 150px; margin-right: 1em;">
-Hi! I'm Robert Williams and I run Workshop. It's a service I started in November 2013 because I wished I could hire someone to find me leads. I love chatting about consulting, design, and business so [get in touch](MAILTO:julie@letsworkshop.com) about guest posts, podcasts or any other fun opportunities. 
+## About me and this website
+
+<img src="/images/rob-bob.jpg" align="left" style="width: 120px; border-radius: 120px; margin-right: 1em;">
+Hi! I'm Robert Williams and I run Workshop. I started it in November 2013 because I wanted it to be easier to find freelance work. I love chatting about consulting, design, and business so [get in touch](MAILTO:julie@letsworkshop.com) about guest posts, podcasts or any other fun opportunities. 
 
 # Recent Press
 
+- [The Guide To Writing Great Emails That Win You Clients](http://doubleyourfreelancing.com/guide-to-writing-client-emails/)
 - [ClientsFromHell - What you can do to get better clients](http://clientsfromhell.net/post/136671679428/what-you-can-do-to-get-better-clients)
 - [30x500 - Case Study: Rob Williams, Workshop](https://30x500.com/case-study-rob-williams-workshop/)
 - [Domino AMA - Robert Williams from Workshop](https://www.askdomino.com/freelance/question/53/INTERVIEW---Robert-Williams-from-Workshop)

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Newsletter | Workshop
 permalink: /freelancing/
 ---
@@ -12,14 +12,23 @@ permalink: /freelancing/
 	}
 </style>
 
-# Join 5,000+ consultancies building their pipeline
+# Latest Podcast
 
-Build a process for finding and emailing new clients for free. This is my 9-part DIY guide for building a recurring consulting pipeline. You'll see exactly how I save time finding leads, how I recommend you contact them, and you'll get free tools I've created to help you along the way. 
+## Episode 1: How to get great clients with Robert Williams
 
-## Join my customer mailing list & build your pipeline
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/28077?style=dark' width='100%'></iframe>
+
+<p style="font-size: 14px; margin: 0;">August 1st, 2016</p>
+
+
+
+<h1 style="margin: 1.5em 0 0;">7 Lessons Learned from Finding Hundreds of Clients on Job Boards...</h1>
+<h5 class="uppercase" style="margin: 2em 0 .25em; color: #e86012;">Get the free checklist</h5>
+<p style="margin: 0;">You look like the type of freelance consultancy owner who would prefer to <strong> NOT</strong> spend years figuring out the best ways to find great clients. Smart. Let me share the best lessons I've learned for finding leads in one short check-list.</p>
+
 {% include course-form.html %}
 
-<p style="font-size: 14px; margin: 0; text-align: center;">Every letter is a value bomb, no spam. Unsubscribe at anytime.</p>
+<p style="font-size: 14px; margin: 0; text-align: center;">Join 5,000+ consultancies building their pipeline. Every letter is a value bomb, no spam. Unsubscribe at anytime.</p>
 
 <hr>
 

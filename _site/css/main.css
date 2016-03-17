@@ -145,7 +145,7 @@ a.button.award {
   max-width: 850px; }
 
 /* UI */
-input[type=submit] {
+input[type=submit], a.button {
   font-size: 16px;
   font-family: 'concourse_t3bold', Helvetica, sans-serif;
   text-transform: uppercase;
@@ -170,7 +170,7 @@ input[type=submit] {
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   transition: all 0.2s ease; }
-  input[type=submit]:hover {
+  input[type=submit]:hover, a.button:hover {
     background-color: #e66125;
     color: white; }
 

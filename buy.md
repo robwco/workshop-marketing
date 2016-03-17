@@ -65,7 +65,7 @@ But that's not all. Having clients coming to you would mean more time. More time
 			<h2>Effortlessly keep track of over 300 job boards</h2>
 			<p>Stay on top of what's in demand, see gigs you wouldn't never seen before, and build a daily process around finding new clients.</p> 
 			<p>I'll sort through every project on every job board and send you just the project-based opportunities that are high-quality, remote, and relevant to your skill-set.</p> 
-			<p>I'm constantly adding new sources of work, <a href="http://app.letsworkshop.com.com/monitoring">see the entire list</a>.</p>
+			<p>I'm constantly adding new sources of work, <a href="http://app.letsworkshop.com/monitoring">see the entire list</a>.</p>
 		</td>
 	</tr>
 
