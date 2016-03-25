@@ -12,8 +12,6 @@ title: Workshop | The right clients coming to you everyday
 
 {% include course-form.html %}
 
-<p style="font-size: 17px; margin: 0 0 2em; color: #888; font-family: 'concourse_t3italic';">You'll also get a free email course on getting more leads and my weekly newsletter. All value, no spam.</p>
-
 <hr>
 
 <img src="/images/as-seen-few.png" style="width: 100%;">
