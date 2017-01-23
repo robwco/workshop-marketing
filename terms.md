@@ -16,17 +16,16 @@ However, by purchasing this service, you accept and agree that you are fully res
 
 Any statements outlined are my opinion and thus are not guarantees or promises of actual performance. And if you have a question, ask it.
 
-### Refunds
+## 100% Money-back Guarantee Refund Policy
+I offer a 100% money-back guarantee. If you're not happy for any reason I want to hear about it and fix it by giving you your money back. 
 
-I don't offer refunds with one exception: if service is denied because I don't think I can help you, I will refund your entire purchase. Denial is based on my discretion.
+However, I do not accept refunds until after your full 6 months have expired. Yes, this is the opposite of most 90-day refund windows. Instead I *want* you to get the full experience before you ask for your money back. 
 
-(**Note about refunds:** The reason I don't offer a money-guarantee is because as soon as you pay I'm using your fee to provide the service. 
+It really takes time to build a pipeline so please, sign up, take the full 6 months to try the leads then let me know if you don't think it's worth it. 
 
-That means I'm paying my team, allotting time in my schedule for you, and enhancing my system and service to provide the best results I can for you. 
+I'm so sure that it is that I'm willing to put my money where my mouth is. I offer you 100% protection. 
 
-Those investments mean I can't get that time back and it would not be fair to ask my team to take on that risk either.)
-
-### Site Terms of Use Modifications
+## Site Terms of Use Modifications
 I may revise these terms of use at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
 
 

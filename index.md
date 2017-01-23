@@ -1,198 +1,158 @@
 ---
 layout: page
-title:  Workshop | The right clients coming to you everyday
+title:  Workshop - Get great clients sent to you everyday
 ---
 
-<div style="text-align: right; margin: 1em 0 0;"><a href="http://app.letsworkshop.com" style="text-decoration: none;">Login</a></div>
-
-<h1 style="margin:1em 0 1em;">The right clients coming to you. Every. Single. Day.</h1>
-
-
-<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async></script><span class="wistia_embed wistia_async_uxzm3wgb4a popover=true popoverContent=link" style="display:inline"><a href="#"><img src="/images/video.png" style="border-radius: 5px; width: 280px; margin-right: 1em; margin-bottom: 0; display: table; padding-bottom: 1em;" align="left"></a></span>
-
-
-
-Stop waiting for your next client. Get qualified leads with hot projects delivered right to your inbox each morning. We search the internet for the best consulting projects and deliver them to you. 
-
-<a href="#signup" class="button">See pricing & packages</a>
-
-
-<img src="/images/as-seen-few.png" style="width: 100%;">
-
----
-
-##“If I could just get more clients on the phone, I would sell more projects.”
-
-That’s the first thing I hear when I ask consultancies about dry spells. And they’re right. You land more work when you're in front of the right clients more often. You're pretty darn charming, after all.
-
-But it’s a time suck to separate the right opportunities from the wrong ones all by yourself. It takes sifting through old emails, job postings, tweets, forums, and more. It takes so long that nearly every consultancy avoids it.
-
-## What if you had a steady stream of the right clients coming to you everyday?
-
-You'd no longer have to be build your pipeline from scratch. You wouldn’t have to constantly bug your network for work. You’d simply wake up and contact one of the leads in your inbox. Someone who's already looking to hire someone like you.
-
-Better yet, just knowing that clients are coming would mean less stress about dry spells... feast or famine freelancing. It would mean you could store away these leads to follow up with anytime you needed work. Pretty smart of you.
-
-But that's not all. Having clients coming to you would mean more time. More time to over-deliver on projects, spend with your family – or do your hair. Best of all, if you always had access to the best opportunities, you’d simply land more work.
-
----
-
-# Let us find you new clients everyday.
-
-
-<table class="features">
+<table>
 	<tr>
 		<td>
-			<img src="/images/preview-leads.png" style="width: 350px; border: 1px solid #ddd; border-radius: 5px; margin-right: 1em;">
+			<img class="welcome-photo" src="/images/rob.JPG" style="margin: .5em .5em 0 0; height: 40px; vertical-align: -12px; border-radius: 50px;">			
 		</td>
 		<td>
-			<h2>Get access to over 2,600+ high-quality clients each year</h2> 
-			<p>I find a name, email, and photo of every lead I send so that you know exactly who to email and what to say.
-			</p>
-
-			<p>I've spent years training my team on how to find great leads so every lead I send you is worth thousands in project work.</p>
-
-			<p>They're also sortable by type so you can quickly find leads in your specialty using our app.</p>
-		</td>
-	</tr>
-
-	<tr>
-		<td>
-			<img src="/images/preview-2.png" style="width: 350px; border: 1px solid #ddd; border-radius: 5px; margin-right: 1em;">
-		</td>
-		<td>
-			<h2>Effortlessly keep track of over 300 job boards</h2>
-			<p>Stay on top of what's in demand, see gigs you wouldn't never seen before, and build a daily process around finding new clients.</p> 
-			<p>I'll sort through every project on every job board and send you just the project-based opportunities that are high-quality, remote, and relevant to your skill-set.</p> 
-			<p>I'm constantly adding new sources of work, <a href="http://app.letsworkshop.com/monitoring">see the entire list</a>.</p>
-		</td>
-	</tr>
-
-	<tr>
-		<td>
-			<img src="/images/preview-3.png" align="left" style="width: 350px; border: 1px solid #ddd; border-radius: 5px; margin-right: 1em;">
-		</td>
-		<td>
-			<h2>Customized weekly follow-up reminder</h2>
-			<p>
-				Add any lead we send you to your own shortlist of clients you want to remember to follow-up with.
-			</p> 
-
-			<p>Create a waiting list of potential clients that's always waiting for you.</p>
-		</p>
-		</td>
-	</tr>
-
-
-	<tr>
-		<td>
-			<img src="/images/preview-4.png" align="left" style="width: 350px; border: 1px solid #ddd; border-radius: 5px; margin-right: 1em;">
-		</td>
-		<td>
-			<h2>Done-for-you lead system</h2>
-			<p>
-				You'll get 1-on-1 help closing clients and access to members-only weekly ideas to help you win more client work.
-			</p> 
-
-			<p>We'll even help you implement our advice into your system with a 1-on-1 white glove service. That way you can focus all your time on winning new projects while knowing your system will sell while you sleep.</p>
-		</p>
+			<p class="personal-note" style="font-size: 17px; margin: 1em 0 0;  color: #666;">Hey there, I'm Rob. I started this site because I wanted to help freelancers find work. I know it's long so if you're short on time, you can get <a href="http://#">a version of this page to read later via email</a>.</p>
 		</td>
 	</tr>
 </table>
 
 ---
 
+## How to get a steady stream of clients coming to you
 
-## Who’s this service for?
-Workshop is great for two types of consultancies: design and development. If you can produce design or code - at any level - you can make a lot of money from the leads I send. It doesn't matter if you just started.
+Getting fired hit me like a ton of bricks. I still remember the copy machine going off in the background moments after my boss told me he was letting me go. That buzzing sound still rings in my ears years later because it was truly a wake-up call.
 
+I realized that as a full-time employee I had no control – and although a lot has changed since – one thing hasn't. My desire to have more of this control. This site is about helping you get control of your freelancing business. But I'll tell you right now, it's going to require action.
 
-> “I like to focus on projects that are particularly interesting to me, and fit my skill set well so I was reluctant to sign up at first. 
->
-> But amongst the work I scored from Workshop last year were two projects that have now blossomed into amazing client relationships and tens of thousands of dollars… with no end in sight. I was really on the fence about Workshop (and freelancing in general), but I’ve gotten over my imposter-syndrome at this point and realize I can compete and score some of these great leads. 
-> 
->I can honestly say that being a customer of yours for the past year-ish has made me a much smarter (and better) freelancer. I'm crushing it – well into 6 figures in revenues this year, and exceeding my "projections" by like 50% (absurd!). I haven't been doing this that long, but I'm very confident in my abilities as a businessman, client relationship manager (and of course, designer).
+See despite the fire in my belly, I soon became dependent again. This time it wasn't to a boss or coworker. It was to my sales pipeline. Suddenly, I needed clients. Feeding my family depended on it and the stress was getting to me.
+
+## "But I'm too busy to look for work."
+
+One day, years later, I found myself without any clients. I’d gone through dry spells before but this one was bad. Each day the stress mounted. The importance of every new potential client meeting ballooned greater than the last. I went into every meeting thinking one thing: “I need this job.” 
+
+I was desperate, and clients could smell my desperation a mile away. It took me weeks to find my next client. It was a horrible feeling.
+
+But something good came out of it. A desire to understand dry spells. A desire that led me to conducting a survey. I asked over 500+ freelancers two questions: "what do you do when you run out of work?" and "how much do you make?" The results were a big surprise:
+
+<table width="100%">
+	<tr>
+		<td colspan="3">
+			<p class="uppercase" style="margin:0 0 1em; text-align:center; font-size: 18px;">The results from my freelancer survey about dry spells:</p>
+		</td>
+	</tr>
+	<tr>
+		<td class="big-stat-number">40%</td> 
+		<td class="big-stat-number">24%</td>
+		<td class="big-stat-number">12%</td>
+	</tr>
+	<tr>
+		<td class="stat-caption">Use social media</td>
+		<td class="stat-caption">Wait for clients</td>
+		<td class="stat-caption">Email prospects</td>
+	</tr>
+</table>
+
+The activities that freelancers thought would get them work weren't the shocking part. The shocking part was seeing how each of these correlated to income. In fact, one group made way more than the others.
+
+**It was the freelancers who emailed prospects that made 2.5x more money than those who did nothing.**
+
+It was so obvious and yet almost everyone (close to 90%) overlooked it. For me, it meant I had the power to change my fortune. So I started to experiment. I cold emailed one new client every day for weeks and soon my income tripled.
+
+## "I feel like I've put all of my eggs in one basket."
+
+Eventually I got busy with client work again and stopped emailing clients. I told myself it was okay because I'd "pick things back up if they calmed down". But the truth was, in the back of my head I knew I was making the same mistake.
+
+I was relying too much on the work I had. I knew that at any second my current batch of clients could pull the rug from underneath me. And the worst part was despite realizing this - and even expecting it - I wasn't doing anything to prepare.
+
+Projects seemed to end in bunches. One second I was juggling projects and the next I was scrambling to find a single client. By the time things "calmed down" it would be too late. Something needed to change.
+
+Now, I know what you're saying. This sounds exactly like what you're going through. I know because this cycle is an epidemic amongst freelancers. We're so busy doing great work for our clients that we "forget" to maintain a healthy pipeline for ourselves. 
+
+There's even a term for it: the feast or famine cycle. It keeps thousands of freelancers up at night - and afraid to look at their bank account at any particular moment. But it doesn't have to be that way.
+
+## "I don't have time to find leads by hand."
+
+I felt like I was on to something with emailing leads but it was just too time intensive to do myself. As a high-paid freelancer, I was looking at over $2,000+ lost in billable hours each month! 
+
+Losing that much time wasn't sustainable for me, as I doubt it is for you. Finding leads is hard - especially when you're up to your nose in client work. Spending half your day on job boards looking for good projects is a bad use of time for a freelancer.
+
+So that's when I started experimenting with different options. First I "hired" my girlfriend (now wife, Hi Kieranne!) to do it for me. That lasted about a minute.
+
+Next, I considered a sales person. But after asking around I realized how expensive that would be... about 50% of my total sales. (So if I landed a $10,000 contract, they might ask for $5,000!). It was just too much.
+
+I ended up paying a VA over $600 one month to look for leads. But it didn't produce a single quality lead for me, plus I was wasting almost as much time training them as I would just finding leads myself.
+
+I wished another option existed. I wanted to hire someone like myself to do this for me. Then I had an idea. If I wanted this maybe other freelancers did too? That's how I created this page you're reading now, with a simple offer: I'll find great projects daily and email them to you.
+
+## "I just want a steady stream of clients coming to me." 
+
+The service took off. It's a testament to how effective it is that I've now sent over 10,000 high-value freelance projects, and helped freelancers find over $1 million USD in client work. 
+
+It took me a while to nail down the process but the results have been phenomenal. I find over 250 great freelance leads every single week – consistently more than I know what to do with. 
+
+In fact, I've refined my process so much that I'd like to share it with you now - for free, no strings attached - so even if you don't end up buying this service from me you can still have the same success. Ready?
+
+## Here's what you get:
+
+1. First, I monitor **every job board on the web for project-based design and development opportunities**. Note: [there's well over **300 job boards, news, and industry websites**](http://app.letsworkshop.com/monitoring) included in this daily search.
+2. Next, I do **additional custom searches** on sites like **Google, Twitter, Linkedin** and more to find recent opportunities that may have slipped through the cracks. (This includes **RFP's, tenders, and other projects** that aren't listed on job site.)
+3. Then, I go through **Workshop's inbound lead pipeline** - clients who've come exclusively to Workshop to look for a freelancer.  There's been over 200 of these clients who have sent me their project directly. **Only Workshop customers get these leads so the competition is low, and have a high average budget (around $10k-20k).** These are some of the most valuable leads I find.
+4. Lastly, I **qualify and sort this list of leads** removing anything that isn't **freelance, project-based, remote or high-quality**. I also find contact information like **a name, email, and photo** and sort them based on category so you waste no time when you get the email.
+5. As a bonus, you also get free copies of my book on **writing client-winning emails, [Emails That Win](http://emailsthatwin.com), for you and up to 7 members of your team.** <span class="price-callout">These are normally $79 each</span>
+7. Additionally, an optional premium service you can get on top of all of this is **done-for-you outreach**. This is where I email every lead for you, get more information, and **connect you directly with this now warm prospect**. It's a truly hands-free way to keep a warm pipeline, and a white-glove service I provide for <span class="price-callout">$199/month</span>
+
+## "My pipeline is burning bright even when I'm swamped"
+
+This process has resulted in over $1 million dollars of paid client work for freelancers all over the world since 2013. The crazy part is anyone could do it themselves in just 40-60 hours a month. (Even after refining this process, it still takes me about 4 hours every day.) 
+
+But the reason my customers see such a great ROI is that they don't have to do it themselves. They don't have to rely on will-power. They get to really multiply their efforts and skip years of building up a system for themselves. 
+
+So take a second to imagine what a consistent stream of clients would mean for your business. Imagine if you were no longer scared to check your bank account balance. If you had access to thousands of gigs you would've never seen before. If you were able to find new clients in just minutes a day. And if you could focus more time on what you love to do, knowing you have a system working while you sleep. 
+
+What would you do with that time? Where would you re-invest it? Who would you love spending more time with? That's why you should sign up today.
+
+And before you do I believe it's important for me to prove everything I claim. I'm going to do that by showing you the progress my customers have made since joining. Their success is due 100% to the actions they've taken, not anything I've done. I've just helped them save time and remove barriers. And I'd love to do the same for you.
+
+> “I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month.
+
+<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/gabor.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;">  Gábor Szurdoki, Freelancer in Hungary EU</span>
+
+> “I'm crushing it – well into 6 figures in revenues this year, and exceeding my "projections" by like 50% (absurd!).
 
 <span style="color: #888; font-size: 80%;"><img src="/images/corey.png" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Corey Tiani, Freelancer in Pittsburgh PA</span>
 
+> “I feels absolutely amazing not having to check job boards. Wading through all the crappy jobs to find the good ones was tough enough. I'm no longer stressed about what comes next.
 
-## What if I’m just starting out?
-This service is designed for folks who’ve been doing client work for a little while, but the processes will work for beginners as well. In fact, starting fresh might work in your favor, because you haven’t had time to establish bad habits. <a href="/freelancing">Start with my free email course.</a>
+<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/paddy.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Patrick O'dwyer, freelancer in Dublin IRE</span>
 
-## How are the leads sent?
-You won't be locked in. To start you only commit to 3 months. You instantly get access to over 2600+ freelance leads and a daily email with 10 new ones each day. After that, Workshop is pay as you go. You can cancel at any time and there's no contract or long-term commitment. There's zero risk.
+> “I’ve been relying on word-of-mouth for work and this has been a nice easy way to start up that process without wasting time filtering through all the junk I was worried about.”
 
+<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/curtis.jpeg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Curtis Herbert, owner of Breakpoint Studio in Collegeville PA</span>
 
-> “At first I was worried about the lead quality and quantity.
+> “Since starting with Workshop, I've had an unbroken chain of daily lead generation activity no matter what. I use my inbox as a to-do list and every day that workshop email is a convenient reminder to get selling.”
+
+<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/kurt.jpeg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Kurt Elster, owner of Ethercycle in Chicago IL</span>
+
+> “In seven months, I've closed 3 deals that total a little over $20,000-directly from the leads in Workshop. All three of these projects have led to long-term clients that continue to come back to me, so the value of these contracts continues to grow.
+
+<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/elliot.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Elliot Betancourt, owner of Hip Dot Media in Fort Lauderdale FL</span>
+
+> “In less than a year I’ve won close to $65,000 in projects from Workshop alone. All of them have become repeat clients who I expect would be buying additional services over the next few years.
 >
-> If the leads weren’t a good match for my services or there wasn’t enough of them then the service wouldn’t have worked for me. Once I figured out my process it made it easy to compliment my own lead generation process. 
->
-> Every day there was a good chance that at least one lead in Workshop could use my services.
-> The best thing about Workshop is it runs on email so it’s easy to process, archive, or save. If I get busy I can leave it alone until I have time for it. Leads grouped by type let me ignore the ones that don’t apply to me. 
-> 
-> The additional contact information makes it easier to find the actual people behind the project. The educational content around writing better emails and other topics help me improve my own process.
-> It’s a great service to supplement other forms of marketing because it requires very little time.
-> It’s especially valuable if someone is checking job boards by hand because there are a lot of full-time and non-remote leads that you’d have to filter out.
->
-> In less than a year I’ve won close to $65,000 in projects from Workshop alone. All of them have become repeat clients who I expect would be buying additional services over the next few years.
+> The best thing is it runs on email so it’s easy to process, archive, or save. If I get busy I can leave it alone until I have time for it.
 
-<span style="color: #888; font-size: 80%;"><img src="/images/eric.png" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Eric Davis, owner of Little Stream Software in Portland OR</span>
+<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/eric.png" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Eric Davis, owner of Little Stream Software in Portland OR</span>
 
+## Sign up right now
+You only need to land one client for this to pay for itself for years. Give it six-months and if you're not 100% happy I'll give you a full refund. 
 
+But it's critical you sign up today. See, it’s a common misconception that dry spells are just a part of freelancing. They're not. The truth is they happen because you sit and wait. Failing to line up work during flush times (not just during dry spells), is the real reason you run into feast or famine cycles. 
 
-## My shop is outside of the US, is that a problem?
+So just because you have work now, you’re short on time, or you have some other excuse, you shouldn’t put your hands up and stop all sales activity. It's time to take action and Workshop will help you do that. Sign up below. Cheers!
 
-Nope. Workshop works with consultancies from all over the world. All leads are 100% remote and open to remote shops anywhere, so you don’t have to be in the US.
-
-> “Being from outside the US, I was intimidated.
-> I ordered Workshop because it sounded like a dream way to receive possible leads. I hesitated but ended up ordering within a week.
->
-> Robert wrote in one of his first emails, that it takes time and practice to actually land a project, and that it can take weeks or even months.
->
-> I had no problem with that. Nevertheless, I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month. I’ll keep being a Workshopper, thanks Robert!
-
-<span style="color: #888; font-size: 80%;"><img src="/images/gabor.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;">  Gábor Szurdoki, Freelancer in Hungary EU</span>
-
-
-## What are some reasons I shouldn't join? 
-
-**You think I’ll be sending you your ideal clients.** The truth is you are never going to receive a lead from me (or anyone) that checks off every thing you want to see in a client. Why? Because ideal clients aren't found, they're created. By you. I’ll send you the right leads: great people who need a problem solved. It’s your job to turn them into your ideal clients.
-
-**You’re currently booked 8–12+ months in advance.** That’s the type of pipeline Workshop will help you get, a solid chunk of the next year booked out. But if you’re already there you probably don’t need Workshop at the moment. Once your waiting list gets down to 3–4 months or less, it’s a great time to hire Workshop.
-
-**You don’t email the leads I send.** Workshop isn’t magic. It wont make client work rain from the heavens if you put off doing the work. You can’t sit and wait or send bad emails and expect to land work. You and your team need be willing and able to win clients. We'll find great opportunities for you. Shops who succeed with us don’t disqualify themselves by not doing the work.
-
-If you're not sure about your process for emailing the leads, I strongly recommend you check out my book <a href="https://gumroad.com/l/emails-that-win">Emails That Win You Clients <i class="fa fa-external-link"></i></a> before you sign up. It will help you create an effective system for emailing and winning client work. Once you're ready, come back and implement what you've learned. It's a short book, you can read it in a few hours and it's great for training your team).
-	
-## Got more questions?
-
-Send them over. I’d be happy to help, and I’ll even steer you away if you’re not right for the service. I don’t want to waste your time or money.
-
-
-
-<!--
-## Every lead is:
-
-- A project or remote-based opportunity
-- Hand-checked for quality project within the following categories:
-	- 
-- Worth a $1,000+ budget or more
-- Open to remote freelancers anywhere
-- One of 8 project types we send:
-	- Clients building apps that need help with code
-	- People looking for full-time help that might be better off hiring contractors
-	- People building stores or shops where they sell stuff
-	- People needing graphics for a marketing project
-	- People building a content or marketing sites like a blog
-	- People running design and development agencies that need help sub-contracting
-	- People requesting proposals for big budget projects
-	- People requesting proposals for government projects-->
-
-<table class="pricing" style="margin-top: 5em;" cellspacing="0" cellpadding="0" id="signup">
+<table style="margin-top: 5em;" class="pricing" cellspacing="0" cellpadding="0" id="signup">
 	<tr>
 		<td class="heading" colspan="3">
-				<h1>Ready to get in front of the right clients everyday?</h1>
-				<p>Let's get started. There’s two options: regular and premium. Premium gets you concierge help closing leads. You pay 3 months at a time and there’s no long-term commitment. You can cancel anytime.</p>
+				<h1 style="text-align:center;">Ready to get 6 months of clients? (over 500 leads)</h1>
+				<p style="text-align:center;">Sign up now. You pay for 6 months upfront and can cancel anytime.</p>
 		</td>
 	</tr>
 	<tr>
@@ -200,12 +160,12 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 		 	What you get
 		</td>
 			<td style="text-align: center;" class="bonus">Regular</td>
-			<td style="text-align: center;" class="bonus">Premium</td>
+			<td style="text-align: center;" class="bonus">#FeastMode</td>
 	</tr>
 
 	<tr>
 		<td>
-			Access to 2600+ Past Leads (worth $1500)
+			Project-based lead monitoring
 		</td>
 			<td class="check"><i class="fa fa-check"></i></td>
 			<td class="check"><i class="fa fa-check"></i></td>
@@ -213,7 +173,7 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 
 	<tr>
 		<td>
-			Daily Monitoring of Over 300 Job Boards
+			Workshop inbound leads
 		</td>
 		<td class="check"><i class="fa fa-check"></i></td>
 		<td class="check"><i class="fa fa-check"></i></td>
@@ -221,12 +181,20 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 
 	<tr>
 		<td>
-			Weekly Follow-up Reminder (worth $50/month)
+			Additional contact information
 		</td>
 			<td class="check"><i class="fa fa-check"></i></td>
 			<td class="check"><i class="fa fa-check"></i></td>
 	</tr>
-	
+
+	<tr>
+		<td>
+			7 copies of Emails That Win (worth $79/each)
+		</td>
+			<td class="check"><i class="fa fa-check"></i></td>
+			<td class="check"><i class="fa fa-check"></i></td>
+	</tr>
+		
 	<tr>
 		<td colspan="3" class="bonus">
 		 Bonuses
@@ -237,7 +205,7 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 
 	<tr>
 		<td>
-			Done-for-you lead system (worth $500/mo)
+			Done-for-you warm leads (worth $500/mo)
 		</td>
 		<td style="text-align: center;">-</td>
 		<td class="check"><i class="fa fa-check"></i></td>
@@ -248,14 +216,14 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 	<tr>
 		<td>
 		</td>
-		<td style="text-align: center; font-size: 100%;">$537</td>
-		<td style="text-align: center; font-size: 100%;">$597</td>
+		<td style="text-align: center; font-size: 100%;"><span class="price-callout">$39/month</span></td>
+		<td style="text-align: center; font-size: 100%;"><span class="price-callout">$199/month</span></td>
 	</tr>
 
 	<tr>
 		<td colspan="3" class="bonus">
 			<center>
-			We use <a href="http://stripe.com">Stripe</a> which is just crazy secure. Your payment options are: <img src="/images/visa.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/mastercard.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/amex.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/discover.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/jcb.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/diners.png" style="height: 20px; vertical-align: -5px;"> 
+			Your payment options are: <img src="/images/visa.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/mastercard.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/amex.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/discover.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/jcb.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/diners.png" style="height: 20px; vertical-align: -5px;"> 
 			</center>
 		</td>
 	</tr>
@@ -272,34 +240,7 @@ Send them over. I’d be happy to help, and I’ll even steer you away if you’
 	</tr>
 </table>
 
-<img src="/images/as-seen.png" style="width: 100%;">
+<p style="text-align:center; margin-top: 0; margin-bottom: 5em;">I use <a href="http://rubyonrails.org">Ruby on Rails</a> and <a href="http://stripe.com">Stripe</a> which are just crazy secure.</p>
 
 
-## Why you should join right now
-Today Workshop provides 10x more value than when we started (and costs more than 5x our initial price — and as we add new features, the price will only increase). Missing out on signing up now literally means thousands lost on the cost alone.
-
-Secondly, it’s a common misconception that dry spells are a part of consulting. The truth is they happen because you sit and wait. Failing to line up work during flush times (not just during dry spells), is the real reason you run into feast or famine cycles. Just because you have work now, you’re short on time, or you have some other excuse, you shouldn’t put your hands up and stop all sales activity.
-
-See like you, I’ve been through dry spells. And I know there are a ton of businesses out there who will benefit from working with me. That's why I’ve put myself in front of you right now, and I believe it's your turn to do the same for businesses you can help every day. Workshop will help you do that.
-
-<img src="/images/rob-sig.png" style="max-width: 5em;">
-<br>Robert Williams
-
-PS. Got a question? [Email me](MAILTO:robert@letsworkshop.com).
-
----
-
-<h1 style="margin:  0;"> 7 Lessons Learned from Finding Hundreds of Clients on Job Boards...</h1>
-<h5 class="uppercase" style="margin: 2em 0 .25em; color: #e86012;">Get the free checklist</h5>
-<p style="margin: 0;">You look like the type of freelance consultancy owner who would prefer to <strong> NOT</strong> spend years figuring out the best ways to find great clients. Smart. Let me share the best lessons I've learned for finding leads in one short check-list.</p>
-
-
-{% include course-form.html %}
-
-<p style="font-size: 17px; margin: 0 0 2em; color: #888; font-family: 'concourse_t3italic';">You'll also get a free email course on getting more leads and my weekly newsletter. All value, no spam.</p>
-
----
-
-
-{% include footer.html %}
 
