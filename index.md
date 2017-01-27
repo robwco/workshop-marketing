@@ -3,39 +3,32 @@ layout: page
 title:  Workshop - Get great clients sent to you everyday
 ---
 
-<table>
-	<tr>
-		<td>
-			<img class="welcome-photo" src="/images/rob.JPG" style="margin: .5em .5em 0 0; height: 40px; vertical-align: -12px; border-radius: 50px;">			
-		</td>
-		<td>
-			<p class="personal-note" style="font-size: 17px; margin: 1em 0 0;  color: #666;">Hey there, I'm Rob. I started this site because I wanted to help freelancers find work. I know it's long so if you're short on time, you can get <a href="http://#">a version of this page to read later via email</a>.</p>
-		</td>
-	</tr>
-</table>
+# How to get a steady stream of clients coming to you
 
----
+<div style="float:right; padding: .5em;">
+	<img src="/images/me-and-benny.JPG" align="right" style="margin: 0 0 0 .5em; width:10em; border-radius: 5px;"><br>
 
-## How to get a steady stream of clients coming to you
+	<cite style="font-size: 15px; font-style: normal; margin: 0 0 3em 1em; color: #6E6E6E;">That's me and Benny in Lake Tahoe.</cite>
+</div>
 
-Getting fired hit me like a ton of bricks. I still remember the copy machine going off in the background moments after my boss told me he was letting me go. That buzzing sound still rings in my ears years later because it was truly a wake-up call.
+Getting fired hit me like a ton of bricks. I still remember the copy machine going off in the background moments after my boss told me he was letting me go. That buzzing sound is burned in my memory years later because it was a wake-up call. I realized that day that as a full-time employee I had no control. 
 
-I realized that as a full-time employee I had no control – and although a lot has changed since – one thing hasn't. My desire to have more of this control. This site is about helping you get control of your freelancing business. But I'll tell you right now, it's going to require action.
+A lot has changed since becoming a freelancer but one thing hasn't. **My desire to gain more of this control.** This site is about helping you get control of your freelance consulting business right now. But I'll tell you upfront: it's going to require action.
 
-See despite the fire in my belly, I soon became dependent again. This time it wasn't to a boss or coworker. It was to my sales pipeline. Suddenly, I needed clients. Feeding my family depended on it and the stress was getting to me.
+See despite the fire in my belly, I soon became dependent again. This time it wasn't to a boss or coworker. It was to my sales pipeline. I needed clients. Feeding my family depended on it and the stress was getting to me.
 
 ## "But I'm too busy to look for work."
 
-One day, years later, I found myself without any clients. I’d gone through dry spells before but this one was bad. Each day the stress mounted. The importance of every new potential client meeting ballooned greater than the last. I went into every meeting thinking one thing: “I need this job.” 
+I’d gone through dry spells before but this one was bad. Each day the stress mounted. The importance of every new potential client meeting ballooned greater than the last. I went into every Skype call thinking one thing: “I need this job.” 
 
-I was desperate, and clients could smell my desperation a mile away. It took me weeks to find my next client. It was a horrible feeling.
+I was desperate, and clients could smell it from a mile away. It took me weeks to find my next client. It was a horrible feeling.
 
 But something good came out of it. A desire to understand dry spells. A desire that led me to conducting a survey. I asked over 500+ freelancers two questions: "what do you do when you run out of work?" and "how much do you make?" The results were a big surprise:
 
 <table width="100%">
 	<tr>
 		<td colspan="3">
-			<p class="uppercase" style="margin:0 0 1em; text-align:center; font-size: 18px;">The results from my freelancer survey about dry spells:</p>
+			<p class="uppercase" style="margin:0 0 1em; text-align:center; font-size: 18px;">What freelancers do during dry spells:</p>
 		</td>
 	</tr>
 	<tr>
@@ -50,7 +43,7 @@ But something good came out of it. A desire to understand dry spells. A desire t
 	</tr>
 </table>
 
-The activities that freelancers thought would get them work weren't the shocking part. The shocking part was seeing how each of these correlated to income. In fact, one group made way more than the others.
+Now, the truly shocking part was seeing how each of these correlated to income. In fact, one group made way more than the others.
 
 **It was the freelancers who emailed prospects that made 2.5x more money than those who did nothing.**
 
@@ -58,58 +51,88 @@ It was so obvious and yet almost everyone (close to 90%) overlooked it. For me, 
 
 ## "I feel like I've put all of my eggs in one basket."
 
-Eventually I got busy with client work again and stopped emailing clients. I told myself it was okay because I'd "pick things back up if they calmed down". But the truth was, in the back of my head I knew I was making the same mistake.
+Eventually I got busy with client work again and stopped emailing clients. I told myself it was okay because I'd "pick things back up if it calmed down". But the truth was, in the back of my head I knew I was making a mistake again.
 
-I was relying too much on the work I had. I knew that at any second my current batch of clients could pull the rug from underneath me. And the worst part was despite realizing this - and even expecting it - I wasn't doing anything to prepare.
+I was relying too much on the work I had. At any moment my current batch of clients could pull the rug from underneath me. And the worst part was despite realizing this - and even expecting it - I wasn't doing anything to prepare.
 
-Projects seemed to end in bunches. One second I was juggling projects and the next I was scrambling to find a single client. By the time things "calmed down" it would be too late. Something needed to change.
+Projects seemed to end in bunches. One second I would be juggling projects and the next I'd be scrambling to find anything. By the time things "calmed down" it was too late. Something needed to change.
 
-Now, I know what you're saying. This sounds exactly like what you're going through. I know because this cycle is an epidemic amongst freelancers. We're so busy doing great work for our clients that we "forget" to maintain a healthy pipeline for ourselves. 
+Now, I know what you're saying. This sounds exactly like you. I know because this cycle is an epidemic amongst freelancers. We're so busy doing great work for our clients that we "forget" to maintain a healthy pipeline for ourselves. 
 
 There's even a term for it: the feast or famine cycle. It keeps thousands of freelancers up at night - and afraid to look at their bank account at any particular moment. But it doesn't have to be that way.
 
 ## "I don't have time to find leads by hand."
 
-I felt like I was on to something with emailing leads but it was just too time intensive to do myself. As a high-paid freelancer, I was looking at over $2,000+ lost in billable hours each month! 
+As a high-paid freelancer, I was losing over $2,000+ in billable hours each month by looking for leads myself. Losing that much time was unsustainable for my business - especially when I was already up to my nose in client work. 
 
-Losing that much time wasn't sustainable for me, as I doubt it is for you. Finding leads is hard - especially when you're up to your nose in client work. Spending half your day on job boards looking for good projects is a bad use of time for a freelancer.
+That's when I started experimenting with different options. 
 
-So that's when I started experimenting with different options. First I "hired" my girlfriend (now wife, Hi Kieranne!) to do it for me. That lasted about a minute.
+First, I "hired" my girlfriend (now wife, Hi Kieranne!) to do it for me. That lasted about a minute.
 
 Next, I considered a sales person. But after asking around I realized how expensive that would be... about 50% of my total sales. (So if I landed a $10,000 contract, they might ask for $5,000!). It was just too much.
 
-I ended up paying a VA over $600 one month to look for leads. But it didn't produce a single quality lead for me, plus I was wasting almost as much time training them as I would just finding leads myself.
+Lastly, I ended up paying a VA over $600 to look for leads. But it didn't produce a single quality opportunity for me, plus I was wasting almost as much time training them as I would just finding leads myself.
 
-I wished another option existed. I wanted to hire someone like myself to do this for me. Then I had an idea. If I wanted this maybe other freelancers did too? That's how I created this page you're reading now, with a simple offer: I'll find great projects daily and email them to you.
+I wished another option existed. I wanted to hire someone like me, not a VA. Then I had an idea. If I wanted this maybe other freelancers did too? That's how I created this page you're reading now, with a simple offer: I'll find great projects daily and email them to you.
 
 ## "I just want a steady stream of clients coming to me." 
 
-The service took off. It's a testament to how effective it is that I've now sent over 10,000 high-value freelance projects, and helped freelancers find over $1 million USD in client work. 
+I've now helped freelancers all over the world find over $1 million USD in client work. It took a while to nail down the process – so I'd like to share it with you now in hopes you skip years of testing different methods.
 
-It took me a while to nail down the process but the results have been phenomenal. I find over 250 great freelance leads every single week – consistently more than I know what to do with. 
+That way, even if you don't end up buying this service from me you can still have the same success by following this process yourself. Here's how I've found over 10,000 great clients in a few years.
 
-In fact, I've refined my process so much that I'd like to share it with you now - for free, no strings attached - so even if you don't end up buying this service from me you can still have the same success. Ready?
+<div class="service">
+	<div class="image monitoring"></div>
+	
+	<p><strong>I monitor every freelance opportunity</strong></p>
+	<p>I have a list of over 300 job boards, news, and industry websites I keep track of on a daily basis. There's thousands of project-based design and development gigs spread out over hundreds of sites.</p>
+</div>
 
-## Here's what you get:
+<div class="service">
+	<div class="image search"></div>
+	
+	<p><strong>I do custom searches daily</strong></p>
+	<p>I use sites like Google, Twitter, Linkedin and more to find recent opportunities that may have slipped through the cracks. This includes RFP's, tenders, and other projects that aren't listed on job sites.</p>
+</div>
 
-1. First, I monitor **every job board on the web for project-based design and development opportunities**. Note: [there's well over **300 job boards, news, and industry websites**](http://app.letsworkshop.com/monitoring) included in this daily search.
-2. Next, I do **additional custom searches** on sites like **Google, Twitter, Linkedin** and more to find recent opportunities that may have slipped through the cracks. (This includes **RFP's, tenders, and other projects** that aren't listed on job site.)
-3. Then, I go through **Workshop's inbound lead pipeline** - clients who've come exclusively to Workshop to look for a freelancer.  There's been over 200 of these clients who have sent me their project directly. **Only Workshop customers get these leads so the competition is low, and have a high average budget (around $10k-20k).** These are some of the most valuable leads I find.
-4. Lastly, I **qualify and sort this list of leads** removing anything that isn't **freelance, project-based, remote or high-quality**. I also find contact information like **a name, email, and photo** and sort them based on category so you waste no time when you get the email.
-5. As a bonus, you also get free copies of my book on **writing client-winning emails, [Emails That Win](http://emailsthatwin.com), for you and up to 7 members of your team.** <span class="price-callout">These are normally $79 each</span>
-7. Additionally, an optional premium service you can get on top of all of this is **done-for-you outreach**. This is where I email every lead for you, get more information, and **connect you directly with this now warm prospect**. It's a truly hands-free way to keep a warm pipeline, and a white-glove service I provide for <span class="price-callout">$199/month</span>
+<div class="service">
+	<div class="image inbound"></div>
+	
+	<p><strong>I have exclusive leads coming to me</strong></p>
+	<p>I've built an inbound pipeline of clients (over 300) come exclusively to me in search of a freelancer. Because they're coming straight to me the competition is really low and they usually have the highest budgets ($10k-20k).</p>
+</div>
+
+<div class="service">
+	<div class="image qualify"></div>
+	
+	<p><strong>I find contact info for each lead</strong></p>
+	<p>I use google and other sites to get more information about a lead and sort it based on if category. That means all of my leads have a name, email, and photo and are a project-based, remote, high-quality job.</p>
+</div>
+
+<div class="service">
+	<div class="image outreach"></div>
+	
+	<p><strong>I do outreach for every lead</strong></p>
+	<p>Here's the kicker. Once I've found hundreds of great, I email them. Once I get more information about the project, I offer to refer them directly to a Workshop customer.</p>
+</div>
+
 
 ## "My pipeline is burning bright even when I'm swamped"
+This process has resulted in a hands-free way of keeping a warm freelance pipeline for hundreds of freelancers. It's helped me find over $1 million dollars in paid client work since 2013 with this process. 
 
-This process has resulted in over $1 million dollars of paid client work for freelancers all over the world since 2013. The crazy part is anyone could do it themselves in just 40-60 hours a month. (Even after refining this process, it still takes me about 4 hours every day.) 
+You could do it yourself in about 40-60 hours a month (even after refining this process, it still takes me about 4 man-hours every day.) 
 
-But the reason my customers see such a great ROI is that they don't have to do it themselves. They don't have to rely on will-power. They get to really multiply their efforts and skip years of building up a system for themselves. 
+But I think that'd be a shame. Instead I think you should skip years of trial and error and just get the system for your freelance business today.
 
-So take a second to imagine what a consistent stream of clients would mean for your business. Imagine if you were no longer scared to check your bank account balance. If you had access to thousands of gigs you would've never seen before. If you were able to find new clients in just minutes a day. And if you could focus more time on what you love to do, knowing you have a system working while you sleep. 
+Your business would deserves to have a steady stream of clients coming to it. You should be able to focus more time on what you love to do, and have a system working for you while you sleep. 
 
-What would you do with that time? Where would you re-invest it? Who would you love spending more time with? That's why you should sign up today.
+What would you do with the time you save? Where would you re-invest it? Who would you love to spend more time with? The answers to those questions are why I run this service and why you should sign up today.
 
-And before you do I believe it's important for me to prove everything I claim. I'm going to do that by showing you the progress my customers have made since joining. Their success is due 100% to the actions they've taken, not anything I've done. I've just helped them save time and remove barriers. And I'd love to do the same for you.
+And before you do I believe it's important for me to prove everything I claim. I'm going to do that by showing you the progress my customers have made since joining. Their success is due 100% to the actions they've taken. 
+
+I've just helped them save time and remove barriers. And I'd love to do the same for you.
+
+<!-- 
 
 > “I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month.
 
@@ -141,106 +164,33 @@ And before you do I believe it's important for me to prove everything I claim. I
 
 <span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/eric.png" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Eric Davis, owner of Little Stream Software in Portland OR</span>
 
-## Sign up right now
-You only need to land one client for this to pay for itself for years. Give it six-months and if you're not 100% happy I'll give you a full refund. 
+---
 
-But it's critical you sign up today. See, it’s a common misconception that dry spells are just a part of freelancing. They're not. The truth is they happen because you sit and wait. Failing to line up work during flush times (not just during dry spells), is the real reason you run into feast or famine cycles. 
+<a href="#" class="price-package">Get 4000+ High-Value Freelance Projects This Year<br>
+<small>You pay less than $1 per lead</small><br>
+<span>Subscribe right now • $199/month • 100% guarantee</span>
+</a>
 
-So just because you have work now, you’re short on time, or you have some other excuse, you shouldn’t put your hands up and stop all sales activity. It's time to take action and Workshop will help you do that. Sign up below. Cheers!
+-->
 
-<table style="margin-top: 5em;" class="pricing" cellspacing="0" cellpadding="0" id="signup">
-	<tr>
-		<td class="heading" colspan="3">
-				<h1 style="text-align:center;">Ready to get 6 months of clients? (over 500 leads)</h1>
-				<p style="text-align:center;">Sign up now. You pay for 6 months upfront and can cancel anytime.</p>
-		</td>
-	</tr>
-	<tr>
-		<td class="bonus">
-		 	What you get
-		</td>
-			<td style="text-align: center;" class="bonus">Regular</td>
-			<td style="text-align: center;" class="bonus">#FeastMode</td>
-	</tr>
+# Sign up today
 
-	<tr>
-		<td>
-			Project-based lead monitoring
-		</td>
-			<td class="check"><i class="fa fa-check"></i></td>
-			<td class="check"><i class="fa fa-check"></i></td>
-	</tr>
+If you’re serious about taking control of your freelance business, you need to make sure you’re doing it right. Fortunately, I can help you get your lead pipeline across the finish line. This is the smallest investment you can make that still provides solid results – and you get it for just $12 a week, less than your Starbucks budget.
 
-	<tr>
-		<td>
-			Workshop inbound leads
-		</td>
-		<td class="check"><i class="fa fa-check"></i></td>
-		<td class="check"><i class="fa fa-check"></i></td>
-	</tr>
+These leads are exclusive to Workshop subscribers – and once an email is sent, you don’t get another chance at seeing it again. Sign up today and don’t miss another week:
 
-	<tr>
-		<td>
-			Additional contact information
-		</td>
-			<td class="check"><i class="fa fa-check"></i></td>
-			<td class="check"><i class="fa fa-check"></i></td>
-	</tr>
+<a href="#" class="button">Subscribe • $49/month<br>
+	<small>Cancel whenever</small>
+</a>
 
-	<tr>
-		<td>
-			7 copies of Emails That Win (worth $79/each)
-		</td>
-			<td class="check"><i class="fa fa-check"></i></td>
-			<td class="check"><i class="fa fa-check"></i></td>
-	</tr>
-		
-	<tr>
-		<td colspan="3" class="bonus">
-		 Bonuses
-		</td>
-	</tr>
+Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know</a> if you have any questions. I hope you have an awesome day.
 
+— Robert Williams
 
+---
 
-	<tr>
-		<td>
-			Done-for-you warm leads (worth $500/mo)
-		</td>
-		<td style="text-align: center;">-</td>
-		<td class="check"><i class="fa fa-check"></i></td>
-	</tr>
+<small>PS: Can’t afford Workshop right now? No worries. I also write <a href="http:robertallenwilliams.com">weekly letters for free</a>, although they don’t focus nearly as much on generating revenue for your business.</small>
 
-
-
-	<tr>
-		<td>
-		</td>
-		<td style="text-align: center; font-size: 100%;"><span class="price-callout">$39/month</span></td>
-		<td style="text-align: center; font-size: 100%;"><span class="price-callout">$199/month</span></td>
-	</tr>
-
-	<tr>
-		<td colspan="3" class="bonus">
-			<center>
-			Your payment options are: <img src="/images/visa.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/mastercard.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/amex.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/discover.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/jcb.png" style="height: 20px; vertical-align: -5px;"> <img src="/images/diners.png" style="height: 20px; vertical-align: -5px;"> 
-			</center>
-		</td>
-	</tr>
-	<tr>
-		<td>
-
-		</td>
-		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=22" class="button">Buy</a>
-			</td>
-		<td style="text-align: center;">
-			<a href="https://app.letsworkshop.com/subscriptions/new?plan=21" class="button">Buy</a>
-			</td>
-	</tr>
-</table>
-
-<p style="text-align:center; margin-top: 0; margin-bottom: 5em;">I use <a href="http://rubyonrails.org">Ruby on Rails</a> and <a href="http://stripe.com">Stripe</a> which are just crazy secure.</p>
 
 
 

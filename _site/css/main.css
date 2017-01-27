@@ -2,7 +2,7 @@
 body {
   font-family: 'concourse_t3regular', Helvetica, sans-serif;
   font-size: 22px;
-  line-height: 1.40;
+  line-height: 1.42;
   color: #222; }
 
 a {
@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'concourse_t4regular', Helvetica, sans-serif; }
 
 h1 {
-  font-family: 'concourse_t3bold', Helvetica, sans-serif;
-  font-size: 28px;
+  font-family: 'concourse_t4regular', Helvetica, sans-serif;
+  font-size: 33px;
   margin: 1em 0 1em;
   line-height: 1.5;
   color: #222; }
@@ -140,7 +140,8 @@ ol {
   letter-spacing: 2px; }
 
 input[type=submit], a.button {
-  font-size: 16px;
+  display: inline-block;
+  font-size: 25px;
   font-family: 'concourse_t3bold', Helvetica, sans-serif;
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
@@ -149,13 +150,13 @@ input[type=submit], a.button {
   -o-font-feature-settings: 'case' 1;
   -ms-font-feature-settings: 'case' 1;
   font-feature-settings: 'case' 1;
-  letter-spacing: 2px;
-  border-radius: 8px;
-  padding: 9px 20px 10px;
+  letter-spacing: .1em;
+  border-radius: .5em;
+  margin: 1em auto;
+  padding: .65em 1.5em .65em;
   text-align: center;
   color: #FFF;
   text-decoration: none;
-  margin-top: -3.5em;
   background-color: #2090cc;
   cursor: pointer;
   outline: none;
@@ -163,10 +164,23 @@ input[type=submit], a.button {
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
-  transition: all 0.2s ease; }
+  transition: all 0.2s ease;
+  line-height: 1.2; }
   input[type=submit]:hover, a.button:hover {
-    background-color: #e66125;
-    color: white; }
+    background-color: #46b0e9; }
+
+a.button small {
+  font-size: 20px;
+  font-family: 'concourse_t3italic';
+  letter-spacing: 0;
+  text-transform: none;
+  -moz-font-feature-settings: normal;
+  -moz-font-feature-settings: normal;
+  -webkit-font-feature-settings: normal;
+  -o-font-feature-settings: normal;
+  -ms-font-feature-settings: normal;
+  font-feature-settings: normal;
+  color: #c0e9ff; }
 
 a.button.upgrade {
   background-color: #60b231 !important;
@@ -183,6 +197,35 @@ a.button.hide {
 a.button.award {
   background-color: #67bd33;
   box-shadow: 0px 2px 0px #3f8515; }
+
+a.sign-up {
+  border: 2px solid; }
+
+a.price-package {
+  border: 3px solid #f0dc97;
+  padding: .75em 1em 1em;
+  display: block;
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 40px;
+  margin: 2em 0 .5em;
+  font-family: 'concourse_t3bold_italic';
+  text-align: center;
+  background-color: #fffcd8;
+  line-height: 1; }
+
+a.price-package small {
+  margin: 0;
+  line-height: 0;
+  font-size: 22px;
+  color: #62562e; }
+
+a.price-package span {
+  display: block;
+  margin: 2em 0 0;
+  font-size: 25px;
+  color: #62562e; }
 
 input[type="text"], input[type="password"], input[type="name"], input[type="url"], input[type="email"], input[type="rss"], input[type="number"], select, textarea, input[type=file] {
   font: 17px/1.4em 'concourse_t3regular';
@@ -211,7 +254,7 @@ input[type="text"], input[type="password"], input[type="name"], input[type="url"
 
 blockquote {
   font-size: 90%;
-  margin: 1em 0 -.5em;
+  margin: 1.5em 0 -.5em;
   padding: 1em;
   background-color: #f1f1f1;
   border-radius: 5px; }
@@ -232,6 +275,12 @@ i {
   vertical-align: 6px; }
 
 /* Sales Page */
+th {
+  font-weight: normal; }
+
+th h1 + p {
+  margin: 0; }
+
 table.pricing {
   margin: 1em 0 4em;
   box-shadow: 0 2px 20px #ccc;
@@ -270,6 +319,56 @@ td.stat-caption {
   font-size: 17px;
   color: #666;
   text-align: center; }
+
+.service {
+  margin: 1em 0;
+  box-shadow: 0 0 5px #EEE;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 0;
+  overflow: hidden;
+  box-sizing: border-box; }
+
+.service p {
+  font-size: 20px;
+  margin: 1.5em 0 .25em;
+  padding: 0 1em; }
+
+.service p + p {
+  margin: 0; }
+
+.service p strong {
+  font-size: 22px; }
+
+.service .image {
+  display: block;
+  width: 200px;
+  float: left;
+  box-sizing: border-box;
+  height: 250px;
+  margin-right: 1.5em;
+  border-right: 1px solid #DDD;
+  background-color: #eee; }
+
+.service .image.monitoring {
+  background-image: url("../images/monitoring.png");
+  background-size: auto 160%; }
+
+.service .image.search {
+  background-image: url("../images/search.png");
+  background-size: auto 100%; }
+
+.service .image.inbound {
+  background-image: url("../images/inbound.png");
+  background-size: auto 100%; }
+
+.service .image.qualify {
+  background-image: url("../images/qualify.png");
+  background-size: auto 100%; }
+
+.service .image.outreach {
+  background-image: url("../images/outreach.png");
+  background-size: auto 100%; }
 
 /* Fonts */
 @font-face {
