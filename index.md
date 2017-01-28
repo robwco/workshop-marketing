@@ -177,9 +177,9 @@ I've just helped them save time and remove barriers. And I'd love to do the same
 
 If you’re serious about taking control of your freelance business, you need to make sure you’re doing it right. Fortunately, I can help you get your lead pipeline across the finish line. This is the smallest investment you can make that still provides solid results – and you get it for just $12 a week, less than your Starbucks budget.
 
-These leads are exclusive to Workshop subscribers – and once an email is sent, you don’t get another chance at seeing it again. Sign up today and don’t miss another week:
+These leads are exclusive to Workshop subscribers – and once an email is sent, you don’t get another chance at seeing it again. Sign up today and don’t miss another lead:
 
-<a href="#" class="button">Subscribe • $49/month<br>
+<a href="http://localhost:3000/subscriptions/new?plan=2" class="button">Subscribe • $199/month<br>
 	<small>Cancel whenever</small>
 </a>
 
