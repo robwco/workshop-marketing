@@ -28,7 +28,5 @@ I'm so sure that it is that I'm willing to put my money where my mouth is. I off
 ## Site Terms of Use Modifications
 I may revise these terms of use at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
 
-
-
 {% include footer.html %}
 

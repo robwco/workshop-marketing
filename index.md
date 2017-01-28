@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Workshop - Get great clients sent to you everyday
+title: Workshop - Get great clients sent to you everyday
 ---
 
 # How to get a steady stream of clients coming to you
@@ -189,7 +189,7 @@ Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know<
 
 ---
 
-<small>PS: Can’t afford Workshop right now? No worries. I also write <a href="http:robertallenwilliams.com">weekly letters for free</a>, although they don’t focus nearly as much on generating revenue for your business.</small>
+<small>PS: Can’t afford Workshop right now? No worries. I also write <a href="http://robertallenwilliams.com">weekly letters for free</a>, although they don’t focus nearly as much on generating revenue for your business.</small>
 
 
 
