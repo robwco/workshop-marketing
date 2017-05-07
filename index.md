@@ -1,12 +1,74 @@
 ---
 layout: page
 title: Workshop - Get great clients sent to you everyday
+headline: Find clients you actually <em>enjoy</em> working with
 ---
 
-# How to get a steady stream of clients coming to you
 
-<div style="float:right; padding: .5em;">
-	<img src="/images/me-and-benny.JPG" align="right" style="margin: 0 0 0 .5em; width:10em; border-radius: 5px;"><br>
+<!--
+
+<div class="drip-signup-cta" style="display: grid; grid-template-columns: 30% 30% 30%; grid-gap: 5%; padding: 0 1.25em 0; background-color:#FFF; border: 2px solid #ededed;">
+	<div style="grid-column: 1 / 3; grid-row: 1;">
+ 		<h3 style="margin-bottom: 0;">FREE: 7 ways to get better clients right now</h3>
+		<p style="margin: .25em 0 0;">Don't go back to full-time work. Give me 5 minutes and you'll start generating more work.</p>
+	</div>
+	
+	<div style="grid-column: 3; grid-row: 1; justify-content: space-evenly;
+	overflow-x: auto;
+	text-align: center;">
+		<a class="button small" style="margin-bottom:.5em; margin-top: 2em;" href="#">Get access for FREE</a><br>
+		<small>8,000+ freelancers helped</small>
+	</div>
+</div>
+	
+
+<form class="drip-signup-form"  action="https://www.getdrip.com/forms/19595913/submissions" method="post" data-drip-embedded-form="19595913" style="display:grid; grid-template-columns: 48% 48%; grid-gap: 4%; background-color: #ededed; padding: .5em 2em; max-width: 100%;">
+	<div style="grid-column: 1 / 3; grid-row: 1;">
+	 <h2>Special offer for first-time visitors: 7 days to better clients</h2>
+
+	</div>
+	
+	<div style="grid-column: 4; grid-row: 1">
+		<a class="expander" href="#">click me</a>
+	</div>
+	
+	<div class="content">
+		<div style="grid-column: 1; grid-row: 2;">
+			<h3>First name</h3>
+	  
+			<input type="text" name="fields[first_name]" value="" placeholder="First name" />
+		</div>
+		
+		 <div style="grid-column: 2; grid-row: 2;">
+			<h3>Email address</h3>
+	    
+			<input type="email" name="fields[email]" value="" placeholder="your@email.com" />
+		 </div>
+	
+		<div style="grid-column: 1; grid-row: 3;">
+		<h3>What type of clients do you want?</h3>
+		</div>
+	
+		<div style="grid-column: 2; grid-row: 3;">
+			<select name="fields[type_of_work]">
+			  <option value="design">Design</option>
+			  <option value="development">Development</option>
+			  <option value="marketing">Marketing</option>
+			  <option value="agency">All of the above (agency)</option>
+			</select>
+		</div>	
+				
+		 <div style="grid-column: 1 / 3; grid-row: 4;">
+		   <input type="submit" name="submit" value="Sign Up" data-drip-attribute="sign-up-button" />
+		 </div>
+	</div>
+</form>
+-->
+
+## Sign up to get high-quality gig leads by email
+
+<div class="photo-benny" style="float:right; padding: .5em;">
+	<img src="/images/me-and-benny.JPG" align="right" style="margin: 1em 0 0 .5em; width:13em; border-radius: 5px;"><br>
 
 	<cite style="font-size: 15px; font-style: normal; margin: 0 0 3em 1em; color: #6E6E6E;">That's me and Benny in Lake Tahoe.</cite>
 </div>
@@ -106,39 +168,16 @@ But I think that’d be a shame. Instead I think you should skip years of trial 
 
 Where would you invest that time? Who would you spend it with? Those answers are the reason I’ve run this service for 3+ years. They are why you should sign up today.
 
+
+
+{% for testimonial in site.data.testimonials %}
+<blockquote class="testimonial">{{ testimonial.quote }}</blockquote>
+
+<span class="testimonial-by-line"><img class="small-photo" src="{{ testimonial.image }}">  {{ testimonial.name }}, {{ testimonial.job_title }} in {{ testimonial.location }}</span>
+{% endfor %}
+
+
 <!-- 
-
-> “I landed my first project after just 4 or 5 days. The monthly cost of Workshop is covered already, and I still have weeks left from my first month.
-
-<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/gabor.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;">  Gábor Szurdoki, Freelancer in Hungary EU</span>
-
-> “I'm crushing it – well into 6 figures in revenues this year, and exceeding my "projections" by like 50% (absurd!).
-
-<span style="color: #888; font-size: 80%;"><img src="/images/corey.png" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Corey Tiani, Freelancer in Pittsburgh PA</span>
-
-> “I feels absolutely amazing not having to check job boards. Wading through all the crappy jobs to find the good ones was tough enough. I'm no longer stressed about what comes next.
-
-<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/paddy.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Patrick O'dwyer, freelancer in Dublin IRE</span>
-
-> “I’ve been relying on word-of-mouth for work and this has been a nice easy way to start up that process without wasting time filtering through all the junk I was worried about.”
-
-<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/curtis.jpeg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Curtis Herbert, owner of Breakpoint Studio in Collegeville PA</span>
-
-> “Since starting with Workshop, I've had an unbroken chain of daily lead generation activity no matter what. I use my inbox as a to-do list and every day that workshop email is a convenient reminder to get selling.”
-
-<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/kurt.jpeg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Kurt Elster, owner of Ethercycle in Chicago IL</span>
-
-> “In seven months, I've closed 3 deals that total a little over $20,000-directly from the leads in Workshop. All three of these projects have led to long-term clients that continue to come back to me, so the value of these contracts continues to grow.
-
-<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/elliot.jpg" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Elliot Betancourt, owner of Hip Dot Media in Fort Lauderdale FL</span>
-
-> “In less than a year I’ve won close to $65,000 in projects from Workshop alone. All of them have become repeat clients who I expect would be buying additional services over the next few years.
->
-> The best thing is it runs on email so it’s easy to process, archive, or save. If I get busy I can leave it alone until I have time for it.
-
-<span style="color: #888; font-size: 80%; margin-bottom: 2em;"><img src="/images/eric.png" style="width: 32px; border-radius: 32px; vertical-align: -8px; margin-right: 8px;"> Eric Davis, owner of Little Stream Software in Portland OR</span>
-
----
 
 <a href="#" class="price-package">Get 4000+ High-Value Freelance Projects This Year<br>
 <small>You pay less than $1 per lead</small><br>

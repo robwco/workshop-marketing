@@ -1,9 +1,92 @@
+.testimonial-by-line {
+  color: #888;
+  font-size: 80%;
+  margin-bottom: 2em; }
+
+.testimonial-by-line img.small-photo {
+  width: 32px;
+  border-radius: 32px;
+  vertical-align: -8px;
+  margin-right: 8px; }
+
+nav.main-top {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+  display: table;
+  font-size: 22px;
+  text-align: center;
+  box-sizing: border-box; }
+
+@media only screen and (max-width: 800px) {
+  nav.main-top {
+    font-size: 17px;
+    text-align: right; } }
+nav.main-top a {
+  padding: .2em .75em .25em;
+  text-decoration: none;
+  color: #6d6e60; }
+
+@media only screen and (max-width: 800px) {
+  nav.main-top a {
+    padding: .2em .75em .25em; } }
+nav.main-top div {
+  display: inline-block; }
+
+nav.main-top .links {
+  margin: 0 .125em;
+  padding: 1em .25em; }
+
+@media only screen and (max-width: 800px) {
+  nav.main-top .links {
+    padding: .25em 0;
+    display: inline-block; } }
+nav.main-top #logo {
+  padding: 1em 4em 1em 0;
+  margin: 0;
+  font-weight: 700;
+  font-size: 25px; }
+
+nav.main-top #logo a {
+  color: #333; }
+
+@media only screen and (max-width: 800px) {
+  nav.main-top #logo {
+    padding: 1em 1em 1em 0;
+    float: left; } }
+.headline {
+  padding: 1em 1em 1.5em;
+  max-width: 1300px;
+  margin: 0 auto;
+  width: 100%;
+  display: table;
+  box-sizing: border-box; }
+
+.headline h1 {
+  margin: .5em 0 0;
+  font-size: 70px;
+  text-align: center;
+  padding: 0 2em; }
+
+footer p {
+  width: 100%;
+  max-width: 1300px;
+  margin: 5em auto 3em;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  color: #6d6e60; }
+
+footer a {
+  color: #6d6e60; }
+
 /* Default General Styles */
 body {
-  font-family: 'concourse_t3regular', Helvetica, sans-serif;
-  font-size: 22px;
-  line-height: 1.42;
-  color: #222; }
+  font-family: "futura-pt", Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 1.38;
+  color: #222;
+  font-weight: 400; }
 
 a {
   color: #222; }
@@ -12,22 +95,20 @@ a:hover {
   color: #7E7E7E; }
 
 strong {
-  font-family: 'concourse_t4regular', Helvetica, sans-serif;
-  font-weight: normal; }
+  font-family: "futura-pt", Helvetica, sans-serif;
+  font-weight: 700; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: normal;
-  font-family: 'concourse_t4regular', Helvetica, sans-serif; }
+  font-weight: 700;
+  font-family: "futura-pt-bold", Helvetica, sans-serif; }
 
 h1 {
-  font-family: 'concourse_t4regular', Helvetica, sans-serif;
-  font-size: 33px;
-  margin: 1em 0 1em;
-  line-height: 1.5;
-  color: #222; }
+  font-size: 53px;
+  margin: 1em 0 0;
+  line-height: 1.1;
+  color: #322e2b; }
 
 h2 {
-  font-family: 'concourse_c3bold', Helvetica, sans-serif;
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -66,12 +147,12 @@ h2 + p, h1 + p {
 .top-menu a.new-message {
   color: #666;
   text-decoration: none;
-  font-family: 'concourse_t3regular', Helvetica, sans-serif;
+  font-family: "futura-pt", Helvetica, sans-serif;
   margin: 0 1em; }
 
 .top-menu a.new-message span {
   font-size: 60%;
-  font-family: 'concourse_c3bold', Helvetica, sans-serif;
+  font-family: "futura-pt-bold", Helvetica, sans-serif;
   background-color: #ea221c;
   color: #FFF;
   padding: 0px 3px;
@@ -82,7 +163,7 @@ h2 + p, h1 + p {
 
 /* Typography */
 .uppercase {
-  font-family: 'concourse_t3bold', Helvetica, sans-serif;
+  font-family: "futura-pt", Helvetica, sans-serif;
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -109,11 +190,6 @@ h2 + p, h1 + p {
 .comfortable {
   max-width: 700px; }
 
-footer p {
-  margin: 3em 0;
-  font-size: 14px;
-  color: #666; }
-
 ol li {
   margin: .5em 0; }
 
@@ -124,7 +200,7 @@ ol {
 /* UI */
 .price-callout {
   display: inline-block;
-  font-family: 'concourse_t3bold', Helvetica, sans-serif;
+  font-family: "futura-pt-bold", Helvetica, sans-serif;
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -142,7 +218,7 @@ ol {
 input[type=submit], a.button {
   display: inline-block;
   font-size: 25px;
-  font-family: 'concourse_t3bold', Helvetica, sans-serif;
+  font-family: "futura-pt-bold", Helvetica, sans-serif;
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -171,7 +247,7 @@ input[type=submit], a.button {
 
 a.button small {
   font-size: 20px;
-  font-family: 'concourse_t3italic';
+  font-family: "futura-pt";
   letter-spacing: 0;
   text-transform: none;
   -moz-font-feature-settings: normal;
@@ -186,9 +262,11 @@ a.button.upgrade {
   background-color: #60b231 !important;
   box-shadow: 0px 2px 0px #328a00 !important; }
 
-a.button.small {
-  padding: 5px 10px 5px !important;
-  font-size: 15px; }
+input[type=submit].small, a.button.small {
+  padding: 5px 9px 6px;
+  font-size: 15px;
+  background: #CCC;
+  color: #555; }
 
 a.button.hide {
   background-color: #aaa;
@@ -210,7 +288,7 @@ a.price-package {
   box-sizing: border-box;
   font-size: 40px;
   margin: 2em 0 .5em;
-  font-family: 'concourse_t3bold_italic';
+  font-family: "futura-pt";
   text-align: center;
   background-color: #fffcd8;
   line-height: 1; }
@@ -228,7 +306,7 @@ a.price-package span {
   color: #62562e; }
 
 input[type="text"], input[type="password"], input[type="name"], input[type="url"], input[type="email"], input[type="rss"], input[type="number"], select, textarea, input[type=file] {
-  font: 17px/1.4em 'concourse_t3regular';
+  font: 17px/1.4em "futura-pt";
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -308,7 +386,7 @@ table.features h2 {
   margin: 0; }
 
 td.big-stat-number {
-  font-family: 'concourse_c3bold', Helvetica, sans-serif;
+  font-family: "futura-pt-bold", Helvetica, sans-serif;
   font-size: 20px;
   line-height: 1.5;
   color: #222;

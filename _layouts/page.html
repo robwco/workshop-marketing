@@ -2,11 +2,22 @@
 layout: default
 ---
 
-<div class="reading wrap">
+<nav class="main-top">
+	<div id="logo"><a href="/">Workshop</a></div>
+	<div class="links"><a href="/what-you-get">What you get</a></div>
+	<div class="links"><a href="/type-of-work">Types of leads we find</a></div>
+	<div class="links"><a href="/success-stories">Success stories</a></div>
+	<div class="links"><a href="/contact">Contact</a></div>
+</nav>
 
+<div class="headline">
+	<h1>{{ page.headline }}</h1>
+</div>
+
+<div class="reading wrap">
   <article>
     {{ content }}
   </article>
-
-
 </div>
+
+{% include footer.html %}

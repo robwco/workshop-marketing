@@ -1,11 +1,16 @@
 ---
 ---
+
+@import "testimonials";
+@import "style";
+
 /* Default General Styles */
 body {
-	font-family: 'concourse_t3regular', Helvetica, sans-serif;
-	font-size: 22px;
-	line-height: 1.42;
+	font-family: "futura-pt", Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 1.38;
 	color: #222;
+	font-weight: 400;
 }
 
 a {
@@ -17,25 +22,23 @@ a:hover {
 }
 
 strong {
-	font-family: 'concourse_t4regular', Helvetica, sans-serif;
-	font-weight: normal;
+	font-family: "futura-pt", Helvetica, sans-serif;
+	font-weight: 700;
 }
 
 h1, h2, h3, h4, h5, h6  {
-	font-weight: normal;
-	font-family: 'concourse_t4regular', Helvetica, sans-serif;
+	font-weight: 700;
+	font-family: "futura-pt-bold", Helvetica, sans-serif;
 }
 
 h1 {
-	font-family: 'concourse_t4regular', Helvetica, sans-serif;
-	font-size: 33px;
-	margin: 1em 0 1em;
-	line-height: 1.5;
-	color: #222;
+	font-size: 53px;
+	margin: 1em 0 0;
+	line-height: 1.1;
+	color: #322e2b;
 }
 
 h2 {
-	font-family: 'concourse_c3bold', Helvetica, sans-serif;
 	text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -82,13 +85,13 @@ h2 + p, h1 + p {
 .top-menu a.new-message {
 	color: #666;
 	text-decoration: none;
-	font-family: 'concourse_t3regular', Helvetica, sans-serif;
+	font-family: "futura-pt", Helvetica, sans-serif;
 	margin: 0 1em;
 }
 
 .top-menu a.new-message span {
 	font-size: 60%;
-	font-family: 'concourse_c3bold', Helvetica, sans-serif;
+	font-family: "futura-pt-bold", Helvetica, sans-serif;
 	background-color: #ea221c;
 	color: #FFF;
 	padding: 0px 3px;
@@ -102,7 +105,7 @@ h2 + p, h1 + p {
 
 /* Typography */
 .uppercase {
-	font-family: 'concourse_t3bold', Helvetica, sans-serif;
+	font-family: "futura-pt", Helvetica, sans-serif;
 	text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -137,11 +140,6 @@ h2 + p, h1 + p {
 	max-width: 700px;
 }
 
-footer p {
-	margin: 3em 0; 
-	font-size: 14px; 
-	color: #666;
-}
 
 ol li {
 	margin: .5em 0;
@@ -157,7 +155,7 @@ ol {
 
 .price-callout {
 	display: inline-block;
-	font-family: 'concourse_t3bold', Helvetica, sans-serif;
+	font-family: "futura-pt-bold", Helvetica, sans-serif;
 	text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -176,7 +174,7 @@ ol {
 input[type=submit], a.button {
 	display: inline-block;
 	font-size: 25px;
-	font-family: 'concourse_t3bold', Helvetica, sans-serif;
+	font-family: "futura-pt-bold", Helvetica, sans-serif;
 	text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -207,7 +205,7 @@ input[type=submit], a.button {
 
 a.button small {
 	font-size: 20px;
-	font-family: 'concourse_t3italic';
+	font-family: "futura-pt";
 	letter-spacing: 0;
 	text-transform: none;
   -moz-font-feature-settings: normal;
@@ -224,9 +222,11 @@ a.button.upgrade {
 	box-shadow: 0px 2px 0px #328a00 !important;
 }
 
-a.button.small {
-  padding: 5px 10px 5px !important;
-  font-size: 15px;
+input[type=submit].small, a.button.small {
+	padding: 5px 9px 6px;
+	font-size: 15px;
+	background: #CCC;
+	color: #555;
 }
 
 a.button.hide {
@@ -252,7 +252,7 @@ a.price-package {
 	box-sizing: border-box;
 	font-size: 40px;
 	margin: 2em 0 .5em;
-	font-family: 'concourse_t3bold_italic';
+	font-family:"futura-pt";
 	text-align:center;
 	background-color: #fffcd8;
 	line-height: 1;
@@ -273,7 +273,7 @@ a.price-package span {
 
 
 input[type="text"], input[type="password"], input[type="name"], input[type="url"],   input[type="email"], input[type="rss"], input[type="number"], select, textarea, input[type=file]  {
-	font: 17px/1.4em 'concourse_t3regular';
+	font: 17px/1.4em "futura-pt";
  	-webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -375,7 +375,7 @@ table.features {
 }
 
 td.big-stat-number {
-	font-family: 'concourse_c3bold', Helvetica, sans-serif;
+	font-family: "futura-pt-bold", Helvetica, sans-serif;
 	font-size: 20px;
 	line-height: 1.5;
 	color: #222;

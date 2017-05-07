@@ -10,4 +10,4 @@ You won’t be getting my lessons on building a stream of recurring client work.
 
 Until then… Talk soon!
 
--Robert
+- Robert
