@@ -24,6 +24,10 @@ nav.main-top a {
 	color: #6d6e60;
 }
 
+nav.main-top a:hover {
+	color: #333;
+}
+
 @media only screen and (max-width: 800px) {
 	nav.main-top a {
 		padding: .2em .75em .25em;
