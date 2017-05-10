@@ -186,7 +186,7 @@ Where would you invest that time? Who would you spend it with? Those answers are
 
 -->
 
-# Sign up today
+# We're currently accepting applications!
 
 If you’re serious about taking control of your freelance business, you need to make sure you’re doing it right.
 
@@ -194,8 +194,8 @@ Fortunately, I can help you get your lead pipeline across the finish line. This 
 
 These leads are exclusive to Workshop subscribers — and once an email is sent, you don’t get another chance at seeing it again. Sign up today and don’t miss another lead.
 
-<a href="https://app.letsworkshop.com/subscriptions/new?plan=23" class="button">Subscribe • $199/month<br>
-	<small>Cancel whenever</small>
+<a href="https://robertwilliams.typeform.com/to/XVOd5o" class="button">Apply now • $199 fee<br>
+	<small>You'll be refunded if denied</small>
 </a>
 
 Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know</a> if you have any questions. I hope you have an awesome day.
