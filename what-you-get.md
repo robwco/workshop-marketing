@@ -38,6 +38,13 @@ That way, even if you don’t end up buying this service from me you can still h
 	<p>This is the newest thing that I’ve added to my system. (I’ll be writing about this more soon.) I now do outreach for every lead I find, myself. I email each lead and get additional information about the project, and refer it to someone in Workshop. Simple — but amazing results.</p>
 </div>
 
+<div class="service">
+	<div class="image folyo"></div>
+	
+	<p><strong>Paid to refer clients</strong></p>
+	<p>Workshop members get $50–$100 for every paid job post they refer to Workshop. With just a couple referrals you literally get paid to use the service.</p>
+</div>
+
 <a href="https://app.letsworkshop.com/subscriptions/new?plan=23" class="button">Subscribe • $199/month<br>
 	<small>Cancel whenever</small>
 </a>

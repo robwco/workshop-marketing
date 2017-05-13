@@ -207,5 +207,7 @@ Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know<
 <small>PS: Can’t afford Workshop right now? No worries. I also write <a href="http://clientgiant.us">a weekly Medium publication for free</a>, focused on generating revenue for your business.</small>
 
 
+<script type="text/javascript">mixpanel.track("Video play");</script>
+
 
 

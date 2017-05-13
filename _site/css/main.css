@@ -451,6 +451,10 @@ td.stat-caption {
   background-image: url("../images/outreach.png");
   background-size: auto 100%; }
 
+.service .image.folyo {
+  background-image: url("../images/folyo.png");
+  background-size: auto 100%; }
+
 /* Fonts */
 @font-face {
   font-family: 'concourse_t3regular';
