@@ -45,6 +45,4 @@ That way, even if you don’t end up buying this service from me you can still h
 	<p>Workshop members get $50–$100 for every paid job post they refer to Workshop. With just a couple referrals you literally get paid to use the service.</p>
 </div>
 
-<a href="https://app.letsworkshop.com/subscriptions/new?plan=23" class="button">Subscribe • $199/month<br>
-	<small>Cancel whenever</small>
-</a>
+{% include apply-button.html %}

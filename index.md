@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop - Get great clients sent to you everyday
-headline: Find clients you actually <em>enjoy</em> working with
+headline: Fill the gaps in your freelancing with just a few minutes of outreach everyday
 ---
 
 
@@ -65,15 +65,13 @@ headline: Find clients you actually <em>enjoy</em> working with
 </form>
 -->
 
-## Sign up to get high-quality gig leads by email
-
 <div class="photo-benny" style="float:right; padding: .5em;">
 	<img src="/images/me-and-benny.JPG" align="right" style="margin: 1em 0 0 .5em; width:13em; border-radius: 5px;"><br>
 
 	<cite style="font-size: 15px; font-style: normal; margin: 0 0 3em 1em; color: #6E6E6E;">That's me and Benny in Lake Tahoe.</cite>
 </div>
 
-Getting fired hit me like a ton of bricks. I still remember the copy machine going off in the background moments after my boss told me he was letting me go. In fact, that buzzing sound is etched in my memory. Why? It was a wake-up call. I realized on that day that full-time employees have no control.
+Getting fired hit me like a ton of bricks. I still remember the copy machine going off moments after my boss told me he was letting me go. In fact, that buzzing sound is etched in my memory. Why? It was a wake-up call. I realized on that day that full-time employees have no control.
 
 A lot has changed since becoming self-employed but one thing hasn’t. My desire to gain more control over my future. The point of this site is to help you get more control of yours right now. 
 
@@ -194,9 +192,7 @@ Fortunately, I can help you get your lead pipeline across the finish line. This 
 
 These leads are exclusive to Workshop subscribers — and once an email is sent, you don’t get another chance at seeing it again. Sign up today and don’t miss another lead.
 
-<a href="https://robertwilliams.typeform.com/to/XVOd5o" class="button">Apply now • $199 fee<br>
-	<small>You'll be refunded if denied</small>
-</a>
+{% include apply-button.html %}
 
 Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know</a> if you have any questions. I hope you have an awesome day.
 

@@ -5,8 +5,6 @@ headline: Our leads
 permalink: /type-of-work/
 ---
 
-We qualify over 400+ job boards by hand and [you can see them all here](http://app.letsworkshop.com/monitoring). 
-
 We look for projects in 9 categories: 
 
 - Graphics
@@ -19,7 +17,11 @@ We look for projects in 9 categories:
 - Python
 - PHP
 
-We only look for project-based, remote, $1,000+ projects - we check everyone to make sure it's high-quality. We also find you an email address, contact info, and photograph of the person you'll be emailing - so the legwork is done for you. 
+
+
+We only look for project-based, remote, $1,000+ projects - and we check each one to make sure they all are high-quality. We also find you an email address, contact info, and photograph of the person you'll be emailing - so the legwork is done for you. 
+
+You can see the 400+ job boards we monitor by hand every day [here](http://app.letsworkshop.com/monitoring). 
 
 I'd love to give you more info on how many people get the leads / or send you some samples on what type of leads you would've gotten this week… but that fluctuates daily and I've found the only real way to check whether they'll work for you is for you to check yourself! 
 
@@ -29,8 +31,5 @@ That way will be better for you to decide if it's right for you then me trying t
 
 Sign up, check it out, see if it’ll work for you, if not, send us one email you’ll get your money back. No strings attached. What do you think?
 
-<a href="https://app.letsworkshop.com/subscriptions/new?plan=23" class="button">Subscribe • $199/month<br>
-	<small>Cancel whenever</small>
-</a>
-
+{% include apply-button.html %}
 
