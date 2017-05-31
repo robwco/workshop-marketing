@@ -3,6 +3,8 @@
 
 @import "testimonials";
 @import "style";
+@import "top-navigation-menu";
+
 
 /* Default General Styles */
 body {
@@ -189,7 +191,7 @@ input[type=submit], a.button {
 	text-align: center;
 	color: #FFF;
 	text-decoration: none;
-	background-color: #2090cc;
+	background-color: #160f65;
 	cursor: pointer;
 	outline: none;
 	border: none;
@@ -199,35 +201,57 @@ input[type=submit], a.button {
   transition: all 0.2s ease;
 	line-height: 1.2;
 	&:hover {
-		background-color: #46b0e9;
+		background-color: #3026aa;
 	}
 }
 
-a.button small {
-	font-size: 20px;
-	font-family: "futura-pt";
-	letter-spacing: 0;
-	text-transform: none;
+a.button.small {
   -moz-font-feature-settings: normal;
   -moz-font-feature-settings: normal;
   -webkit-font-feature-settings: normal;
   -o-font-feature-settings: normal;
   -ms-font-feature-settings: normal;
   font-feature-settings: normal;
-  color: #c0e9ff;
+	background-color: #160f65;
+	color: #FFF;
+	text-transform: uppercase;
+	padding: .5em 1em .65em 1em;
+	border-radius: .65em;
+	font-size: 13px;
+	display: inline-block;
+	font-weight: 700;
+	letter-spacing: .125em;
+	font-family: "futura-pt-bold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease;
 }
+
+a.button.small:hover {
+	background-color: #3026aa;
+}
+
+
+a.button.small img {
+	margin: 0 .45em 0 -.25em;
+	vertical-align: -.125em;
+}
+
+a.button.small.grey {
+	background-color: #BCC5E0;
+}
+
+a.button.small.grey:hover {
+	background-color: #d6e0ff;
+}
+
 
 a.button.upgrade {
 	background-color: #60b231 !important;
 	box-shadow: 0px 2px 0px #328a00 !important;
 }
 
-input[type=submit].small, a.button.small {
-	padding: 5px 9px 6px;
-	font-size: 15px;
-	background: #CCC;
-	color: #555;
-}
 
 a.button.hide {
   background-color: #aaa;
