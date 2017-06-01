@@ -96,7 +96,8 @@ footer a {
   font-size: 80%;
   text-decoration: none;
   color: #392E25;
-  font-family: "futura-pt-bold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700; }
 
 .workshop-top-nav-menu div {
   padding: .75em 0; }
@@ -158,10 +159,10 @@ footer a {
     margin: 0 .25em; } }
 /* Default General Styles */
 body {
-  font-family: "futura-pt", Helvetica, sans-serif;
-  font-size: 22px;
-  line-height: 30px;
-  color: #222;
+  font-family: "clone-rounded-latin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 21px;
+  line-height: 1.6;
+  color: #444;
   font-weight: 400; }
 
 a {
@@ -171,12 +172,12 @@ a:hover {
   color: #7E7E7E; }
 
 strong {
-  font-family: "futura-pt", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 700; }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  font-family: "futura-pt-bold", Helvetica, sans-serif; }
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
 h1 {
   font-size: 33px;
@@ -223,12 +224,12 @@ h2 + p, h1 + p {
 .top-menu a.new-message {
   color: #666;
   text-decoration: none;
-  font-family: "futura-pt", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   margin: 0 1em; }
 
 .top-menu a.new-message span {
   font-size: 60%;
-  font-family: "futura-pt-bold", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-color: #ea221c;
   color: #FFF;
   padding: 0px 3px;
@@ -239,7 +240,7 @@ h2 + p, h1 + p {
 
 /* Typography */
 .uppercase {
-  font-family: "futura-pt", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -276,7 +277,7 @@ ol {
 /* UI */
 .price-callout {
   display: inline-block;
-  font-family: "futura-pt-bold", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -294,7 +295,8 @@ ol {
 input[type=submit], a.button {
   display: inline-block;
   font-size: 25px;
-  font-family: "futura-pt-bold", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
   text-transform: uppercase;
   -moz-font-feature-settings: 'case=1';
   -moz-font-feature-settings: 'case' 1;
@@ -321,6 +323,12 @@ input[type=submit], a.button {
   input[type=submit]:hover, a.button:hover {
     background-color: #3026aa; }
 
+a.button small {
+  font-size: 17px;
+  color: #c8c3ff;
+  font-weight: 400;
+  font-family: "clone-rounded-latin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
 a.button.small {
   -moz-font-feature-settings: normal;
   -moz-font-feature-settings: normal;
@@ -337,7 +345,7 @@ a.button.small {
   display: inline-block;
   font-weight: 700;
   letter-spacing: .125em;
-  font-family: "futura-pt-bold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
@@ -380,7 +388,7 @@ a.price-package {
   box-sizing: border-box;
   font-size: 40px;
   margin: 2em 0 .5em;
-  font-family: "futura-pt";
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   background-color: #fffcd8;
   line-height: 1; }
@@ -398,7 +406,7 @@ a.price-package span {
   color: #62562e; }
 
 input[type="text"], input[type="password"], input[type="name"], input[type="url"], input[type="email"], input[type="rss"], input[type="number"], select, textarea, input[type=file] {
-  font: 17px/1.4em "futura-pt";
+  font: 17px/1.4em "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -478,7 +486,7 @@ table.features h2 {
   margin: 0; }
 
 td.big-stat-number {
-  font-family: "futura-pt-bold", Helvetica, sans-serif;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 20px;
   line-height: 1.5;
   color: #222;
@@ -500,7 +508,7 @@ td.stat-caption {
   box-sizing: border-box; }
 
 .service p {
-  font-size: 20px;
+  font-size: 16px;
   margin: 1.5em 0 .25em;
   padding: 0 1em; }
 
@@ -508,7 +516,7 @@ td.stat-caption {
   margin: 0; }
 
 .service p strong {
-  font-size: 22px; }
+  font-size: 19px; }
 
 .service .image {
   display: block;
