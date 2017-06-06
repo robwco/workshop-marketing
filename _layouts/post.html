@@ -2,26 +2,35 @@
 layout: default
 ---
 
-<div class="post">
 
+{% include nav.html %}
 
+<p class="back-to-archive">
+	<a href="/writing">&larr; Back to archive</a>
+</p>
 
+<div class="headline">
+	<h1>{{ page.headline }}</h1>
+</div>
+
+<div class="wrap reading">
   <article class="story">
 		<h1 style="margin-top: 1em;">{{ page.title }}</h1>
     {{ content }}
+	</article>
+	<hr>
+</div>
+<div class="opt-in wrap">
+	
+	<div>
+		<h3>Join 8,000+ consultancies building their pipeline</h3>
 
-<hr>
-
-<h1>Join 5,000+ consultancies building their pipeline</h1>
-
-<p>Build a process for finding and emailing new clients for free. This is my 9-part DIY guide for building a recurring consulting pipeline. You'll see exactly how I save time finding leads, how I recommend you contact them, and you'll get free tools I've created to help you along the way.</p>
-
-{% include course-form.html %}
-
-<p>Every letter is a value bomb, no spam. Unsubscribe at anytime.</p>
-
-  </article>
-
+		<p>Get my step-by-step process for finding and emailing new clients. It comes with templates and scripts for building a recurring consulting pipeline.</p>
+	</div>
+	
+	<div>
+		{% include course-form.html %}
+	</div>
 </div>
 
 {% include footer.html %}

@@ -4,6 +4,7 @@
 @import "testimonials";
 @import "style";
 @import "top-navigation-menu";
+@import "swipe-subject-lines";
 
 
 /* Default General Styles */
@@ -142,6 +143,15 @@ h2 + p, h1 + p {
 	max-width: 700px;
 }
 
+.opt-in {
+	max-width: 800px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1.5fr 1fr;
+	padding: 0 1em;
+	// background-color: red;
+	grid-gap: 3rem;
+}
 
 ol li {
 	margin: .5em 0;
@@ -486,75 +496,4 @@ td.stat-caption {
 	background-image: url("../images/folyo.png");
 	background-size: auto 100%;
 }
-
-/* Fonts */
-
-@font-face {
-    font-family: 'concourse_t3regular';
-    src: url('../fonts/concourse_t3_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-  font-family: 'concourse_t3italic';
-  src: url('../fonts/concourse_t3_italic-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'concourse_t3bold';
-    src: url('../fonts/concourse_t3_bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'concourse_t3bold_italic';
-    src: url('../fonts/concourse_t3_bold_italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-
-@font-face {
-    font-family: 'concourse_t4regular';
-    src: url('../fonts/concourse_t4_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'concourse_t4bold';
-    src: url('../fonts/concourse_t4_bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-
-@font-face {
-    font-family: 'concourse_c3regular';
-    src: url('../fonts/concourse_c3_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'concourse_c3bold';
-    src: url('../fonts/concourse_c3_bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'concourse_t7regular';
-    src: url('../fonts/concourse_t7_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 

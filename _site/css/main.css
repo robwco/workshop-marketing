@@ -157,6 +157,52 @@ footer a {
 
   .workshop-top-nav-menu .action-links a {
     margin: 0 .25em; } }
+.back-to-archive {
+  margin: 2em 0 -3em;
+  font-size: 80%;
+  text-align: center; }
+
+.back-to-archive a {
+  text-decoration: none;
+  text-align: center;
+  color: #6d6e60; }
+
+ul.archive {
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
+ul.archive a {
+  text-decoration: none; }
+
+blockquote.subject-line-swipe {
+  border-top: 1px solid #eeeeee;
+  border-radius: 0;
+  margin: 0;
+  padding: 1em 1.25em 1.25em;
+  background-color: #FFF;
+  font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 1.6; }
+
+blockquote.subject-line-swipe:last-of-type {
+  border-bottom: 1px solid #eeeeee; }
+
+.subject-line-swipe cite {
+  font-size: 80%;
+  font-style: normal !important; }
+
+.subject-line-swipe cite a {
+  color: #6d6e60;
+  text-decoration: none;
+  font-family: "clone-rounded-latin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
+blockquote.email-example {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #FFF;
+  border-radius: 0;
+  font-size: 80%;
+  border-bottom: 1px solid #eee;
+  border-top: 1px solid #eee; }
+
 /* Default General Styles */
 body {
   font-family: "clone-rounded-latin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -266,6 +312,14 @@ h2 + p, h1 + p {
 
 .comfortable {
   max-width: 700px; }
+
+.opt-in {
+  max-width: 800px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  padding: 0 1em;
+  grid-gap: 3rem; }
 
 ol li {
   margin: .5em 0; }
@@ -551,50 +605,3 @@ td.stat-caption {
 .service .image.folyo {
   background-image: url("../images/folyo.png");
   background-size: auto 100%; }
-
-/* Fonts */
-@font-face {
-  font-family: 'concourse_t3regular';
-  src: url("../fonts/concourse_t3_regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_t3italic';
-  src: url("../fonts/concourse_t3_italic-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_t3bold';
-  src: url("../fonts/concourse_t3_bold-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_t3bold_italic';
-  src: url("../fonts/concourse_t3_bold_italic-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_t4regular';
-  src: url("../fonts/concourse_t4_regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_t4bold';
-  src: url("../fonts/concourse_t4_bold-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_c3regular';
-  src: url("../fonts/concourse_c3_regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_c3bold';
-  src: url("../fonts/concourse_c3_bold-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'concourse_t7regular';
-  src: url("../fonts/concourse_t7_regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }

@@ -1,1 +1,0 @@
-Icons by [Iconmnster](https://iconmonstr.com).

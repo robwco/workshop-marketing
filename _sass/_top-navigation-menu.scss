@@ -94,3 +94,23 @@
 		margin: 0 .25em;
 	}
 }
+
+.back-to-archive {
+	margin: 2em 0 -3em;
+	font-size: 80%;
+	text-align: center;
+}
+
+.back-to-archive a {
+	text-decoration: none;
+	text-align: center;
+	color: #6d6e60;
+}
+
+ul.archive {	
+	font-family: "macho", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+ul.archive a {
+	text-decoration: none;
+}
