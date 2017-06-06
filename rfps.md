@@ -53,8 +53,9 @@ This guide will show you how to do that and create a system that takes just 1 â€
 
 <div class="reading wrap" markdown="1">
 
-### So why do RFPs suck then?
-They suck because they're time consuming. 
+### So how can I make RFPs suck less?
+
+RFPs suck because they're time consuming. 
 
 Often there's not a lot of feedback involved in the process (or you don't take advantage of there feedback loop that's there) and you're left feeling like you just sent a carefully crafted proposal into a black hole of emptiness.
 
@@ -87,9 +88,9 @@ So what are some elements you should have ready to go?
 	
 <div class="header" markdown="1">
 	
-### Save time, have the most requested elements ready to go
+### How to save hours on RFPs: Re-use these elements
 
-Based on over 500 RFP specifications, these are the most common specifications you'll be asked you to provide. Having these ready to go will save you a ton of time.
+I've compiled the most most common specifications you'll be asked to provide based on over 500 RFPs. Have these ready to go and you'll save you a ton of time.
 
 </div>
 
@@ -130,19 +131,24 @@ Most RFPs want you to put forth a budget. Sometimes they include a budget and as
 Most RFPs have a Q+A process baked in. Write up a couple of common questions that you can ask to get the conversation going.
 </div>
 
+<div class="cta" markdown="1">
+
+[Want a sample proposal? Download now](#)
+
+</div>
+
 </div>
 
 <div class="reading wrap" markdown="1"> 
 
 
-
-## 
+### More ways to save hours off the process
 
 I think the q+a process is the most overlooked portion by consultants. This is a way to make an in with the person.
 
-[Members only: get an example proposal]
 
-## Putting it all together: proposal software
+
+## Put it all together in proposal software
 
 The trick to reducing the amount of time it takes to craft a great proposal is not just creating this info but having something that you can use to pick and pull pieces into one proposal quickly. So you're always sending exactly what asked for. 
 

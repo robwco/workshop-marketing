@@ -320,19 +320,17 @@ blockquote.email-example {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 1rem;
   padding: 0 0 .5em;
-  border-radius: 5px;
-  border: 1px solid #eee; }
+  border-radius: 5px; }
 
 .rfp-elements-grid .header {
   grid-column: 1 / 9;
   grid-row: 1;
   padding: 0 2em .5em;
   border-bottom: 1px solid #eee;
-  margin: 0 0 .5em;
-  background-color: #f7f7f5; }
+  margin: 0 0 .5em; }
 
 .rfp-elements-grid .header h3 {
-  margin: 1em 0 -.75em; }
+  margin: .5em 0 -.75em; }
 
 .rfp-elements-grid .element {
   font-size: 70%;
@@ -348,6 +346,14 @@ blockquote.email-example {
 .rfp-elements-grid .element img.emoji {
   vertical-align: -2px;
   margin-right: .1em; }
+
+.rfp-elements-grid .cta {
+  grid-column: 1 / 9;
+  text-align: center;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  font-size: 120%;
+  padding: .5em 0; }
 
 /* Default General Styles */
 body {
