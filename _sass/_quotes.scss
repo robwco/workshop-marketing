@@ -1,0 +1,119 @@
+
+
+.book-recommendation-quote {
+	display: grid; 
+	grid-template-columns: 1fr 2fr 5fr 1fr;	
+	grid-gap: 3rem; 
+	font-size: 115%; 
+	margin: 2em 0; 
+	padding: 1em 0;
+}
+
+.book-recommendation-quote .book-recommendation {
+	grid-column: 2;
+	padding: 1em;
+	line-height: 1;
+	justify-items: end;
+	text-align: center;
+}
+
+
+.book-recommendation-quote .book-recommendation a {
+	color: #666;
+	text-decoration: none;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 1;
+}
+
+.book-recommendation-quote .book-recommendation a cite {
+	font-style: normal;
+	line-height: 1;
+} 
+
+.book-recommendation-quote .quote {
+	grid-column: 3;
+}
+
+.book-recommendation-quote .quote .by-line {
+	color:#666;
+	font-size: 80%;
+	display: grid;
+	grid-template-columns: 1fr 100%;
+	grid-gap: 2rem;
+}
+
+.book-recommendation-quote .quote .by-line img {
+	max-width: 75px;
+	border-radius: 75px;
+}
+
+.book-recommendation-quote .quote .by-line cite {
+	
+}
+.book-recommendation-quote .book-recommendation img {
+	width: 100%;
+}
+
+@media only screen and (min-width: 1500px) {
+	.book-recommendation-quote .book-recommendation img {
+		max-width: 130px;
+	}
+	.book-recommendation-quote .book-recommendation {
+		text-align: right;
+	}
+	
+}
+
+.book-recommendation-quote .quote .curly-quote {
+	font-size: 350%; 
+	color: #EEE; 
+	line-height: 0; 
+	vertical-align: -.35em; 
+	margin-left: -.5em; 
+	display: inline;
+}
+
+
+@media only screen and (max-width: 800px) {
+	.book-recommendation-quote .quote .curly-quote {
+		font-size: 120%; 
+		color: #aaa; 
+		line-height: 0; 
+		vertical-align:0; 
+		margin-left: 0; 
+		display: inline;
+	}
+	.book-recommendation-quote .book-recommendation img {
+		max-width: 100px;
+	}
+	
+	.book-recommendation-quote {
+		// background-color: yellow;
+		border-bottom: 1px solid #eee;
+		border-top: 1px solid #eee;
+		padding: 2em 0 1.5em;
+		grid-gap: .25rem;
+	}
+	.book-recommendation-quote .book-recommendation {
+		grid-column: span 4;
+		grid-row: 1;
+		margin: 0;
+		// background-color: red;
+		padding: 0;
+		text-align:center;
+	}
+	
+	.book-recommendation-quote .quote {
+	 	// background-color: green;
+		grid-column: span 4;
+		grid-row: 2;
+		margin: 0;
+		padding: 0;
+		font-size: 80%;
+	}
+	.book-recommendation-quote .quote .by-line img {
+		max-width: 50px;
+		border-radius: 50px;
+	}
+}

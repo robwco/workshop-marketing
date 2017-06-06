@@ -1,6 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    activesupport (5.1.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (~> 0.7)
+      minitest (~> 5.1)
+      tzinfo (~> 1.1)
     addressable (2.3.8)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
@@ -12,6 +17,7 @@ GEM
       execjs
     coffee-script-source (1.9.1.1)
     colorator (0.1)
+    concurrent-ruby (1.0.5)
     daemons (1.2.3)
     domain_name (0.5.24)
       unf (>= 0.0.5, < 1.0.0)
@@ -20,6 +26,7 @@ GEM
     execjs (2.5.2)
     fast-stemmer (1.0.2)
     ffi (1.9.8)
+    gemoji (2.1.0)
     git-version-bump (0.15.1)
     heroku (3.40.6)
       heroku-api (>= 0.3.19)
@@ -32,8 +39,12 @@ GEM
       excon (~> 0.44)
       multi_json (~> 1.8)
     hitimes (1.2.2)
+    html-pipeline (2.6.0)
+      activesupport (>= 2)
+      nokogiri (>= 1.4)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
+    i18n (0.8.4)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
@@ -57,6 +68,10 @@ GEM
       sass (~> 3.2)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
+    jemoji (0.5.1)
+      gemoji (~> 2.0)
+      html-pipeline (~> 2.2)
+      jekyll (>= 2.0)
     kramdown (1.8.0)
     launchy (2.4.3)
       addressable (~> 2.3)
@@ -67,8 +82,12 @@ GEM
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
     mime-types (2.6.1)
+    mini_portile2 (2.2.0)
+    minitest (5.10.2)
     multi_json (1.11.2)
     netrc (0.10.3)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
@@ -97,10 +116,13 @@ GEM
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0)
       rack (~> 1.0)
+    thread_safe (0.3.6)
     timers (4.0.1)
       hitimes
     toml (0.1.2)
       parslet (~> 1.5.0)
+    tzinfo (1.2.3)
+      thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.1)
@@ -112,10 +134,11 @@ PLATFORMS
 DEPENDENCIES
   heroku
   jekyll
+  jemoji
   rack-contrib
   rack-rewrite
   shotgun
   thin
 
 BUNDLED WITH
-   1.10.5
+   1.14.4

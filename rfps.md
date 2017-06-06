@@ -2,52 +2,143 @@
 layout: page
 title: RFPs the smart way
 permalink: /rfps/
-headline: An ambitious consultant's guide to RFPs
+headline: "Requests for Proposals"
+subhead: "Your concise guide to adding large amounts of consulting revenue in a few hours a week"
+author: Robert
 ---
 
 
-## How to add 6-figures in consulting revenue on a few hours of work per week
+<div class="summary" markdown="1"> 
+	
+**Summary:** Reduce time wasted on laborious tasks that have no impact on results. This includes finding RFP's, designing / writing proposals, and following up by hand. Instead, automate and make phone calls.
 
-> **Summary:** Reduce time spent on tasks that have no large impact on results, this includes finding RFP's, designing and writing proposals, and move them to more effective like phone calls and following up.
+</div>
 
-Unless you have a lot of experience with them, RFPs can be intimidating. Of course, it's always better to get work by referral, but responding to 1-2 RFPs per week can mean millions of dollars in contract work for not too much added effort. 
 
-Thats a great opportunity.
+<div class="reading wrap" markdown="1"> 
 
-With the right approach, you can do this in 1-2 hours a week - and apply to great projects within your specialty, with realistic budgets and work with great people.
+## Wait, are RFPs even worth it?
 
-> There are many good organizations that have to go through an RFP process to hire anyone. And those are good jobs to go after. People who tell you they don’t go after RFPs and people who tell you they don’t have meetings are both lying to you.   
-> Mike Monteiro, Principal, Mule Design
+Ahh, RFPs. Unless you have a lot of experience responding to them, they can be down-right intimidating. 
 
-Also author of Design is a Job (highly recommended book)
+Of course, it's always better to get work by referral BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue for *not that much extra effort*. 
 
-## Why do RFPs suck?
+That's a great opportunity.
 
-You might think responding to RFP's is time consuming and pointless. It feels like you don't have a shot in hell at winning them and you are doing a bunch of work for no reason. This is true a lot of the time. There's government contracts out there. 
+And with the right approach, you can reduce the intimidation factor substantially.
 
-## Stuff commonly asked for in RFPs (have ready to go)
-I reviewed 500 RFPs and looked for common traits. If you have the following stuff ready to go, you can create a proposal for almost any RFP within minutes.  
+This guide will show you how to do that and create a system that takes just 1 – 2 hours a week to manage. I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are.
 
-Questions
-Most RFPs have a Q+A process baked in. I think the q+a process is the most overlooked portion by consultants. This is a way to make an in with the person.
+</div>
 
-Bio
-A little bit about your company 
+<div class="book-recommendation-quote">
 
-Cover letter
-This is usually like an introduction or  should usually be custom but once you do a few you'll notice how you can create a template that saves you 90 of the work
+	<div class="book-recommendation">
+		<a href="https://abookapart.com/products/design-is-a-job"><img src="/images/designisajob.jpg" style="box-shadow: 0px 0px 8px #AAA;"><br>
+		<cite>Highly recommended for consultancies.</cite></a>
+	</div>
+	
+	<div class="quote">
+		<p><span class="curly-quote">&ldquo;</span>There are many good organizations that have to go through an RFP process to hire anyone. And those are good jobs to go after. People who tell you they don’t go after RFPs and people who tell you they don’t have meetings are both lying to you.</p>
+		
+		<div class="by-line">
+			<div><img src="/images/mikemonteiro.jpg"></div>
+			<div>
+				Mike Monteiro<br> 
+				Co-founder, Mule Design
+				</div>
+		</div>
+	</div>
+</div>
 
-Contact info
-This should be standard. 
+<div class="reading wrap" markdown="1">
 
-Team members
+### So why do RFPs suck then?
+They suck because they're time consuming. 
+
+Often there's not a lot of feedback involved in the process (or you don't take advantage of there feedback loop that's there) and you're left feeling like you just sent a carefully crafted proposal into a black hole of emptiness.
+
+These failed proposals feel like you never had a shot in the first place and all the work you did was completely pointless. 
+
+However, the keyword here is feel because they're actually not that pointless of an activity. They just feel that way. The truth is if you do some simple math, you actually have a pretty good shot at landing an RFP. 
+
+As a point of reference, most RFP issuers I've interviewed received less than 30 proposals total. 
+
+If you're just average at sending proposals (and respond to one a week) that means you're guaranteed to land a couple gigs from RFPs every year. 
+
+That's not a bad ROI as long as responding to one per week doesn't make you hate your life. 
+
+So let's talk about how to make the process a lot easier.
+
+## Make it easy on yourself, re-use elements of your proposals
+
+The truth is most RFPs ask for the exact same things. 
+
+RFP specifications are so similar in fact, you can apply to 90% of them with almost an identical proposal.
+
+Instead of wasting time remaking your proposal from scratch, you can create a great proposal once that you re-use forever.
+
+So what are some elements you should have ready to go?
+
+</div>
+
+
+<div class="rfp-elements-grid" markdown="1">
+	
+<div class="header" markdown="1">
+	
+### Save time, have the most requested elements ready to go
+
+Based on over 500 RFP specifications, these are the most common specifications you'll be asked you to provide. Having these ready to go will save you a ton of time.
+
+</div>
+
+
+<div class="element">
+<h3>:email: Cover letter</h3>
+Introduce yourself and your services in a friendly and concise way.
+</div>
+
+<div class="element">
+<h3>:nail_care: Bio</h3>
+Most RFPs want to know who's behind the proposal. Have a bio ready to go that tells them why you're awesome.
+</div>
+
+
+<div class="element">
+<h3>:telephone_receiver: Contact Info</h3>
+Don't forget to include how they can contact you. Ideally try to include this on every page.
+</div>
+
+<div class="element">
+<h3>:beers: Team members</h3>
 Who's going to be working on the project? What are their roles. You can have your entire team here, and just pick and choose who to include 
+</div>
 
-Solution
+<div class="element">
+<h3>:bar_chart: Solution</h3>
 This is the proposal part of the RFP. Contrary to what many agencies do, this is usually not a custom pitch but just a look at what you offer.
+</div>
 
-Price
-Most RFPs want you to put forth a budget. Sometimes they include a budget and ask what they can get for it. 
+<div class="element">
+<h3>:moneybag: Price</h3>
+Most RFPs want you to put forth a budget. Sometimes they include a budget and ask what they can get for it.
+</div>
+
+<div class="element">
+<h3>:raising_hand: Questions</h3>
+Most RFPs have a Q+A process baked in. Write up a couple of common questions that you can ask to get the conversation going.
+</div>
+
+</div>
+
+<div class="reading wrap" markdown="1"> 
+
+
+
+## 
+
+I think the q+a process is the most overlooked portion by consultants. This is a way to make an in with the person.
 
 [Members only: get an example proposal]
 
@@ -182,3 +273,5 @@ Members of my service get a head start on this entire process because I go out a
 
 Apply for a membership $199
 
+</div>
+-->

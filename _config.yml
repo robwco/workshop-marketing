@@ -9,3 +9,5 @@ github_username:  robwco
 # Build settings
 markdown: kramdown
 parse_block_html: true
+gems:
+  - jemoji

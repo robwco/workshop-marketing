@@ -58,7 +58,7 @@ nav.main-top #logo a {
     padding: 1em 1em 1em 0;
     float: left; } }
 .headline {
-  padding: 1em 1em 1.5em;
+  padding: 1em 1em 2em;
   max-width: 1300px;
   margin: 0 auto;
   width: 100%;
@@ -69,8 +69,26 @@ nav.main-top #logo a {
   margin: .5em 0 0;
   font-size: 33px;
   line-height: 41px;
+  text-align: center; }
+
+.headline h1 + h2 {
+  color: #6d6e60;
+  margin: .25em 0;
   text-align: center;
-  padding: 0 5em; }
+  font-size: 25px;
+  font-weight: 300;
+  text-transform: none;
+  font-family: "clone-rounded-latin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  max-width: 800px;
+  margin: .5em auto; }
+
+.summary {
+  font-size: 80%;
+  padding: .1em 1.25em .25em;
+  background-color: #f7f7f5;
+  border-radius: 5px;
+  max-width: 800px;
+  margin: -1em auto 0; }
 
 footer p {
   width: 100%;
@@ -202,6 +220,134 @@ blockquote.email-example {
   font-size: 80%;
   border-bottom: 1px solid #eee;
   border-top: 1px solid #eee; }
+
+.book-recommendation-quote {
+  display: grid;
+  grid-template-columns: 1fr 2fr 5fr 1fr;
+  grid-gap: 3rem;
+  font-size: 115%;
+  margin: 2em 0;
+  padding: 1em 0; }
+
+.book-recommendation-quote .book-recommendation {
+  grid-column: 2;
+  padding: 1em;
+  line-height: 1;
+  justify-items: end;
+  text-align: center; }
+
+.book-recommendation-quote .book-recommendation a {
+  color: #666;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1; }
+
+.book-recommendation-quote .book-recommendation a cite {
+  font-style: normal;
+  line-height: 1; }
+
+.book-recommendation-quote .quote {
+  grid-column: 3; }
+
+.book-recommendation-quote .quote .by-line {
+  color: #666;
+  font-size: 80%;
+  display: grid;
+  grid-template-columns: 1fr 100%;
+  grid-gap: 2rem; }
+
+.book-recommendation-quote .quote .by-line img {
+  max-width: 75px;
+  border-radius: 75px; }
+
+.book-recommendation-quote .book-recommendation img {
+  width: 100%; }
+
+@media only screen and (min-width: 1500px) {
+  .book-recommendation-quote .book-recommendation img {
+    max-width: 130px; }
+
+  .book-recommendation-quote .book-recommendation {
+    text-align: right; } }
+.book-recommendation-quote .quote .curly-quote {
+  font-size: 350%;
+  color: #EEE;
+  line-height: 0;
+  vertical-align: -.35em;
+  margin-left: -.5em;
+  display: inline; }
+
+@media only screen and (max-width: 800px) {
+  .book-recommendation-quote .quote .curly-quote {
+    font-size: 120%;
+    color: #aaa;
+    line-height: 0;
+    vertical-align: 0;
+    margin-left: 0;
+    display: inline; }
+
+  .book-recommendation-quote .book-recommendation img {
+    max-width: 100px; }
+
+  .book-recommendation-quote {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    padding: 2em 0 1.5em;
+    grid-gap: .25rem; }
+
+  .book-recommendation-quote .book-recommendation {
+    grid-column: span 4;
+    grid-row: 1;
+    margin: 0;
+    padding: 0;
+    text-align: center; }
+
+  .book-recommendation-quote .quote {
+    grid-column: span 4;
+    grid-row: 2;
+    margin: 0;
+    padding: 0;
+    font-size: 80%; }
+
+  .book-recommendation-quote .quote .by-line img {
+    max-width: 50px;
+    border-radius: 50px; } }
+.rfp-elements-grid {
+  display: grid;
+  max-width: 1000px;
+  margin: 2em auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  padding: 0 0 .5em;
+  border-radius: 5px;
+  border: 1px solid #eee; }
+
+.rfp-elements-grid .header {
+  grid-column: 1 / 9;
+  grid-row: 1;
+  padding: 0 2em .5em;
+  border-bottom: 1px solid #eee;
+  margin: 0 0 .5em;
+  background-color: #f7f7f5; }
+
+.rfp-elements-grid .header h3 {
+  margin: 1em 0 -.75em; }
+
+.rfp-elements-grid .element {
+  font-size: 70%;
+  grid-column: span 2;
+  padding: .5em 1em 1.25em;
+  border-radius: 5px; }
+
+.rfp-elements-grid .element h3 {
+  margin: .25em 0 .5em;
+  border-bottom: 1px solid #eee;
+  padding: 0 0 .5em; }
+
+.rfp-elements-grid .element img.emoji {
+  vertical-align: -2px;
+  margin-right: .1em; }
 
 /* Default General Styles */
 body {
