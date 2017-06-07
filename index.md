@@ -65,6 +65,11 @@ headline: Fill the gaps in your freelancing with just a few minutes of outreach 
 </form>
 -->
 
+
+<div class="wrap reading" markdown="1">
+	
+	
+
 <div class="photo-benny" style="float:right; padding: .5em;">
 	<img src="/images/me-and-benny.JPG" align="right" style="margin: 1em 0 0 .5em; width:13em; border-radius: 5px;"><br>
 
@@ -202,6 +207,7 @@ Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know<
 
 <small>PS: Can’t afford Workshop right now? No worries. I share a ton of advice on how to build a pipeline for free  <a href="/writing/">on this site</a>.</small>
 
+</div>
+
 
 <script type="text/javascript">mixpanel.track("Video play");</script>
-

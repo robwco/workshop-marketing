@@ -5,7 +5,9 @@ permalink: /what-you-get/
 headline: What you get when you sign up...
 ---
 
-
+<div class="reading wrap" markdown="1">
+	
+	
 I’ve now helped freelancers all over the world find over $1 million USD in client work. It took a while to nail down the process — so I’d like to share it with you now in hopes you skip years of testing different methods. 
 
 That way, even if you don’t end up buying this service from me you can still have the same success yourself. Here’s how I’ve found over 10,000 great clients in just a few years:
@@ -46,3 +48,5 @@ That way, even if you don’t end up buying this service from me you can still h
 </div>
 
 {% include apply-button.html %}
+
+</div>

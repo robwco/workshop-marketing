@@ -4,6 +4,11 @@ title: Terms of Service
 permalink: /terms/
 ---
 
+
+
+<div class="reading wrap" markdown="1">
+	
+	
 <p style="margin: 2em 0 2em; text-align:center;"><a href="/" style="color: #666; text-decoration: none;">&larr; Back to homepage</a></p>
 
 # Terms of Service
@@ -26,3 +31,5 @@ I'm so sure that it is that I'm willing to put my money where my mouth is. I off
 
 ## Site Terms of Use Modifications
 I may revise these terms of use at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+
+</div>
