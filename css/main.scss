@@ -154,6 +154,14 @@ h2 + p, h1 + p {
 	grid-gap: 3rem;
 }
 
+.reading.wrap h3 {
+	margin: 1.25em 0 0;
+}
+
+ .reading.wrap h3 + p {
+	margin: .5em 0 1em;
+}
+
 ol li {
 	margin: .5em 0;
 }

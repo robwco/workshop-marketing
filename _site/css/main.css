@@ -362,6 +362,7 @@ blockquote.email-example {
   margin-right: .1em; }
 
 .rfp-elements-grid .cta {
+  margin-top: .25em;
   grid-column: 1 / 9;
   text-align: center;
   border-top: 1px solid #eee;
@@ -531,6 +532,12 @@ h2 + p, h1 + p {
   grid-template-columns: 1.5fr 1fr;
   padding: 0 1em;
   grid-gap: 3rem; }
+
+.reading.wrap h3 {
+  margin: 1.25em 0 0; }
+
+.reading.wrap h3 + p {
+  margin: .5em 0 1em; }
 
 ol li {
   margin: .5em 0; }

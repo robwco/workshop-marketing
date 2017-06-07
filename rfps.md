@@ -2,15 +2,15 @@
 layout: page
 title: RFPs the smart way
 permalink: /rfps/
-headline: "Reply and win consulting RFPs"
-subhead: "Your guide to adding large amounts of revenue in just a few hours a week"
+headline: "Respond to more RFPs in less time"
+subhead: "A short guide to adding large amounts of revenue in just a few hours a week"
 author: Robert
 ---
 
 
 <div class="summary" markdown="1"> 
 	
-**Summary:** Reduce time wasted on laborious tasks that have no impact on results. This includes finding RFP's, designing / writing the proposals, and following up by hand. Instead, use your time automating proposal creation and follow-ups and make phone calls to decision-makers.
+**Summary:** You want to reduce time wasted on laborious tasks that have almost no impact on results. This includes finding the RFP's, designing proposals, and following up by hand. Instead, use your time automating proposal creation, follow-ups and make phone calls to decision-makers.
 
 </div>
 
@@ -19,15 +19,7 @@ author: Robert
 
 ## Wait, are RFPs even worth it?
 
-Ahh, RFPs. Unless you have a lot of experience responding to them, they can be down-right intimidating. 
-
-Of course, it's always better to get work by referral BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue (over the years) for not that much extra effort. 
-
-That's a great opportunity. 
-
-And with the right approach, you can reduce the intimidation factor substantially. This guide will show you how to do that and create a system that takes just 1 – 2 hours a week to manage. 
-
-If you follow this guide, I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are.
+Ahh, the elusive RFP. Unless you have a lot of experience responding to them, RFPs can be down-right intimidating. 
 
 </div>
 
@@ -53,33 +45,41 @@ If you follow this guide, I guarantee you'll be able to reply to projects (with 
 
 <div class="reading wrap" markdown="1">
 
+Of course, it's always better to [get work by referral](/referrals) BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue (over years of operation) for *not that much extra effort*. 
+
+That's a great opportunity. 
+
+And with the right approach, you can reduce the intimidation factor substantially. This guide will show you how - and it will help you create a system that takes just 1 – 2 hours a week to manage. 
+
+If you follow the advice, I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are.
+
 ### "So how can I make RFPs suck less?"
 
 RFPs suck because they're time consuming. 
 
-Often there's not a lot of feedback involved in the process (or you don't take advantage of the feedback loop that's there) and you're left feeling like you just sent a carefully crafted proposal into a black hole.
+Often there's not a lot of feedback involved in the process (or you don't take advantage of the feedback available) and you're left feeling like you just sent a carefully crafted proposal into a black hole.
 
 These failed proposals feel pointless and you can't help but wonder if you ever had a shot in the first place.
 
-The keyword to focus on here is "feel." You only feel because they're actually not that pointless of an activity. They just feel that way. The truth is if you do some simple math, you actually have a pretty good shot at landing an RFP. 
+The truth is if you do some simple math, you *actually* have a pretty good shot at landing an RFP. 
 
 As a point of reference, most RFP issuers I've interviewed received less than 30 proposals total. 
 
-If you're just average at sending proposals (and respond to one a week) that means you're guaranteed to land a couple gigs from RFPs every year. 
+That means if you're just average at sending proposals (and respond to one a week) you're guaranteed to land a couple gigs from RFPs every year. 
 
-That's not a bad ROI as long as responding to one per week doesn't make you hate your life. 
+With the average budget size of 30-40k for an RFP, that's not a bad ROI as long as responding to one per week doesn't make you hate your life. 
 
 So let's talk about how to make the process a lot easier.
 
-## Make creating proposals easier by re-using elements everyone asks for
+## Make creating proposals easier by re-using the stuff everyone asks for
 
 The truth is most RFPs ask for the exact same things. 
 
 RFP specifications are so similar in fact, you can apply to 90% of them with almost an identical proposal.
 
-Instead of wasting time remaking your proposal from scratch, you can create a great proposal once that you re-use forever.
+Instead of wasting time remaking your proposal from scratch, you can create a great proposal once that you re-use again and again.
 
-So what are some elements you should have ready to go?
+So what are the elements you should have ready to go?
 
 </div>
 
@@ -88,51 +88,51 @@ So what are some elements you should have ready to go?
 	
 <div class="header" markdown="1">
 	
-### How to save hours on RFPs: Re-use these elements
+### How to save hours on RFPs: re-use these elements
 
-I've compiled the most most common specifications you'll be asked to provide based on over 500 RFPs. Have these ready to go and you'll save you a ton of time.
+Below is the most most common specifications you'll be asked to provide (based on analysis of [over 500 RFPs](http://app.letsworkshop.com/leads)). Have these ready to go and you'll save you a ton of time.
 
 </div>
 
 
 <div class="element">
 <h3>:email: Cover letter</h3>
-Introduce yourself and your services in a friendly and concise way.
+Introduce yourself and your services in a friendly and concise way. Add something unique here.
 </div>
 
 <div class="element">
 <h3>:nail_care: Bio</h3>
-Clients want to know who's behind the proposal. Have a bio ready to go that tells them why you're awesome.
+Share with clients who's behind the proposal. Have a bio ready to go that tells them why you're awesome.
 </div>
 
 <div class="element">
 <h3>:telephone_receiver: Contact Info</h3>
-Make it clear how they should contact you. Ideally, on every page and extra emphasis on the first and last page.
+Make it clear what the best way to contact you is. Ideally, include this info on every page (especially the last).
 </div>
 
 <div class="element">
 <h3>:beers: Team members</h3>
-Let the client know who else will be working on their project. Define roles for members on your team.
+Define roles for members on your team. Let the client know who else will be working on their project.
 </div>
 
 <div class="element">
 <h3>:bar_chart: Solution</h3>
-What are you proposing? What are the benefits? What problem are you solving? You can re-use a surprising portion of "custom" solutions.
+What are you proposing? What's the benefit? You'll be surprised how often you can re-use "custom" solutions.
 </div>
 
 <div class="element">
 <h3>:moneybag: Price</h3>
-How much will it cost? Include options. Most RFPs want you to put forth a budget. Sometimes they include a budget and ask what they can get for it.
+How much is it going to cost? Include options - sometimes you'll need to stay within a set range.
 </div>
 
 <div class="element">
 <h3>:raising_hand: Questions</h3>
-Most RFPs have a Q+A process baked in. Write up a couple of common questions that you can ask to get the conversation going.
+Most RFPs have a Q+A process baked in. Always have a couple of questions ready to go no matter the project.
 </div>
 
 <div class="cta" markdown="1">
 
-[:eyes:Want to see a sample proposal? Download now:sparkles:](#)
+[:eyes:Want to see an example? Download now:sparkles:](#)
 
 </div>
 
@@ -141,17 +141,15 @@ Most RFPs have a Q+A process baked in. Write up a couple of common questions tha
 <div class="reading wrap" markdown="1"> 
 
 
-### More ways to shave hours off the process
+### More ways to shave hours off the process...
 
-A big bulk of the time you're going to spend crafting proposals will be spent on designing the actual document. 
+Once you have these elements in place, you will still spend an outrageous amount of time designing your proposals. Surprisingly, this activity has almost no effect on the outcome.
 
-Now that you have custom re-usable elements, I recommend you drop them into proposal software instead. 
+That's why I recommend that instead you drop these common elements into proposal software and be done with it.
 
-This will make it much easier to drag and drop elements from individual proposals - create templates and automate the system all together. 
+This will make it stupid easy to drag and drop elements to create 100% customer proposals in minutes.
 
-The trick to reducing the amount of time it takes to craft a great proposal is not just creating this info but having something that you can use to pick and pull pieces into one proposal quickly. So you're always sending exactly what asked for. 
-
-That's where proposal software can help. THere's many options and some of the best ones will not only help you save time but also increase your chances of landing work.
+There's a few options, so I've taken the time to highlight a few of my favorites.
 
 ## Here are my favorite proposal apps.
 
@@ -164,22 +162,24 @@ That's where proposal software can help. THere's many options and some of the be
 		<strong>My top recommendation:</strong><br>
 		
 		<img src="/images/bidsketch.png" style="max-width: 250px; width: 100%;"><br>
-		<p>Bidsketch is the only proposal software I've used extensively because it does everything I need. You can create proposals, contracts, get feedback, approval, and signature.</p>
-		<p>What makes them great for RFPs is that there's an emphasis on selling benefits and re-using elements of your proposal. They also include A hundred proposals later and never once has someone been confused by it.</p>
+		<p>Bidsketch is the only proposal software I've used extensively because it does everything I need. It creates proposals, stores templates, allows you to get feedback and status and get signatures.</p>
+		<p>What makes them particularly great for RFPs is that they also emphasize selling benefits and re-using elements of past proposals. Strongly recommended.</p>
 		
-		<p><a href="http://bidsketch.com" class="button">Starts at $29/mo</a></p>
+		<p style="margin-bottom: 0;"><a href="http://bidsketch.com" class="button">Starts at $29/mo</a></p>
+		
+		<p style="margin-top:0;"><small>Not an affiliate link.</small></p>
 	</div>
 	
 	<div class="recommendation cushion">
 		<img src="/images/cushion.png" style="max-width: 100px; width: 100%;"><br>
-		<p>I recently came across this app called Cushion which looks like a great option if you need to track time and visualize your schedule.</p>
+		<p><strong>Another option:</strong> I recently came across an app called Cushion which looks great, especially if you need to track time and visualize your schedule.</p>
 		<p><a href="https://cushionapp.com">Starts at $5/month</a></p>
 	</div>
 
 	<div class="recommendation remarq">
 		<img src="/images/remarq.jpg" style="max-width: 50px; width: 100%;"><br>
-		<p>Remarq is another solid option if you love to work in Markdown. I've heard great things from numerous consultants about Remarq.</p>
-		<p><a href="https://www.remarq.io">Starts at $19</a></p>
+		<p><strong>For markdown lovers:</strong> Remarq is also a solid option. I've heard great things from numerous consultants about using Remarq.</p>
+		<p><a href="https://www.remarq.io">Starts at $19/month</a></p>
 	</div>
 	
 	<div style="text-align:center; grid-column: span 2; font-size: 80%; color: #666; padding: 1em 0;">
@@ -191,8 +191,14 @@ That's where proposal software can help. THere's many options and some of the be
 
 <div class="reading wrap" markdown="1">
 
+For the purposes of this guide. I'll be using Bidsketch whenever you see a proposal software.
+
+**(Above all, it's just important that you use SOMETHING to create proposals. Don't make the mistake of spending hours in InDesign or Keynote.)**
 
 ## Reaching out, on auto-pilot
+
+
+
 One of the biggest ways you can save time is to have a process for replying to RFPs over email . Not even the proposal part. Instead the email part is what takes a long time.
 
 
