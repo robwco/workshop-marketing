@@ -111,6 +111,25 @@ nav.main-top #logo a {
 	margin: -1em auto 0;
 }
 
+footer .footer-nav {
+	font-size: 100%;
+	color: #eee;
+	font-weight: 400;
+	
+	
+}
+
+footer .footer-nav a {
+	margin: 0 .5em;
+	color: #666;
+	text-decoration: none;
+}
+
+
+footer .footer-nav a:hover {
+	color: #333;
+}
+
 footer p {
 	width: 100%;
 	max-width: 1300px;
