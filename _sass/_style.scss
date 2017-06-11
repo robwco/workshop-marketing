@@ -94,12 +94,13 @@ nav.main-top #logo a {
 	color: #6d6e60;
 	margin: .25em 0;
 	text-align: center;
-	font-size: 25px;
+	font-size: 21px;
 	font-weight: 300;
 	text-transform: none;
 	font-family: "clone-rounded-latin", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	max-width: 800px;
 	margin: .5em auto;
+	letter-spacing: 0;
 }
 
 .summary {
@@ -111,6 +112,15 @@ nav.main-top #logo a {
 	margin: -1em auto 0;
 }
 
+
+@media only screen and (max-width: 800px) {
+	.summary {
+		padding: .25em .75em;
+	}
+	.summary p {
+		margin: 0;
+	}
+}
 footer .footer-nav {
 	font-size: 100%;
 	color: #eee;

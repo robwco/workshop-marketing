@@ -2,7 +2,7 @@
 layout: page
 title: RFPs the smart way
 permalink: /rfps/
-headline: "Respond to more RFPs in less time"
+headline: "Respond to RFPs and make thousands of dollars"
 subhead: "A short guide to adding large amounts of revenue in just a few hours a week"
 author: Robert
 ---
@@ -10,16 +10,16 @@ author: Robert
 
 <div class="summary" markdown="1"> 
 	
-**Summary:** You want to reduce time wasted on laborious tasks that have almost no impact on results. This includes finding the RFP's, designing proposals, and following up by hand. Instead, use your time automating proposal creation, follow-ups and make phone calls to decision-makers.
+**Summary:** Reduce time wasted on laborious tasks that have almost no impact on results. This includes finding RFP's, designing proposals, and following up by hand. Instead, use your time automating proposal creation, follow-ups and making phone calls to decision-makers.
 
 </div>
 
 
 <div class="reading wrap" markdown="1"> 
 
-## Wait, are RFPs even worth it?
+## :hand: Wait, are RFPs even worth it?
 
-Ahh, the elusive RFP. Unless you have a lot of experience responding to them, RFPs can be down-right intimidating. 
+Ahh, the elusive RFP. Unless you have a lot of experience responding to them, they can seem down-right intimidating. But even the top design agencies in the world reply to them.
 
 </div>
 
@@ -45,39 +45,72 @@ Ahh, the elusive RFP. Unless you have a lot of experience responding to them, RF
 
 <div class="reading wrap" markdown="1">
 
-Of course, it's always better to [get work by referral](/referrals) BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue (over years of operation) for *not that much extra effort*. 
+Of course, it's always better to get work [by referral](/referrals) BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue (over the course of a few years).
 
-That's a great opportunity. 
+You can do this with *not that much extra effort*. 
 
-And with the right approach, you can reduce the intimidation factor substantially. This guide will show you how - and it will help you create a system that takes just 1 – 2 hours a week to manage. 
+That makes RFPs a great opportunity. 
 
-If you follow the advice, I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are.
+And with the right approach, you can even reduce the intimidation factor substantially. This guide will show you how - and it will help you create a system that takes just 1 – 2 hours a week to manage. 
 
-### "So how can I make RFPs suck less?"
+In fact, if you follow the advice in the guide, I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are. 
+
+So let's get started. 
+
+### How to make RFPs suck less
 
 RFPs suck because they're time consuming. 
 
-Often there's not a lot of feedback involved in the process (or you don't take advantage of the feedback available) and you're left feeling like you just sent a carefully crafted proposal into a black hole.
+Often there's not a lot of feedback involved in the process (or you don't take advantage of the feedback available) and you're left feeling like you just did a ton of work for no reason.
 
-These failed proposals feel pointless and you can't help but wonder if you ever had a shot in the first place.
+Failed proposals feel particularly pointless because after a few you start to wonder if you ever had a shot in the first place.
 
-The truth is if you do some simple math, you *actually* have a pretty good shot at landing an RFP. 
+Are all of these carefully crafted proposals being sent to a black hole? Nobody got time for that.
 
-As a point of reference, most RFP issuers I've interviewed received less than 30 proposals total. 
+Yet, the truth is quite a different picture. Most RFP issuers I've interviewed received less than 30 proposals total. 
 
-That means if you're just average at sending proposals (and respond to one a week) you're guaranteed to land a couple gigs from RFPs every year. 
+That means if you do some simple math, your chances are *actually* pretty good. 
 
-With the average budget size of 30-40k for an RFP, that's not a bad ROI as long as responding to one per week doesn't make you hate your life. 
+Let me explain. 
 
-So let's talk about how to make the process a lot easier.
+If you're **just average** at sending proposals - and respond to one a week - you're guaranteed to land a couple gigs every year. 
 
-## Make creating proposals easier by re-using the stuff everyone asks for
+With the average budget size of 30-40k for an RFP, that's not a bad ROI as long as responding to one RFP a week doesn't make you hate your life.
 
-The truth is most RFPs ask for the exact same things. 
+So let's talk about how to make the process way easier.
+
+## 1. Know what a great RFP looks like 
+
+How to identify a winnable, RFP. Over the years I've found thousands of RFPs. However, most of them I didn't include to members of my service? I knew my members would have NO chance of winning most of them. Why? A couple reasons. To find the a quality RFP you have to look fro a few different traits. 
+
+### Look for private over non-profit over government  
+Government RFPs are the first i look to remove. They're some of the least likely leads I would apply to. There's usually a large bearucratic process involved that can even span years. There's all kinds of red tape involved. 
+
+On the other hand. Non-profit rfps can be great. Just make sure they have an actual budget and aren't expecting a free service or donation.
+
+Private company RFPs are the hardest to find, usually because companies like this typically only send them out to a handful of agencies. When I find these I put a premium on them.  
+
+
+[Image of what a good RFP looks like vs Long one]
+
+### Look for RFPs written by humans
+Another reason government RFPs suck is because they're so long. In general short RFPs are going to be better because they're not overly prescriptive. Look for RFPs you can understand quickly. This tip will serve you well throughout the project because it's an indicator that clear thought and communication is a priority for the organization you're pitching. 
+
+> The problem with most RFPs is that they’re written by people who are as irritated that they have to write it as you are that you have to reply to it.
+> That’s also the key to handling an RFP. Find out who wrote it. Most come with a contact number in case you have questions. Call it. Make friends with the people who wrote it. They may have even heard of you. If so, you’re golden. Strike up a conversation with them and get as much detail as you can about the organization involved.  
+> Mike Monteiro
+
+### Make sure they're not overly prescriptive
+The other problem with RFPs is that they can be overly prescriptive in nature. They can include specific solutions that may or may not be appropriate. This is usually an indication that the organization is freaked out about having to hire designers and is trying to maintain as much control as possible—to the point where they’re going into as much detail as possible and short-circuiting the entire design process. You may be able to help them through that.
+
+
+## 2. Make creating proposals a snap by re-using stuff everyone asks for
+
+The truth is most RFPs ask for the exact same 6-8 things. 
 
 RFP specifications are so similar in fact, you can apply to 90% of them with almost an identical proposal.
 
-Instead of wasting time remaking your proposal from scratch, you can create a great proposal once that you re-use again and again.
+Instead of wasting time re-making a proposal from scratch, you can create a great proposal once that you re-use again and again.
 
 So what are the elements you should have ready to go?
 
@@ -88,16 +121,16 @@ So what are the elements you should have ready to go?
 	
 <div class="header" markdown="1">
 	
-### How to save hours on RFPs: re-use these elements
+### How to save hours on RFPs: prep these elements
 
-Below is the most most common specifications you'll be asked to provide (based on analysis of [over 500 RFPs](http://app.letsworkshop.com/leads)). Have these ready to go and you'll save you a ton of time.
+Below is a list of the most most common specs you'll be asked to provide, based on analysis of [over 500 RFPs](http://app.letsworkshop.com/leads). Have these ready to go and you'll save you a ton of time.
 
 </div>
 
 
 <div class="element">
 <h3>:email: Cover letter</h3>
-Introduce yourself and your services in a friendly and concise way. Add something unique here.
+Introduce yourself in a friendly and concise way. Add something unique to the project you're applying to.
 </div>
 
 <div class="element">
@@ -122,12 +155,12 @@ What are you proposing? What's the benefit? You'll be surprised how often you ca
 
 <div class="element">
 <h3>:moneybag: Price</h3>
-How much is it going to cost? Include options - sometimes you'll need to stay within a set range.
+How much is it going to cost? Include options. Sometimes you will need to stay within a  range set in the RFP.
 </div>
 
 <div class="element">
 <h3>:raising_hand: Questions</h3>
-Most RFPs have a Q+A process baked in. Always have a couple of questions ready to go no matter the project.
+Most RFPs have a Q+A process baked in. Always have a couple of questions ready to go for any  project.
 </div>
 
 <div class="cta" markdown="1">
@@ -141,7 +174,7 @@ Most RFPs have a Q+A process baked in. Always have a couple of questions ready t
 <div class="reading wrap" markdown="1"> 
 
 
-### More ways to shave hours off the process...
+## 3. Shave hours off the process by using a proposal app
 
 Once you have these elements in place, you will still spend an outrageous amount of time designing your proposals. Surprisingly, this activity has almost no effect on the outcome.
 
@@ -151,7 +184,7 @@ This will make it stupid easy to drag and drop elements to create 100% customer 
 
 There's a few options, so I've taken the time to highlight a few of my favorites.
 
-## Here are my favorite proposal apps.
+### Here are my favorite proposal apps:
 
 </div>
 
@@ -162,12 +195,12 @@ There's a few options, so I've taken the time to highlight a few of my favorites
 		<strong>My top recommendation:</strong><br>
 		
 		<img src="/images/bidsketch.png" style="max-width: 250px; width: 100%;"><br>
-		<p>Bidsketch is the only proposal software I've used extensively because it does everything I need. It creates proposals, stores templates, allows you to get feedback and status and get signatures.</p>
-		<p>What makes them particularly great for RFPs is that they also emphasize selling benefits and re-using elements of past proposals. Strongly recommended.</p>
+		<p>Bidsketch is the only proposal software I've used extensively because it does everything I need. It creates proposals, stores templates, and allows you to require a signature.</p>
+		<p>What makes Bidsketch particularly great for RFPs is that they emphasize selling benefits and re-using elements of past proposals. Strongly recommended.</p>
 		
 		<p style="margin-bottom: 0;"><a href="http://bidsketch.com" class="button">Starts at $29/mo</a></p>
 		
-		<p style="margin-top:0;"><small>Not an affiliate link.</small></p>
+		<p style="margin-top:0;color: #6d6e60;">:heart: <small>Not an affiliate link.</small></p>
 	</div>
 	
 	<div class="recommendation cushion">
@@ -187,86 +220,508 @@ There's a few options, so I've taken the time to highlight a few of my favorites
 	</div>
 </div>
 
+<div class="reading wrap" markdown="1">
+
+For the purposes of this guide, I'll be using Bidsketch.
+
+**(Note: above all, it's just important that you use SOMETHING to create proposals. Don't waste time in InDesign or Keynote. It's not worth it.)**
+
+## 4. Create a follow up sequence that sends automatically
+
+Now that you can create proposals in a snap, it's important to make the most of then. 
+
+You do that by communicating.
+
+Now, yes, following up on your proposals, touching base with people you're courting, , and asking great questions can get extremely cumbersome.
+
+For a lot of agencies this proves too much.
+
+They forget to reply to an email, they never follow-up, and opportunities end up falling through the cracks.
+
+</div>
+
+
+<div class="short-quote" style="max-width: 900px; text-align: center; color: #444; margin: 2em auto;">
+	<div style="font-size: 150%;">
+		<span class="curly-quote">&ldquo;</span>In the confrontation between the rock and the stream, the stream always wins. So follow-up.
+	</div>
+	<div style="color: #666; margin: 1em 0 0;">
+		<img src="/images/buddha.png" style="vertical-align: -9px; margin-right: .5em; width: 30px; border-radius: 30px;"> Buddha
+	</div>
+</div>
 
 
 <div class="reading wrap" markdown="1">
 
-For the purposes of this guide. I'll be using Bidsketch whenever you see a proposal software.
+Ok I added that last part. But what the big guy was trying to say is that taking action beats sitting still. 
 
-**(Above all, it's just important that you use SOMETHING to create proposals. Don't make the mistake of spending hours in InDesign or Keynote.)**
+When it comes to RFP's, value consistency over tenacity.
 
-## Reaching out, on auto-pilot
+That's why the firms who do the best with RFP’s are the ones who have a system in place for replying to them. 
+
+(And I've watched first-hand as these firms made $100k+ from my RFP-finding service.)
+
+To do this, they either hire someone like a VA who's sole job is sending out these proposals, or they develop a process that works automatically in the background. 
+
+I'm going to walk you through how I'd set this sort of system up now. 
+
+... but remember, you're just trying to send one proposal per week - that's it. Look at it as a numbers game and don’t sweat it when your don’t hear back. Let's get started.
+
+### The RFP follow-up campaign
+
+The goal of this email campaign is to open up a dialogue with the people who are running the RFP process. You're not looking to win the project with these emails - in fact - you're not even looking to stand out.
+
+Instead you're simply looking to get a reply from the person you'll be sending a proposal to. Simply getting a response and KNOWING that a real-life breathing person is behind the computer screen is the goal.
+
+That's why we'll be sending a simple 4-email outreach campaign.
+
+**Ideally, this campaign will start 2 weeks before the RFP deadline:** 
+
+<div class="rfp-email-campaign-outline">
+	<div class="when">
+		:speech_balloon: First email
+	</div> 
+	<div class="what">
+		Say hello and ask a simple question.
+	</div>
+	
+	<div class="when">
+		:raising_hand: 5 days later
+	</div> 
+	<div class="what">
+		If no response, follow up on your question.
+	</div>
+	
+	<div class="when">
+		:sleeping: 4 days later
+	</div> 
+	<div class="what">
+		If no response, follow up again.
+	</div>
+	
+	<div class="when">
+		:scissors: 3 days later
+	</div> 
+	<div class="what">
+		If still no response, close the loop.
+	</div>
+</div>
+
+Each one of these emails will come before the proposal deadline that way you know if you should spend time crafting a proposal. 
+
+The key is to ask an extremely simple question so that you know there's a real person reading the replies.
+
+That's all you want. A fighting chance. 
+
+So what should these emails say? You'll be amazed at how simple they can be.
+
+</div>
+
+<div class="reading wrap" markdown="1">
+
+<div class="inline-video-bonus" markdown="1" style="margin: 1em 0; display: grid; grid-template-columns: 2fr 5fr; font-size: 80%; grid-gap: 2rem; border-top: 1px solid #eee; border-bottom: 1px solid #eee; padding: 1em 0;">
+<div>
+	<img src="/images/video-placeholder.jpg" style="margin: 1em auto; display: inline-block; max-width:100%;">
+</div>
+
+<div markdown="1">
+<h3 style="margin: .5em 0 0; font-size: 110%;">Screencast: Watch me set up this campaign</h3> 
+It's simple to create an automatic outreach campaign that you use to respond to RFPs. Watch me setup the campaign I'm outlining below and save hours of trial and error. **Watch the bonus video:** Bluetick or Quickmail (coming soon)
+</div>
+</div>
+</div>
+
+
+<div class="reading wrap" markdown="1">
+### Writing your emails
+
+Remember the questions we prepared earlier in this guide? You're going to pick one of them to use as a conversation starter. 
+
+Pick the one that's easiest to answer. Ideally, clients should be able to respond to it with a simple "yes."
+
+## Your Opening Email
+
+<div class="rfp-email-example">
+	<div class="email-number">
+		<div class="step">1</div>
+	</div>
+	
+	<div class="email-message">
+		<strong>Subject:</strong> great project</p>
+		
+		<hr style="margin: .5em 0;">
+
+		<p>John</p>
+		<p>Your RFP looks great.</p> 
+		
+		<p>You clearly care about the outcome of the project - so I wanted to check-in and ask <span class="insert-question-here">question</span>?</p>
+
+		<p>Thanks</p>
+
+		<p>Robert</p>
+	</div>
+</div>
+
+The key here is to ask an extremely simple question. How simple? You want even the busiest person in the world to be able to respond.
+
+<div class="example-good-bad">
+<div class="header">
+<strong>Example</strong>
+</div>
+	
+<div class="good">:thumbsup:</div> 
+<div class="good-question">
+&ldquo;Are you the right person to talk to about this project?&rdquo;<br>
+<span><strong>Good:</strong> All I have to say is: yes!</span>
+</div>
+
+<div class="bad">:x:</div> 
+<div class="bad-question">
+&ldquo;Do you think my agency is a fit for your project?&rdquo;<br>
+<span><strong>Bad:</strong> I'm not sure how to answer this.</span>
+</div>
+
+<div class="download">
+:sparkles: For more examples of questions that are easy to respond to, <a href="/ctas">check out my cta swipe file</a>. 
+</div>
+</div>
+
+Now, onto the second and third emails. 
+
+## Your Follow-ups
+
+<div class="rfp-email-example">
+	<div class="email-number">
+		<div class="step">2</div>
+	</div>
+	
+	<div class="email-message">
+		<strong>Subject:</strong> RE: great project</p>
+		
+		<hr style="margin: .5em 0;">
+
+		<p>Following up incase you missed my question.</p>
+		
+		<p>Robert</p>
+	</div>
+</div>
+
+<div class="rfp-email-example">
+	<div class="email-number">
+		<div class="step">3</div>
+	</div>
+	
+	<div class="email-message">
+		<strong>Subject:</strong> RE: great project</p>
+		
+		<hr style="margin: .5em 0;">
+
+		<p>I'm following up to see if you're still looking for proposals. If so, I'd love to see how we can work together. </p>
+		
+		<p>Robert</p>
+	</div>
+</div>
+
+Look, I know these emails look too simple. 
+
+But don't be afraid, you're simply following up on an email you sent. You're not going to bug the person you're emailing, they're busy, they might not have time to get back to you at the exact moment you emailed them.
+
+So a couple simple follow-up emails is all you need. 
+
+## Your Loop Closer
+
+<div class="rfp-email-example">
+	<div class="email-number">
+		<div class="step">4</div>
+	</div>
+	
+	<div class="email-message">
+		<strong>Subject:</strong> RE: great project</p>
+		
+		<hr style="margin: .5em 0;">
+		
+		<p>Since I have not heard from you on this, I have to assume your priorities have changed.</p>
+		
+		<p>Robert</p>
+	</div>
+</div>
+
+This email is dubbed [The Magic Email](http://themagicemail.com) because it works so well at getting a client who has ignored you to respond. 
+
+It's considerate because you're taking the initiative to close the loop on the conversation that never started. 
+
+This is how professionals close the loop.
+
+<hr>
+
+## 2 rules: If a client responds to one of these emails...
+
+<div class="emoji-list">
+	
+<div class="emoji-list-row">
+
+<div>
+:love_letter:
+</div>
+  
+<div markdown="1">
+**Their organization should receive a proposal.**<br>
+The entire goal of this sequence is to get a dialogue started with the people who issued these RFPs. If a client responds to one of these emails and answers your question - you're in business.
+</div>
+
+</div>
+
+<div class="emoji-list-row">
+
+<div>
+:see_no_evil:
+</div>
+ 
+<div markdown="1">
+**They should no longer receive subsequent follow-up emails.**<br>
+That's why it's important to automate this campaign using software like [Bluetick.io](http://bluetick.io) or [Quickmail.io](http://quickmail.io)
+</div>
+
+</div>
+
+</div>
 
 
 
-One of the biggest ways you can save time is to have a process for replying to RFPs over email . Not even the proposal part. Instead the email part is what takes a long time.
+---
+
+</div>
 
 
-
-## Improving your chances
-I think the q+a process is the most overlooked portion by consultants. This is a way to make an in with the person.
-
-1. Always include options 
-This is something I learned from [Brennan Dunn](http://freepricingcourse.com/?ref=workshop). 
-
-2. Always follow-up  
-You can email to ask when you should follow up again and suggest the need for a deadline if they need more time.
-My last RFP took them 2 months to reach a decision because it was a board of several people. Always takes longer. Plus know that RFPs are never a sure thing; regardless of their positive clues, your still being compared to someone else and they likely received the same positive notes.
-Keep looking for more work while waiting. Hope you get the project! Can you pm me your website? I'd love to take a gander.  
-
-3. Ask a simple question
-Any RFP I’m interested in, I ask them one simple question. If they can answer it directly, I’ll move forward. If not, I move on. In the last year, I’ve responded to two formal RFPs. I lost both.
-
-The truth of RFPs is they’re usually written with an agency in mind. I know, I’ve been the guy they were written for before. Shared by Workshop member Kurt Elster  
-
-4. Consistency over tenacity
-The people who do the best with RFP’s (and are actually the people who’ve made $100k+ from workshop) are the ones who have a system in place for replying to RFP’s specifically. They either hire someone to help, or have developed such a templated and refined process that they can do it themselves in a fraction of the time. This usually means they see it as a numbers game and don’t sweat it when they don’t hear back.
+<div class="short-quote" style="max-width: 900px; text-align: center; color: #444; margin: 2em auto;">
+	<div style="font-size: 120%;">
+		<span class="curly-quote">&ldquo;</span>Any RFP I’m interested in, I ask them one simple question. If they can answer it directly, I’ll move forward. If not, I move on.
+	</div>
+	<div style="color: #666; margin: 1em 0 0;">
+		<img src="/images/kurt.jpeg" style="vertical-align: -9px; margin-right: .5em; width: 30px; border-radius: 30px;"> Kurt Elster, <a href="http://ethercycle.com">Ethercycle</a>
+	</div>
+</div>
 
 
+<div class="reading wrap" markdown="1">
+---
+
+## A few more ways to dramatically improve your chances...
 
 
-[Members get access to a followup sequence]
+<div class="emoji-list">
+	
+<div class="emoji-list-row">
 
-## Reducing the amount of time it takes to find RFPs
-It can be really time consuming to find RFPs. The problem is they're usually isolated. Companies post them on their website and share them with a few people they know. That can make them hard to find. Luckily there's a few websites that help. 
+<div>
+:question:
+</div>
+  
+<div markdown="1">
+**Use the Q+A process**<br>
+The Q+A process is one of the most underrated portions of the RFP process. Most consultants overlook it, but it's the best way to make inroads with the person you're contacting.
+</div>
 
-## They key is to make RFPs come to you
-Instead of chasing them down, you want to find places where RFPs get posted to monitor. Then you can pick a few that look most relevant each week to respond to.
+</div>
 
-##  Where do you find RFPs?
-The truth is they are time consuming to find. Some of the best places on the web for RFPs require constant monitoring. I know because i have a service that provides this exact service. Still, with a little elbow grease you can find some great opportunities.
+<div class="emoji-list-row">
 
-## Google
-Google is actually a great source for RFPs because it's so vast that you come across independent websites that have put up opportunities. The trick though is doing a smart search. 
+<div>
+:school_satchel:
+</div>
+ 
+<div markdown="1">
+**Include options**<br>
+Inside your proposal you should have a few different packages that clients can choose from. This is something I learned in [Brennan Dunn's free pricing course](http://freepricingcourse.com/?ref=workshop). Strongly recommended.
+</div>
 
-[Gif of Google search type:pdf]
+</div>
 
-## How to search on Google
-You're going to want to include `type: pdf` in your searches. This will show you PDF's that are 
 
-[Gif of tweaking search to weekly]
+<div class="emoji-list-row">
 
-## How to find recent stuff on Google
-Another pro-tip for you is tot change your search results to stuff created in the last week. Google doesn't do this automatically so it will save you some time not finding and getting excited about an RFP from last year. 
+<div>
+:phone:
+</div>
+ 
+<div markdown="1">
+**Call them**<br>
+One of the best ways to stand out is to give prospects a ring. One of the benefits of RFPs is that they almost always include a phone number. A simple 5-minute phone call introducing yourself can be enough to separate you from the pack. Pro-tip pick up the phone 
 
-**Scorcard:**
-No. of quality leads per month: 4-8
-Time commitment: 1 hour
-Price: Free
-Rating: ***
+If an RFP starts dictating button colors, pick up the phone. It’s a cry for help and your opportunity to create mutual understanding. Speaking directly to a designer may be what they need, much more than getting 325 replies to a badly-formed RFP. Remember, not all organizations who send out formal documents have to.
+</div>
 
-## RFPdb.com
-RFPdb is a great source of RFPs by David Kutcher. There's a feature where agencies who share RFPs get free access to the RFPs. There's often great RFPs on the site and you can search by a bunch of different categories. 
+</div>
 
-[Image of blurb]
-## How to make sure every RFP you buy is a match on RFPdb
-Every RFP has a small (censored) blurb about what to expect. Usually you can tell if an RFP is relevant by this alone but you should Read these carefully to make sure you don't waste credits on an RFP you don't care about. 
+</div>
 
-**Scorcard:**
-No. of quality leads per month: 8-12
-Time commitment: 30 minutes
-Price: About $10 per week 
-Rating: ****
+## Create your own luck... on purpose
+With RFPs there's always going to be some luck involved. However, you can also create the opportunity for luck to strike by putting yourself in the right position. Be consistent. Send 50-100 RFPs over the course of a year. Followup consistently. Suddenly, you'll find that you get a lot luckier.
+
+<hr>
+
+
+# Now that you're an RFP master... where the heck do you find RFPs?
+
+So far we've covered how to make it dead simple to reply to RFPs and give yourself the best possible chance at finding them. 
+
+The last part of this guide will be dedicated to finding them and reducing the amount of time this takes.
+
+Why? Because it can actually be really time consuming to find RFPs. The problem is they're usually spread around the web. 
+
+Companies post them on their website and share them with a few people they know. That can make them difficult to find. 
+
+## They key is to make RFPs come to you...
+
+Luckily there's a few websites that help. Below I've compiled the best sources for RFPs I've found over years of testing. 
+
+Instead of chasing down RFPs across thousands of websites, you can monitor a few sites. Let's start with my service though. Here's some recent RFPs I've found and sent to members of this website:
+
+
+# Right here! RFPs now hiring...
+</div>
+
+<div class="rfp-rss">
+	<div class="rfp-rss-row">
+		<div class="photo"><img src="/images/brunson.jpeg"></div>
+		<div class="title"><a href="#">{% for post in site.posts limit:1 %}
+			{{ post.title | truncatewords:8 }}
+		    {% endfor %}</a></div>
+		<div class="date">June 10</div>
+	</div>
+	
+	<div class="rfp-rss-row">
+		<div class="photo"><img src="/images/brunson.jpeg"></div>
+		<div class="title"><a href="#">{% for post in site.posts limit:1 %}
+			{{ post.title | truncatewords:8 }}
+		    {% endfor %}</a></div>
+		<div class="date">June 10</div>
+	</div>
+	
+	<div class="rfp-rss-row">
+		<div class="photo"><img src="/images/brunson.jpeg"></div>
+		<div class="title"><a href="#">{% for post in site.posts limit:1 %}
+			{{ post.title | truncatewords:8 }}
+		    {% endfor %}</a></div>
+		<div class="date">June 10</div>
+	</div>
+	
+	<div class="rfp-rss-row">
+		<div class="photo"><img src="/images/brunson.jpeg"></div>
+		<div class="title"><a href="#">{% for post in site.posts limit:1 %}
+			{{ post.title | truncatewords:8 }}
+		    {% endfor %}</a></div>
+		<div class="date">June 10</div>
+	</div>
+	
+	<div class="rfp-rss-row">
+		<div class="photo"><img src="/images/brunson.jpeg"></div>
+		<div class="title"><a href="#">{% for post in site.posts limit:1 %}
+			{{ post.title | truncatewords:8 }}
+		    {% endfor %}</a></div>
+		<div class="date">June 10</div>
+	</div>
+</div>
+
+<div class="reading wrap" markdown="1">
+	
+All of these RFPs are high-quality projects I found myself in the last few days. I send them to paying members of my service [Workshop](/). 
+
+###  Prefer to find RFPs yourself? Here's where and how...
+
+<img src="/images/google-logo.svg" style="width: 100%; max-width: 200px; margin-top: 2em;">
+
+Google is actually a great source for RFPs because what you want is to search across thousands of independent websites.
+
+The trick is you want to type <span class="include-this">type:pdf</span> in your search. That way you get PDFs of the RFPs you're looking for, like so:
+
+<img src="/images/google-type-pdf-tutorial.gif" style="width: 100%; border: 1px solid #eee; border-radius: 5px;">
+
+Next you're going to want to change your search results to show you stuff created in the last week. Google doesn't do this automatically so it will save you some time not finding and getting excited about an RFP from last year. 
+
+<img src="/images/google-past-week.gif" style="width: 100%; border: 1px solid #eee; border-radius: 5px;">
+
+Overall as a source of leads Google ranks pretty high among the services I've tried.
+
+</div>
+
+<div class="rfp-source-scorecard">
+	<div class="header">
+		Scorecard
+	</div>
+	<div class="rating">
+		<span class="score">8.5</span>
+		Score
+	</div>
+	<div class="volume">
+		<span class="score">4-8/mo</span>
+		RFP Volume 
+	</div>
+	<div class="cost">
+		<span class="score">Free</span>
+		Price
+	</div>
+	<div class="time">
+		<span class="score">1 hour</span>
+		Time commitment
+	</div>
+</div>
+
+
+<div class="reading wrap" markdown="1">
+
+<center>
+<a href="https://www.google.com/search?q=type:pdf+website+design+rfp&num=50&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwjyofzqt7TUAhVE6GMKHcLwAtAQpwUIIA&biw=1151&bih=631" class="button" style="margin: 2em 0;">Use google now</a>
+</center>
+
+<hr>
+
+# RFPdb.com
+
+Another great source of RFPs is RFPdb. The site is credit-based so you pay for a minimum of 10 credits and you can access RFPs (2 credits each). 
+
+You can also share RFPs on the site to get access to more credits. Every RFP has a free (censored) blurb about the project. 
+
+
+<img src="/images/rfpdb.png" style="width: 100%; border: 1px solid #eee; border-radius: 5px;">
+
+Usually, you can gain enough from this blurb to tell whether it's relevant to you or not. That way you don't waste credits on an RFP you don't care about.
+
+</div>
+
+
+<div class="rfp-source-scorecard">
+	<div class="header">
+		Scorecard
+	</div>
+	<div class="rating">
+		<span class="score">8.5</span>
+		Score
+	</div>
+	<div class="volume">
+		<span class="score">8-12/mo</span>
+		RFP Volume 
+	</div>
+	<div class="cost">
+		<span class="score">$10/week</span>
+		Price
+	</div>
+	<div class="time">
+		<span class="score">30 mins</span>
+		Time commitment
+	</div>
+</div>
+
+
+<div class="reading wrap" markdown="1">
+
+<center>
+<a href="https://rfpdb.com" class="button" style="margin: 2em 0;">Use RFPdb now</a>
+</center>
+
+<hr>
+
+
 
 ## RFPalooza
 
@@ -284,44 +739,35 @@ Another way to get RFPs is through my lead service. This is my lead service. I b
 
 Quality leads per week: 2-3 a week 
 
-## How to identify a winnable RFP
-Over the years I've found thousands of RFPs. However, most of them I didn't include to members of my service? I knew my members would have NO chance of winning most of them. Why? A couple reasons. To find the a quality RFP you have to look fro a few different traits. 
 
-## Look for private over non-profit over government  
-Government RFPs are the first i look to remove. They're some of the least likely leads I would apply to. There's usually a large bearucratic process involved that can even span years. There's all kinds of red tape involved. 
+> RFPs are an interesting animal. From my experience, most of the marketing folks involved with sending an RFP out for bid don’t even want to do it… they have to. I have a rather pleasant ongoing contract with a large state organization in PA, and they were smart enough to use their 1-year extension option with my contract to avoid having to send this out for bid yearly. Every other year, however, they are required by the state auditor general to do this RFP crap… just like every other state funded organization in PA. They don’t have to choose by price, and in the end they get to make the final call so long as it fit’s their budget plan. As Kurt Elster said, the RFPs are written with someone particular in mind for the job (me). It’s nice to be on the inside of that situation, but they are difficult to respond to for folks on the outside looking in. Sometimes you just get lucky! For me, when it comes to RFPs, I always weigh the value of the project against the time and hassle involved. If it’s an ongoing contract, I usually give it a little more consideration. I’m a big fan of guaranteed income. Moral of the story is that hatred for the RFP is mutual in a lot of instances. Shared by Workshop member Corey Tiani
 
-On the other hand. Non-profit rfps can be great. Just make sure they have an actual budget and aren't expecting a free service or donation.
-
-Private company RFPs are the hardest to find, usually because companies like this typically only send them out to a handful of agencies. When I find these I put a premium on them.  
+<!--
 
 
-[Image of what a good RFP looks like vs Long one]
 
-## Look for RFPs written by humans
-Another reason government RFPs suck is because they're so long. In general short RFPs are going to be better because they're not overly prescriptive. Look for RFPs you can understand quickly. This tip will serve you well throughout the project because it's an indicator that clear thought and communication is a priority for the organization you're pitching. 
 
-> The problem with most RFPs is that they’re written by people who are as irritated that they have to write it as you are that you have to reply to it.
-> That’s also the key to handling an RFP. Find out who wrote it. Most come with a contact number in case you have questions. Call it. Make friends with the people who wrote it. They may have even heard of you. If so, you’re golden. Strike up a conversation with them and get as much detail as you can about the organization involved.  
-> Mike Monteiro
-
-## They're not overly prescriptive
-The other problem with RFPs is that they can be overly prescriptive in nature. They can include specific solutions that may or may not be appropriate. This is usually an indication that the organization is freaked out about having to hire designers and is trying to maintain as much control as possible—to the point where they’re going into as much detail as possible and short-circuiting the entire design process. You may be able to help them through that.
-
-## Pro-tip pick up the phone
-If an RFP starts dictating button colors, pick up the phone. It’s a cry for help and your opportunity to create mutual understanding. Speaking directly to a designer may be what they need, much more than getting 325 replies to a badly-formed RFP. Remember, not all organizations who send out formal documents have to.
-
-## The key is to be lucky... on purpose
-With RFPs there's always going to be some luck involved. However, you can also create the opportunity for luck to strike by putting yourself in the right position. Be consistent. Send 50-100 RFPs over the course of a year. Followup consistently. Suddenly, you'll find that you get a lot luckier. 
-
-RFPs are an interesting animal. From my experience, most of the marketing folks involved with sending an RFP out for bid don’t even want to do it… they have to. I have a rather pleasant ongoing contract with a large state organization in PA, and they were smart enough to use their 1-year extension option with my contract to avoid having to send this out for bid yearly. Every other year, however, they are required by the state auditor general to do this RFP crap… just like every other state funded organization in PA. They don’t have to choose by price, and in the end they get to make the final call so long as it fit’s their budget plan. As Kurt Elster said, the RFPs are written with someone particular in mind for the job (me). It’s nice to be on the inside of that situation, but they are difficult to respond to for folks on the outside looking in. Sometimes you just get lucky! For me, when it comes to RFPs, I always weigh the value of the project against the time and hassle involved. If it’s an ongoing contract, I usually give it a little more consideration. I’m a big fan of guaranteed income. Moral of the story is that hatred for the RFP is mutual in a lot of instances. Shared by Workshop member Corey Tiani
 
 ## Some RFPs you can reply to right now
 [RSS feed]
 
-## This guide is brought to you by my service Workshop
-Members of my service get a head start on this entire process because I go out and find RFPs for them that are qualified, easy to read, and have all the good stuff highlighted for them. You should sign up today. 
+-->
 
-Apply for a membership $199
+---
 
 </div>
--->
+
+
+
+<div class="brought-to-you-by" style="display:grid; grid-template-columns: 1fr 3fr;	grid-gap: 2rem; max-width: 1000px; margin: 1em auto;padding: 2em 0;">
+<div>
+	<img src="/images/workshop-logo.svg" style="max-width: 150px; width: 100%; display: block; margin: 2em auto;">
+</div>
+<div markdown="1">
+	
+### This guide is brought to you by my service Workshop
+Members of my service get a head start on this entire process because I go out and find RFPs for them that are qualified, easy to read, and have all the good stuff highlighted for them. You should apply today.
+
+<a href="https://robertwilliams.typeform.com/to/XVOd5o" class="button">Apply now • $199</a>
+</div>
+</div>
