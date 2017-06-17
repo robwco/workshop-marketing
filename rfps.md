@@ -10,16 +10,16 @@ author: Robert
 
 <div class="summary" markdown="1"> 
 	
-**Summary:** Reduce time wasted on laborious tasks that have almost no impact on results. This includes finding RFP's, designing proposals, and following up by hand. Instead, use your time automating proposal creation, follow-ups and making phone calls to decision-makers.
+**Summary:** With RFPs, in particular, there's a high-risk of wasting time on thing that have no impact on results. This includes finding RFP's, designing proposals, and following up by hand. Instead, automate your proposals and follow-ups.
 
 </div>
 
 
 <div class="reading wrap" markdown="1"> 
 
-## :hand: Wait, are RFPs even worth it?
+## :hand: Wait, are RFPs even worth responding to?
 
-Ahh, the elusive RFP. Unless you have a lot of experience responding to them, they can seem down-right intimidating. But even the top design agencies in the world reply to them.
+Ahh, the elusive RFP. Unless you have a lot of experience with them, they can be down-right intimidating. But even the top design agencies in the world reply to them. Take world-renowned designer, Mike Monteiro, for example:
 
 </div>
 
@@ -45,15 +45,15 @@ Ahh, the elusive RFP. Unless you have a lot of experience responding to them, th
 
 <div class="reading wrap" markdown="1">
 
-Of course, it's always better to get work [by referral](/referrals) BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue (over the course of a few years).
-
-You can do this with *not that much extra effort*. 
+Of course, it is better to get work [by referral](/referrals) BUT simply responding to 1-2 RFPs per week can mean millions of dollars in added revenue (over the course of a few years) for *not that much extra effort*. 
 
 That makes RFPs a great opportunity. 
 
-And with the right approach, you can even reduce the intimidation factor substantially. This guide will show you how - and it will help you create a system that takes just 1 – 2 hours a week to manage. 
+With the right approach, you can reduce the intimidation factor substantially. 
 
-In fact, if you follow the advice in the guide, I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are. 
+This guide will show you how - and it will help you create a system that takes just a couple hours a week to manage. 
+
+In fact, if you follow the advice in the guide, I guarantee you'll be able to reply to projects (with realistic budgets and great people at the helm) no matter how busy you are.
 
 So let's get started. 
 
@@ -61,7 +61,9 @@ So let's get started.
 
 RFPs suck because they're time consuming. 
 
-Often there's not a lot of feedback involved in the process (or you don't take advantage of the feedback available) and you're left feeling like you just did a ton of work for no reason.
+Often we think there's no feedback involved, but the truth is we just don't take advantage of that's feedback available. 
+
+This means you're left feeling like you just did a ton of work for no reason.
 
 Failed proposals feel particularly pointless because after a few you start to wonder if you ever had a shot in the first place.
 
@@ -578,7 +580,7 @@ Luckily there's a few websites that help. Below I've compiled the best sources f
 Instead of chasing down RFPs across thousands of websites, you can monitor a few sites. Let's start with my service though. Here's some recent RFPs I've found and sent to members of this website:
 
 
-# Right here! RFPs now hiring...
+# :siren: Right here! RFPs now hiring...
 </div>
 
 <div class="rfp-rss">
