@@ -1,0 +1,41 @@
+
+.sample-offer {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	/*background-color: #f7f7f5;*/
+	color: #444444;
+	margin: 2em 0;
+	border-top: 1px solid #eee;
+}
+
+.sample-offer h1 {
+	font-style: normal;
+	font-size: 25px;
+	margin:  0;
+	color: #222;
+}
+
+.sample-offer .header {
+	padding: 1em 2em .5em;
+	grid-column: 3 span;
+	display: grid;
+	grid-template-columns: 1fr 8fr;
+}
+
+.sample-offer .header p {
+	margin: .25em 0 .5em;
+	font-size: 80%;
+	max-width: 700px;
+}
+
+.sample-offer .project-type {
+	font-size: 80%;
+	padding: .25em 1em;
+}
+
+.sample-offer .email-optin {
+	padding: .5em 2em 1em;
+	grid-column: 3 span;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
