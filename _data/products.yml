@@ -1,0 +1,23 @@
+- name: lead-service
+  offer: "I can send you hundreds of relevant high-value projects"
+  price: "$199/mo"
+  summary: "This is my main service. I've helped hundreds of small agencies fill the gaps in their schedule with opportunities outside their network. It's limited capacity and I only accept a few shops who apply, but it works."
+  cta: "Try it now for free"
+  permalink: /product/lead-service/
+  pic: /images/ebook.png
+  
+- name: etw field-guide
+  offer: "I can help you win more client work over email"
+  price: "$79"
+  summary: "My short field guide on how to improve the open rate,  response rate, and close rate on your emails. It's backed 1000+ data points from real consultancies and has helped hundreds grow their revenue."
+  cta: "Get a sample chapter free"
+  permalink: /product/emails/
+  pic: /images/ebook.png
+  
+- name: rfp field-guide
+  offer: "I can send you a free book on the masters of freelancing"
+  price: "free"
+  summary: "A free series about successful people you probably didn't know started as freelancers. See how David Ogilvy, Jason Fried, Walt Disney and more approached clients differently."
+  cta: "Download PDF free"
+  permalink: /product/rules/
+  pic: /images/masters-ebook.png

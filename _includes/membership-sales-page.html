@@ -1,66 +1,8 @@
-<!--
-
-<div class="drip-signup-cta" style="display: grid; grid-template-columns: 30% 30% 30%; grid-gap: 5%; padding: 0 1.25em 0; background-color:#FFF; border: 2px solid #ededed;">
-	<div style="grid-column: 1 / 3; grid-row: 1;">
- 		<h3 style="margin-bottom: 0;">FREE: 7 ways to get better clients right now</h3>
-		<p style="margin: .25em 0 0;">Don't go back to full-time work. Give me 5 minutes and you'll start generating more work.</p>
-	</div>
-	
-	<div style="grid-column: 3; grid-row: 1; justify-content: space-evenly;
-	overflow-x: auto;
-	text-align: center;">
-		<a class="button small" style="margin-bottom:.5em; margin-top: 2em;" href="#">Get access for FREE</a><br>
-		<small>8,000+ freelancers helped</small>
-	</div>
-</div>
-	
-
-<form class="drip-signup-form"  action="https://www.getdrip.com/forms/19595913/submissions" method="post" data-drip-embedded-form="19595913" style="display:grid; grid-template-columns: 48% 48%; grid-gap: 4%; background-color: #ededed; padding: .5em 2em; max-width: 100%;">
-	<div style="grid-column: 1 / 3; grid-row: 1;">
-	 <h2>Special offer for first-time visitors: 7 days to better clients</h2>
-
-	</div>
-	
-	<div style="grid-column: 4; grid-row: 1">
-		<a class="expander" href="#">click me</a>
-	</div>
-	
-	<div class="content">
-		<div style="grid-column: 1; grid-row: 2;">
-			<h3>First name</h3>
-	  
-			<input type="text" name="fields[first_name]" value="" placeholder="First name" />
-		</div>
-		
-		 <div style="grid-column: 2; grid-row: 2;">
-			<h3>Email address</h3>
-	    
-			<input type="email" name="fields[email]" value="" placeholder="your@email.com" />
-		 </div>
-	
-		<div style="grid-column: 1; grid-row: 3;">
-		<h3>What type of clients do you want?</h3>
-		</div>
-	
-		<div style="grid-column: 2; grid-row: 3;">
-			<select name="fields[type_of_work]">
-			  <option value="design">Design</option>
-			  <option value="development">Development</option>
-			  <option value="marketing">Marketing</option>
-			  <option value="agency">All of the above (agency)</option>
-			</select>
-		</div>	
-				
-		 <div style="grid-column: 1 / 3; grid-row: 4;">
-		   <input type="submit" name="submit" value="Sign Up" data-drip-attribute="sign-up-button" />
-		 </div>
-	</div>
-</form>
--->
-
+{% include free-sample.html %}
 
 <div class="wrap reading" markdown="1">
-	
+
+# Fill the gaps in your rails consultancy's pipeline in a few minutes a week
 	
 
 <div class="photo-benny" style="float:right; padding: .5em;">
@@ -166,10 +108,10 @@ Where would you invest that time? Who would you spend it with? Those answers are
 
 
 
-{% for testimonial in site.data.testimonials %}
-<blockquote class="testimonial">{{ testimonial.quote }}</blockquote>
+{% for service_testimonial in site.data.service_testimonials %}
+<blockquote class="testimonial">{{ service_testimonial.quote }}</blockquote>
 
-<span class="testimonial-by-line"><img class="small-photo" src="{{ testimonial.image }}">  {{ testimonial.name }}, {{ testimonial.job_title }} in {{ testimonial.location }}</span>
+<span class="testimonial-by-line"><img class="small-photo" src="{{ service_testimonial.image }}">  {{ service_testimonial.name }}, {{ service_testimonial.job_title }} in {{ service_testimonial.location }}</span>
 {% endfor %}
 
 
@@ -198,7 +140,7 @@ Thanks for reading! Please <a href="MAILTO:robert@letsworkshop.com">let me know<
 
 ---
 
-<small>PS: Can’t afford Workshop right now? No worries. I share a ton of advice on how to build a pipeline for free  <a href="/writing/">on this site</a>.</small>
+<small>PS: Can’t afford Workshop right now? No worries. I have field guides on this site that will help you build your business <a href="/">on this site</a>.</small>
 
 </div>
 
