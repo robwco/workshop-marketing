@@ -2,20 +2,12 @@
 layout: default
 ---
 
-{% include nav.html %}
-
-
-<div class="headline">
-	<h1>{{ page.headline }}</h1>	
-	{% if page.subhead != null %}
-		<h2>{{ page.subhead }}</h2>
-	{% endif %}
-</div>
-
-<div>
+<div class="page">
+	{% include top-nav.html %}
+	
   <article>
     {{ content }}
   </article>
-</div>
 
-{% include footer.html %}
+	{% include footer.html %}
+</div>

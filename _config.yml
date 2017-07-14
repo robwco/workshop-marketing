@@ -11,3 +11,26 @@ markdown: kramdown
 parse_block_html: true
 gems:
   - jemoji
+collections:
+  bonus:
+    output: true
+    permalink: /bonus/:name/
+  product:
+    output: true
+    permalink: /product/:name/
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'bonus'
+    values:
+      layout: 'bonus'
+  - scope:
+      path: ''
+      type: 'product'
+    values:
+      layout: 'product'
