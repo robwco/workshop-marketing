@@ -13,8 +13,11 @@
 
  <!-- <link rel="stylesheet" media="all" href="/css/main.css">-->
 
-	<link data-turbolinks-track="true" href="http://localhost:3000/assets/style.css?body=1" media="all" rel="stylesheet">
-	<link data-turbolinks-track="true" href="http://localhost:3000/assets/layout.css?body=1" media="all" rel="stylesheet">
+	 <!-- Dev <link data-turbolinks-track="true" href="http://localhost:3000/assets/style.css?body=1" media="all" rel="stylesheet">
+	<link data-turbolinks-track="true" href="http://localhost:3000/assets/layout.css?body=1" media="all" rel="stylesheet">-->
+	
+	<link data-turbolinks-track="true" href="http://app.letsworkshop.com/assets/style.css?body=1" media="all" rel="stylesheet">
+	<link data-turbolinks-track="true" href="http://app.letsworkshop.com/assets/layout.css?body=1" media="all" rel="stylesheet">
 
   <link rel="canonical" href="http://letsworkshop.com/portfolio/2017/06/05/portfolio-forms.html">
 
@@ -80,12 +83,20 @@
 	</div>
 	
 	<div>
-		<form class="drip-opt-in free-course-signup"  action="https://www.getdrip.com/forms/6960242/submissions" method="post" data-drip-embedded-form="6960242">	
-	<input class="name" type="text" name="fields[first_name]" value="" placeholder="First name" />
-
-	<input class="email" type="email" name="fields[email]" value=""  placeholder="Your email" />
-
-	<input class="button" style="font-size: 80%;" type="submit" name="submit" value="Download now" data-drip-attribute="sign-up-button" />
+		<form class="drip-opt-in free-course-signup"  action="https://www.getdrip.com/forms/6960242/submissions" method="post" data-drip-embedded-form="6960242" style="margin:0; padding: 0;">	
+	<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: .5rem;">
+		<div>
+			<input class="name" type="text" name="fields[first_name]" value="" placeholder="First name" style="margin:0;"/>
+		</div>
+		
+		<div>
+			<input class="email" type="email" name="fields[email]" value=""  placeholder="Your email" style="margin:0;"/>
+		</div>
+		
+		<div>
+			<input class="button" style="font-size: 80%; margin: 0;" type="submit" name="submit" value="Download now" data-drip-attribute="sign-up-button" />
+		</div>
+	</div>
 </form>
 	</div>
 </div>

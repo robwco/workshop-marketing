@@ -6,8 +6,8 @@
   coming_soon: false
 
 - name: "Where to find clients: Job Boards"
-  offer: "Where to find clients: Job Boards"
+  offer: "Complete course: Where to find clients (Coming Soon)"
   type: "Training!"
   permalink: /job-boards/
-  summary: "Everything you need to make thousands off job boards. Available September 18th. <span class='pre-order'>Pre-order now</span>"
-  coming_soon: false
+  summary: "Everything you need to make thousands off job boards. Launching later this year."
+  coming_soon: true
