@@ -1,0 +1,13 @@
+- name: "Leads Service"
+  offer: "I can send you hundreds of relevant projects"
+  type: "Leads!"
+  permalink: /leads/
+  summary: "My main service. I send you 200+ high-value projects each month. Limited spots available."
+  coming_soon: false
+
+- name: "Where to find clients: Job Boards"
+  offer: "Complete course: Where to find clients (Coming Soon)"
+  type: "Training!"
+  permalink: /job-boards/
+  summary: "Everything you need to make thousands off job boards. Launching later this year."
+  coming_soon: true
