@@ -20,3 +20,5 @@ You'll save hundreds of hours by buying this product.
 What you'll get is a walkthrough of the best places on the web to find clients, including how to automate the entire process on a site-by-site basis. 
 
 I'll outline my favorite websites, tools for tracking, and tips I've acquired from 3+ years of building a system to do this everyday. More info coming soon.
+
+## Never contact another cold lead. 
