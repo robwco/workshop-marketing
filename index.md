@@ -17,7 +17,7 @@ I don't claim to have all the answers - but I do know these projects have result
 
 So if you've ever struggled with dry spells - or simply not making enough money - know that anyone can find these opportunities, regardless of location, discipline, or experience level.
 
-To make it easier, I compiled my 5 favorite websites for project-based gigs. <a href="https://gum.co/PgSbF">You can download them for free using this link.</a>
+To make it easier, I compiled my 5 favorite websites for finding project-based gigs. <a href="https://gum.co/PgSbF">You can download them for free using this link.</a>
 
 If you win a client or two with it, I hope you come back and check out my other products below because they work even better.
 
