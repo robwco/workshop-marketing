@@ -77,3 +77,18 @@ Buy my (ultra-short) new book on writing great emails.
 <a class="button" href="https://gum.co/emails-that-win">Buy Emails That Win</a>
 
 You get: A digital copy of the guide in PDF format. Plus a 100% money-back guarantee. I don’t want your money if you’re not satisfied. Read the whole thing and get your money back if you don’t think it’s worth the money.
+
+
+<!--
+
+
+Why I put together this guide
+It's easy to spend big chunks of your day writing email. Yet, most people never think about it. Despite most of us spending years on them, emails go unnoticed. They're just an endless to-do list.
+
+But it can be different.
+
+You can send emails that make you money and deliver value. That's what this guide will help you do. If you implement what you learn in the guide, I’d like to hear from you.
+
+Emails take time. I believe they should take less of it. They should be more effective at giving you what you want.
+
+-->

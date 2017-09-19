@@ -4,23 +4,30 @@ title: Workshop by Robert Williams
 ---
 
 <div class="page" markdown="1">
-{% include top-nav.html %}
 
-<div class="optin-box" markdown="1" style="box-shadow: 0 0 25px rgba(0,0,0,.09); padding: .0125em 1em; margin: .5em 0; border-radius: 15px;">
+<div class="optin-box" markdown="1" style="padding: .01em 2.5em .5em; margin: 1em 0; border-radius: 6px; background-color: #f8f9f4; font-size: 85%;">
 		
 # Do you know where to find high-paying clients?
 
-A steady pipeline is the lifeblood of consulting. A steady flow of new clients keeps you *in business.* I help consultancies like yours find thousands of dollars in consulting work every week.
+For the past 4 years, freelancers have paid me to do this for them.
 
-Download my top 5 favorite places to find high-paying clients now:
+Some days are harder than others, but I've consistently found a handful of great projects for each of them using ordinary free tools and websites.
 
-{% include course-form.html %}
+I don't claim to have all the answers - but I do know these projects have resulted in millions of dollars of client work for them and happy returning customers for me.
 
-<p style="margin-top: 1em; color: #666; font-size: 80%;">(It's worked for hundreds of people. It will work for you too.)</p>
+So if you've ever struggled with dry spells - or simply not making enough money - know that anyone can find these opportunities, regardless of location, discipline, or experience level.
+
+To make it easier, I compiled my 5 favorite websites for project-based gigs. <a href="https://gum.co/PgSbF">You can download them for free using this link.</a>
+
+If you win a client or two with it, I hope you come back and check out my other products below because they work even better.
+
+Thanks!
+ 
+–Robert
 
 </div>
 
-### Or check out my products:
+### My products:
 
 <div class="product-list">
 	{% for product in site.data.products %}
@@ -53,7 +60,7 @@ grid-column-gap: 2rem;">
 		<img src="/images/yay.png" style="max-width:60px; border-radius: 60px;">
 	</div>
 	<div>
-Workshop is a project by <a href="http://twitter.com/clientgiantrob">Robert Williams</a>. I make money selling simple products  to small consulting shops. They've now made over a million dollars in revenue. It works. I wouldn't be in business if it didn't.
+This website is a project by <a href="http://twitter.com/clientgiantrob">Robert Williams</a>. I make money selling these 3 simple products to small client service shops. They work. I wouldn't be in business if they didn't.
 	</div>
 </div>
 
