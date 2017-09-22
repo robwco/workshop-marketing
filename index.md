@@ -4,41 +4,37 @@ title: Workshop by Robert Williams
 ---
 
 <div class="page" markdown="1">
+<img src="/images/workshop-preview-sd.png" style="max-width: 100%; margin: .25em 0 -1em; ">
 
-<div class="optin-box" markdown="1" style="padding: .01em 2.5em .5em; margin: 1em 0; border-radius: 6px; background-color: #f8f9f4; font-size: 85%;">
-		
 # Do you know where to find high-paying clients?
 
-For the past 4 years, freelancers have paid me to do this for them.
+I do. In fact, for the past 4 years, it's been my day job to find high-quality projects for freelancers and small agencies.
 
-Some days are harder than others, but I've consistently found a handful of great projects for each of them using ordinary free tools and websites.
+Some days are harder than others, but I've consistently found enough great projects everyday for hundreds of consultancies.
 
-I don't claim to have all the answers - but I do know these projects have resulted in millions of dollars of client work for them and happy returning customers for me.
+You can too. 
 
-So if you've ever struggled with dry spells - or simply not making enough money - know that anyone can find these opportunities, regardless of location, discipline, or experience level.
+I don't have all the answers - but I do know exactly how to find opportunities on the web that will result in millions of dollars of client work.
 
-To make it easier, I compiled my 5 favorite websites for finding project-based gigs. <a href="https://gum.co/PgSbF">You can download them for free using this link.</a>
+So if you've ever struggled with dry spells - or simply not making enough money - know that you too can find these opportunities, regardless of location, discipline, or experience level, absolutely free.
 
-If you win a client or two with it, I hope you come back and check out my other products below because they work even better.
+To make it easier, I've compiled the 5 best websites I use for finding a great paying gigs. <a href="https://gum.co/PgSbF">You can download it for free using this link.</a>
+
+If you win a client or two with it I hope you come back and check out my other products below because they work even better.
 
 Thanks!
- 
-–Robert
 
-</div>
-
-### My products:
+– Robert
 
 <div class="product-list">
 	{% for product in site.data.products %}
-	
 		{% if product.coming_soon == false %}
 			<div class="product-item">
 				<div class="product-grid" style="display: grid; grid-template-columns: 175px 1fr; grid-gap: 2rem; align-items: center;justify-items: center;">
 					<div>
 						<img src="{{ product.pic }}" style="max-height:100px;">
 					</div>
-				
+
 					<div>
 						<h3><a href="{{ product.permalink }}">{{ product.offer }}</a></h3>
 						<p>{{ product.summary }}</p>
@@ -52,7 +48,11 @@ Thanks!
 			</div>
 		{% endif %}
 	{% endfor %}
-</div>
+</div>	
+
+
+
+
 
 <div class="bio" style="display: grid; grid-template-columns: 60px 1fr; padding: 2em 0; 
 grid-column-gap: 2rem;">

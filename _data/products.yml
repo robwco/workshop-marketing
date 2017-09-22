@@ -1,14 +1,14 @@
 - name: "Leads Service"
-  offer: "Projects found for you daily"
+  offer: "Lead Service: I find you new projects daily"
   permalink: /leads/
-  summary: "This is my main service. I send 3+ high-value projects per customer every business day. Extremely limited spots available."
+  summary: "This is my main service. I send 3+ high-value projects per customer every month. Extremely limited availability."
   coming_soon: false
   pic: "./images/workshop-preview-sd.png"
 
 - name: "Where to find clients"
   offer: "Where to find high-paying clients"
   permalink: /find/
-  summary: "A complete list of exactly what websites I use to find thousands of potential gigs every year."
+  summary: "A complete list of exactly what websites I use to find the gigs I sell above: thousands of projects every year."
   coming_soon: false
   pic: "./images/automation-video-course.png"
   
@@ -16,7 +16,7 @@
 - name: "Emails that win you clients"
   offer: "Emails that win you clients"
   permalink: /emails/
-  summary: "A library of the biggest mistakes made emailing clients, tips on how to avoid them, and examples of successful emails to use instead."
+  summary: "A training product with the biggest mistakes freelancers make when emailing clients, plus examples of successful emails to use instead."
   coming_soon: false
   pic: "./images/etw-field-guide.png"
   
