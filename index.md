@@ -1,8 +1,13 @@
 ---
-layout: home
-title: Workshop by Robert Williams
+title: Workshop - Get hand-curated project gigs delivered to your email by Robert Williams
+layout: page
 ---
 
+<div markdown="1">
+{% include membership-sales-page.html %}
+</div>
+
+<!--
 <div class="page" markdown="1">
 <img src="/images/workshop-preview-sd.png" style="max-width: 100%; margin: .25em 0 -1em; ">
 
@@ -53,7 +58,6 @@ Thanks!
 
 
 
-
 <div class="bio" style="display: grid; grid-template-columns: 60px 1fr; padding: 2em 0; 
 grid-column-gap: 2rem;">
 	<div>
@@ -66,3 +70,5 @@ This website is a project by <a href="http://twitter.com/clientgiantrob">Robert 
 
 {% include footer.html %}
 </div>
+
+-->

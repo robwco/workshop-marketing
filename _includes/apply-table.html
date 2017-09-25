@@ -1,11 +1,11 @@
-<center style="margin: 2em auto 1em;">
+
+<!--<center style="margin: 2em auto 1em;">
 	<p>It costs $199 per month and you'll be 100% refunded if denied.</p>	
 	<a href="https://robertwilliams.typeform.com/to/v12Y5m" class="button">Apply to join today</a>
 	<p style="color: #666;">If you have any questions or concerns about the service, email us. We're happy to help <a href="mailto:robert@letsworkshop.com">robert@letsworkshop.com</a></p>
-</center>
+</center>-->
 
 
-<!--
 <div class="product-list leads">
 	{% for lead_application_spot in site.data.lead_application_spots %}
 		{% if lead_application_spot.full == false %}
@@ -20,11 +20,10 @@
 		<div class="product-item">
 			<a href="{{ lead_application_spot.waiting_list_link }}">{{ lead_application_spot.name }}</a> <span>{{ lead_application_spot.description }}</span>
 			
-			
-			<a class="sold-out" href="{{ lead_application_spot.waiting_link }}">Sold out</a>
+			<a class="sold-out" href="{{ lead_application_spot.waiting_list_link }}">Sold out</a>
 			
 			<span style="float: right; margin-right: 1em; margin-top: 3px;">Join the waiting list!</span>
 		</div>
 		{% endif %}
 	{% endfor %}
-</div>-->
+</div>
