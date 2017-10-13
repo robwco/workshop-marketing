@@ -1,5 +1,6 @@
 ---
-title: Workshop - Get hand-curated project gigs delivered to your email by Robert Williams
+title: Workshop
+description: "Projects for people who make websites. Every morning Robert finds the top 6 job posts for project-seeking website designers."
 layout: page
 ---
 

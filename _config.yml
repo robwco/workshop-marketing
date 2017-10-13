@@ -1,7 +1,7 @@
 # Site settings
-title: Workshop by Robert Williams
+title: Workshop
 email: robert@letsworkshop.com
-description: Get over 200+ hand selected freelance web consulting leads sent to your inbox every week 
+description: "Projects for people who make websites. Every morning Robert finds the top 6 job posts for project-seeking website designers."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://letsworkshop.com" # the base hostname & protocol for your site
 twitter_username: clientgiantrob
