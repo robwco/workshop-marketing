@@ -1,14 +1,21 @@
 ---
 title: Workshop
 description: "Projects for people who make websites. Every morning Robert finds the top 6 job posts for project-seeking website designers."
-layout: page
+layout: default
 ---
 
-<div markdown="1">
+{% include explainer.html %}
+
 {% include membership-sales-page.html %}
+
+{% include monitoring.html %}
+
+{% include who-this-is-for.html %}
+<!--
+
+<div markdown="1">
 </div>
 
-<!--
 <div class="page" markdown="1">
 <img src="/images/workshop-preview-sd.png" style="max-width: 100%; margin: .25em 0 -1em; ">
 
