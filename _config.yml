@@ -18,6 +18,8 @@ collections:
   product:
     output: true
     permalink: /product/:name/
+  beliefs:
+    output: true
 
 defaults:
   - scope:

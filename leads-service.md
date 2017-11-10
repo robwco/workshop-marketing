@@ -1,8 +1,13 @@
 ---
 permalink: /leads/
-layout: page
+layout: default
 ---
 
-<div markdown="1">
+
+{% include explainer.html %}
+
 {% include membership-sales-page.html %}
-</div>
+
+{% include monitoring.html %}
+
+{% include who-this-is-for.html %}

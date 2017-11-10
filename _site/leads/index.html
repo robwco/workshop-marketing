@@ -43,31 +43,362 @@
 
 <body>
 	
-<div class="page">
+<style>
+.homepage-explainer {
+	display: grid;
+	/*background-color: #f3d6ee;*/
+	grid-template-columns: 540px 480px;
+	grid-template-rows: 385px;
+	width:100%;
+	max-width: 1020px;
+	margin: 2em auto 1em;
+}
+.homepage-explainer .screenshot {
+	/*background-color: #9bf391;*/
+}
+.homepage-explainer .description {
+	/*background-color: #f3eb93;*/
+	padding: 1.5em 2em;
+}
+.homepage-explainer .description a.button {
+	background-color: #D9D7D1; 
+	color: #635E52; 
+	box-shadow: 0 4px 0 #BAB6AB; 
+	font-size: 18px; 
+	text-transform: none; 
+	letter-spacing: 0; 
+	margin: 1.25em 0 1em;
+}
+.homepage-explainer .description a.button:hover {
+	background-color: #ebe8e0;
+	box-shadow: 0 4px 0 #D9D7D1;
+}
+@media only screen and (max-width: 1020px) {
+} 
+</style>
+
+<div class="homepage-explainer">
+	<div class="screenshot">
+		<img src="/images/screenshot-workshop-email.png" style="max-width:100%;" />
+	</div>
+	<div class="description">
+		<h1 style="margin: 0; font-weight:700;"><img src="/images/workshop-logo.png" style="vertical-align: -18px; max-width: 60px;" /> Workshop</h1>
+		<h2 style="margin: 0;">The daily email every freelancer needs.</h2>
+		<p style="font-size: 17px;">Workshop members get a daily hand-curated list of active, high-value freelance opportunities delivered to their inbox. Pairs great with a cup of coffee. Apply in minutes today.</p>
+		<a href="https://app.letsworkshop.com/subscriptions/new?plan=30" class="button">Apply for Membership</a>
+		<p style="color: #A2A2A2; font-size: 15px; margin: 0;">$79 per month • 6-month minimum</p>
+	</div>
+</div>
+
+<div style="margin:1em auto; max-width: 600px; padding: 1em 0; border-top: 1px solid #cccccc; border-bottom: 1px solid #cccccc;">
+
+  <h2 id="is-your-business-ready-for-the-holidays-or-will-you-spend-christmas-worried-about-not-having-enough-clients">Is your business ready for the Holidays? Or will you spend Christmas worried about not having enough clients?</h2>
+
+  <p>That’s something I’d love to help you with. But the clock is ticking. I hate the thought of freelancers spending Christmas with one eye on their phone hoping a client will appear. The truth is, NOW is the time to line up new work before most businesses go away on Holiday.</p>
+
+  <p>So although you might be overloaded with managing clients, paperwork, and taxes - there’s still about 60 days left to line up work before 2018. How will you spend it? Here’s what I recommend.</p>
+
+  <p>Instead of doing what most freelancers do, which is wait for work to come to you, join the minority and email a new prospect everyday. Freelancers who do this make 50% more revenue than the average freelancer!</p>
+
+  <p>But how can you find enough prospects when your time is already taken up? That’s where Workshop comes in. We monitor hundreds of job boards and other websites for freelance opportunities relevant to you. Then we find contact info for each one, and send you just the best stuff every day.</p>
+
+  <p>100% high-value work, curated by hand every day. So all you have to do is send off a few emails over your morning coffee.</p>
+</div>
+
+<style>
+.monitoring-list {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: .5em;
+	width:100%;
+	max-width: 800px;
+	margin: 0 auto .5em;
+	padding: 0em 2em 0;
+}
+
+.monitoring-list .header {
+	grid-column: span 4;
+	height: auto;
+	padding: 0 0 1em;
+}
+
+.monitoring-list .source {
+	background-color: #FFF;
+	display: grid;
+	grid-template-columns: 40px 1fr;
+	grid-gap: 1em;
+	padding: 1em;
+	font-size: 70%;
+	border-radius: 1em;
+	border: 3px solid #ebe8e0;
+}
+.monitoring-list .source h2 {
+	margin: .5em 0 .125em;
+	font-size: 120%;
+}
+
+.monitoring-list .source img {
+	vertical-align: -.25em; 
+	max-width: 40px;
+}
+
+.monitoring-list .source p {
+	margin: 0;
+}
+
+.email-preview {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: .5em;
+	width:100%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.email-preview .screenshot {
+	border-radius: .5em;
+	border: 3px solid #ebe8e0;
+	padding: 0;
+}
+
+.email-preview .screenshot img {
+	width:100%;
+	margin: 0;
+}
+
+</style>
+
+<div class="monitoring-list">
+	<div class="header">
+	<h2>For the next 6 months you can have every job board &amp; website monitored for you, while you spend your time on something better, like with your family.</h2>
+	</div>
+	<div class="source">
+		<div>
+			<img src="/images/angellist.png" />
+		</div>
+		<div>
+			<h2>AngelList</h2>
+		</div>
+	</div>
 	
-  <article>
-    <div>
-  <div style="margin:1em auto; max-width: 600px; padding: 1em 0; border-top: 1px solid #cccccc; border-bottom: 1px solid #cccccc;">
+	<div class="source">
+		<div>
+			<img src="/images/hn.png" />
+		</div>
+		<div>
+			<h2>Hacker News</h2>
+		</div>
+	</div>
+	
+	<div class="source">
+		<div>
+			<img src="/images/wwr.png" />
+		</div>
+		<div>
+			<h2>WeWorkRemotely</h2>
+		</div>
+	</div>
 
-    <h2 id="is-your-business-ready-for-the-holidays-or-will-you-spend-christmas-worried-about-not-having-enough-clients">Is your business ready for the Holidays? Or will you spend Christmas worried about not having enough clients?</h2>
+	<div class="source">
+		<div>
+			<img src="/images/google-logo.png" />
+		</div>
+		<div>
+			<h2>Google</h2>
+		</div>
+	</div>
+	
+	<div class="source">
+		<div>
+			<img src="/images/rfpdb-logo.png" />
+		</div>
+		<div>
+			<h2>RFPDB</h2>
+		</div>
+	</div>
+	
+	<div class="source">
+		<div>
+			<img src="/images/behance.png" />
+		</div>
+		<div>
+			<h2>Behance</h2>
+		</div>
+	</div>
 
-    <p>That’s something I’d love to help you with. But the clock is ticking. I hate the thought of freelancers spending Christmas with one eye on their phone hoping a client will appear. The truth is, NOW is the time to line up new work before most businesses go away on Holiday.</p>
-
-    <p>So although you might be overloaded with managing clients, paperwork, and taxes - there’s still about 60 days left to line up work before 2018. How will you spend it? Here’s what I recommend.</p>
-
-    <p>Instead of doing what most freelancers do, which is wait for work to come to you, join the minority and email a new prospect everyday. Freelancers who do this make 50% more revenue than the average freelancer!</p>
-
-    <p>But how can you find enough prospects when your time is already taken up? That’s where Workshop comes in. We monitor hundreds of job boards and other websites for freelance opportunities relevant to you. Then we find contact info for each one, and send you just the best stuff every day.</p>
-
-    <p>100% high-value work, curated by hand every day. So all you have to do is send off a few emails over your morning coffee.</p>
-  </div>
+	<div class="source">
+		<div>
+			<img src="/images/fb.png" />
+		</div>
+		<div>
+			<h2>Facebook</h2>
+		</div>
+	</div>
+	
+	<div class="source">
+		<div>
+			<img src="/images/more.png" />
+		</div>
+		<div>
+			<h2>Hundreds more</h2>
+		</div>
+	</div>
 </div>
 
-  </article>
+<div class="email-preview">
+	<p style="grid-column: span 3; margin: 1em 0 .5em;">A few recent emails we've sent...</p>
+	
+	<div class="screenshot">
+		<a href="/images/email-preview.png"><img src="/images/email-preview.png" /></a>
+	</div>
+	
+	<div class="screenshot">
+		<a href="/images/email-preview2.png"><img src="/images/email-preview2.png" /></a>
+	</div>
+	
+	<div class="screenshot">
+		<a href="/images/email-preview3.png"><img src="/images/email-preview3.png" /></a>
+	</div>
+</div>
 
-	<footer>&copy; 2017 <a href="MAILTO:robert@letsworkshop.com">Robert Williams</a> <a href="/"><img class="emoji" title=":hand:" alt=":hand:" src="https://assets.github.com/images/icons/emoji/unicode/270b.png" height="20" width="20" align="absmiddle"></a>Thanks for reading! I hope you have an awesome day.</footer>
+<style>
+.price-comparison {
+	max-width:500px;
+	margin: 0 auto;
+}
+.price-comparison p {
+	border-top: 1px solid #ccc;
+	padding: .75em 1em 0;
+	color: #a0a0a0;
+	font-size: 90%;
+}
+
+.price-comparison p:last-child {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: .75em;
+}
+
+.price-comparison .monthly-price {
+	font-size: 150%;
+	color:#e86011;
+	font-weight: 700;
+	margin-right: .25em;
+}
+
+
+
+.homepage-cta {
+	display: grid;
+	/*background-color: #f3d6ee;*/
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 2rem;
+	width:100%;
+	max-width: 700px;
+	margin: 1em auto 3em;
+	background-color: #ffeeba;
+	padding: 1.25em 2em 2em;
+	border-radius: 8px;
+}
+.homepage-explainer .screenshot {
+	/*background-color: #9bf391;*/
+}
+.homepage-explainer .description {
+	/*background-color: #f3eb93;*/
+	padding: 1.5em 2em;
+}
+.homepage-cta a.button {
+	background-color: #D9D7D1; 
+	color: #635E52; 
+	box-shadow: 0 4px 0 #BAB6AB; 
+	font-size: 18px; 
+	text-transform: none; 
+	letter-spacing: 0; 
+	margin: 1.25em 0 1em;
+}
+.homepage-cta a.button:hover {
+	background-color: #ebe8e0;
+	box-shadow: 0 4px 0 #D9D7D1;
+}
+</style>
+
+<div style="margin:2em auto 0; max-width: 600px; padding: 1em 0 1em; border-top: 1px solid #cccccc; border-bottom: 1px solid #ccc;">
+
+  <h2 id="who-workshops-daily-email-is-designed-for">Who Workshop’s Daily Email is Designed for:</h2>
+
+  <ul>
+    <li>
+      <p><strong>Busy consultancy owners.</strong> If your time is worth a lot to you and you rather skip hours of lead generation each week, you’ll find value in this email.</p>
+    </li>
+    <li>
+      <p><strong>American-based shops.</strong> Although every project we send is open to workers from anywhere in the world, I’ve found Workshop works best for American and European consultancies.</p>
+    </li>
+    <li>
+      <p><strong>Shops experienced in outreach.</strong> Anyone can make money with these emails, but freelancers/consultancies who have an established process for emailing prospects will see hyper-results.</p>
+    </li>
+    <li>
+      <p><strong>Specialists.</strong> That means freelancers and consultancies with skills in any of the following areas:</p>
+      <ul>
+        <li>UI/UX/Web design</li>
+        <li>Graphic design</li>
+        <li>PHP development (particularly WordPress/Laravel)</li>
+        <li>Javascript development (particularly Angular/React/Meteor)</li>
+        <li>Python development</li>
+        <li>Ruby on Rails development</li>
+        <li>and Mobile development (particularly React Native/iOS/Android)</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p>But the best way to figure out if Workshop is right for you is to sign up and see for yourself. The price is so low anyone can afford to try it out!</p>
 
 </div>
+
+<div style="margin:0 auto; max-width: 600px; padding: .25em 0 1em;">
+
+  <h2 id="for-example-if-you-hired-a-img-srcimagesva-emojipng-height30-width30-alignabsmiddle-stylevertical-align--6px-virtual-assistant-to-do-this-for-you-it-would-cost">For example, if you hired a <img src="/images/va-emoji.png" height="30" width="30" align="absmiddle" style="vertical-align: -6px;" /> Virtual Assistant to do this for you, it would cost…</h2>
+
+  <div class="price-comparison">
+	<p style="padding-left: 2.5em;"><span class="monthly-price"><span style="vertical-align:5px; font-size: 70%; margin-right: .125em;"> $</span>700</span> ... each month for even the cheapest VA's salary</p>
+	<p><span class="monthly-price"><span style="font-weight: 300; color: #444; margin-right: .75em;">+</span> <span style="vertical-align:5px; font-size: 70%; margin-right: .125em;">$</span>99</span> ... each month for software to manage them</p>
+	<p><span class="monthly-price"><span style="font-weight: 300; color: #444;  margin-right: .25em;">+</span> <span style="vertical-align:5px; font-size: 70%; margin-right: .125em;">$</span>200</span> ... each month in billable time lost handling the project</p>
+</div>
+
+  <h2 id="instead-workshop-members-pay-only">… Instead Workshop members pay only:</h2>
+
+  <div class="pricing-table" style="border: 3px solid #ebe8e0; margin: 1em 0 2em; width:100%; text-align:center; display: grid; grid-template-columns: 1fr 1fr; background-color: #ebe8e0; grid-gap: 3px; box-shadow: 0 0 10px #eee;">
+	<div style="background-color: white; padding: .75em 1em; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
+	<h2 style="color:#61a962; font-weight: 700; margin: 0; font-size: 200%;"><span style="vertical-align:10px; font-size: 70%; margin-right: .125em;">$</span>79 a month</h2>
+	<hr />
+	<p style="color: #A2A2A2; margin: 0; font-size: 15px;">$474 Paid Twice a Year</p>
+	</div>
+	<div style="background-color: white;  padding: .75em 1em; text-align:left; border-top-right-radius: 10px; border-bottom-right-radius: 10px;">
+		<p style="color: #A2A2A2; margin: 0; font-size: 15px; border-bottom: 1px solid #ccc; padding: 0 0 .5em;"><strong>That's means you pay just...</strong></p>
+		<ul style="color: #A2A2A2; margin: 1em 0 0; font-size: 15px; line-height: 1;">
+			<li>$3.16 per lead</li>
+			<li>$2.59 per day</li>
+			<li>$1.01 per hour saved</li>
+		</ul>
+	</div>
+</div>
+</div>
+
+<div class="homepage-cta">
+	<div>
+		<h3 style="margin: 0;">Ready to apply?</h3>
+		<p style="margin-bottom: 0;">We only accept members we know we can help. Fill out the application to find out if that's you.</p>
+	</div>
+	
+	<div>
+		<a href="https://app.letsworkshop.com/subscriptions/new?plan=30" class="button">Apply for Membership • $474</a>
+		<p style="color: #A2A2A2; font-size: 15px; margin: 0;">Takes about a minute • 100% refund if denied</p>
+	</div>
+</div>
+
+<div class="quote" style="max-width: 850px;margin: 2em auto; font-size: 125%;font-weight:300; color:#635e52; text-align:center;">
+	<p><span style="font-size:250%; color:#222; vertical-align:-20px; font-family: Georgia; line-height: 0;">&ldquo;</span> In less than a year I’ve won about $65,000 in projects from Workshop alone. All of them have become repeat clients who I expect will be buying additional services in the next few years. The best thing is it runs on email so it’s easy to process, archive, or save. <span style="font-size:250%; color:#222; vertical-align:-20px; font-family: Georgia;  line-height: 0;">&rdquo;</span></p>
+	<p class="by-line" style="font-size: 80%; font-weight: 400;"><img src="/images/eric-davis.jpg" style="width:50px; height: 50px; border-radius: 50px; margin-right: .5em; vertical-align: -15px;" /> Eric Davis, <a href="https://www.littlestreamsoftware.com">Little Stream Software</a>, Oregon</p>
+</div>
+
 
 
 <!-- Drip -->
