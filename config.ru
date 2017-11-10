@@ -47,7 +47,6 @@ use Rack::Rewrite do
   r301 '/autoresponders', '/course'
   r301 '/fire-client', '/firing-a-client'
   r301 '/insurance', '/freelancing'
-  r301 '/referrals', '/course'
   r301 '/help', '/freelancing'
   r301 '/mockups', '/feedback'
   r301 '/faqs', '/freelancing'

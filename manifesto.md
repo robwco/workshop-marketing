@@ -12,7 +12,6 @@ permalink: /manifesto/
 	color: #717171;
 	font-family: Georgia;
 	font-weight: 200;
-	text-decoration: none;
 }
 .manifesto a:hover {
 	color: #555;
