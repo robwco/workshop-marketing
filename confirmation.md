@@ -4,50 +4,35 @@ title: You're in! Let's get started...
 permalink: /confirmation/
 ---
 
-<style>
-body, h1 {
-	background-color: #59514a;
-	color: #f3f3f3;
 
-}
-p, ul {
-	font-family: Georgia;
-}
-a {
-	color:#ffeeba;
-}
-
-ul {
-	margin: 0;
-	padding: 0;
-}
-li {
-	padding: .25em 0;
-	line-height: 1.4;
-}
-li a {
-	font-family: Sans-serif;
-	text-decoration: none;
-	font-weight: 700;
-}
-</style>
-
-
-<div class="confirmation-center" style="max-width:450px; margin: 0 auto;">
+<div markdown="1" class="confirmation-center" style="max-width:500px; margin: 0 auto;">
 	
-<img src="/images/building.png" style="max-width: 100%; margin: 1em auto 0; width:160px; display: block;">
+<img src="/images/workshop-place.png" style="max-width: 100%; margin: 1em 0 0; display: block;	">
 	
-<h1 style="margin:.5em 0 .5em; text-align: center; border-bottom: 2px dotted #4e443b; padding: 0 0 .5em;">Welcome inside Workshop! Glad you're a part of the community...</h1>
+<h1 style="margin:.5em 0 .5em; text-align: center; border-bottom: 2px dotted #ddd; padding: 0 0 .5em;">Welcome inside Workshop! One more step...</h1>
 
-<p>As a member, here's what you have access to:</p>
+First off, welcome! I just sent you an email. 
 
-<ul>
-	<li><a href="/referrals">Referrals from our network</a> – Refer a project and get access to exclusive gigs from the community. Details inside.</li>
-	<li><a href="/downloads/favorite-places.pdf">Free course on getting clients</a> – You'll get lessons from a course I created on finding high-paying clients.</li>
-	<li><a href="/products">Other products</a> - Periodically, I send discounts and promote products I create with you.</li>
-</ul>
+**Make sure to whitelist my email address to keep gmail from throwing my emails out.**
 
-<p>See you Friday!</p>
+Each Friday I send a small group of freelancers some projects from that week. These projects come directly to me and are sometimes available nowhere else so they're a great batch of gigs.
+
+To get this weekly email, there's 3 ways you can sign up:
+
+1. **Refer a client**<br>If you know of a great client who's currently looking to hire, [send them this referral form](https://airtable.com/shrtjRuOvexpQgBrv). Then after they've submitted a project, email me and I'll add you to the list.
+	
+2. **Post your own project**<br>If you're currently looking to hire someone awesome, you can use [this form](https://airtable.com/shrtjRuOvexpQgBrv) yourself to hire from the community. We'll include it in the newsletter.
+
+3. **Sign up for my lead-gen service**<br> Customers of my premium lead-gen service get the referral email as part of their subscription. [Go here for more details.](/leads)
+
+That's it. Those are the only ways to join the referral newsletter.
+
+It keeps the entire thing really personal and awesome.
+
+If you don't have a project or client to refer right now, no worries! Now that you're a part of the Workshop community, you can join anytime. 
+
+I'll also be sending you some other awesome stuff shortly.
+
 <p>– Rob</p>
 
 

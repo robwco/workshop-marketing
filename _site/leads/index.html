@@ -43,362 +43,222 @@
 
 <body>
 	
-<style>
-.homepage-explainer {
-	display: grid;
-	/*background-color: #f3d6ee;*/
-	grid-template-columns: 540px 480px;
-	grid-template-rows: 385px;
-	width:100%;
-	max-width: 1020px;
-	margin: 2em auto 1em;
-}
-.homepage-explainer .screenshot {
-	/*background-color: #9bf391;*/
-}
-.homepage-explainer .description {
-	/*background-color: #f3eb93;*/
-	padding: 1.5em 2em;
-}
-.homepage-explainer .description a.button {
-	background-color: #D9D7D1; 
-	color: #635E52; 
-	box-shadow: 0 4px 0 #BAB6AB; 
-	font-size: 18px; 
-	text-transform: none; 
-	letter-spacing: 0; 
-	margin: 1.25em 0 1em;
-}
-.homepage-explainer .description a.button:hover {
-	background-color: #ebe8e0;
-	box-shadow: 0 4px 0 #D9D7D1;
-}
-@media only screen and (max-width: 1020px) {
-} 
-</style>
-
-<div class="homepage-explainer">
-	<div class="screenshot">
-		<img src="/images/screenshot-workshop-email.png" style="max-width:100%;" />
-	</div>
-	<div class="description">
-		<h1 style="margin: 0; font-weight:700;"><img src="/images/workshop-logo.png" style="vertical-align: -18px; max-width: 60px;" /> Workshop</h1>
-		<h2 style="margin: 0;">The daily email every freelancer needs.</h2>
-		<p style="font-size: 17px;">Workshop members get a daily hand-curated list of active, high-value freelance opportunities delivered to their inbox. Pairs great with a cup of coffee. Apply in minutes today.</p>
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=30" class="button">Apply for Membership</a>
-		<p style="color: #A2A2A2; font-size: 15px; margin: 0;">$79 per month • 6-month minimum</p>
-	</div>
-</div>
-
-<div style="margin:1em auto; max-width: 600px; padding: 1em 0; border-top: 1px solid #cccccc; border-bottom: 1px solid #cccccc;">
-
-  <h2 id="is-your-business-ready-for-the-holidays-or-will-you-spend-christmas-worried-about-not-having-enough-clients">Is your business ready for the Holidays? Or will you spend Christmas worried about not having enough clients?</h2>
-
-  <p>That’s something I’d love to help you with. But the clock is ticking. I hate the thought of freelancers spending Christmas with one eye on their phone hoping a client will appear. The truth is, NOW is the time to line up new work before most businesses go away on Holiday.</p>
-
-  <p>So although you might be overloaded with managing clients, paperwork, and taxes - there’s still about 60 days left to line up work before 2018. How will you spend it? Here’s what I recommend.</p>
-
-  <p>Instead of doing what most freelancers do, which is wait for work to come to you, join the minority and email a new prospect everyday. Freelancers who do this make 50% more revenue than the average freelancer!</p>
-
-  <p>But how can you find enough prospects when your time is already taken up? That’s where Workshop comes in. We monitor hundreds of job boards and other websites for freelance opportunities relevant to you. Then we find contact info for each one, and send you just the best stuff every day.</p>
-
-  <p>100% high-value work, curated by hand every day. So all you have to do is send off a few emails over your morning coffee.</p>
-</div>
+<div class="page">
+	
+  <article>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet" />
 
 <style>
-.monitoring-list {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
-	grid-gap: .5em;
-	width:100%;
-	max-width: 800px;
-	margin: 0 auto .5em;
-	padding: 0em 2em 0;
+h1 { font-size: 150%; }
+h2 { font-size: 125%; }
+h1, h2 {
+	margin: 1em 0 0;
 }
-
-.monitoring-list .header {
-	grid-column: span 4;
-	height: auto;
-	padding: 0 0 1em;
-}
-
-.monitoring-list .source {
-	background-color: #FFF;
-	display: grid;
-	grid-template-columns: 40px 1fr;
-	grid-gap: 1em;
-	padding: 1em;
-	font-size: 70%;
-	border-radius: 1em;
-	border: 3px solid #ebe8e0;
-}
-.monitoring-list .source h2 {
-	margin: .5em 0 .125em;
-	font-size: 120%;
-}
-
-.monitoring-list .source img {
-	vertical-align: -.25em; 
-	max-width: 40px;
-}
-
-.monitoring-list .source p {
+p { font-family: Georgia; 
+	margin: .75em 0;
+	line-height: 1.57;}
+blockquote {
+	background-color: #f8f8f8;
+	border-radius: 5px;
 	margin: 0;
+	padding: .5em 1em;
 }
-
-.email-preview {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-gap: .5em;
-	width:100%;
-	max-width: 800px;
-	margin: 0 auto;
-}
-
-.email-preview .screenshot {
-	border-radius: .5em;
-	border: 3px solid #ebe8e0;
-	padding: 0;
-}
-
-.email-preview .screenshot img {
-	width:100%;
+blockquote p {
 	margin: 0;
-}
-
-</style>
-
-<div class="monitoring-list">
-	<div class="header">
-	<h2>For the next 6 months you can have every job board &amp; website monitored for you, while you spend your time on something better, like with your family.</h2>
-	</div>
-	<div class="source">
-		<div>
-			<img src="/images/angellist.png" />
-		</div>
-		<div>
-			<h2>AngelList</h2>
-		</div>
-	</div>
-	
-	<div class="source">
-		<div>
-			<img src="/images/hn.png" />
-		</div>
-		<div>
-			<h2>Hacker News</h2>
-		</div>
-	</div>
-	
-	<div class="source">
-		<div>
-			<img src="/images/wwr.png" />
-		</div>
-		<div>
-			<h2>WeWorkRemotely</h2>
-		</div>
-	</div>
-
-	<div class="source">
-		<div>
-			<img src="/images/google-logo.png" />
-		</div>
-		<div>
-			<h2>Google</h2>
-		</div>
-	</div>
-	
-	<div class="source">
-		<div>
-			<img src="/images/rfpdb-logo.png" />
-		</div>
-		<div>
-			<h2>RFPDB</h2>
-		</div>
-	</div>
-	
-	<div class="source">
-		<div>
-			<img src="/images/behance.png" />
-		</div>
-		<div>
-			<h2>Behance</h2>
-		</div>
-	</div>
-
-	<div class="source">
-		<div>
-			<img src="/images/fb.png" />
-		</div>
-		<div>
-			<h2>Facebook</h2>
-		</div>
-	</div>
-	
-	<div class="source">
-		<div>
-			<img src="/images/more.png" />
-		</div>
-		<div>
-			<h2>Hundreds more</h2>
-		</div>
-	</div>
-</div>
-
-<div class="email-preview">
-	<p style="grid-column: span 3; margin: 1em 0 .5em;">A few recent emails we've sent...</p>
-	
-	<div class="screenshot">
-		<a href="/images/email-preview.png"><img src="/images/email-preview.png" /></a>
-	</div>
-	
-	<div class="screenshot">
-		<a href="/images/email-preview2.png"><img src="/images/email-preview2.png" /></a>
-	</div>
-	
-	<div class="screenshot">
-		<a href="/images/email-preview3.png"><img src="/images/email-preview3.png" /></a>
-	</div>
-</div>
-
-<style>
-.price-comparison {
-	max-width:500px;
-	margin: 0 auto;
-}
-.price-comparison p {
-	border-top: 1px solid #ccc;
-	padding: .75em 1em 0;
-	color: #a0a0a0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	font-size: 90%;
+	line-height: 1.7;
 }
 
-.price-comparison p:last-child {
-	border-bottom: 1px solid #ccc;
-	padding-bottom: .75em;
+blockquote .quote-by {
+	color: #3477d3;
+	font-size: 80%;
+	font-weight: 600;
 }
 
-.price-comparison .monthly-price {
-	font-size: 150%;
-	color:#e86011;
-	font-weight: 700;
-	margin-right: .25em;
+blockquote + blockquote {
+	margin: 1em 0;
 }
-
-
-
-.homepage-cta {
-	display: grid;
-	/*background-color: #f3d6ee;*/
-	grid-template-columns: 1fr 1fr;
-	grid-gap: 2rem;
-	width:100%;
-	max-width: 700px;
-	margin: 1em auto 3em;
-	background-color: #ffeeba;
-	padding: 1.25em 2em 2em;
-	border-radius: 8px;
-}
-.homepage-explainer .screenshot {
-	/*background-color: #9bf391;*/
-}
-.homepage-explainer .description {
-	/*background-color: #f3eb93;*/
-	padding: 1.5em 2em;
-}
-.homepage-cta a.button {
-	background-color: #D9D7D1; 
-	color: #635E52; 
-	box-shadow: 0 4px 0 #BAB6AB; 
-	font-size: 18px; 
-	text-transform: none; 
-	letter-spacing: 0; 
-	margin: 1.25em 0 1em;
-}
-.homepage-cta a.button:hover {
-	background-color: #ebe8e0;
-	box-shadow: 0 4px 0 #D9D7D1;
+a.btn-text {
+	text-decoration: none;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 </style>
 
-<div style="margin:2em auto 0; max-width: 600px; padding: 1em 0 1em; border-top: 1px solid #cccccc; border-bottom: 1px solid #ccc;">
+<div style="max-width: 600px; margin: 0 auto; padding: 1em 0;">
 
-  <h2 id="who-workshops-daily-email-is-designed-for">Who Workshop’s Daily Email is Designed for:</h2>
+  <p><img src="/images/workshop.png" style="width:100%; max-width:200px; margin: 0;" /></p>
 
-  <ul>
-    <li>
-      <p><strong>Busy consultancy owners.</strong> If your time is worth a lot to you and you rather skip hours of lead generation each week, you’ll find value in this email.</p>
-    </li>
-    <li>
-      <p><strong>American-based shops.</strong> Although every project we send is open to workers from anywhere in the world, I’ve found Workshop works best for American and European consultancies.</p>
-    </li>
-    <li>
-      <p><strong>Shops experienced in outreach.</strong> Anyone can make money with these emails, but freelancers/consultancies who have an established process for emailing prospects will see hyper-results.</p>
-    </li>
-    <li>
-      <p><strong>Specialists.</strong> That means freelancers and consultancies with skills in any of the following areas:</p>
-      <ul>
-        <li>UI/UX/Web design</li>
-        <li>Graphic design</li>
-        <li>PHP development (particularly WordPress/Laravel)</li>
-        <li>Javascript development (particularly Angular/React/Meteor)</li>
-        <li>Python development</li>
-        <li>Ruby on Rails development</li>
-        <li>and Mobile development (particularly React Native/iOS/Android)</li>
-      </ul>
-    </li>
-  </ul>
+  <h1 id="if-i-could-just-get-more-clients-on-the-phone-i-would-sell-more-web-design-projects">“If I could just get more clients on the phone, I would sell more web design projects.”</h1>
 
-  <p>But the best way to figure out if Workshop is right for you is to sign up and see for yourself. The price is so low anyone can afford to try it out!</p>
+  <p>I hear that all the time when I ask freelancers about dry spells. And they’re right. You land more work when you’re in front of the right clients more often.</p>
+
+  <p>But it’s a time suck to separate the right opportunities from the wrong ones all by yourself. There’s thousands of opportunities online waiting to be discovered.</p>
+
+  <p>Still, it takes sifting through old emails, job posts, tweets, forums, and more. It takes so long that nearly everyone avoids it.</p>
+
+  <p>The fact is, job boards aren’t designed for freelancers — and if you’re loaded with billable work, you don’t have time to sort through them every day — so you never hear about 90% of the opportunities out there.</p>
+
+  <p>Worse, once you’re finished with a project, and have all this time again, you’re left scrambling to find work. That leads to wasted time – or accepting work from bad clients (just so you can pay the bills).</p>
+
+  <blockquote>
+    <p>“On the first day I used it, I contacted 3 prospective clients and got three emails back. One of those turned into a solid gig. It’s totally worth it so far.</p>
+
+    <p>A big reason why is that I know they’ll be 100% freelance-friendly leads and I don’t have to do any thinking about whether it makes sense for me to apply or not. Thanks for creating Workshop!” <span class="quote-by">— Jason Swett</span></p>
+  </blockquote>
+
+  <h1 id="freelancing-doesnt-have-to-be-feast-or-famine">Freelancing doesn’t have to be feast or famine.</h1>
+
+  <p>Here’s the facts: it’s way more effective to strategically contact a few opportunities every week, instead of waiting until your schedule (or wallet) is empty to drunkenly spray out cold emails to a flurry of people.</p>
+
+  <p>But finding the right leads takes time (at least a few hours a day) and as a freelance designer/developer, an hour of your time alone is worth $100+. That means you’re looking at a loss of over $2,000+ billable time per month!</p>
+
+  <p><strong>In a perfect world, great leads would come to you. Allowing you to save time, and get right to the important part: pitching clients and landing contracts.</strong></p>
+
+  <p>How much would making that happen cost you? If you paid someone $10/hour, and they spent 2 hours a day gathering leads, you’d be looking at $600/month. That’s too much money. Finding someone cheaper on upwork is an even bigger waste because they have no clue what a good freelance prospect even looks like (plus who wants to hire someone off upwork?).</p>
+
+  <p>Instead, for the price of skipping a cup of joe in the morning, you would pay for all of the weeks best leads (and wake up to a cup of future client instead). Ask anyone who’s hired lead gen like this, and they’ll say it’s usually really expensive, like 30% of your total sales. So if you landed a $10,000 contract, they might ask for $3,000!</p>
+
+  <p>I have something better: for a small monthly fee, you’ll get the best freelance leads sent to your inbox, every day.</p>
+
+  <p><img src="/images/screenshot-workshop-email.png" style="max-width:100%; width:500px; margin: 1em 0 -1em;" /></p>
+
+  <h1 id="introducing-workshop-a-hands-free-lead-gen-service-for-freelancers-and-studios">Introducing: Workshop, a hands-free lead-gen service for freelancers and studios…</h1>
+
+  <h2 id="allowing-you-to-affordably-generate-a-consistent-cash-flow-for-your-business">Allowing you to affordably generate a consistent cash flow for your business.</h2>
+
+  <p>Instead of spending your time looking for leads (or hiring someone expensive to do it), I’ll simply do it for you and email you the good stuff a couple times a week.</p>
+
+  <p>All you have to do is send a couple short personal emails every few days to have multiple sales conversations going on at all times. This will keep your sales pipeline full of potential client, and let you focus the rest of your time exclusively on billable tasks.</p>
+
+  <blockquote>
+    <p>“Man you are really kicking ass. I feel like you’re doing all of the work and I just get to be all la-tee-da over picking who I reach out to. Keep up the good work! I’ve been super pleased with my choice to invest in Workshop. You’ve proven to be a low-risk way to get more leads to my door and as a busy owner, you’re exactly the type of person I want to work with for a long time. Please don’t stop!” <span class="quote-by">— Nick Hance</span></p>
+  </blockquote>
+
+  <h2 id="i-sort-through-thousands-of-job-posts-and-email-you-the-best-freelance-leads">I sort through thousands of job posts and email you the best freelance leads.</h2>
+
+  <p>There’s so many crappy job posts out there, and so many new job boards popping up that it’s crazy to expect a busy freelancer to keep up!</p>
+
+  <p>Here’s some of the job boards I will automatically comb through everyday and cherry-pick the best to send you (I’m constantly adding new sources all the time!):</p>
+
+  <p><img src="/images/leads-sources.png" class="w-full" /></p>
+
+  <blockquote>
+    <p>“In the first week of my subscription to Workshop it landed me a $30k project for my agency. What can I say besides, WOW.” <span class="quote-by">— Scott</span></p>
+  </blockquote>
+
+  <h2 id="wait-cant-i-just-find-these-leads-myself-for-free">“Wait, can’t I just find these leads myself, for free?”</h2>
+
+  <p>Yes, you can. But you haven’t, and you never will. Committing to finding a set of leads day-in and day-out is tough, that’s why you haven’t done it consistently — and the truth is most freelancers would rather update their dribbble, github, and twitter profiles and wait for work to fall into their lap.</p>
+
+  <h2 id="will-this-replace-my-sales-funnel">“Will this replace my sales funnel?”</h2>
+
+  <p>No. This is just a way to start conversations and to meet new people with active gigs. You can’t stop all other regular sales activity and expect to be fine. Think of this as a leisurely way to supplement your sales funnel and you’ll be fine.</p>
+
+  <h2 id="are-you-any-good-at-finding-leads">“Are you any good at finding leads?”</h2>
+
+  <p>Workshop members say yes. But they also have an unfair advantage over you. Job boards and prospecting no longer suck up all their billable time, so they’re better at contacting leads because they no longer teeter-totter between work overload and an empty checking account.</p>
+
+  <p>Some have landed huge projects, or even full-time remote dream jobs from Workshop’s emails. All have saved the most precious thing of all; time.</p>
+
+  <blockquote>
+    <p>“Landed a couple clients through Workshop in the last week or so. Thanks again for the service. Getting the emails and applying to them also helped me gain more confidence to get in touch with other leads.” <span class="quote-by">— Jamie Syke</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“I wrote to two contacts from the first Workshop email I got. I already made an appointment for a Skype call with one of the two. It’s 50% conversion for now, not bad at all ;) Looking forward for the new email today.” <span class="quote-by">— Manuele Capacci</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“I’m already impressed. I just sent inquiries to two Workshop leads on my first day! If it’s this easy, it’ll be well worth the monthly price, and certainly a great way to keep my sales funnel filled.” <span class="quote-by">— Kurt Elster, Ethercycle</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“I’ve been relying on word-of-mouth for work and this has been a nice easy way to start up that process without wasting time filtering through all the junk I was worried about.” <span class="quote-by">— Curtis Herbert</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“Thank you creating this Workshop for freelance design opportunities. I already found a gig I am interested in applying for.” <span class="quote-by">— Stephanie Jadotte</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“I’ve really enjoyed the service and think that what you offer is great value for money.” <span class="quote-by">— Anton Sten</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“Loving Workshop, and loving not having to scour job boards for hours at a time.” <span class="quote-by">— Tomas Weight</span></p>
+  </blockquote>
+
+  <blockquote>
+    <p>“I feels absolutely amazing not having to check job boards. Wading through all the crappy jobs to find the good ones was tough enough. I’m no longer stressed about what comes next. The leads in workshop are amazing and I look forward to your email everyday. Thanks for a wonderful project.” <span class="quote-by">— Patrick O’dwyer</span></p>
+  </blockquote>
+
+  <h2 id="im-outside-of-the-us-is-that-a-problem">“I’m outside of the US, is that a problem?”</h2>
+
+  <p>Not at all. Workshop has top freelancers from all over the world, including places like Europe, Asia, and basically every other continent in the world who are loving the service.</p>
+
+  <p>All leads are 100% remote and open to remote freelancers anywhere in the world, so I’d suggest you sign up and see if it’ll work for you.</p>
+
+  <h2 id="who-are-you">“Who are you?”</h2>
+
+  <p>I’m Rob. A designer and freelancer who knows exactly what prospects will be an asset to your freelance business. I’ve worked with startups, ad agencies, as well as small and large businesses.</p>
+
+  <p>I made this service for freelancers because I wished something like it was available for me, and I’m excited to share it with you. I’ve written all over the web about design and freelancing — and would like to help lower your blood pressure by providing you a great service. See you inside!</p>
+
+  <h2 id="what-type-how-many-and-how-often-etc-will-the-leads-be-sent">“What type, how many, and how often (etc.) will the leads be sent?”</h2>
+
+  <p>Workshop is about less. Allowing you to do less and get better results. So it’s just as much about the leads I don’t send as it is about the ones I do.</p>
+
+  <p>The thousands of leads I eliminate from your life completely make the handful I do send more important. The fact is you don’t need all that many leads to make a lot of money; you just need the right leads.</p>
+
+  <h2 id="workshop-emails-are-hand-crafted-everyday-and-sent-to-top-freelancers-all-over-the-world">Workshop emails are hand-crafted everyday and sent to top freelancers all over the world.</h2>
+
+  <p>There’s no algorithm. No scraping tools. Just me looking at every single lead to make sure it meets the following criteria:</p>
+
+  <p>They MUST be freelance leads, not full-time work. They MUST be remote, and open to freelancer’s anywhere. They MUST be quality projects (nothing below $1,000). And preferably, there must be an email attached to the lead.</p>
+
+  <h1 id="i-only-let-in-a-maximum-of-10-new-accounts-per-month">I only let in a maximum of 10 new accounts per month.</h1>
+
+  <h2 id="so-to-make-sure-you-get-in-signup-before-we-sell-out">So to make sure you get in, signup before we sell out.</h2>
 
 </div>
 
-<div style="margin:0 auto; max-width: 600px; padding: .25em 0 1em;">
-
-  <h2 id="for-example-if-you-hired-a-img-srcimagesva-emojipng-height30-width30-alignabsmiddle-stylevertical-align--6px-virtual-assistant-to-do-this-for-you-it-would-cost">For example, if you hired a <img src="/images/va-emoji.png" height="30" width="30" align="absmiddle" style="vertical-align: -6px;" /> Virtual Assistant to do this for you, it would cost…</h2>
-
-  <div class="price-comparison">
-	<p style="padding-left: 2.5em;"><span class="monthly-price"><span style="vertical-align:5px; font-size: 70%; margin-right: .125em;"> $</span>700</span> ... each month for even the cheapest VA's salary</p>
-	<p><span class="monthly-price"><span style="font-weight: 300; color: #444; margin-right: .75em;">+</span> <span style="vertical-align:5px; font-size: 70%; margin-right: .125em;">$</span>99</span> ... each month for software to manage them</p>
-	<p><span class="monthly-price"><span style="font-weight: 300; color: #444;  margin-right: .25em;">+</span> <span style="vertical-align:5px; font-size: 70%; margin-right: .125em;">$</span>200</span> ... each month in billable time lost handling the project</p>
-</div>
-
-  <h2 id="instead-workshop-members-pay-only">… Instead Workshop members pay only:</h2>
-
-  <div class="pricing-table" style="border: 3px solid #ebe8e0; margin: 1em 0 2em; width:100%; text-align:center; display: grid; grid-template-columns: 1fr 1fr; background-color: #ebe8e0; grid-gap: 3px; box-shadow: 0 0 10px #eee;">
-	<div style="background-color: white; padding: .75em 1em; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
-	<h2 style="color:#61a962; font-weight: 700; margin: 0; font-size: 200%;"><span style="vertical-align:10px; font-size: 70%; margin-right: .125em;">$</span>79 a month</h2>
-	<hr />
-	<p style="color: #A2A2A2; margin: 0; font-size: 15px;">$474 Paid Twice a Year</p>
-	</div>
-	<div style="background-color: white;  padding: .75em 1em; text-align:left; border-top-right-radius: 10px; border-bottom-right-radius: 10px;">
-		<p style="color: #A2A2A2; margin: 0; font-size: 15px; border-bottom: 1px solid #ccc; padding: 0 0 .5em;"><strong>That's means you pay just...</strong></p>
-		<ul style="color: #A2A2A2; margin: 1em 0 0; font-size: 15px; line-height: 1;">
-			<li>$3.16 per lead</li>
-			<li>$2.59 per day</li>
-			<li>$1.01 per hour saved</li>
-		</ul>
-	</div>
-</div>
-</div>
-
-<div class="homepage-cta">
-	<div>
-		<h3 style="margin: 0;">Ready to apply?</h3>
-		<p style="margin-bottom: 0;">We only accept members we know we can help. Fill out the application to find out if that's you.</p>
-	</div>
+<div class="flex flex-wrap">
+	<div class="md:w-1/2 shadow px-6 py-4 rounded border">
+    <div class="font-bold text-xl mb-2">Annual subscription <span class="text-sm bg-yellow-lighter text-yellow-darkest font-bold py-1 px-3 rounded-full">Best value</span></div>
+    <p class="text-grey-darker text-base">
+     Pay 12 months upfront at $799 and get 1,200+ leads. That's $.65 per lead!
+    </p>
+		<p style="margin-top: 1.5em;"><a href="https://app.letsworkshop.com/subscriptions/new?plan=32" class="btn-text bg-blue hover:bg-blue-dark text-white font-bold py-2 px-4 rounded">Subscribe yearly</a></p>
+	</div>	
 	
-	<div>
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=30" class="button">Apply for Membership • $474</a>
-		<p style="color: #A2A2A2; font-size: 15px; margin: 0;">Takes about a minute • 100% refund if denied</p>
+	<div class="md:w-1/2 shadow px-6 py-4 rounded border">
+    <div class="font-bold text-xl mb-2">Quarterly subscription <span class="text-sm bg-green-lightest text-green-darkest font-bold py-1 px-3 rounded-full">Most popular</span></div>
+    <p class="text-grey-darker text-base">
+     Pay 3 months upfront at $229 and get 300+ leads. That's $.75 per lead!
+    </p>
+		<p style="margin-top: 1.5em;"><a href="https://app.letsworkshop.com/subscriptions/new?plan=31" class="btn-text bg-grey-light hover:bg-grey-lighter text-grey-darkest font-bold py-2 px-4 rounded">Subscribe quarterly</a></p>
 	</div>
 </div>
 
-<div class="quote" style="max-width: 850px;margin: 2em auto; font-size: 125%;font-weight:300; color:#635e52; text-align:center;">
-	<p><span style="font-size:250%; color:#222; vertical-align:-20px; font-family: Georgia; line-height: 0;">&ldquo;</span> In less than a year I’ve won about $65,000 in projects from Workshop alone. All of them have become repeat clients who I expect will be buying additional services in the next few years. The best thing is it runs on email so it’s easy to process, archive, or save. <span style="font-size:250%; color:#222; vertical-align:-20px; font-family: Georgia;  line-height: 0;">&rdquo;</span></p>
-	<p class="by-line" style="font-size: 80%; font-weight: 400;"><img src="/images/eric-davis.jpg" style="width:50px; height: 50px; border-radius: 50px; margin-right: .5em; vertical-align: -15px;" /> Eric Davis, <a href="https://www.littlestreamsoftware.com">Little Stream Software</a>, Oregon</p>
+<div class="bg-red-lightest text-red-dark px-3 py-2 rounded relative mt-3  text-sm" role="alert">
+  <strong class="font-bold">Update for November:</strong>
+  <span class="block sm:inline">We've only got 2 more spots available this month.</span>
 </div>
 
+<div style="max-width: 600px; margin: 0 auto; padding: 1em 0;">
+
+  <p class="text-sm text-grey-darker text-base">
+You're protected by fair terms and crazy security (stripe). I offer a full 48-hour money back guarantee. Meaning you can sign up take the leads for a test spin and see if it's right for you. If you have a question, <a href="MAILTO:robert@letsworkshop.com">email me anytime</a>
+</p>
+
+</div>
+
+  </article>
+
+	<footer>&copy; 2017 <a href="MAILTO:robert@letsworkshop.com">Robert Williams</a> <a href="/"><img class="emoji" title=":hand:" alt=":hand:" src="https://assets.github.com/images/icons/emoji/unicode/270b.png" height="20" width="20" align="absmiddle"></a>Thanks for reading! I hope you have an awesome day.</footer>
+
+</div>
 
 
 <!-- Drip -->

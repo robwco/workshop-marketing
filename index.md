@@ -188,7 +188,7 @@ input::placeholder {
 
 <div markdown="1" style="max-width: 550px; margin: 0 auto 1em; padding: 2em 0; line-height: 1.3;">
 	
-<span style="float:right;"><a style="font-weight: 300; color: #717171;	font-family: Georgia;" href="/manifesto/">Manifesto</a></span>
+<!--<span style="float:right;"><a style="font-weight: 300; color: #717171;	font-family: Georgia;" href="/manifesto/">Manifesto</a></span>-->
 	
 <img src="./images/workshop-place.png" style="max-width:100%; margin: 0 0 -1em;">
 	
