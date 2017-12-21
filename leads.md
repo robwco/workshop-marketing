@@ -45,7 +45,11 @@ a.btn-text {
 <div markdown="1" style="max-width: 600px; margin: 0 auto; padding: 1em 0;">
 	
 
-<img src="/images/workshop.png" style="width:100%; max-width:200px; margin: 0;">
+<img src="/images/workshop-logo-new-shed.png" style="width:100%; max-width:150px; margin: 0;">
+
+<div class="p-2 bg-orange-lightest">
+	<STRONG>:christmas_tree: END OF YEAR BUNDLE:</STRONG> Until Friday, December 22nd, at 12:00pm PST get <a href="https://workshop.podia.com/database-of-high-paying-freelance-gigs-2017">a CSV with all 2017 leads worth $499</a>, absolutely free. <a href="https://app.letsworkshop.com/subscriptions/new?plan=32">Just click here</a>.
+</div>
 
 # “If I could just get more clients on the phone, I would sell more web design projects.”
 
@@ -179,9 +183,8 @@ They MUST be freelance leads, not full-time work. They MUST be remote, and open 
 	</div>
 </div>
 
-<div class="bg-red-lightest text-red-dark px-3 py-2 rounded relative mt-3  text-sm" role="alert">
-  <strong class="font-bold">Update for November:</strong>
-  <span class="block sm:inline">We've only got 2 more spots available this month.</span>
+<div class="p-2 bg-orange-lightest">
+	<STRONG>:christmas_tree: END OF YEAR BUNDLE:</STRONG> Until Friday, December 22nd, at 12:00pm PST get <a href="https://workshop.podia.com/database-of-high-paying-freelance-gigs-2017">a CSV with all 2017 leads worth $499</a>, absolutely free. <a href="https://app.letsworkshop.com/subscriptions/new?plan=32">Just click here</a>.
 </div>
 
 

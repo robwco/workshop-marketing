@@ -13,9 +13,9 @@ permalink: /confirmation/
 
 First off, welcome! I just sent you an email. 
 
-**Make sure to whitelist my email address to keep gmail from throwing my emails out.**
+**Make sure to whitelist my email address to keep gmail from throwing my emails out. This is how you will get referrals from me and other members.**
 
-Each Friday I send a small group of freelancers some projects from that week. These projects come directly to me and are sometimes available nowhere else so they're a great batch of gigs.
+On Fridays, I send projects out. These projects come directly to me and are sometimes available nowhere else so they're high value. I monitor them to make sure they're high-quality with realistic budgets and timeframes. 
 
 To get this weekly email, there's 3 ways you can sign up:
 
@@ -25,11 +25,9 @@ To get this weekly email, there's 3 ways you can sign up:
 
 3. **Sign up for my lead-gen service**<br> Customers of my premium lead-gen service get the referral email as part of their subscription. [Go here for more details.](/leads)
 
-That's it. Those are the only ways to join the referral newsletter.
+That's it. Those are the only ways to join the referral newsletter. This small hurdle keeps the entire thing awesome and personal.
 
-It keeps the entire thing really personal and awesome.
-
-If you don't have a project or client to refer right now, no worries! Now that you're a part of the Workshop community, you can join anytime. 
+If you don't have a project or client to refer right now, no worries! Now that you're a part of the Workshop mailing list, you can join anytime in the future. 
 
 I'll also be sending you some other awesome stuff shortly.
 
