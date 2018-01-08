@@ -44,14 +44,9 @@ a.btn-text {
 
 <div markdown="1" style="max-width: 600px; margin: 0 auto; padding: 1em 0;">
 	
-
 <img src="/images/workshop-logo-new-shed.png" style="width:100%; max-width:150px; margin: 0;">
 
-<div class="p-2 bg-orange-lightest">
-	<STRONG>:christmas_tree: END OF YEAR BUNDLE:</STRONG> Until Friday, December 22nd, at 12:00pm PST get <a href="https://workshop.podia.com/database-of-high-paying-freelance-gigs-2017">a CSV with all 2017 leads worth $499</a>, absolutely free. <a href="https://app.letsworkshop.com/subscriptions/new?plan=32">Just click here</a>.
-</div>
-
-# “If I could just get more clients on the phone, I would sell more web design projects.”
+<h1 class="mt-0">“If I could just get more clients on the phone, I would sell more web design projects.”</h1>
 
 I hear that all the time when I ask freelancers about dry spells. And they’re right. You land more work when you’re in front of the right clients more often.
 
@@ -165,7 +160,7 @@ They MUST be freelance leads, not full-time work. They MUST be remote, and open 
 
 </div>
 
-<div class="flex flex-wrap">
+<div class="flex flex-wrap max-w-lg mx-auto">
 	<div class="md:w-1/2 shadow px-6 py-4 rounded border">
     <div class="font-bold text-xl mb-2">Annual subscription <span class="text-sm bg-yellow-lighter text-yellow-darkest font-bold py-1 px-3 rounded-full">Best value</span></div>
     <p class="text-grey-darker text-base">
@@ -182,11 +177,6 @@ They MUST be freelance leads, not full-time work. They MUST be remote, and open 
 		<p style="margin-top: 1.5em;"><a href="https://app.letsworkshop.com/subscriptions/new?plan=31" class="btn-text bg-grey-light hover:bg-grey-lighter text-grey-darkest font-bold py-2 px-4 rounded">Subscribe quarterly</a></p>
 	</div>
 </div>
-
-<div class="p-2 bg-orange-lightest">
-	<STRONG>:christmas_tree: END OF YEAR BUNDLE:</STRONG> Until Friday, December 22nd, at 12:00pm PST get <a href="https://workshop.podia.com/database-of-high-paying-freelance-gigs-2017">a CSV with all 2017 leads worth $499</a>, absolutely free. <a href="https://app.letsworkshop.com/subscriptions/new?plan=32">Just click here</a>.
-</div>
-
 
 <div markdown="1" style="max-width: 600px; margin: 0 auto; padding: 1em 0;">
 

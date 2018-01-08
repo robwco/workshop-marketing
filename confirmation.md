@@ -4,20 +4,26 @@ title: You're in! Let's get started...
 permalink: /confirmation/
 ---
 
+<style>
+p {margin-top:.5em;}
+</style>
 
-<div markdown="1" class="confirmation-center" style="max-width:500px; margin: 0 auto;">
+
+<div markdown="1" class="mx-auto max-w-md">
+
+<img src="/images/workshop-logo-new-shed.png" class="mt-4 mb-0 mx-auto block" style="width:100%; max-width:150px;">
 	
-<img src="/images/workshop-place.png" style="max-width: 100%; margin: 1em 0 0; display: block;	">
+<h1 class="text-grey-darkest leading-normal text-2xl text-center py-1">Welcome inside Workshop! One more step...</h1>
+
+<img src="/images/grey-squiggle.png" class="w-full">
+
+<div markdown="1" class="leading-normal text-lg text-grey-darker font-sans-serif py-4 max-w-sm mx-auto">
 	
-<h1 style="margin:.5em 0 .5em; text-align: center; border-bottom: 2px dotted #ddd; padding: 0 0 .5em;">Welcome inside Workshop! One more step...</h1>
+First off, welcome! 
 
-First off, welcome! I just sent you an email. 
+I just sent you an email. Make sure to whitelist my email address to keep gmail from throwing my emails out. This is how you will get referrals from me and other members...
 
-**Make sure to whitelist my email address to keep gmail from throwing my emails out. This is how you will get referrals from me and other members.**
-
-On Fridays, I send projects out. These projects come directly to me and are sometimes available nowhere else so they're high value. I monitor them to make sure they're high-quality with realistic budgets and timeframes. 
-
-To get this weekly email, there's 3 ways you can sign up:
+<span class="text-black font-bold">Next, to finish your registration and get access to referrals from our community, you must complete one of the following three steps.</span>
 
 1. **Refer a client**<br>If you know of a great client who's currently looking to hire, [send them this referral form](https://airtable.com/shrtjRuOvexpQgBrv). Then after they've submitted a project, email me and I'll add you to the list.
 	
@@ -25,7 +31,9 @@ To get this weekly email, there's 3 ways you can sign up:
 
 3. **Sign up for my lead-gen service**<br> Customers of my premium lead-gen service get the referral email as part of their subscription. [Go here for more details.](/leads)
 
-That's it. Those are the only ways to join the referral newsletter. This small hurdle keeps the entire thing awesome and personal.
+On Fridays, I send projects out. These projects come directly to me and are sometimes available nowhere else so they're high value. I monitor them to make sure they're high-quality with realistic budgets and timeframes. 
+
+That's it. That's how you can join the referral newsletter. This small hurdle keeps the entire thing awesome and personal.
 
 If you don't have a project or client to refer right now, no worries! Now that you're a part of the Workshop mailing list, you can join anytime in the future. 
 
@@ -33,6 +41,7 @@ I'll also be sending you some other awesome stuff shortly.
 
 <p>– Rob</p>
 
+</div>
 
 <!--
 <table>
