@@ -510,6 +510,14 @@ button,
  *
  * See: https://github.com/tailwindcss/tailwindcss/issues/53#issuecomment-341413622
  */
+
+.space-p h1,
+.space-p h2,
+.space-p h3 {
+  line-height: 1.25;
+  color: #3d4852;
+}
+
 .container {
   width: 100%;
 }
@@ -4428,6 +4436,8 @@ button,
  *
  * @import "utilities/background-patterns";
  * @import "utilities/skew-transforms";
+ *
+ * 
  */
 
 @media (min-width: 576px) {
@@ -19913,3 +19923,5 @@ button,
     z-index: auto;
   }
 }
+
+

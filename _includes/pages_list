@@ -1,0 +1,21 @@
+{% for node in pages_list %}
+  {% if navigation_group == null or navigation_group == node.navigation_group %}
+    {% if page.url == node.url %}
+      <li class="active flex-1 leading-tight">
+				<a href="{{node.url}}" class="leading-tight active block py-4 px-6 bg-blue hover:bg-blue-dark text-white no-underline">
+					<p>{{node.title}}</p>
+					<!--<p class="text-sm">{{ node.nav_description }}</p>-->
+				</a>
+			</li>
+    {% else %}
+      <li class="flex-1">
+				<a class="leading-tight block text-blue hover:bg-grey-light py-4 px-6 no-underline" href="{{node.url}}">
+					<p>{{node.title}}</p>
+					<!--<p class="text-sm text-grey-dark">{{ node.nav_description }}</p>-->
+				</a>
+			</li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign navigation_group = nil %}

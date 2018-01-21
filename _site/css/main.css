@@ -1,3 +1,9 @@
+.space-p p {
+  margin: 0 0 .5em; }
+
+.space-p p a {
+  color: #222; }
+
 .bonus {
   border-bottom: 1px solid #eee;
   padding: 0 0 3em;

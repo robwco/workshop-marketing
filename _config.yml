@@ -15,10 +15,7 @@ collections:
   bonus:
     output: true
     permalink: /bonus/:name/
-  product:
-    output: true
-    permalink: /product/:name/
-  beliefs:
+  guides:
     output: true
 
 defaults:
