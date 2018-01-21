@@ -17,6 +17,26 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
+	<!--  Essential META Tags -->
+	<title>{{ site.title }}</title>
+	<meta name="description" content="{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<meta property="og:title" content="{% if page.meta_title %}{{ page.meta_title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}" />
+	<meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+	<meta property="og:image" content="http://bootstrappertutorials.com/images/alt-hero.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:url" content="http://letsworkshop.com" />
+	<meta property="og:site_name" content="{% if page.meta_title %}{{ page.meta_title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}" />
+	<!--  Twitter -->
+	<meta name="twitter:site" content="@letsworkshop" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@letsworkshop" />
+	<meta name="twitter:creator" content="@letsworkshop" />
+	<meta name="twitter:title" content="{{ site.title }}" />
+	<meta name="twitter:description" content="{{ site.description }}" />
+	<meta name="twitter:image" content="http://bootstrappertutorials.com/images/alt-hero.png" />
+	<meta name="twitter:image:alt" content="Hand-picked bootstrapping tutorials" />
+
 	<!-- Google Analytics -->
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
