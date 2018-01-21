@@ -2,8 +2,8 @@
 title: Workshop - quality leads for picky frontend designers
 description: "The best frontend design projects on the web. Every morning Robert finds the top 6 job posts for project-seeking website designers."
 layout: default
-meta_title: "Workshop - Get frontend design project referrals"
-meta_description: "So basically it's a newsletter I started because I wished I could pay someone to send me all the frontend design projects on job boards. ¯\_(ツ)_/¯"
+meta_title: "Workshop - Forum and lead service for frontend design projects"
+meta_description: "So basically it's a newsletter I started because I wished I could pay someone to send me all the frontend design projects on job boards."
 ---
 
 <style>
