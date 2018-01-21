@@ -3,7 +3,7 @@ title: Workshop - quality leads for picky frontend designers
 description: "The best frontend design projects on the web. Every morning Robert finds the top 6 job posts for project-seeking website designers."
 layout: default
 meta_title: "Workshop - Get frontend design project referrals"
-meta_description: "So basically, it's a newsletter and forum that I built one day when I was having trouble finding projects for my frontend design business. I wished there was a service that would send me the emails of all those clients looking for UX design on job boards. So I built it myself. ¯\_(ツ)_/¯"
+meta_description: "So basically, it's a newsletter I built when I was having trouble finding frontend design projects. I wished I could pay someone to send me the emails of all those clients looking for UX design on job boards. So I built it myself. ¯\_(ツ)_/¯"
 ---
 
 <style>
