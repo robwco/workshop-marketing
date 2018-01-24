@@ -8,7 +8,7 @@ nav_description: Learn where to find high-paying frontend gigs
 ---
 
 <div class="max-w-md mx-auto mt-8 pt-2" markdown="1">
-	<h1 class="leading-tight mt-4 mb-2 text-3x text-grey-darkest">Where to find high-value frontend design projects everyday without a portfolio</h1>
+<h1 class="leading-tight mt-4 mb-2 text-3x text-grey-darkest">Where to find high-value frontend design projects everyday without a portfolio</h1>
 </div>
 
 
@@ -103,8 +103,6 @@ On AngelList you’ll find hundreds of projects from startups all over the world
 <a href="https://angel.co/jobs" class="rounded mt-2 py-2 px-6 bg-blue-dark text-white w-full block no-underline text-center hover:bg-blue-darker">Visit AngelList</a>
 </div>
 
-
-
 **Here's a rundown of what we're going to cover:**
 
 - The best places to find frontend clients
@@ -122,8 +120,9 @@ So first let’s walk-through exactly how I’m making my customers millions of 
 		1. Collect thousands of jobs using RSS
 		The first step is to collect RSS feeds from job sites all over the web. I recommend you use Feedbin for this because it has a couple great features you’re going to see in a second.
 	</div>
-
 </div>
+
+Wait a sec, where's the rest of this article?!?! I'm working on it. If you want to make sure I finish this send me an email and bug me :)
 </div>
 
 <div class="max-w-3xl mx-auto my-4 mb-8">
