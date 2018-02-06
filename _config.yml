@@ -21,6 +21,11 @@ collections:
 defaults:
   - scope:
       path: ''
+      values:
+        type: 'email'
+        layout: 'page'
+  - scope:
+      path: ''
     values:
       layout: 'page'
   - scope:

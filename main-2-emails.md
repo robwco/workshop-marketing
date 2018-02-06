@@ -6,6 +6,12 @@ navigation_group: "main"
 nav_description: A guide to sending emails that win you clients
 ---
 
+<div class="mb-8 max-w-md mx-auto" markdown="1">
+# Emails that win you clients
+</div>
+
+
+
 <div class="max-w-md mx-auto mt-4" markdown="1">
 <h1 class="leading-tight text-grey-darkest mt-8">Send emails that win you frontend design clients, then do it again</h1>
 </div>
@@ -14,7 +20,6 @@ nav_description: A guide to sending emails that win you clients
 <img src="/images/grey-squiggle.png" class="w-full mb-4">
 
 </div>
-
 
 <div class="space-p max-w-md mx-auto text-xl leading-normal text-grey-darker mb-4" markdown="1">
 Clients decide whether they want to work with you in a split-second. Understanding how they make this decision is the foundation for selling your frontend design services.

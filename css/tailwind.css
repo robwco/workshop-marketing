@@ -511,11 +511,30 @@ button,
  * See: https://github.com/tailwindcss/tailwindcss/issues/53#issuecomment-341413622
  */
 
+
 .space-p h1,
 .space-p h2,
 .space-p h3 {
   line-height: 1.25;
   color: #3d4852;
+}
+
+.guide-header {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.guide-header a {
+  display: block;
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  color: #2779bd;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .container {
@@ -4423,6 +4442,7 @@ button,
   z-index: auto;
 }
 
+
 /**
  * Here you would add any custom utilities you need that don't come out of the
  * box with Tailwind.
@@ -4439,6 +4459,7 @@ button,
  *
  * 
  */
+
 
 @media (min-width: 576px) {
   .sm\:list-reset {

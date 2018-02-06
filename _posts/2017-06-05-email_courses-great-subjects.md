@@ -2,6 +2,7 @@
 layout: post
 title:  "Great subject lines"
 categories: email_courses
+permalink: "subject-lines"
 ---
 
 I collect great email subject lines when I come across them. 
