@@ -90,6 +90,23 @@ use Rack::Rewrite do
   r301 '/bonus/seinfeld', 'https://www.getdrip.com/forms/67037332/submissions/new'
   r301 '/bonus/jason', 'https://www.getdrip.com/forms/19460967/submissions/new'
   r301 '/bonus/disney', 'https://www.getdrip.com/forms/7337098/submissions/new'
+  r301 '/confirmation', '/thanks'
+  r301 '/apple-icon-57x57.png', '/images/favicon/apple-icon-57x57.png'
+  r301 '/apple-icon-60x60.png', '/images/favicon/apple-icon-60x60.png'
+  r301 '/apple-icon-72x72.png', '/images/favicon/apple-icon-72x72.png'
+  r301 '/apple-icon-76x76.png', '/images/favicon/apple-icon-76x76.png'
+  r301 '/apple-icon-114x114.png', '/images/favicon/apple-icon-114x114.png'
+  r301 '/apple-icon-120x120.png', '/images/favicon/apple-icon-120x120.png'
+  r301 '/apple-icon-144x144.png', '/images/favicon/apple-icon-144x144.png'
+  r301 '/apple-icon-152x152.png', '/images/favicon/apple-icon-152x152.png'
+  r301 '/apple-icon-180x180.png', '/images/favicon/apple-icon-180x180.png'
+  r301 '/android-icon-192x192.png', '/images/favicon/android-icon-192x192.png'
+  r301 '/favicon-32x32.png', '/images/favicon/favicon-32x32.png'
+  r301 '/favicon-96x96.png', '/images/favicon/favicon-96x96.png'
+  r301 '/favicon-16x16.png', '/images/favicon/favicon-16x16.png'
+  r301 '/manifest.json', '/images/favicon/manifest.json'
+  r301 '/ms-icon-144x144.png', '/images/favicon/ms-icon-144x144.png'
+  r301 '/leads', '/subscribe'
 end
 
 use Rack::TryStatic, 
