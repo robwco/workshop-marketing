@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /getting-clients-and-portfolios/
+permalink: /dry-spells/
 ---
 
 <style>
@@ -9,84 +9,75 @@ p { margin: .5em 0; }
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 	
-<h1 class="leading-tight font-medium text-3xl mt-8">The email folder that's 10x more effective than your portfolio </h1>
+<h1 class="leading-tight font-medium text-3xl mt-8 pt-8">My UX design firm had gone through dry spells before but this one was bad.</h1>
 
-Have you ever met someone who was killing it without a portfolio? 
+Each day the stress mounted.
 
-I have. In fact, I've met consultants doing millions of dollars in client work who have nothing more than "coming soon" on their website.
+The importance of every new meeting ballooned greater than ever before. I went in to each one thinking one thing: 
 
-They get it.
+“I need this job.”
 
-I used to spend hours and hours working on my portfolio without making a dime from my efforts.
+Yet, each client would slip out of my grasp. Some would say it was a change in plans, others balked at my rate, but most — most just stopped replying altogether. 
 
-Then, in 2012, I got fired.
+I knew it was something I was doing wrong.
 
-(This came only 2 months after receiving a raise for my ‘great performance with the company’ — go figure).
+But what I didn’t know at the time was that it was a single phrase I was writing in nearly every email that was causing this hole in my pipeline:
 
-That's when I decided to become a freelancer.
+<div class="text-red font-medium">“Let me know how I can help.”</div>
 
-My professional life became about one thing: getting clients.
+I would spew it out constantly.
 
-And my portfolio became a huge time-suck.
+When I wanted to be nice.
 
-But still, I thought it was a necessary evil.
+When I wanted to sound helpful. 
 
-So, I looked around online . Honestly, most freelancer websites weren’t too different from my own. Similar work quality. Similar projects. 
+When I didn’t know what else to say.
 
-How could clients even tell me apart?
+All my emails, it seemed, ended with some variation of “let me know.”
 
-What would happen if I got rid of my portfolio?
+But what I didn't realize at the time was saying "let me know", meant never actually allowing clients to get what they wanted from me.
 
-What if a potential client wanted to see my work and asked me for a sample?
+In reality, I was dumping my work on to them, and saying *here, you deal with it.*
 
-"I could send them a pdf, I guess." 
+It reeked of incompetence and it undermined my business.
 
-So I was off. And later I realized sending a pdf was even better because it let me keep track of who wanted to see my work.
+After all, these were the very problems I was being paid to solve. So I tested the complete opposite for a few weeks. 
 
-It forced me to put my focus on other things like my communication skills.
+**Instead of open-ended emails, I prescribed a solution.**
 
-These areas are what I later found to be the true deciding factor in client-success.
+At first, it felt wrong.
 
-(You can also do this. I even put together everything I learned about emailing and selling to clients in one place: http://letsworkshop.com/emails)
+I felt like I was barking orders and bossing my clients around. It was scary. But I slowly noticed a change. Clients were responding to my emails. Even prospects were chirping back.
 
-This also lead me to craft an offer specifically designed for people I wanted to help.
+My business improved just by making it my responsibility to suggest the next step.
 
-So, when I sat down to write my first emails, I avoided broad terms other freelancers used to describe their work. Instead of saying “I do great design,” I talked about “conversion rate optimization.”
+If I wanted a meeting, I’d suggest a time. If I was presenting an idea, I'd also present how it should be implemented quickly.
 
-Having laser focus allowed me to ask myself if what I was doing was winning me clients. It was yes or no.
+This set the tone that my time was valuable. It proved I was a professional capable of making the right decisions instead of just claiming I could.
 
-This meant my energy and time was spent on the most important thing to my business: making money. 
+It showed my hands wouldn’t have to be held throughout a project. It meant I was taking work away from my clients.
 
-... It also allowed me to see what areas were a total waste of time. Things that weren’t directly helping me generate revenue were killed… this included; twitter, facebook, blogging, dribbble, reading emails etc.
+In the coming week you're going to notice yourself ending a lot of emails with let me know. Sorry about that. This folly cannot be unseen.
 
-I put together a script using the tailored offer that I crafted and sent it out to dozens of companies throughout the six months.
+You're also going to notice something else. 
 
-I used one job board for most of the work I got called Folyo (Update: I own Folyo now), but less-prolific job boards like craigslist, freelance switch, and others helped supplment my journey to finding clients. 
+You will have a super power.
 
-The main idea was to use the same script and find as many people I could send it to. It felt so much better than sitting on my laurels and just posting stuff on twitter or dribbble.
+By taking responsibility and providing a next step in all of your emails you will have control of your future. You will no longer leave things up to chance.
 
-I stopped letting the success of my business depend on outside forces like others contacting me.
+You’ll know you’re on the right track if the most someone has to do to reply is send you “sounds good.” Do that and your emails will win you more clients in less time.
 
-Because of this, I was able to track where my efforts were getting the biggest return. I created an excel file, for tracking leads. Every time I sent a new lead an email, I would update the file for that particular lead source. 
+Now that you know this, don't you wish you had more prospects to email? 
 
-If I heard back, I would again update the file. Soon I was able to see which of these job boards were responding with the highest frequency (Folyo), and put all my effort there.
+How much time would you save having a dozen great UX projects delivered to you daily?  
 
-I also prepared for the future. Whenever a lead would email me back even if just letting me know they were going with another designer, I would put them in a new folder — a pool of past leads to follow up with in the future.
-
-The pool of people I contacted quickly became my most valued source for new work.
-
-To be a successful freelancer I needed to focus on one thing, getting more clients, not everything.
-
-Constantly updating my portfolio website, tweeting, and posting dribbble shots, might have felt like I was working on my freelance business, but in the end it was just a distraction.
-
-I now know approximately how many leads I have to email in order to get a new client. Do you know that number? How confident would you be if you did?
-
-Better yet, how much time would you save having that number delivered to you daily? That's exactly what you get with my lead service.
+That's exactly what you get with my lead service.
 
 <div class="mb-4">
-	<a href="/subscribe/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Read more about my curated lead service <span class="ml-2">&rarr;</span></a>
+	<a href="/leads/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Read more about my curated lead service here <span class="ml-2">&rarr;</span></a>
 </div>
 
 <p class="mb-8 text-xl text-grey-darker">:hand: Thanks for reading! I hope you have an awesome day.</p>
+
 
 </div>

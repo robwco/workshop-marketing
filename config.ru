@@ -106,7 +106,6 @@ use Rack::Rewrite do
   r301 '/favicon-16x16.png', '/images/favicon/favicon-16x16.png'
   r301 '/manifest.json', '/images/favicon/manifest.json'
   r301 '/ms-icon-144x144.png', '/images/favicon/ms-icon-144x144.png'
-  r301 '/leads', '/subscribe'
 end
 
 use Rack::TryStatic, 

@@ -13,26 +13,26 @@ p { margin: .5em 0; }
 
 In the last lesson we introduced you to Feedbin. I'm a bit of a Feedbin fanboy at this point and I'm about to share why.
 
-Feedbin has some amazing features that can save take care of a lot of the work in finding high-value clients.
+Feedbin has some amazing features that can take care of a lot of the work in finding high-value clients.
 
 **Like the starred article feed:**
 
 
 <img src="/images/page-elements/feedbin-starred-article-feed.png" class="shadow-lg w-full rounded-lg mb-4">
 
-Each Feedbin account comes with it's own starred article feed (you can find it under settings). 
+The starred article feed (you can find it under settings) let's you setup lead-sifting that talks to other apps. 
 
-You can use this feed to talk to other apps. 
+For example, you can star any jobs you're interested in and have this feed go create a to-do in Basecamp.
 
-For example, you can star any jobs you're interested in and this feed will go create a new to-do in Basecamp telling you to email them.
+That's handy so you don't forget to followup. 
 
-This is particularly helpful if you're working with a team because you can have a collaborative process where you assign people tasks like finding email addresses, adding prospects to outreach sequences and more.
+It's also helpful if you're working with a team because you can assign tasks to this like finding email addresses, adding prospects to outreach sequences, and more.
 
 But wait, does that mean you have to add projects to this starred feed by hand?
 
 Nope. The magic sauce gets even better. 
 
-[Image of actions]
+<img src="/images/page-elements/feedbin-actions.png" class="shadow-lg w-full rounded-lg mb-4">
 
 You can create actions in Feedbin (under settings > actions) that star projects automatically. 
 
@@ -41,38 +41,38 @@ The control here is limitless:
 - You can star any post that contains a keyword. 
 - You can star a post from a specific website.
 - You can even add rules for groups of websites.
-- You can mix and match any of these together.
+- You can mix and match filters together.
 
-This lets you bake in human discernment to what projects get starred. For example, you can tell Feedbin to  act differently if a job is from Dribbble than if a job is from WeWorkRemotely.
+This lets you bake in human discernment to what projects get starred. For example, you can tell Feedbin to  star jobs from Dribbble when they use the word "anywhere".
 
-[Dribbble anywhere image]
+<img src="/images/page-elements/feedbin-dribbble-star-it.png" class="shadow-lg w-full rounded-lg mt-4 mb-4">
 
-Since Dribbble uses the word "anywhere" to specific a remote project. You can add a rule that stars any post that uses the word "anywhere" - only if it comes from Dribbble.
+Because Dribbble uses the word "anywhere" to specify a remote project and others don't, this lets you account for that with dribbble-specific rules.
 
-That's amazing. It let's you bake in human intelligence to your RSS reader. Hopefully that illustrates how awesome this rules in Feedbin can be. You can create custom rules tailored to keywords, job sources, and more.
-
-That way you know every job that gets put into your star feed is perfect for you - and you don't have to lift a finger. 
+That's amazing. It lets you outsource lead-by-lead decision-making without losing quality or sorting through thousands yourself. This way you'll know every job that gets put into your star feed is perfect for you - and you don't have to lift a finger. 
 
 As a busy frontend design firm owner who charges a lot of money for your time, this means thousands of dollars.
 
+Hopefully this illustrates how awesome rules in Feedbin can be. 
+
 **Here are some of the rules I have setup:**
 
-[Image of my actions]
+<img src="/images/page-elements/feedbin-rules.png" class="shadow-lg w-full rounded-lg mt-4 mb-4">
 
-Try to create a few rules yourself that will star projects you're interested in. Remember, focus on projects that need a problem solved. 
+Try to create a few rules yourself that will star projects you're interested in. Remember, focus on finding projects that need a problem solved. 
 
-Sidenote: You can even use [FetchRSS](http://fetchrss.com) to add feeds of sites you never considered. I use it for sites like Google, Facebook, and Twitter. That way as many opportunities as is possible come through this one central source of truth. 
+Sidenote: You can even use [FetchRSS](http://fetchrss.com) to add feeds of sites you never considered. I use it for sites like Google, Facebook, and Twitter. That way as many opportunities as is possible come through this one place.
 
 Soon you’ll have a constant flow of prospects coming through your starred feed every day. 
 
-You can use this custom feed (in combination with a tool like Zapier) to send you an email, add a Basecamp to-do, or talk to pretty much any other app.
+As I briefly mentioned above, you can even use this custom feed (in combination with a tool like Zapier) to send you an email, add a Basecamp to-do, or talk to pretty much any other app.
 
-Remember - it's not only a numbers game - it's a consistency game. The last thing you want to do is burnout, so building a system that works while you sleep is going to keep paying dividends.
+This system makes sure you don't burnout. It works while you sleep and continues to pay dividends long after you've set it up.
 
-The next thing we're going to talk about will help you keep track of all other opportunities.
+Next, Let's walk through a few examples of how to keep track of all these (and more) opportunities.
 
 <div class="mb-4">
-	<a href="/hacks-for-cutting-down-lead-finding-time/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Part 6: Hacking other project sources with reminders <span class="ml-2">&rarr;</span></a>
+	<a href="/hacking-you-lead-gen-with-reminders/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Part 6: Hacking your lead-gen with reminders <span class="ml-2">&rarr;</span></a>
 </div>
 
 <p class="mb-8 text-xl text-grey-darker">PS. Want to come back to this later? :zap: <a href="/">I'll email you this series.</a></p>

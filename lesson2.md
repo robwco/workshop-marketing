@@ -11,7 +11,7 @@ p { margin: .5em 0; }
 	
 <h1 class="leading-tight font-medium text-3xl mt-8 pt-8">My 5 favorite places to find UX design clients that are ready to buy</h1>
 
-We just talked about how to take control of everyday conversations your UX design firm is having. Doing this takes a change in strategy. 
+We just talked about how to take control of getting new clients by doing outbound. Doing this takes a change in strategy. 
 
 But doing what comes next takes a change in mindset. 
 
@@ -19,11 +19,11 @@ But doing what comes next takes a change in mindset.
 
 **New mindset:** Abundance
 
-You may not have even realized you were living in scarcity mindset. But let me ask you this: have you ever told yourself dry spells *were just a part of business?*
+You may not have realized this but you're probably living in scarcity mindset. For example: have you ever told yourself dry spells *are just a part of business?*
 
 Where the heck did that come from?
 
-Unfortunately it probably came from other professionals. The fact is most consulting advice is stuck in scarcity mindset.
+Unfortunately the answer is most likely other professionals. The fact is most consulting advice is stuck in scarcity mindset.
 
 Every forum you go to (including my favorites like designer news and hacker news) you'll be told that dry spells are just a part of business. 
 
@@ -49,7 +49,7 @@ Best of all, it’s not really that hard.
 
 I do it, and I’m just one guy. In fact, you can get 80% of the results yourself by just visiting a handful of websites every day.
 
-**Here’s the 5 I recommend you start with:**
+**Here are the 5 I recommend you start with:**
 
 1. [AngelList](https://angel.co/jobs)
 2. [Hacker News](https://hn.algolia.com/?query=seeking%20freelancer&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) 
@@ -59,19 +59,19 @@ I do it, and I’m just one guy. In fact, you can get 80% of the results yoursel
 
 That's it.
 
-There are plenty of others but you can find enough great clients to fill the gaps in your schedule each year by using just these sites for free. 
+There are plenty of others but you can find enough great clients to fill the gaps in your schedule by using just these sites for free. 
 
-I know. I do it every month. It’s worth it. It will bring you peace of mind knowing that you are always just a few conversations away from a new client.
+I know. I do it every day. It’s worth it. It will bring you peace of mind knowing that you are always just a few conversations away from a new client.
 
-Don’t believe the critics that say you have to live with feast or famine in your business. The truth is you can build a solid business if you build on a foundation of results.
+Don’t believe the critics that say you have to live with feast or famine in your business. The truth is you can build a solid business filled with abundance if you build on a foundation of results.
 
-If you’re curious about how to use these sites efficiently, don't worry. That's what we'll dive into next. 
+If you’re curious how you can hit the ground running and use these websites efficiently, don't worry. 
 
-Let's start with the top place for finding clients: AngelList.
+That's what we'll dive into next. Let's start with the top place for finding clients: AngelList.
 
 <div class="mb-4">
 	<a href="/best-website-for-clients/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Part 3: The minimalist firm's approach to outbound <span class="ml-2">&rarr;</span></a>
 </div>
 
-<p class="mb-8 text-xl text-grey-darker">PS. Want to save this list of websites? :zap: <a href="/letters">I'll send you a digital copy</a> so you don't lose it the next time you need a UX design client.</p>
+<p class="mb-8 text-xl text-grey-darker">PS. Want to share this series with someone? :zap: <a href="/letters">Send them here</a>.</p>
 </div>
