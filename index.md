@@ -6,107 +6,74 @@ meta_title: "Workshop - Forum and lead service for frontend design projects"
 meta_description: "So basically it's a newsletter I started because I wished I could pay someone to send me all the frontend design projects on job boards."
 ---
 
-<style>
-.timer-font {
-	display: inline;
-	margin: 0;
-	padding: 0;
-}
-</style>
+<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4">
+	<h2 class="text-grey-dark mt-8 pt-8 text-xl mb-2">Free 7-Part Series...</h2>
+	<h1 class="leading-tight font-medium text-3xl ">&ldquo;How the fuck do you find UX clients?&rdquo;</h1>
 
-<script>
-function getNextDayOfWeek(date, dayOfWeek, hour) {
-  var resultDate = new Date(date.getTime());
-  resultDate.setDate(date.getDate() + (7 + dayOfWeek - date.getDay()) % 7);
-  resultDate.setHours(hour,0,0,0);
- 	return resultDate;
-}
+	<p class="mt-2">That's a question I saw on a forum recently. Clearly this person was at their wits-end, but you've probably asked something similar yourself (although much more sophisticatedly).</p> 
 
-	var countDownDate = getNextDayOfWeek(new Date(),5,17);
+	<p class="mt-3">The answer isn't magic. Finding new clients can be a repeatable process that takes hours, not months - and dry spells aren't just a part of client work you have to live with forever.</p>
 
-	// Update the count down every 1 second
-  var x = setInterval(function() {
+	<p class="mt-3">But it does take knowing what to do. Now, you might be saying, &ldquo;oh boy here comes the sales pitch.&rdquo; Right? Wrong.</p> 
 
-  // Get todays date and time
-  var now = new Date().getTime();
+	<p class="mt-3 mb-8">I'd like to share my process for finding high-value UX clients with you absolutely free. Give me 30 minutes and I promise you'll know exactly what to do. Let's get started.</p>
 
-  // Find the distance between now an the count down date
-  var distance = countDownDate - now;
+	<a href="/letters/" class="font-semibold rounded-lg bg-blue text-white text-xl px-8 py-3 inline-block cursor-pointer hover:bg-blue-dark no-underline text-center inline-flex items-center mb-8">
 
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24)).toString();
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)).toString();
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)).toString();
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000).toString();
+		<svg class="fill-current w-4 h-4 mr-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2 0c-1.104 0-2 .896-2 2v15c0 1.104.896 2 2 2h20c1.104 0 2-.896 2-2v-15c0-1.104-.896-2-2-2h-20zm20 14h-20v-12h20v12zm-6.599 7c0 1.6 1.744 2.625 2.599 3h-12c.938-.333 2.599-1.317 2.599-3h6.802z"/></svg> 	
 
-  // Display the result in the element with id="timer"
-  document.getElementById("circle-days").innerHTML = days + " <div class='timer-font'>days</div>";
-  document.getElementById("circle-hours").innerHTML = hours + " <div class='timer-font'>hrs</div>";
-  document.getElementById("circle-minutes").innerHTML = minutes + " <div class='timer-font'>mins</div>";
-  document.getElementById("circle-seconds").innerHTML = seconds + " <div class='timer-font'>secs</div>";
+		<span>Read now</span>
+	</a>
+<!--
+<div class="popup max-w-sm mx-auto" style="display:none;">
+{% include drip-form.html %}
+</div>-->	
 
-  // If the count down is finished, write some text 
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("timer").innerHTML = "EXPIRED";
-  }
-}, 1000);
-</script>
-
-
-
-<div class="flex max-w-lg mx-auto">
-	<div class="w-full block text-lg">
-		<img src="/images/workshop-logo-new-shed.png" class="mt-1 mx-auto block max-w-full w-16 md:w-24">
-		
-		<h1 class="leading-tight text-grey-darkest px-4 md:px-0 text-xl md:text-4xl md:text-center">Workshop helps picky frontend design firms find clients looking to build an amazing UX.</h1>
-	</div>
-</div>
-	
-<div class="w-full max-w-lg mx-auto flex py-4">	
-	<div class="w-1/2 pr-8 self-center hidden sm:hidden md:block lg:block xl:block">
-		<img src="/images/kurt-full2.png" class="w-full">
-	</div>
-
-	<div class="w-full self-center -mt-6 md:w-1/2 lg:w-1/2 xl:w-1/2 px-4 md:px-0">
-		<p class="leading-normal text-grey-darker text-lg md:text-xl leading-normal my-4 font-serif">Sign up and get: exclusive projects + forum membership free <em>when you refer a project.</em></p>
-		
-		<div class="border-2 mt-4 mb-2 rounded-lg flex max-w-sm mx-auto bg-grey-lighter">					
-			<form action="https://www.getdrip.com/forms/287921483/submissions" method="post" data-drip-embedded-form="287921483" class="w-full">
-				<div class="w-full p-2">
-					<input type="text" id="drip-first-name" name="fields[first_name]" placeholder="Enter your name..." value="" class="appearance-none focus:appearance-none block w-full text-grey-darkest py-3 px-4 border-2 rounded text-sm md:text-md bg-white" />
-				</div>
-
-		    <div class="w-full px-2">
-		    	<input type="email" id="drip-email" name="fields[email]" value="" placeholder="Enter your email address..." class="appearance-none focus:appearance-none block w-full text-grey-darkest py-3 px-4 border-2 rounded text-sm md:text-md  bg-white" />
-		    </div>
-
-				<div class="w-full p-2">
-		    	<input type="text" id="drip-portfolio-website" name="fields[portfolio_website]" value="" placeholder="Enter your portfolio website url..." class="appearance-none focus:appearance-none block w-full text-grey-darkest py-3 px-4 border-2 rounded text-sm md:text-md bg-white" />
-		    </div>
-
-				<div class="w-full pb-3 pt-1 px-2">
-		    	<input class="rounded-full bg-blue font-bold text-white text-lg px-6 py-3 inline-block cursor-pointer w-full" type="submit" name="submit" value="Register now" data-drip-attribute="sign-up-button" />
-		  	</div>
-			</form>
-
-		</div>
-		<p class="text-sm text-grey-dark mb-2 mt-0">Note: We periodically close registration to ensure quality.</p>
-	</div>
 </div>
 
-<div class="max-w-lg mx-auto px-4 md:px-0">
-	<p class="text-md md:text-2xl text-grey-darker font-serif leading-normal mt-2 mb-8 text-center">
-	&ldquo;Since starting with Workshop, I’ve had an unbroken chain of daily lead generation activity no matter what. It’s made me so much more profitable." <span style="font-size: 80%">– Kurt Elster, Owner of <a href="http://ethercycle.com" class="text-grey-dark">Ethercycle</a> in Chicago</span>
-	</p>
+<!--
+
+<div class="mt-8 mb-2 pb-2 block" markdown="1">
+
+<h1 class="leading-tight font-medium text-3xl my-4 mt-8">Here's what you'll get...</h1>
+
+<ol class="list-reset text-2xl mb-8 pb-8"> 
+<li class="py-2 px-4 border-t"><span class="mr-2">:hand:</span> My 5 favorite places to find UX design clients</li>
+<li class="py-2 px-4 border-t"><span class="mr-2">:raised_hands:</span> A free referral newsletter with exclusive UX projects</li>
+<li class="py-2 px-4 border-t"><span class="mr-2">:zap:</span> My endless client generator (a plug and play RSS file)</li>
+<li class="py-2 px-4 border-t"><span class="mr-2">:100:</span> A community of over 10,000+ UX design firms</li>
+<li class="py-2 px-4 border-t"><span class="mr-2">:1234:</span> Step-by-step tutorials on finding high-value UX work</li> 
+<li class="py-2 px-4 border-t text-xl text-grey-dark font-medium text-center">And a whole lot more...</li>
+</ol>
+
+
+<div class="max-w-sm mx-auto">
+	<h1 class="leading-tight font-medium text-3xl mt-8">Why did I create all of this? To rid the earth of feast or famine</h1>
+
+<h2 class="text-grey-dark font-medium text-2xl mt-2">I've gone through dry spells and they left a bad taste in my mouth...</h2>
+
+<p class="my-3 leading-normal">Each day the stress mounted. Every email seemed ultra important. The magnitude of every proposal ballooned. I looked for help online but all the forums said the same thing: <em>"dry spells are just a part of client work."</em></p>
+
+<p class="my-3 leading-normal">I knew there had to be a better way – but it wasn't until I invested in my self and my pipeline consistently that I was able to end the feast or famine cycle for good. I want to show every design firm exactly how I did it.</p>
+
+<a href="#form" class="font-semibold rounded-full bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer w-full text-center no-underline my-2 mt-4">Register free</a>
 </div>
 
-		
-<div class="max-w-md text-xs md:text-lg text-center mx-auto mb-8 px-4 md:px-0">
-	<p class="border-t py-2 text-grey-dark">:clock1: Next free newsletter sends in <span id="circle-days" class="circle-time"></span>, <span id="circle-hours" class="circle-time"></span>, <span id="circle-minutes" class="circle-time"></span>, and <span id="circle-seconds" class="circle-time"></span><span id="timer"></span></p>
-	<p class="border-t py-2 text-grey-dark">:zap: Laser focused on remote, project-based work (9,000+ projects shared)</p>
-	<p class="border-t py-2 text-grey-dark">:100: Used by over 10,000+ freelancers worldwide</p>
+</div>
+
 </div>
 
 
-	
+<div class="text-2xl text-grey-darkest leading-normal max-w-lg mx-auto my-6 text-center text-grey-darker" markdown="1">
+“Since starting with Workshop, I’ve had an unbroken chain of daily lead generation activity no matter what. It’s made me so much more profitable."<br><span class="text-base text-grey-dark">Kurt Elster, Owner of Ethercycle in Chicago</span>
+</div>
+
+
+<div class="border-t-2 text-xl text-grey-darkest leading-normal max-w-md mx-auto my-8 text-center py-8 leading-loose no-underline" markdown="1">
+
+<a href="/demo" class="text-blue-dark no-underline">See what kind of leads you will generate</a>
+
+<a href="/subscribe" class="text-blue-dark no-underline">Get my done-for-you lead service</a>
+
+<a href="https://twitter.com/clientgiantrob" class="text-blue-dark no-underline">Me on twitter</a>
+-->

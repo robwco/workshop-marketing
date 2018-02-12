@@ -1,6 +1,6 @@
 ---
 permalink: /thanks/
-layout: page
+layout: default
 ---
 
 # Success! Thanks for letting me know.
