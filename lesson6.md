@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /hacking-you-lead-gen-with-reminders/
+title: "Hacking your lead-gen with reminders"
+description: "Below is going to be a list of quick-hitting pro-tips to make your entire system sing with profitability."
+meta_title: "Hacking your lead-gen with reminders"
+meta_description: "Below is going to be a list of quick-hitting pro-tips to make your entire system sing with profitability."
 ---
 
 <style>
@@ -8,8 +12,10 @@ p { margin: .5em 0; }
 </style>
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-	
-<h1 class="leading-tight font-medium text-3xl pt-8 mt-8">Hacking your lead-gen with reminders</h1>
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+Part 6 of: "Where the fuck do you find UX clients?" series...
+</h2>	
+<h1 class="leading-tight font-medium text-3xl">Hacking your lead-gen with reminders</h1>
 
 So after implementing my last lesson, you've now gotten your Feedbin account setup and are starting to see dozens of leads daily. Congrats.
 
@@ -65,6 +71,6 @@ Ready to see what that is?
 	<a href="/dry-spells/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Part 7: The Email Line That's Client Repellent <span class="ml-2">&rarr;</span></a>
 </div>
 
-<p class="mb-8 text-xl text-grey-darker">PS. Want to come back to this later? :zap: <a href="/">I'll email you this series.</a></p>
+<p class="mb-8 text-xl text-grey-darker">PS. Want to come back to this later? :zap: <a href="/letters/">I'll email you this series.</a></p>
 
 </div>

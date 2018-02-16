@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /best-website-for-clients/
+title: "The minimalist design firm's approach to outbound"
+description: "If you wanted to do the least amount of work for the most great clients, this is where you should start."
+meta_title: "The minimalist design firm's approach to outbound"
+meta_description: "If you wanted to do the least amount of work for the most great clients, this is where you should start."
 ---
 
 <style>
@@ -8,8 +12,10 @@ p { margin: .5em 0; }
 </style>
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-	
-<h1 class="leading-tight font-medium text-3xl pt-8 mt-8">The minimalist design firm's approach to outbound</h1>
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+Part 3 of: "Where the fuck do you find UX clients?" series...
+</h2>
+<h1 class="leading-tight font-medium text-3xl">The minimalist design firm's approach to outbound</h1>
 
 OK. So I just gave you <a href="/where-to-find-clients">the top 5 places</a> to go to get high-value UX/frontend design clients. 
 

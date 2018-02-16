@@ -5,75 +5,83 @@ layout: default
 meta_title: "Workshop - Forum and lead service for UX design projects"
 meta_description: "So basically it's a newsletter I started because I wished I could pay someone to send me all the design projects on job boards."
 ---
+<style>
+p { margin: .5em 0; }
+</style>
 
-<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4">
-	<h2 class="text-grey-dark mt-8 pt-8 text-xl mb-2">Free 7-Part Series...</h2>
-	<h1 class="leading-tight font-medium text-3xl ">&ldquo;How the fuck do you find UX clients?&rdquo;</h1>
+<div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+Part 1 of: "Where the fuck do you find UX clients?" series...
+</h2>
+<h1 class="leading-tight font-medium text-3xl">How I deleted my portfolio and made $30k in 6 weeks</h1>
 
-	<p class="mt-2">That's a question I saw on a forum recently. Clearly this person was at their wits-end, but you've probably asked something similar yourself (although much more sophisticatedly).</p> 
+Have you noticed some people kill it without a portfolio? 
 
-	<p class="mt-3">The answer isn't magic. Finding new clients can be a repeatable process that takes hours, not months - and dry spells aren't just a part of client work you have to live with forever.</p>
+I have. 
 
-	<p class="mt-3">But it does take knowing what to do. Now, you might be saying, &ldquo;oh boy here comes the sales pitch.&rdquo; Right? Wrong.</p> 
+In fact, I've met design firms doing millions of dollars in client work with nothing more than "coming soon" on their website.
 
-	<p class="mt-3 mb-8">I'd like to share my process for finding high-value UX clients with you absolutely free. Give me 30 minutes and I promise you'll know exactly what to do. Let's get started.</p>
+They get something that most people don't. 
 
-	<a href="/letters/" class="font-semibold rounded-lg bg-blue text-white text-xl px-8 py-3 inline-block cursor-pointer hover:bg-blue-dark no-underline text-center inline-flex items-center mb-8">
+I used to spend hours and hours working on my portfolio without seeing a dime in results.
 
-		<svg class="fill-current w-4 h-4 mr-3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2 0c-1.104 0-2 .896-2 2v15c0 1.104.896 2 2 2h20c1.104 0 2-.896 2-2v-15c0-1.104-.896-2-2-2h-20zm20 14h-20v-12h20v12zm-6.599 7c0 1.6 1.744 2.625 2.599 3h-12c.938-.333 2.599-1.317 2.599-3h6.802z"/></svg> 	
+Then, in 2012, I got fired.
 
-		<span>Read now</span>
-	</a>
-<!--
-<div class="popup max-w-sm mx-auto" style="display:none;">
-{% include drip-form.html %}
-</div>-->	
+That's when I decided to take my design business full-time. My professional life became about one thing: *getting clients.*
 
+And that's when I realized it. My portfolio was a huge time-suck.
+
+After all, most of my "competition" had similar work. Similar quality. Similar types of projects. 
+
+How could clients even tell me apart?
+
+What would happen if I got rid of my portfolio?
+
+Hmm. 
+
+This forced me to put my focus on my communication skills.
+
+What if a potential client wanted to see my work and asked me for a sample?
+
+"I could send them a pdf, I guess." 
+
+This change in strategy, I later found out, was the true deciding factor in client-success. It lead me to craft an offer specifically designed for people I wanted to help.
+
+So, when I sat down with clients, I avoided broad terms other freelancers used to describe their work. Instead of saying “I do great design,” I talked about “conversion rate optimization.”
+
+Having laser focus allowed me to ask myself if what I was doing was winning me clients. It was yes or no.
+
+This meant my energy and time was spent on the most important thing to my business: making money. 
+
+... It also allowed me to see what areas were a total waste of time. Things that weren’t directly helping me generate revenue were killed… this included; twitter, facebook, blogging, dribbble, reading emails and more.
+
+Later I put together a script using the offer I had developed and sent it out to dozens of companies throughout the six months.
+
+I used one job board for most of the work I got, but used a bunch of others too, even sites like craigslist, and freelance switch.
+
+The main idea was to use one pitch and find as many people who could benefit from my offer as possible. It felt so much better than sitting and just posting stuff on twitter or dribbble.
+
+I stopped letting the success of my business depend on outside forces like others contacting me.
+
+Because of this, I was able to track where my efforts were getting the biggest return. 
+
+**Before too long I knew approximately how many leads I had to email in order to land a client.**
+
+I even created a folder in my inbox for tracking all of this. Whenever a lead would email me back even if just to let me know they were going with another designer, I would put them in a special folder — a pool of leads to follow up with in the future.
+
+That folder quickly became my most valued source for new work. I'd simply wait a while and then ask them how their project turned out. No portfolio required. 
+
+Just building a relationship over time through helpfulness.
+
+In the end, constantly updating my portfolio, tweeting, and posting dribbble shots, with no strategy in place may have felt like work, but it was just huge distraction.
+
+To be a successful freelancer I needed to focus on one thing, getting more clients.
+
+Do you know exactly how many emails you need to send to land a new client? How confident would you be if you did?
+
+Better yet, how much money would you make if you could find that number of clients any time you wanted? That's exactly what I'd like to dive into next.
+
+<div class="mb-8 pb-8">
+	<a href="/where-to-find-clients/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Part 2: Where to find UX clients that are ready to buy <span class="ml-2">&rarr;</span></a>
 </div>
-
-<!--
-
-<div class="mt-8 mb-2 pb-2 block" markdown="1">
-
-<h1 class="leading-tight font-medium text-3xl my-4 mt-8">Here's what you'll get...</h1>
-
-<ol class="list-reset text-2xl mb-8 pb-8"> 
-<li class="py-2 px-4 border-t"><span class="mr-2">:hand:</span> My 5 favorite places to find UX design clients</li>
-<li class="py-2 px-4 border-t"><span class="mr-2">:raised_hands:</span> A free referral newsletter with exclusive UX projects</li>
-<li class="py-2 px-4 border-t"><span class="mr-2">:zap:</span> My endless client generator (a plug and play RSS file)</li>
-<li class="py-2 px-4 border-t"><span class="mr-2">:100:</span> A community of over 10,000+ UX design firms</li>
-<li class="py-2 px-4 border-t"><span class="mr-2">:1234:</span> Step-by-step tutorials on finding high-value UX work</li> 
-<li class="py-2 px-4 border-t text-xl text-grey-dark font-medium text-center">And a whole lot more...</li>
-</ol>
-
-
-<div class="max-w-sm mx-auto">
-	<h1 class="leading-tight font-medium text-3xl mt-8">Why did I create all of this? To rid the earth of feast or famine</h1>
-
-<h2 class="text-grey-dark font-medium text-2xl mt-2">I've gone through dry spells and they left a bad taste in my mouth...</h2>
-
-<p class="my-3 leading-normal">Each day the stress mounted. Every email seemed ultra important. The magnitude of every proposal ballooned. I looked for help online but all the forums said the same thing: <em>"dry spells are just a part of client work."</em></p>
-
-<p class="my-3 leading-normal">I knew there had to be a better way – but it wasn't until I invested in my self and my pipeline consistently that I was able to end the feast or famine cycle for good. I want to show every design firm exactly how I did it.</p>
-
-<a href="#form" class="font-semibold rounded-full bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer w-full text-center no-underline my-2 mt-4">Register free</a>
 </div>
-
-</div>
-
-</div>
-
-
-<div class="text-2xl text-grey-darkest leading-normal max-w-lg mx-auto my-6 text-center text-grey-darker" markdown="1">
-“Since starting with Workshop, I’ve had an unbroken chain of daily lead generation activity no matter what. It’s made me so much more profitable."<br><span class="text-base text-grey-dark">Kurt Elster, Owner of Ethercycle in Chicago</span>
-</div>
-
-
-<div class="border-t-2 text-xl text-grey-darkest leading-normal max-w-md mx-auto my-8 text-center py-8 leading-loose no-underline" markdown="1">
-
-<a href="/demo" class="text-blue-dark no-underline">See what kind of leads you will generate</a>
-
-<a href="/subscribe" class="text-blue-dark no-underline">Get my done-for-you lead service</a>
-
-<a href="https://twitter.com/clientgiantrob" class="text-blue-dark no-underline">Me on twitter</a>
--->

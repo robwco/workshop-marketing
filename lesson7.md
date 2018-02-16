@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /dry-spells/
+title: "The email line that's client repellent"
+description: "My UX design firm had gone through dry spells before but this one was bad. Each day the stress mounted."
+meta_title: "The email line that's client repellent"
+meta_description: "My UX design firm had gone through dry spells before but this one was bad. Each day the stress mounted."
 ---
 
 <style>
@@ -8,8 +12,10 @@ p { margin: .5em 0; }
 </style>
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-	
-<h1 class="leading-tight font-medium text-3xl mt-8 pt-8">My UX design firm had gone through dry spells before but this one was bad.</h1>
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+Part 7 of: "Where the fuck do you find UX clients?" series...
+</h2>
+<h1 class="leading-tight font-medium text-3xl">My UX design firm had gone through dry spells before but this one was bad.</h1>
 
 Each day the stress mounted.
 
@@ -77,7 +83,7 @@ That's exactly what you get with my lead service.
 	<a href="/leads/" class="button font-semibold rounded-lg bg-blue text-white text-xl px-6 py-3 inline-block cursor-pointer text-center no-underline my-2 mt-4 hover:bg-blue-dark">Read more about my curated lead service here <span class="ml-2">&rarr;</span></a>
 </div>
 
-<p class="mb-8 text-xl text-grey-darker">:hand: Thanks for reading! I hope you have an awesome day.</p>
+<p class="mb-8 text-xl text-grey-darker">PS. If you'd like more help writing emails to clients that start winning sales conversations I have a :zap: <a class="text-blue no-underline" href="https://workshop.podia.com/a-guide-to-sending-emails-that-win-you-clients-78aa8b73-2aae-45a8-a240-a8e852fe4ef1">short book</a> on that very topic.</p>
 
 
 </div>

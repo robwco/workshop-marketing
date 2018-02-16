@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /job-boards-for-client-work/
+title: "My Endless Client Generator: A plug-and-play RSS feed download with all the best UX projects"
+description: "The answer is simple: the best job board for project work is ALL the job boards. See the truth is great projects get posted in different places every day. So no matter what, one site won't be a complete picture."
+meta_title: "My Endless Client Generator: A plug-and-play RSS feed download with all the best UX projects"
+meta_description: "The answer is simple: the best job board for project work is ALL the job boards. See the truth is great projects get posted in different places every day. So no matter what, one site won't be a complete picture."
 ---
 
 <style>
@@ -9,7 +13,10 @@ p { margin: .5em 0; }
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 	
-<h1 class="leading-tight font-medium text-3xl pt-8 mt-8">My Endless Client Generator: A plug-and-play RSS feed download with all the best UX projects</h1>
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+Part 4 of: "Where the fuck do you find UX clients?" series...
+</h2>
+<h1 class="leading-tight font-medium text-3xl">My Endless Client Generator: A plug-and-play RSS feed download with all the best UX projects</h1>
 
 So far in this series we've talked about changing your lead-gen strategy, shifting your mindset, and using AngelList to get startup clients.
 
@@ -53,7 +60,7 @@ Most job boards have an RSS link that you can use to monitor jobs posted on thei
 
 For an even greater head-start, I'm going to give you my exact list of hundreds of sites that I monitor and have found great projects on.
 
-I call it my Endless Client Generator. You can load it into your own Feedbin account by [right clicking to download here](/downloads/endless_clients_cheatsheet.xml).
+I call it my Endless Client Generator. You can load it into your own Feedbin account after [downloading it here](/letters/).
 
 To upload it into Feedbin, you'll want to go to: Import & Export and select it. 
 

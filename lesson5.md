@@ -1,6 +1,10 @@
 ---
 layout: default
 permalink: /automating-your-lead-qualifying/
+title: "Using Feedbin's powerful automation magic to do the lead-sifting for you"
+description: "I'm a bit of a Feedbin fanboy at this point and I'm about to share why. Feedbin has some amazing features that can take care of a lot of the work in finding high-value clients."
+meta_title: "Using Feedbin's powerful automation magic to do the lead-sifting for you"
+meta_description: "I'm a bit of a Feedbin fanboy at this point and I'm about to share why. Feedbin has some amazing features that can take care of a lot of the work in finding high-value clients."
 ---
 
 <style>
@@ -8,8 +12,10 @@ p { margin: .5em 0; }
 </style>
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-	
-<h1 class="leading-tight font-medium text-3xl pt-8 mt-8">Using Feedbin's powerful automation magic to do the lead-sifting for you</h1>
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+Part 5 of: "Where the fuck do you find UX clients?" series...
+</h2>
+<h1 class="leading-tight font-medium text-3xl">Using Feedbin's powerful automation magic to do the lead-sifting for you</h1>
 
 In the last lesson we introduced you to Feedbin. I'm a bit of a Feedbin fanboy at this point and I'm about to share why.
 
