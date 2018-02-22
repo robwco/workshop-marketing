@@ -254,14 +254,14 @@ Here's how.
 
 	
 
-	<p class="my-4">
+	<p class="mt-4">
 		<a href="https://app.letsworkshop.com/subscriptions/new?plan=32" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Get 2000+ leads • $799/year
+			Get 1000+ leads • $799/year
 		</a>
 	</p>
 
-	<p class="text-grey-dark text-lg mb-0">Only $.39 per lead. No-risk, cancel anytime.</p>	
-	<a class="text-grey-darker mt-0 mb-4" href="https://app.letsworkshop.com/subscriptions/new?plan=31">Prefer to pay quarterly?</a></p>
+	<p class="text-grey-dark text-lg mb-0 mt-4">Only $.79 per lead. No-risk, cancel anytime.</p>	
+	<a class="text-grey-darker mt-4 mb-4" href="https://app.letsworkshop.com/subscriptions/new?plan=31">Prefer to pay quarterly?</a></p>
 </div>
 
 
