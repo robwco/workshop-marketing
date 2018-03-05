@@ -13,7 +13,7 @@ p { margin: .5em 0; }
 
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 <h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
-Part 2 of: "Where the fuck do you find UX clients?" series...
+"Where the fuck do you find UX clients?" - Part 2 of 7
 </h2>
 <h1 class="leading-tight font-medium text-3xl">My 5 favorite places to find UX design clients that are ready to buy</h1>
 

@@ -5,13 +5,17 @@ layout: default
 meta_title: "Workshop - Forum and lead service for UX design projects"
 meta_description: "So basically it's a newsletter I started because I wished I could pay someone to send me all the design projects on job boards."
 ---
+<a href="/letters" class="no-underline border-b-2 px-8 py-1 pb-3 text-blue-dark text-lg font-medium w-full m-0 block text-center">
+Free Download: My plug-and-play :zap: Endless Client Generator file...
+</a>
+
 <style>
 p { margin: .5em 0; }
 </style>
 
-<div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
-Part 1 of: "Where the fuck do you find UX clients?" series...
+<div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto mb-4" markdown="1">
+<h2 class="pt-8 text-grey-dark text-xl font-medium my-1">
+"Where the fuck do you find UX clients?" - Part 1 of 7
 </h2>
 <h1 class="leading-tight font-medium text-3xl">How I deleted my portfolio and made $30k in 6 weeks</h1>
 

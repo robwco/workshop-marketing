@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UX design lead service
+title: Workshop - UX design lead service
 description: "The best UX design projects on the web. Every morning I find you the top opportunities for project-seeking UX design firms."
 layout: default
 meta_title: "Workshop - lead service for UX design projects"
@@ -43,7 +43,22 @@ a.btn-text {
 
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 	
-<h1 class="leading-tight font-medium text-3xl pt-8 mt-8">Get a rolodex of UX design prospects you can email in minutes over your morning coffee</h1>
+	
+	
+<div class="border-b pb-6 flex">
+	<div class="flex-1 flex">
+		<img src="/images/logos/workshop-logo.png" class="mt-6 w-12 mb-0 inline self-center -mt-1">
+		
+		<div class="text-3xl self-center pl-2"><strong>Workshop</strong></div>
+	</div>
+	
+	<div class="self-center">
+		<a href="MAILTO:robert@letsworkshop.com?subject=Workshop%20Demo%20Request&body=Hello%20Robert,%0A%0AI'd%20to%20receive%20a%20sample%20of%20the%20leads%20you%20send%20to%20Workshop%20customers.%0A%0AMy%20specialty%20is%20[insert%20specialty].%20Thank%20you!" class="border-blue border-2 text-xl rounded-lg mt-4 px-3 pb-1 text-blue no-underline font-medium hover:border-blue-dark hover:text-blue-dark float-right">Get a free demo</a>
+	</div>
+</div>	
+	
+<h1 class="leading-tight font-medium text-3xl pt-8">Get a rolodex of UX design prospects you can email in minutes over your morning coffee</h1>
+
 		
 Have you ever thought: **&ldquo;if I could just get more clients on the phone, I would sell more projects&rdquo;?**
 

@@ -6,9 +6,13 @@ permalink: /getting-clients-and-portfolios/
 p { margin: .5em 0; }
 </style>
 
+<div class="bg-blue text-white font-medium w-full text-xl px-4 py-4">Success! You should receive an email shortly!</div>
+
 <div class="reading text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-	
-<h1 class="leading-tight font-medium text-3xl mt-8 pt-8">How I deleted my portfolio and made $30k in 6 weeks</h1>
+<h2 class="mt-8 pt-8 text-grey-dark text-xl font-medium my-1">
+"Where the fuck do you find UX clients?" - Part 1 of 7
+</h2>
+<h1 class="leading-tight font-medium text-3xl">How I deleted my portfolio and made $30k in 6 weeks</h1>
 
 Have you noticed some people kill it without a portfolio? 
 
