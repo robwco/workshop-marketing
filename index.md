@@ -1,9 +1,9 @@
 ---
-title: Workshop - find quality UX design projects
-description: "The best UX design projects on the web. Every morning Robert finds the top opportunities for project-seeking UX designers."
+title: Workshop - Project alerts for UX and front-end design firms
+description: "UX and frontend design project alerts for picky firms. We find clients that are looking to build an amazing UX and send them to you."
 layout: default
-meta_title: "Workshop - Forum and lead service for UX design projects"
-meta_description: "So basically it's a newsletter I started because I wished I could pay someone to send me all the design projects on job boards."
+meta_title: "Workshop - Project alerts for UX and front-end design firms"
+meta_description: "A service that finds you UX design projects that clients mistakenly put on job boards."
 ---
 <a href="/letters" class="no-underline border-b-2 px-8 py-1 pb-3 text-blue-dark text-lg font-medium w-full m-0 block text-center">
 Free Download: My plug-and-play :zap: Endless Client Generator file...

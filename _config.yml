@@ -1,7 +1,7 @@
 # Site settings
 title: Workshop
 email: robert@letsworkshop.com
-description: "Frontend design projects for picky firms. We find clients that are looking to build an amazing UX and send them to you."
+description: "Frontend design project alerts for picky firms. We find clients that are looking to build an amazing UX and send them to you."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://letsworkshop.com" # the base hostname & protocol for your site
 twitter_username: letsworkshop

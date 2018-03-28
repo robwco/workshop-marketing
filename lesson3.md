@@ -23,9 +23,9 @@ These 5 sites make up 80% of the great projects posted online.
 
 And the biggest source of all is <img src="/images/page-elements/angellist.jpg" class="h-6 align-middle">AngelList.
 
-If you wanted to do the least amount of work for the most great clients, this is where you should start. 
+If you want to do the least amount of work for the most great clients, this is where you should start. 
 
-You will get a handful of great leads coming to you each week for a few minutes of setup. Boom. Zen. Buddha would approve.
+You'll get a handful of great leads coming to you each week for a few minutes of setup. Boom. Zen. Buddha would approve.
 
 **AngelList**
 
