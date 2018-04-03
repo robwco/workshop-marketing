@@ -41,10 +41,9 @@ a.btn-text {
 }
 </style>
 
+
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
-	
-	
-	
+		
 <div class="border-b pb-6 flex">
 	<div class="flex-1 flex">
 		<img src="/images/logos/workshop-logo.png" class="mt-6 w-12 mb-0 inline self-center -mt-1">
@@ -56,9 +55,48 @@ a.btn-text {
 		<a href="MAILTO:robert@letsworkshop.com?subject=Workshop%20Demo%20Request&body=Hello%20Robert,%0A%0AI'd%20to%20receive%20a%20sample%20of%20the%20leads%20you%20send%20to%20Workshop%20customers.%0A%0AMy%20specialty%20is%20[insert%20specialty].%20Thank%20you!" class="border-blue border-2 text-xl rounded-lg mt-4 px-3 pb-1 text-blue no-underline font-medium hover:border-blue-dark hover:text-blue-dark float-right">Get a free demo</a>
 	</div>
 </div>	
-	
-<h1 class="leading-tight font-medium text-3xl pt-8">Get a rolodex of UX design prospects you can email in minutes over your morning coffee</h1>
 
+<h1 class="leading-tight font-medium text-3xl pt-8 text-center">Get a rolodex of UX design prospects you can email in minutes over your morning coffee</h1>
+		
+</div>
+	
+
+<div class="max-w-2xl mx-auto flex my-6">
+
+<div class="flex-1 text-center text-grey-darker text-center bg-white px-4 py-2 m-2 shadow-lg rounded-lg">
+	<p class="font-bold text-lg mb-0 text-grey-darker">Quarterly</p>
+	<h1 class="mt-0 text-5xl">$229</h1>
+	<p class="text-grey-dark mt-0 mb-2 text-lg">Billed every 3 months</p>
+	<p class="mt-6 mb-4"><a href="https://app.letsworkshop.com/subscriptions/new?plan=31" class="mt-2 bg-grey-dark hover:bg-grey-darkest text-white font-bold py-2 px-8 rounded-lg no-underline text-xl">Subscribe</a></p>
+	<p>$1.39 per lead</p>
+</div>
+
+
+<div class="flex-1 text-center text-grey-darker text-center bg-white px-4 py-2 m-2 shadow-lg rounded-lg">
+	<p class="font-bold text-lg mb-0 text-grey-darker">Yearly <span style="vertical-align:2px;">:star:</span> Best Deal</p>
+	<h1 class="mt-0 text-5xl">$799</h1>
+	<p class="text-grey-dark mt-0 mb-2 text-lg">Billed every year</p>
+	<p class="mt-6 mb-4"><a href="https://app.letsworkshop.com/subscriptions/new?plan=32" class="mt-2 bg-blue hover:bg-blue-darker text-white font-bold py-2 px-8 rounded-lg no-underline text-xl">Subscribe</a></p>
+	<p>$.66 per lead</p>
+</div>
+
+
+<div class="flex-1 text-center text-grey-darker text-center bg-white px-4 py-2 m-2 shadow-lg rounded-lg">
+	<p class="font-bold text-lg mb-0 text-grey-darker">Leads + Coaching</p>
+	<h1 class="mt-0 text-5xl">$1199+</h1>
+	<p class="text-grey-dark mt-0 mb-2 text-lg">Billed monthly</p>
+	<p class="mt-6 mb-4"><a href="https://docs.google.com/document/d/19hwi30wPos1iWMZprMdTh6aEuRIiFdYFnXp6nfalmts/edit?usp=sharing" class="mt-2 bg-grey-dark hover:bg-grey-darkest text-white font-bold py-2 px-8 rounded-lg no-underline text-xl">Learn more</a></p>
+	<p>Price and availability may vary</p>
+</div>
+
+
+</div>
+
+<p class="text-lg text-grey-dark text-center">All plans are pay as you go and have a 30-day money-back guarantee.</p>
+<p class="text-lg text-grey-dark mb-8 pb-8 text-center">Secure billing through Stripe.</p>
+	
+
+<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4 border-t pt-6" markdown="1">
 		
 Have you ever thought: **&ldquo;if I could just get more clients on the phone, I would sell more projects&rdquo;?**
 
