@@ -265,7 +265,11 @@ They MUST be freelance leads, not full-time work. They MUST be remote, and open 
 
 If that sounds good to you, let's get started.
 
-**Update:** Until Friday, April 20th, you can get $100 off for life + one of three amazing bonuses with your Workshop yearly subscription. Choose between a 4-week positioning bootcamp with Philip Morgan (a $600 savings), a UX portfolio video course by Jarrod Drysdale (a $239) savings and a quickstart roadmapping video course ($229 savings).
+**Update:** Until Friday, April 20th, you can get $100 off for life + one of three amazing bonuses with your Workshop yearly subscription. Choose between: 
+
+1. A [4-week positioning bootcamp with Philip Morgan](https://philipmorganconsulting.com/specialization-school/part-1-decision-making-workshop/) (a $600 savings)
+2. A [UX portfolio video course](https://proximityschool.com/theory-sprints/) by Jarrod Drysdale (a $239 savings) 
+3. A [Quickstart Roadmapping video course](https://kaidavis.com/roadmapping/) by Kai Davis ($229 savings)
 
 Here's how to take advantage now:
 
@@ -273,7 +277,7 @@ Here's how to take advantage now:
 
 <div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
 	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the 4-week positioning bootcamp (normally $800)... </h2>
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the <a href="https://philipmorganconsulting.com/specialization-school/part-1-decision-making-workshop/">4-week positioning bootcamp</a> (normally $800)... </h2>
 	
 		<p class="text-grey-darker text-xl mb-4 leading-tight">Build a pipeline of dream clients coming to you + have new client opportunities coming to you daily. Email them in minutes. Win projects.</p>
 	
@@ -294,7 +298,7 @@ Here's how to take advantage now:
 
 <div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
 	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + a UX design portfolio video course (normally $249) ... </h2>
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the <a href="https://proximityschool.com/theory-sprints/">UX design portfolio video course</a> (normally $249) ... </h2>
 	
 		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday and send them an epic portfolio. Win projects.</p>
 	
@@ -315,7 +319,7 @@ Here's how to take advantage now:
 
 <div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
 	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the quickstart roadmapping video course (normally $129) ... </h2>
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the <a href="https://kaidavis.com/roadmapping/">quickstart roadmapping video course</a> (normally $129) ... </h2>
 	
 		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday. Email them in minutes. Win projects.</p>
 	
