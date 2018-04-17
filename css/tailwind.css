@@ -511,6 +511,11 @@ button,
  * See: https://github.com/tailwindcss/tailwindcss/issues/53#issuecomment-341413622
  */
 
+.quote {
+  border-left-width: 2px;
+  border-color: #3490dc;
+  padding-left: 1rem;
+}
 
 .space-p h1,
 .space-p h2,

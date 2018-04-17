@@ -10,6 +10,53 @@ navigation_group: "main"
 nav_description: Exclusive gigs for picky frontend designers
 ---
 
+<script>
+const second = 1000,
+      minute = second * 60,
+      hour = minute * 60,
+      day = hour * 24;
+
+let countDown = new Date('Apr 20, 2018 23:59:59').getTime(),
+    x = setInterval(function() {
+
+      let now = new Date().getTime(),
+          distance = countDown - now;
+
+      document.getElementById('days').innerText = Math.floor(distance / (day)),
+        document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
+        document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
+        document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
+      
+      //do something later when date is reached
+      //if (distance < 0) {
+      //  clearInterval(x);
+      //  'IT'S MY BIRTHDAY!;
+      //}
+
+    }, second)
+</script>
+
+<style>
+.countdown-container {
+  text-align: center;
+}
+
+.countdown li {
+  display: inline-block;
+  font-size: 1em;
+  list-style-type: none;
+  padding: 1em 2em;
+  text-transform: uppercase;
+}
+
+.countdown li span {
+  display: block;
+  font-size: 3rem;
+}
+</style>
+
+
+
 <style>
 p { margin: .5em 0; }
 
@@ -45,96 +92,57 @@ a.btn-text {
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 		
 <div class="border-b pb-6 flex">
-	<div class="flex-1 flex">
+	<div class="flex-1 flex justify-center">
 		<img src="/images/logos/workshop-logo.png" class="mt-6 w-12 mb-0 inline self-center -mt-1">
 		
 		<div class="text-3xl self-center pl-2"><strong>Workshop</strong></div>
 	</div>
-	
-	<div class="self-center">
-		<a href="MAILTO:robert@letsworkshop.com?subject=Workshop%20Demo%20Request&body=Hello%20Robert,%0A%0AI'd%20to%20receive%20a%20sample%20of%20the%20leads%20you%20send%20to%20Workshop%20customers.%0A%0AMy%20specialty%20is%20[insert%20specialty].%20Thank%20you!" class="border-blue border-2 text-xl rounded-lg mt-4 px-3 pb-1 text-blue no-underline font-medium hover:border-blue-dark hover:text-blue-dark float-right">Get a free demo</a>
-	</div>
 </div>	
 
-<h1 class="leading-tight font-medium text-3xl pt-8 text-center">Get a rolodex of UX design prospects you can email in minutes over your morning coffee</h1>
+
 		
-</div>
+</div>	
+
+
+<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto" markdown="1">
 	
+<h3 class="text-center text-grey-dark leading-normal">Limited-time sale happening now...</h3>
 
-<div class="max-w-2xl mx-auto flex my-6">
+<h1 class="leading-tight font-medium text-3xl pt-2">Get 1000+ high-value design projects sent to you each year + a very special bonus...</h1>
 
-<div class="flex-1 text-center text-grey-darker text-center bg-white px-4 py-2 m-2 shadow-lg rounded-lg">
-	<p class="font-bold text-lg mb-0 text-grey-darker">Quarterly</p>
-	<h1 class="mt-0 text-5xl">$229</h1>
-	<p class="text-grey-dark mt-0 mb-2 text-lg">Billed every 3 months</p>
-	<p class="mt-6 mb-4"><a href="https://app.letsworkshop.com/subscriptions/new?plan=31" class="mt-2 bg-grey-dark hover:bg-grey-darkest text-white font-bold py-2 px-8 rounded-lg no-underline text-xl">Subscribe</a></p>
-	<p>$1.39 per lead</p>
-</div>
+Most design/dev firms know that if you just get more clients on the phone you sell more projects.
 
+But how do you find clients worthy of pitching?
 
-<div class="flex-1 text-center text-grey-darker text-center bg-white px-4 py-2 m-2 shadow-lg rounded-lg">
-	<p class="font-bold text-lg mb-0 text-grey-darker">Yearly <span style="vertical-align:2px;">:star:</span> Best Deal</p>
-	<h1 class="mt-0 text-5xl">$799</h1>
-	<p class="text-grey-dark mt-0 mb-2 text-lg">Billed every year</p>
-	<p class="mt-6 mb-4"><a href="https://app.letsworkshop.com/subscriptions/new?plan=32" class="mt-2 bg-blue hover:bg-blue-darker text-white font-bold py-2 px-8 rounded-lg no-underline text-xl">Subscribe</a></p>
-	<p>$.66 per lead</p>
-</div>
+The fastest way is to find warm leads that are looking to hire someone like you in places like job boards, forums, hacker news, and angellist. They're out there waiting to be discovered by you or someone else. 
 
+But the problem is it’s a time suck to separate these opportunities all by yourself. 
 
-<div class="flex-1 text-center text-grey-darker text-center bg-white px-4 py-2 m-2 shadow-lg rounded-lg">
-	<p class="font-bold text-lg mb-0 text-grey-darker">Leads + Coaching</p>
-	<h1 class="mt-0 text-5xl">$1199+</h1>
-	<p class="text-grey-dark mt-0 mb-2 text-lg">Billed monthly</p>
-	<p class="mt-6 mb-4"><a href="https://docs.google.com/document/d/19hwi30wPos1iWMZprMdTh6aEuRIiFdYFnXp6nfalmts/edit?usp=sharing" class="mt-2 bg-grey-dark hover:bg-grey-darkest text-white font-bold py-2 px-8 rounded-lg no-underline text-xl">Learn more</a></p>
-	<p>Price and availability may vary</p>
-</div>
+It takes so long that you will avoid it. The fact is if you're loaded with billable hours, you don't have time to sort through these sorts of sites every day. 
 
+So, you never hear about 90% of the opportunities out there. This leads to feast or famine, where once you're finished with a project, you're left scrambling to find work. 
 
-</div>
+That leads to wasted time – or worse, accepting work from bad clients (just so you can pay the bills).
 
-<p class="text-lg text-grey-dark text-center">All plans are pay as you go and have a 30-day money-back guarantee.</p>
-<p class="text-lg text-grey-dark mb-8 pb-8 text-center">Secure billing through Stripe.</p>
-	
+<h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">But UX and frontend design firms, you don't have to live with feast or famine anymore...</h2>
 
-<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4 border-t pt-6" markdown="1">
-		
-Have you ever thought: **&ldquo;if I could just get more clients on the phone, I would sell more projects&rdquo;?**
+Here's the facts: it's way more effective to strategically contact a few warm opportunities every week, instead of waiting until your schedule is empty to send out a flurry of cold emails.
 
-I hear that all the time when I ask design firms about dry spells. And you’re right. You land more work when you’re in front of the right clients more often.
-
-But it’s a time suck to separate the right opportunities from the wrong ones all by yourself. 
-
-There's thousands waiting to be discovered but it takes sifting through old emails, job posts, tweets, forums, and more. 
-
-It takes so long that nearly everyone avoids it.
-
-The fact is, job boards aren't designed for project work — and if you're loaded with billable hours, you don't have time to sort through them every day. 
-
-The result is you never hear about 90% of the opportunities out there. 
-
-Worse, once you're finished with a project, and have all this time again, you're left scrambling to find work. That leads to wasted time – or accepting work from bad clients (just so you can pay the bills).
-
-<h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">UX and frontend design firms, you don't have to live with feast or famine anymore...</h2>
-
-Here's the facts: it's way more effective to strategically contact a few opportunities every week, instead of waiting until your schedule (or wallet) is empty to drunkenly spray out cold emails to a flurry of people. 
-
-But finding the right leads takes time (at least a few hours a day) and as a designer, an hour of your time alone is worth close to $100. That means you're looking at a loss of over $2,000+ billable time per month!
+But as we said, it takes time and as a consultant, an hour of your time alone is worth close to $100. That means you're looking at a loss of over $2,000+ billable time per month!
 
 **In a perfect world, great leads would come to you.** 
 
 This would allow you to save time, and get right to the important part: pitching clients and landing contracts.
 
-But how much would that cost? 
+But setting up something like this for yourself can get expense. If you paid someone $10/hour, and they spent 2 hours a day gathering leads, you'd be looking at $600/month. 
 
-If you paid someone $10/hour, and they spent 2 hours a day gathering leads, you'd be looking at $600/month. 
-
-That's too much money. Plus who knows if they will ever be able to find good UX design projects? (After all, at those prices you'll have to find them on *upwork*.)
-
-Instead, for the price of a cup of coffee, you can pay me, a professional designer, to find all of the best design leads on the web each morning. 
+That's too much money. Instead, for less than the price you pay for a cup of coffee, you can pay me, a professional consultant, to find all of your outbound project leads web each morning. 
 
 Ask anyone who's hired lead gen like this, and they'll say it's usually really expensive, like 30% of your total sales. So if you landed a $10,000 contract, they might ask for $3,000! 
 
-I have something better: for a small monthly fee, you'll get the best UX and frontend design leads sent to your inbox, every day. You don't pay any commission at all!
+I have something better: for a small monthly fee, you'll get the best UX and frontend design leads sent to your inbox, every day. 
+
+You don't pay any commission at all!
 
 <h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">Introducing: Workshop, a hands-free lead-gen service for UX design firms...</h2>
 
@@ -142,16 +150,7 @@ You generate a consistent flow of clients and revenue for your business - and sk
 
 All you have to do is send a couple short personal emails every few days to have multiple sales conversations going on at all times. This will let you focus the rest of your time exclusively on billable tasks.
 
-</div>
-
-<div class="max-w-lg mx-auto my-8" markdown="1">
-<img src="/images/page-elements/grey-squiggle.png" class="w-full">
-</div>
-
-<div class="bg-white px-6 max-w-lg mx-auto  text-xl text-grey-darker italic">
-<p>“I’m already impressed. I just sent inquiries to two Workshop leads on my first day! If it's this easy, it’ll be well worth the monthly price, and certainly a great way to keep my sales funnel filled.”</p> 
-
-<p class="font-sm text-center font-bold text-grey-darkest mt-2"><span class="quote-by">— <img src="/images/testimonial-photos/kurt.jpeg" class="w-8 rounded-full align-middle mx-2"> Kurt Elster, Ethercycle</span></p>
+But does it work?
 </div>
 
 <div class="max-w-lg mx-auto my-8" markdown="1">
@@ -255,13 +254,10 @@ But they also have an unfair advantage. Job boards and prospecting no longer suc
 
 Not at all. If you have a solid grasp of the english language you can and will win work from these leads. Workshop has top freelancers from all over the world, including places like Europe, Asia, and basically every other continent in the world who are loving the service. All leads are 100% remote and open to remote freelancers anywhere in the world, so I’d suggest you sign up and see if it’ll work for you.
 
-<h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">Who are you?</h2>
-	
-<a href="http://s2.quickmeme.com/img/a6/a69103e09fc22e97f46ad425c7f42a22afa2d2e698a31fcbc0a87f844e6ddb38.jpg" class="text-grey-darkest">Date Rob</a>. Nice to meet me. I owned a design firm and created this service because I wished something like it was available for me. I'm excited to share it with you now because I know it'll help you spend more time somewhere else like with your family.
 
 <h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">What type, how many, and how often (etc.) will the leads be sent?</h2>
 	
-Workshop is about less. Allowing you to do less and get better results. So it's just as much about the leads I don't send as it is about the ones I do. The thousands of leads I eliminate from your life completely make the handful I do send more important. The fact is you don't need all that many leads to make a lot of money; you just need the right leads. You can <a class="text-grey-darkest" href="MAILTO:robert@letsworkshop.com">email me</a> for a sample of leads.
+I never send a lead just to send it. The exact number depends on how many great clients post on a project that day, but basically I'm going to send you a handful of great gigs daily, allowing you to do less and get better results. So it's just as much about the leads I don't send as it is about the ones I do. The thousands of leads I eliminate from your life completely make the handful I do send more important. The fact is you don't need all that many leads to make a lot of money; you just need the right leads.
 
 
 <h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">Workshop emails are hand-crafted everyday.</h2>
@@ -272,57 +268,82 @@ They MUST be freelance leads, not full-time work. They MUST be remote, and open 
 
 If that sounds good to you, let's get started.
 
-Here's how.
+**Update:** Until Friday, April 20th, you can get $100 off for life + one of three amazing bonuses with your Workshop yearly subscription. Choose between a 4-week positioning bootcamp with Philip Morgan (a $600 savings), a UX portfolio video course by Jarrod Drysdale (a $239) savings and a quickstart roadmapping video course ($229 savings).
+
+Here's how to take advantage now:
 
 </div>
 
-
-<div class="max-w-md mx-auto mt-4 mb-4 shadow-lg p-4 rounded-lg text-center">
+<div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
 	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Step 1. Buy my book: Emails That Win You Clients</h2>
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the 4-week positioning bootcamp (normally $800)... </h2>
 	
-		<p class="text-grey-darker text-xl mb-4 leading-tight">This my prerequisite for signing up to my lead service because it will make you 10x more money from the leads I send you.</p>
+		<p class="text-grey-darker text-xl mb-4 leading-tight">Build a pipeline of dream clients coming to you + have new client opportunities coming to you daily. Email them in minutes. Win projects.</p>
 	
-	<img class="w-64" src="/images/products/etw-field-guide.png">
-
-	
-
-	<p class="my-4">
-		<a href="https://workshop.podia.com/a-guide-to-sending-emails-that-win-you-clients-78aa8b73-2aae-45a8-a240-a8e852fe4ef1/buy" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Buy the guide • $49
-		</a>
-	</p>
-
-	<p class="text-grey-dark text-lg mb-4">100% money-back guarantee. Read it in 30 minutes.</p>
-</div>
-
-
-<div class="max-w-md mx-auto mt-8 mb-4 shadow-lg p-4 rounded-lg text-center">
-	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Step 2. Sign up for my UX design lead service</h2>
-	
-		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday. Email them in minutes. Win projects.</p>
-	
-	<img class="w-64" src="/images/products/leads-service.png">
+	<img class="w-48" src="/images/products/leads-service.png">	
+	<img class="w-64 mb-3" src="/images/products/positioning-bootcamp.png">
 
 	
 
 	<p class="mt-4">
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=32" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Get 1000+ leads • $799/year
+		<a href="https://app.letsworkshop.com/subscriptions/new?plan=33" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
+			Get leads + bootcamp • <strike class="text-grey-light">$1600</strike> $1200
 		</a>
 	</p>
 
-	<p class="text-grey-dark text-lg mb-0 mt-4">Only $.79 per lead. No-risk, cancel anytime.</p>	
-	<a class="text-grey-darker mt-4 mb-4" href="https://app.letsworkshop.com/subscriptions/new?plan=31">Prefer to pay quarterly?</a></p>
+	<p class="text-grey-dark text-lg mb-0 mt-4">Only $1200 today. No-risk, cancel anytime.</p>	
 </div>
 
 
+<div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
+	
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + a UX design portfolio video course (normally $249) ... </h2>
+	
+		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday and send them an epic portfolio. Win projects.</p>
+	
+	<img class="w-48" src="/images/products/leads-service.png">	
+	<img class="w-64 mb-3" src="/images/products/portfolio-builder.png">
+
+	
+
+	<p class="mt-4">
+		<a href="https://app.letsworkshop.com/subscriptions/new?plan=35" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
+			Get leads + video course • <strike class="text-grey-light">$1048</strike> $799
+		</a>
+	</p>
+
+	<p class="text-grey-dark text-lg mb-0 mt-4">Only $799 today. $100 off each year, for life. No-risk, cancel anytime.</p>	
+</div>
 
 
+<div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
+	
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the quickstart roadmapping video course (normally $129) ... </h2>
+	
+		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday. Email them in minutes. Win projects.</p>
+	
+	<img class="w-48" src="/images/products/leads-service.png">	
+	<img class="w-64 mb-3" src="/images/products/quickstart-roadmaps.png">
 
-<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-8" markdown="1">	
-<p class="mb-8 text-xl text-grey-darker">Note: I only let in a maximum of 5 new accounts per month. Once I hit 5, that's it - so sign up now before we sell out.</span>
-</p>
+	
 
+	<p class="mt-4">
+		<a href="https://app.letsworkshop.com/subscriptions/new?plan=34" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
+			Get leads + video course • <strike class="text-grey-light">$829</strike> $699
+		</a>
+	</p>
+
+	<p class="text-grey-dark text-lg mb-0 mt-4">Only $699 today. $100 off each year, for life. No-risk, cancel anytime.</p>	
+</div>
+
+
+<div class="countdown-container py-2 my-2 rounded-lg max-w-md mx-auto border-2">
+	<h3 class="text-center text-grey-dark leading-normal border-b">Limited Time Deal:</h3>
+	
+  <ul class="countdown text-grey-darker">
+    <li><span id="days"></span>days</li>
+    <li><span id="hours"></span>Hours</li>
+    <li><span id="minutes"></span>Minutes</li>
+    <li><span id="seconds"></span>Seconds</li>
+  </ul>
 </div>
