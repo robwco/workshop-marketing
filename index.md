@@ -48,7 +48,7 @@ let countDown = new Date('Apr 20, 2018 23:59:59').getTime(),
 
 .countdown li span {
   display: block;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 </style>
 
@@ -88,7 +88,7 @@ a.btn-text {
 
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 		
-<div class="border-b pb-6 flex">
+<div class="pb-2 flex">
 	<div class="flex-1 flex justify-center">
 		<img src="/images/logos/workshop-logo.png" class="mt-6 w-12 mb-0 inline self-center -mt-1">
 		
@@ -101,9 +101,18 @@ a.btn-text {
 </div>	
 
 
-<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto" markdown="1">
+<div class="countdown-container py-2 my-2 rounded-lg max-w-md mx-auto border-2">
+	<h3 class="text-center text-grey-dark leading-normal border-b">Limited Time Deal...</h3>
 	
-<h3 class="text-center text-grey-dark leading-normal">Limited-time sale happening now...</h3>
+  <ul class="countdown text-grey-darker">
+    <li><span id="days"></span>days</li>
+    <li><span id="hours"></span>Hours</li>
+    <li><span id="minutes"></span>Minutes</li>
+    <li><span id="seconds"></span>Seconds</li>
+  </ul>
+</div>
+
+<div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto" markdown="1">
 
 <h1 class="leading-tight font-medium text-3xl pt-2">Fill the gaps in your freelancing with just a few minutes of outreach everyday</h1>
 
@@ -141,7 +150,7 @@ I have something better: for a small monthly fee, you'll get the best UX and fro
 
 You don't pay any commission at all!
 
-<h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">Introducing: Workshop, a hands-free lead-gen service for UX design firms...</h2>
+<h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">Introducing: Workshop, a hands-free lead-gen service for UX design firms normally $799/year today only $699...</h2>
 
 You generate a consistent flow of clients and revenue for your business - and skip spending your time looking for leads (or hiring someone expensive to do it).
 
@@ -166,62 +175,11 @@ But does it work?
 <img src="/images/page-elements/grey-squiggle.png" class="w-full">
 </div>
 
-<div class="bg-white px-6 max-w-lg mx-auto  text-xl text-grey-darker italic">
-<p>“Man you are really kicking ass. I feel like you're doing all of the work and I just get to be all la-tee-da over picking who I reach out to. Keep up the good work! I've been super pleased with my choice to invest in Workshop. You've proven to be a low-risk way to get more leads to my door and as a busy owner, you're exactly the type of person I want to work with for a long time. Please don't stop!”</p> 
-
-<p class="font-sm text-center font-bold text-grey-darkest mt-2"><span class="quote-by">— <img src="/images/testimonial-photos/nick-hance.jpg" class="w-8 rounded-full align-middle mx-2"> Nick Hance</span></p>
-</div>
-
-<div class="max-w-lg mx-auto my-8" markdown="1">
-<img src="/images/page-elements/grey-squiggle.png" class="w-full">
-</div>
-
-
-<div class="bg-white px-6 max-w-lg mx-auto  text-xl text-grey-darker italic">
-<p>“I wrote to two contacts from the first Workshop email I got. I already made an appointment for a Skype call with one of the two. It’s 50% conversion for now, not bad at all ;) Looking forward for the new email today.”</p> 
-
-<p class="font-sm text-center font-bold text-grey-darkest mt-2"><span class="quote-by">— <img src="/images/testimonial-photos/manuele.jpg" class="w-8 rounded-full align-middle mx-2"> Manuele Capacci</span></p>
-</div>
-
-<div class="max-w-lg mx-auto my-8" markdown="1">
-<img src="/images/page-elements/grey-squiggle.png" class="w-full">
-</div>
-
-<div class="bg-white px-6 max-w-lg mx-auto  text-xl text-grey-darker italic">
-<p>“I’ve been relying on word-of-mouth for work and this has been a nice easy way to start up that process without wasting time filtering through all the junk I was worried about.”</p> 
-
-<p class="font-sm text-center font-bold text-grey-darkest mt-2"><span class="quote-by">— <img src="/images/testimonial-photos/curtis.jpg" class="w-8 rounded-full align-middle mx-2"> Curtis Herbert</span></p>
-</div>
-
-<div class="max-w-lg mx-auto my-8" markdown="1">
-<img src="/images/page-elements/grey-squiggle.png" class="w-full">
-</div>
-
-<div class="bg-white px-6 max-w-lg mx-auto  text-xl text-grey-darker italic">
-<p>“Thank you creating this Workshop for freelance design opportunities. I already found a gig I am interested in applying for.”</p> 
-
-<p class="font-sm text-center font-bold text-grey-darkest mt-2"><span class="quote-by">— <img src="/images/testimonial-photos/stephanie.jpg" class="w-8 rounded-full align-middle mx-2"> Stephanie Jadotte</span></p>
-</div>
-
-<div class="max-w-lg mx-auto my-8" markdown="1">
-<img src="/images/page-elements/grey-squiggle.png" class="w-full">
-</div>
-
-<div class="bg-white px-6 max-w-lg mx-auto  text-xl text-grey-darker italic">
-<p>“I feels absolutely amazing not having to check job boards. Wading through all the crappy jobs to find the good ones was tough enough. I'm no longer stressed about what comes next. The leads in workshop are amazing and I look forward to your email everyday. Thanks for a wonderful project.”</p> 
-
-<p class="font-sm text-center font-bold text-grey-darkest mt-2"><span class="quote-by">— <img src="/images/testimonial-photos/paddy.jpg" class="w-8 rounded-full align-middle mx-2"> Patrick O'dwyer</span></p>
-</div>
-
-<div class="max-w-lg mx-auto my-8" markdown="1">
-<img src="/images/page-elements/grey-squiggle.png" class="w-full">
-</div>
-
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 
 <h2 class="leading-tight mt-6 mb-4 text-2xl font-medium">So, where and how do you find leads?</h2>
 
-<a href="/where-to-find-clients" class="text-blue">My process is outlined in detail here for all to see</a>. I even recommend trying it yourself for free for a few weeks so you know exactly what you will get. 
+<a href="/where-to-find-clients" class="text-black">My process is outlined in detail here</a>. I even recommend trying it yourself for free for a few weeks so you know exactly what you will get. 
 
 The gist of it is this: I'll sort through thousands of job posts, industry websites, and communities to find you relevant opportunities. 
 
@@ -265,56 +223,10 @@ They MUST be freelance leads, not full-time work. They MUST be remote, and open 
 
 If that sounds good to you, let's get started.
 
-**Update:** Until Friday, April 20th, you can get $100 off for life + one of three amazing bonuses with your Workshop yearly subscription. Choose between: 
-
-1. A [4-week positioning bootcamp with Philip Morgan](https://philipmorganconsulting.com/specialization-school/part-1-decision-making-workshop/) (a $600 savings)
-2. A [UX portfolio video course](https://proximityschool.com/theory-sprints/) by Jarrod Drysdale (a $239 savings) 
-3. A [Quickstart Roadmapping video course](https://kaidavis.com/roadmapping/) by Kai Davis ($229 savings)
-
 Here's how to take advantage now:
 
 </div>
 
-<div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
-	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the <a href="https://philipmorganconsulting.com/specialization-school/part-1-decision-making-workshop/">4-week positioning bootcamp</a> (normally $800)... </h2>
-	
-		<p class="text-grey-darker text-xl mb-4 leading-tight">Build a pipeline of dream clients coming to you + have new client opportunities coming to you daily. Email them in minutes. Win projects.</p>
-	
-	<img class="w-48" src="/images/products/leads-service.png">	
-	<img class="w-64 mb-3" src="/images/products/positioning-bootcamp.png">
-
-	
-
-	<p class="mt-4">
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=33" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Get leads + bootcamp • <strike class="text-grey-light">$1600</strike> $1200
-		</a>
-	</p>
-
-	<p class="text-grey-dark text-lg mb-0 mt-4">Only $1200 today. No-risk, cancel anytime.</p>	
-</div>
-
-
-<div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
-	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the <a href="https://proximityschool.com/theory-sprints/">UX design portfolio video course</a> (normally $249) ... </h2>
-	
-		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday and send them an epic portfolio. Win projects.</p>
-	
-	<img class="w-48" src="/images/products/leads-service.png">	
-	<img class="w-64 mb-3" src="/images/products/portfolio-builder.png">
-
-	
-
-	<p class="mt-4">
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=35" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Get leads + video course • <strike class="text-grey-light">$1048</strike> $799
-		</a>
-	</p>
-
-	<p class="text-grey-dark text-lg mb-0 mt-4">Only $799 today. $100 off each year, for life. No-risk, cancel anytime.</p>	
-</div>
 
 
 <div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
@@ -334,37 +246,5 @@ Here's how to take advantage now:
 		</a>
 	</p>
 
-	<p class="text-grey-dark text-lg mb-0 mt-4">Only $699 today. $100 off each year, for life. No-risk, cancel anytime.</p>	
-</div>
-
-
-<div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
-	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Just my the leads: get my UX design lead service billed quarterly ... </h2>
-	
-		<p class="text-grey-darker text-xl mb-4 leading-tight">Get in front of the right clients everyday. Email them in minutes. Win projects.</p>
-	
-	<img class="w-48" src="/images/products/leads-service.png">	
-	<img class="w-64 mb-3" src="/images/products/quickstart-roadmaps.png">
-
-	
-
-	<p class="mt-4">
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=31" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Get just the lead service • $229/quarter
-		</a>
-	</p>
-
-	<p class="text-grey-dark text-lg mb-0 mt-4">Only $229 every 3 months. No-risk, cancel anytime.</p>	
-</div>
-
-<div class="countdown-container py-2 my-2 rounded-lg max-w-md mx-auto border-2">
-	<h3 class="text-center text-grey-dark leading-normal border-b">Limited Time Deal:</h3>
-	
-  <ul class="countdown text-grey-darker">
-    <li><span id="days"></span>days</li>
-    <li><span id="hours"></span>Hours</li>
-    <li><span id="minutes"></span>Minutes</li>
-    <li><span id="seconds"></span>Seconds</li>
-  </ul>
+	<p class="text-grey-dark text-lg mb-0 mt-4">Only $699 / year. That's $100 off, each year, for life. Only through 4/20. No-risk, cancel anytime.</p>	
 </div>
