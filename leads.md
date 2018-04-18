@@ -108,7 +108,7 @@ a.btn-text {
 	
 <h3 class="text-center text-grey-dark leading-normal">Limited-time sale happening now...</h3>
 
-<h1 class="leading-tight font-medium text-3xl pt-2">Get 1000+ high-value design projects sent to you each year + a very special bonus...</h1>
+<h1 class="leading-tight font-medium text-3xl pt-2">Fill the gaps in your freelancing with just a few minutes of outreach everyday</h1>
 
 Most design/dev firms know that if you just get more clients on the phone you sell more projects.
 
