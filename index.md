@@ -6,54 +6,6 @@ meta_title: "Workshop - Project alerts for UX and front-end design firms"
 meta_description: "A service that finds you UX design projects that clients mistakenly put on job boards."
 ---
 
-
-<script>
-const second = 1000,
-      minute = second * 60,
-      hour = minute * 60,
-      day = hour * 24;
-
-let countDown = new Date('Apr 20, 2018 23:59:59').getTime(),
-    x = setInterval(function() {
-
-      let now = new Date().getTime(),
-          distance = countDown - now;
-
-      document.getElementById('days').innerText = Math.floor(distance / (day)),
-        document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
-        document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
-        document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
-      
-      //do something later when date is reached
-      //if (distance < 0) {
-      //  clearInterval(x);
-      //  'IT'S MY BIRTHDAY!;
-      //}
-
-    }, second)
-</script>
-
-<style>
-.countdown-container {
-  text-align: center;
-}
-
-.countdown li {
-  display: inline-block;
-  font-size: 1em;
-  list-style-type: none;
-  padding: 1em 2em;
-  text-transform: uppercase;
-}
-
-.countdown li span {
-  display: block;
-  font-size: 2.5rem;
-}
-</style>
-
-
-
 <style>
 p { margin: .5em 0; }
 
@@ -85,7 +37,6 @@ a.btn-text {
 }
 </style>
 
-
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto my-4" markdown="1">
 		
 <div class="pb-2 flex">
@@ -96,21 +47,7 @@ a.btn-text {
 	</div>
 </div>	
 
-
-		
 </div>	
-
-
-<div class="countdown-container py-2 my-2 rounded-lg max-w-md mx-auto border-2">
-	<h3 class="text-center text-grey-dark leading-normal border-b">Limited Time Deal...</h3>
-	
-  <ul class="countdown text-grey-darker">
-    <li><span id="days"></span>days</li>
-    <li><span id="hours"></span>Hours</li>
-    <li><span id="minutes"></span>Minutes</li>
-    <li><span id="seconds"></span>Seconds</li>
-  </ul>
-</div>
 
 <div class="text-2xl text-grey-darkest leading-normal max-w-md mx-auto" markdown="1">
 
@@ -231,20 +168,20 @@ Here's how to take advantage now:
 
 <div class="max-w-md mx-auto mt-8 mb-8 shadow-lg p-4 pb-8 rounded-lg text-center">
 	
-	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service (normally $799/year) + the <a href="https://kaidavis.com/roadmapping/">quickstart roadmapping video course</a> (normally $129) ... </h2>
+	<h2 class="text-center text-grey-darkest leading-tight mt-4">Get my UX design lead service ... </h2>
 	
 		<p class="text-grey-darker text-xl mb-4 leading-tight">Get infront of the right clients everyday. Email them in minutes. Win projects.</p>
 	
 	<img class="w-48" src="/images/products/leads-service.png">	
-	<img class="w-64 mb-3" src="/images/products/quickstart-roadmaps.png">
+	<img class="w-48 mb-3" src="/images/products/etw-field-guide.png">
 
 	
 
 	<p class="mt-4">
-		<a href="https://app.letsworkshop.com/subscriptions/new?plan=34" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
-			Get leads + video course • <strike class="text-grey-light">$829</strike> $699
+		<a href="https://app.letsworkshop.com/subscriptions/new?plan=31" class="text-3xl no-underline bg-blue hover:bg-blue-dark text-white font-medium py-2 px-8 rounded-full inline-block mx-auto">
+			Get my lead service • $229/quarter
 		</a>
 	</p>
 
-	<p class="text-grey-dark text-lg mb-0 mt-4">Only $699 / year. That's $100 off, each year, for life. Only through 4/20. No-risk, cancel anytime.</p>	
+	<p class="text-grey-dark text-lg mb-0 mt-4">Only $229 / 3 months. No-risk, cancel anytime.</p>	
 </div>
