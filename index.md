@@ -206,3 +206,5 @@ Here's how to take advantage now:
 
 	<p class="text-grey-dark text-lg mb-0 mt-4">Only $229 / 3 months. No-risk, cancel anytime.</p>	
 </div>
+
+<p class="text-center text-grey-dark text-lg mb-8">Designer looking for a monthly option? <a class="text-blue" href="http://folyo.me">Check out my design-only sister service</a></p>
