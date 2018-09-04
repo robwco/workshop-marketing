@@ -98,9 +98,9 @@ But as we said, it takes time and as a consultant, an hour of your time alone is
 
 This would allow you to save time, and get right to the important part: pitching clients and landing contracts.
 
-But setting up something like this for yourself can get expense. If you paid someone $10/hour, and they spent 2 hours a day gathering leads, you'd be looking at $600/month. 
+But setting up something like this for yourself can get expensive. If you paid someone $10/hour, and they spent 2 hours a day gathering leads, you'd be looking at $600/month. 
 
-That's too much money. Instead, for less than the price you pay for a cup of coffee, you can pay me, a professional consultant, to find all of your outbound project leads web each morning. 
+That's too much money. Instead, for less than the price you pay for a cup of coffee, you can pay me, a professional consultant, to find all of your outbound project leads each morning. 
 
 Ask anyone who's hired lead gen like this, and they'll say it's usually really expensive, like 30% of your total sales. So if you landed a $10,000 contract, they might ask for $3,000! 
 
